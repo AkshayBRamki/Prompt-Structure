@@ -1,0 +1,362 @@
+Continue grading with the SAME rubric and SAME output format (`item_number: grade`, one line per item, no explanations). Items:
+
+[91]
+REFERENCE: ANCA-negative Granulomatosis with Polyangiitis (GPA) with Pyoderma Gangrenosum (PG)-like presentations.
+MODEL ANSWER: ANCA-negative Granulomatosis with polyangiitis (GPA)
+
+[92]
+REFERENCE: Pulmonary Alveolar Proteinosis (PAP) secondary to Bacillus megaterium infection.
+MODEL ANSWER: Autoimmune pulmonary alveolar proteinosis
+
+[93]
+REFERENCE: Diffuse cerebral lymphomatosis with superimposed primary CNS lymphoma.
+MODEL ANSWER: Lymphomatosis cerebri (diffuse variant of primary central nervous system diffuse large B-cell lymphoma)
+
+[94]
+REFERENCE: Pulmonary Alveolar Proteinosis (PAP) secondary to Bacillus megaterium infection.
+MODEL ANSWER: Autoimmune pulmonary alveolar proteinosis (complicated by superimposed bacterial infection)
+
+[95]
+REFERENCE: Primary ovarian leiomyosarcoma (LMS).
+MODEL ANSWER: Leiomyosarcoma arising from malignant transformation of an ovarian mature cystic teratoma, FIGO stage IIIC
+
+[96]
+REFERENCE: Primary Hyperparathyroidism due to left extrathyroid parathyroid adenoma, minimally invasive follicular thyroid carcinoma, and subsequent development of papillary thyroid carcinoma.
+MODEL ANSWER: Primary hyperparathyroidism due to an ectopic (retroesophageal) parathyroid adenoma
+
+[97]
+REFERENCE: EBV-positive CNS lymphoid proliferations (B cell) + EBV-positive NK/T cell lymphoma arising in post-transplantation.
+MODEL ANSWER: EBV-positive NK/T-cell post-transplant lymphoproliferative disorder (monomorphic NK/T-cell PTLD / extranodal NK/T-cell lymphoma)
+
+[98]
+REFERENCE: Acute cholecystitis with liver hydatid cysts.
+MODEL ANSWER: Acute emphysematous cholecystitis secondary to hepatic hydatid disease (echinococcosis) with cysto-biliary communication
+
+[99]
+REFERENCE: Combined peptic ulcer disease and ruptured gastroduodenal artery aneurysm.
+MODEL ANSWER: Gastroduodenal artery aneurysm
+
+[100]
+REFERENCE: Schimmelpenning syndrome with IDH-mutant astrocytoma, WHO grade 3.
+MODEL ANSWER: Left frontal glioma (diffuse astrocytoma) with a mosaic HRAS G13R mutation in a patient with Schimmelpenning syndrome
+
+[101]
+REFERENCE: Recurrent post-viral rhabdomyolysis likely associated with variants in the SYNE2 gene.
+MODEL ANSWER: Recurrent virus-triggered rhabdomyolysis, possibly linked to SYNE2 variants (Emery-Dreifuss muscular dystrophy-related)
+
+[102]
+REFERENCE: Chronic phase of Hemiconvulsion-Hemiplegia-Epilepsy syndrome.
+MODEL ANSWER: Hemiconvulsion-hemiplegia syndrome (HH syndrome, with Dyke-Davidoff-Masson-type cerebral hemiatrophy)
+
+[103]
+REFERENCE: Diffuse cerebral lymphomatosis with superimposed primary CNS lymphoma.
+MODEL ANSWER: Lymphomatosis cerebri (diffuse infiltrative primary CNS diffuse large B-cell lymphoma) with superimposed focal lymphomatous lesions in the caudate and hippocampus
+
+[104]
+REFERENCE: Schimmelpenning syndrome with IDH-mutant astrocytoma, WHO grade 3.
+MODEL ANSWER: Glioblastoma (associated with Schimmelpenning syndrome)
+
+[105]
+REFERENCE: Severe hidradenitis suppurativa (Hurley stage III) with secondary IgG4 elevation due to chronic inflammation.
+MODEL ANSWER: Hidradenitis suppurativa
+
+[106]
+REFERENCE: Gastrointestinal tuberculosis with ileocecal perforation and HIV infection.
+MODEL ANSWER: Intestinal tuberculosis with cecal perforation (disseminated tuberculosis in newly diagnosed HIV)
+
+[107]
+REFERENCE: Primary Hyperparathyroidism due to left extrathyroid parathyroid adenoma, minimally invasive follicular thyroid carcinoma, and subsequent development of papillary thyroid carcinoma.
+MODEL ANSWER: Primary hyperparathyroidism due to an ectopic (extrathyroid) parathyroid adenoma
+
+[108]
+REFERENCE: Intermediate-type synovial hemangioma of the right knee.
+MODEL ANSWER: Intra-articular (synovial) spindle cell haemangioma of the right knee with secondary haemophilia-like arthropathy
+
+[109]
+REFERENCE: Schimmelpenning syndrome with IDH-mutant astrocytoma, WHO grade 3.
+MODEL ANSWER: Glioblastoma (high-grade glioma) of the left frontal lobe, HRAS G13R-mutated, associated with Schimmelpenning syndrome.
+
+[110]
+REFERENCE: Infective endocarditis caused by *Abiotrophia defectiva* with embolic neurological complications.
+MODEL ANSWER: Infective endocarditis (aortic and prosthetic mitral valve) complicated by septic cerebral emboli and intracranial hemorrhage
+
+[111]
+REFERENCE: Infective endocarditis due to mitral valve prolapse leading to acute ischemic stroke.
+MODEL ANSWER: Infective endocarditis (culture-negative) of the mitral valve on underlying mitral valve prolapse, with cardioembolic ischemic stroke and post-thrombolysis hemorrhage
+
+[112]
+REFERENCE: Postsurgical pyoderma gangrenosum (PSPG).
+MODEL ANSWER: Postsurgical pyoderma gangrenosum after bilateral mastectomy
+
+[113]
+REFERENCE: Type IVA Choledochal Cyst
+MODEL ANSWER: Type IVA choledochal cyst
+
+[114]
+REFERENCE: HSV-2-associated conjunctival phlyctenule and nodular scleritis
+MODEL ANSWER: Herpes simplex virus-associated anterior nodular scleritis (preceded by HSV follicular conjunctivitis/phlyctenule)
+
+[115]
+REFERENCE: Pulmonary Alveolar Proteinosis (PAP) secondary to Bacillus megaterium infection.
+MODEL ANSWER: Pulmonary alveolar proteinosis (autoimmune, GM-CSF antibody positive) with superimposed bacterial infection (likely an opportunist such as Nocardia).
+
+[116]
+REFERENCE: Schimmelpenning syndrome with IDH-mutant astrocytoma, WHO grade 3.
+MODEL ANSWER: High-grade glioma (glioblastoma) of the left frontal lobe arising in Schimmelpenning syndrome with mosaic HRAS c.37G>C p.(G13R) mutation
+
+[117]
+REFERENCE: Primary Hyperparathyroidism due to left extrathyroid parathyroid adenoma, minimally invasive follicular thyroid carcinoma, and subsequent development of papillary thyroid carcinoma.
+MODEL ANSWER: Primary hyperparathyroidism due to an ectopic (left para/retroesophageal) parathyroid adenoma
+
+[118]
+REFERENCE: Acute rheumatic fever with cardiac complications.
+MODEL ANSWER: Acute rheumatic fever
+
+[119]
+REFERENCE: Acquired uterine arteriovenous malformation (AVM).
+MODEL ANSWER: Acquired uterine arteriovenous malformation (post-D&C)
+
+[120]
+REFERENCE: Primary Hyperparathyroidism due to left extrathyroid parathyroid adenoma, minimally invasive follicular thyroid carcinoma, and subsequent development of papillary thyroid carcinoma.
+MODEL ANSWER: Ectopic parathyroid adenoma (causing primary hyperparathyroidism)
+
+[121]
+REFERENCE: Dermatomyositis.
+MODEL ANSWER: Dermatomyositis (anti-SAE1 and anti-MDA5 positive)
+
+[122]
+REFERENCE: Mucinous adenocarcinoma of the appendix (MAA), pT3N0M0.
+MODEL ANSWER: Cecal adenocarcinoma (moderately differentiated, pT3N0M0) presenting as acute appendicitis
+
+[123]
+REFERENCE: Omental cystic lymphangioma.
+MODEL ANSWER: Abdominoscrotal cystic lymphangioma (cystic lymphatic malformation) extending from the abdomen/retroperitoneum into the left scrotum
+
+[124]
+REFERENCE: Spontaneous heterotopic pregnancy.
+MODEL ANSWER: Heterotopic pregnancy (live intrauterine pregnancy plus right adnexal/tubal ectopic pregnancy), with subchorionic hemorrhage and a right paratubal cyst
+
+[125]
+REFERENCE: Spontaneous splenic rupture secondary to splenic hamartoma.
+MODEL ANSWER: Spontaneous splenic rupture secondary to a splenic hemangioma
+
+[126]
+REFERENCE: Pericardial effusion causing dysphagia and subsequent cardiac tamponade.
+MODEL ANSWER: Large pericardial effusion (with polyserositis) secondary to Waldenström macroglobulinemia.
+
+[127]
+REFERENCE: Diffuse cerebral lymphomatosis with superimposed primary CNS lymphoma.
+MODEL ANSWER: Lymphomatosis cerebri (diffuse primary CNS B-cell lymphoma) with superimposed focal infarction/involvement of the caudate nucleus and hippocampus
+
+[128]
+REFERENCE: High-grade dedifferentiated chondrosarcoma (DDCS).
+MODEL ANSWER: Secondary (intermediate-grade) chondrosarcoma of the left fourth proximal phalanx arising from a previous enchondroma
+
+[129]
+REFERENCE: Pulmonary Alveolar Proteinosis (PAP) secondary to Bacillus megaterium infection.
+MODEL ANSWER: Autoimmune pulmonary alveolar proteinosis (complicated by secondary bacterial pneumonia)
+
+[130]
+REFERENCE: Omental cystic lymphangioma.
+MODEL ANSWER: Abdominoscrotal cystic lymphangioma
+
+[131]
+REFERENCE: High-grade dedifferentiated chondrosarcoma (DDCS).
+MODEL ANSWER: Secondary chondrosarcoma (arising from a prior enchondroma of the proximal phalanx)
+
+[132]
+REFERENCE: Grade I temporo-occipital ganglioglioma
+MODEL ANSWER: Low-grade diffuse glioma of the right parieto-occipital cortex (pediatric-type) presenting with focal occipital-lobe epilepsy
+
+[133]
+REFERENCE: Intermediate-type synovial hemangioma of the right knee.
+MODEL ANSWER: Spindle cell hemangioma of the right knee
+
+[134]
+REFERENCE: Idiopathic intracranial hypertension (IIH)
+MODEL ANSWER: Idiopathic intracranial hypertension without papilledema (IIHWOP) in a patient with high myopia
+
+[135]
+REFERENCE: Pericardial effusion causing dysphagia and subsequent cardiac tamponade.
+MODEL ANSWER: Large pericardial effusion secondary to Waldenström macroglobulinemia
+
+[136]
+REFERENCE: Spontaneous splenic rupture secondary to splenic hamartoma.
+MODEL ANSWER: Spontaneous (atraumatic) splenic rupture with hemoperitoneum, secondary to a benign subcapsular splenic lesion (most likely a hemangioma or hamartoma).
+
+[137]
+REFERENCE: Spontaneous splenic rupture secondary to splenic hamartoma.
+MODEL ANSWER: Spontaneous splenic rupture secondary to splenic hemangioma
+
+[138]
+REFERENCE: Reactive hypoglycemia associated with hypermobile Ehlers-Danlos Syndrome (hEDS).
+MODEL ANSWER: Dysautonomia-associated idiopathic hypoglycemia (secondary to hypermobile Ehlers-Danlos syndrome)
+
+[139]
+REFERENCE: Intermediate-type synovial hemangioma of the right knee.
+MODEL ANSWER: Intra-articular (synovial) spindle cell haemangioma of the right knee with secondary haemophilic-like arthropathy and muscle atrophy
+
+[140]
+REFERENCE: Diffuse cerebral lymphomatosis with superimposed primary CNS lymphoma.
+MODEL ANSWER: Lymphomatosis cerebri (diffuse cerebral lymphomatosis / primary CNS B-cell lymphoma)
+
+[141]
+REFERENCE: Spontaneous splenic rupture secondary to splenic hamartoma.
+MODEL ANSWER: Atraumatic (spontaneous) splenic rupture with hemoperitoneum due to splenic hamartoma
+
+[142]
+REFERENCE: Orbital leiomyoma originating from the Muller muscle.
+MODEL ANSWER: Orbital leiomyoma
+
+[143]
+REFERENCE: Case 1: Right FNP due to Arachnoid Cyst Case 2: Right FNP due to Neurovascular Compression Case 3: Bilateral FNP due to Lyme Disease
+MODEL ANSWER: Case 1: Right cerebellopontine angle arachnoid cyst causing facial nerve palsy; Case 2: Facial nerve palsy from neurovascular compression by an AICA vascular loop; Case 3: Lyme neuroborreliosis with bilateral facial and multiple cranial nerve palsies
+
+[144]
+REFERENCE: High-grade dedifferentiated chondrosarcoma (DDCS).
+MODEL ANSWER: Secondary chondrosarcoma of the proximal phalanx arising from a previous enchondroma.
+
+[145]
+REFERENCE: Jejunal Atresia
+MODEL ANSWER: Cystic fibrosis with meconium ileus, suggested by echogenic fetal bowel and progressive bowel dilation (TORCH and aneuploidy screens negative)
+
+[146]
+REFERENCE: Chronic Myeloid Leukemia (CML) with paraneoplastic digital ischemia and gangrene.
+MODEL ANSWER: Chronic myeloid leukemia (chronic phase) presenting with digital gangrene
+
+[147]
+REFERENCE: Spinocerebellar Ataxia (SCA)
+MODEL ANSWER: Autosomal recessive cerebellar ataxia
+
+[148]
+REFERENCE: Spontaneous splenic rupture secondary to splenic hamartoma.
+MODEL ANSWER: Atraumatic (spontaneous) splenic rupture with hemoperitoneum secondary to a small subcapsular splenic hemangioma (benign vascular lesion)
+
+[149]
+REFERENCE: Interstitial ectopic pregnancy.
+MODEL ANSWER: Unruptured left tubal ectopic pregnancy with a live 12-week fetus
+
+[150]
+REFERENCE: Pure yolk sac ovarian tumor (YST), stage Ia.
+MODEL ANSWER: Ovarian yolk sac tumor (endodermal sinus tumor)
+
+[151]
+REFERENCE: Jejunal Atresia
+MODEL ANSWER: Fetal meconium ileus (associated with cystic fibrosis)
+
+[152]
+REFERENCE: Infective endocarditis due to mitral valve prolapse leading to acute ischemic stroke.
+MODEL ANSWER: Infective endocarditis (blood culture-negative infective endocarditis)
+
+[153]
+REFERENCE: Isolated Partial Absence of the Septum Pellucidum
+MODEL ANSWER: Isolated partial (posterior) agenesis of the septum pellucidum with fornix anomaly, presenting with epilepsy
+
+[154]
+REFERENCE: Recurrent post-viral rhabdomyolysis likely associated with variants in the SYNE2 gene.
+MODEL ANSWER: Recurrent viral-induced rhabdomyolysis associated with Emery-Dreifuss muscular dystrophy–linked gene variants of unknown significance
+
+[155]
+REFERENCE: Adult-Onset Neuronal Ceroid Lipofuscinosis (NCL) due to a homozygous CLN5 variant.
+MODEL ANSWER: Adult-onset neuronal ceroid lipofuscinosis (Kufs disease)
+
+[156]
+REFERENCE: Pericardial effusion causing dysphagia and subsequent cardiac tamponade.
+MODEL ANSWER: Large pericardial effusion with negative cytology, compressing the esophagus and causing dysphagia, in a patient with Waldenström macroglobulinemia
+
+[157]
+REFERENCE: Primary Hyperparathyroidism due to left extrathyroid parathyroid adenoma, minimally invasive follicular thyroid carcinoma, and subsequent development of papillary thyroid carcinoma.
+MODEL ANSWER: Primary hyperparathyroidism due to an ectopic left paraesophageal (retroesophageal) parathyroid adenoma, with coexisting thyroid nodules (Hürthle cell neoplasm)
+
+[158]
+REFERENCE: Spontaneous splenic rupture secondary to splenic hamartoma.
+MODEL ANSWER: Atraumatic (spontaneous) splenic rupture secondary to a benign subcapsular splenic lesion (splenic hemangioma)
+
+[159]
+REFERENCE: Acute-on-chronic mesenteric ischemia secondary to metastatic neuroendocrine tumor involvement of mesenteric vessels.
+MODEL ANSWER: Acute-on-chronic mesenteric ischemia secondary to metastatic small bowel neuroendocrine tumor
+
+[160]
+REFERENCE: Intermediate-type synovial hemangioma of the right knee.
+MODEL ANSWER: Recurrent intra-articular synovial (spindle cell) haemangioma of the right knee with secondary haemophilic-like degenerative arthropathy
+
+[161]
+REFERENCE: Pulmonary Alveolar Proteinosis (PAP) secondary to Bacillus megaterium infection.
+MODEL ANSWER: Pulmonary alveolar proteinosis (likely autoimmune) complicated by a secondary bacterial infection, most likely Nocardia
+
+[162]
+REFERENCE: High-grade dedifferentiated chondrosarcoma (DDCS).
+MODEL ANSWER: Secondary chondrosarcoma
+
+[163]
+REFERENCE: Chronic phase of Hemiconvulsion-Hemiplegia-Epilepsy syndrome.
+MODEL ANSWER: Hemiconvulsion–hemiplegia(–epilepsy) syndrome with right cerebral hemiatrophy.
+
+[164]
+REFERENCE: Caroli disease
+MODEL ANSWER: Caroli disease (Todani type V, congenital intrahepatic bile duct ectasia) with hepatolithiasis.
+
+[165]
+REFERENCE: Severe hidradenitis suppurativa (Hurley stage III) with secondary IgG4 elevation due to chronic inflammation.
+MODEL ANSWER: Severe (Hurley III) hidradenitis suppurativa flare with systemic inflammation and polyclonal hypergammaglobulinemia (raised IgG/IgG4) mimicking IgG4-related disease
+
+[166]
+REFERENCE: Pure yolk sac ovarian tumor (YST), stage Ia.
+MODEL ANSWER: Ovarian yolk sac tumor (endodermal sinus tumor), left ovary, FIGO stage IA
+
+[167]
+REFERENCE: Spontaneous splenic rupture secondary to splenic hamartoma.
+MODEL ANSWER: Atraumatic (spontaneous) splenic rupture with hemoperitoneum, due to a small subcapsular splenic hemangioma
+
+[168]
+REFERENCE: Very early onset Crohn’s disease (CD).
+MODEL ANSWER: Pediatric (early-onset) Crohn's disease with ileocolonic, upper GI (gastric) and perianal involvement.
+
+[169]
+REFERENCE: EBV-positive CNS lymphoid proliferations (B cell) + EBV-positive NK/T cell lymphoma arising in post-transplantation.
+MODEL ANSWER: EBV-positive NK/T-cell post-transplant lymphoproliferative disorder
+
+[170]
+REFERENCE: Very early onset Crohn’s disease (CD).
+MODEL ANSWER: Pediatric Crohn's disease with upper gastrointestinal (gastric), ileocolonic and perianal involvement, with granulomas containing Schaumann bodies
+
+[171]
+REFERENCE: Primary small cell carcinoma of the pancreas (SCCP).
+MODEL ANSWER: Metastatic poorly differentiated small cell neuroendocrine carcinoma (most likely extrapulmonary/pancreatic primary).
+
+[172]
+REFERENCE: High-grade dedifferentiated chondrosarcoma (DDCS).
+MODEL ANSWER: Secondary chondrosarcoma arising from an enchondroma of the proximal phalanx of the fourth finger
+
+[173]
+REFERENCE: Pulmonary Alveolar Proteinosis (PAP) secondary to Bacillus megaterium infection.
+MODEL ANSWER: Pulmonary alveolar proteinosis (likely autoimmune, GM-CSF antibody–associated) complicated by opportunistic pulmonary infection, most likely Nocardia.
+
+[174]
+REFERENCE: Postsurgical pyoderma gangrenosum (PSPG).
+MODEL ANSWER: Postsurgical pyoderma gangrenosum
+
+[175]
+REFERENCE: Pulmonary Alveolar Proteinosis (PAP) secondary to Bacillus megaterium infection.
+MODEL ANSWER: Pulmonary alveolar proteinosis
+
+[176]
+REFERENCE: Pericardial effusion causing dysphagia and subsequent cardiac tamponade.
+MODEL ANSWER: Large pericardial effusion secondary to Waldenström macroglobulinemia, with polyserositis and heart failure.
+
+[177]
+REFERENCE: Adult-Onset Neuronal Ceroid Lipofuscinosis (NCL) due to a homozygous CLN5 variant.
+MODEL ANSWER: Adult-onset neuronal ceroid lipofuscinosis (likely CLN1/PPT1-related) presenting as progressive focal lower-limb dystonia with cerebellar ataxia
+
+[178]
+REFERENCE: Interstitial ectopic pregnancy.
+MODEL ANSWER: Interstitial ectopic pregnancy
+
+[179]
+REFERENCE: Primary hepatic leiomyosarcoma (PHLS)
+MODEL ANSWER: Primary hepatic leiomyosarcoma with dedifferentiation
+
+[180]
+REFERENCE: Acute-on-chronic mesenteric ischemia secondary to metastatic neuroendocrine tumor involvement of mesenteric vessels.
+MODEL ANSWER: Acute mesenteric ischemia from small bowel neuroendocrine tumor encasing the SMA and SMV
+

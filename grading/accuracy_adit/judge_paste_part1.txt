@@ -1,0 +1,371 @@
+You are grading a diagnostic-accuracy study. For each item you get a REFERENCE diagnosis (ground truth) and a MODEL ANSWER (a final diagnosis written by an AI). Grade each answer on this 3-level scale:
+
+2 = STRICT CORRECT: the answer names the same primary disease/entity as the reference. Minor extra or missing detail (site, laterality, a secondary complication) is fine. Synonyms, abbreviations and a more specific correct subtype of the same entity count.
+1 = LENIENT ONLY: the answer is in the right disease family or captures part of the reference, but is less specific, names only one component of a multi-part diagnosis, or misses the key qualifier (e.g. right organ/system but not the specific entity; right pathogen group but not the specific organism).
+0 = WRONG: a different disease/entity, or the answer is too vague to be called correct.
+
+Rules: judge only the diagnosis text, not how convincing it sounds. Do not give credit for hedged lists of several different diagnoses unless the reference entity is clearly the primary one. Grade every item independently.
+
+OUTPUT FORMAT: reply with ONLY one line per item, exactly `item_number: grade` (e.g. `1: 2`). No explanations.
+
+ITEMS:
+[1]
+REFERENCE: Mucinous adenocarcinoma of the appendix (MAA), pT3N0M0.
+MODEL ANSWER: Cecal (colonic) adenocarcinoma, moderately differentiated, pT3N0M0 (stage IIA), presenting as acute appendicitis
+
+[2]
+REFERENCE: Chronic phase of Hemiconvulsion-Hemiplegia-Epilepsy syndrome.
+MODEL ANSWER: Hemiconvulsion-hemiplegia (HH) syndrome
+
+[3]
+REFERENCE: Recurrent post-viral rhabdomyolysis likely associated with variants in the SYNE2 gene.
+MODEL ANSWER: Recurrent rhabdomyolysis
+
+[4]
+REFERENCE: Cerebral Adrenoleukodystrophy (X-linked)
+MODEL ANSWER: Childhood cerebral X-linked adrenoleukodystrophy (X-ALD) with primary adrenal insufficiency
+
+[5]
+REFERENCE: Recurrent post-viral rhabdomyolysis likely associated with variants in the SYNE2 gene.
+MODEL ANSWER: Recurrent virus-triggered rhabdomyolysis associated with variants in an Emery-Dreifuss muscular dystrophy gene (possible EDMD-spectrum myopathy)
+
+[6]
+REFERENCE: Tubulocystic renal cell carcinoma (RCC).
+MODEL ANSWER: Tubulocystic renal cell carcinoma (right kidney, lower pole)
+
+[7]
+REFERENCE: Case 1: Right FNP due to Arachnoid Cyst Case 2: Right FNP due to Neurovascular Compression Case 3: Bilateral FNP due to Lyme Disease
+MODEL ANSWER: Case 1: right CP angle arachnoid cyst causing facial palsy.
+
+[8]
+REFERENCE: Primary Hyperparathyroidism due to left extrathyroid parathyroid adenoma, minimally invasive follicular thyroid carcinoma, and subsequent development of papillary thyroid carcinoma.
+MODEL ANSWER: Primary hyperparathyroidism due to an ectopic (retroesophageal/paraesophageal) parathyroid adenoma
+
+[9]
+REFERENCE: Reactive hypoglycemia associated with hypermobile Ehlers-Danlos Syndrome (hEDS).
+MODEL ANSWER: Idiopathic hypoglycemia (associated with dysautonomia and hypermobile Ehlers-Danlos syndrome)
+
+[10]
+REFERENCE: Tethered cord syndrome induced by sacral spinal canal lipoma.
+MODEL ANSWER: Adult tethered cord syndrome secondary to a sacral spinal lipoma
+
+[11]
+REFERENCE: Primary Pulmonary Diffuse Large B-Cell Lymphoma (PP-DLBCL)
+MODEL ANSWER: Diffuse large B-cell lymphoma (DLBCL) with malignant acanthosis nigricans
+
+[12]
+REFERENCE: Gastric Hamartomatous Inverted Polyp (GHIP)
+MODEL ANSWER: Gastric inverted hyperplastic polyp
+
+[13]
+REFERENCE: Severe hidradenitis suppurativa (Hurley stage III) with secondary IgG4 elevation due to chronic inflammation.
+MODEL ANSWER: Hidradenitis suppurativa (Hurley stage III)
+
+[14]
+REFERENCE: Infective endocarditis caused by *Abiotrophia defectiva* with embolic neurological complications.
+MODEL ANSWER: Infective endocarditis (involving the native aortic and prosthetic mitral valves) complicated by septic cerebral emboli and intracranial hemorrhage
+
+[15]
+REFERENCE: Infective endocarditis caused by *Abiotrophia defectiva* with embolic neurological complications.
+MODEL ANSWER: Infective endocarditis (aortic and prosthetic mitral valves) complicated by septic cerebral emboli and intracranial hemorrhage
+
+[16]
+REFERENCE: Acute-on-chronic mesenteric ischemia secondary to metastatic neuroendocrine tumor involvement of mesenteric vessels.
+MODEL ANSWER: Acute mesenteric ischemia secondary to small bowel neuroendocrine tumor
+
+[17]
+REFERENCE: High-grade dedifferentiated chondrosarcoma (DDCS).
+MODEL ANSWER: Secondary chondrosarcoma of the proximal phalanx arising from a recurrent enchondroma
+
+[18]
+REFERENCE: ANCA-negative Granulomatosis with Polyangiitis (GPA) with Pyoderma Gangrenosum (PG)-like presentations.
+MODEL ANSWER: Granulomatosis with polyangiitis (GPA)
+
+[19]
+REFERENCE: Schimmelpenning syndrome with IDH-mutant astrocytoma, WHO grade 3.
+MODEL ANSWER: Glioblastoma (associated with Schimmelpenning syndrome and somatic HRAS mutation)
+
+[20]
+REFERENCE: Peripheral trabecular osteoma.
+MODEL ANSWER: Solitary buccal bony exostosis (hyperostosis) of the right maxillary alveolar ridge
+
+[21]
+REFERENCE: Human Bocavirus (HBoV) infection.
+MODEL ANSWER: Human metapneumovirus (hMPV) acute bronchiolitis
+
+[22]
+REFERENCE: Anaerobic brain abscess caused by *Paraclostridium tenue*.
+MODEL ANSWER: Clostridium brain abscess
+
+[23]
+REFERENCE: Omental cystic lymphangioma.
+MODEL ANSWER: Abdominoscrotal cystic lymphangioma (cystic lymphangioma)
+
+[24]
+REFERENCE: Mucinous adenocarcinoma of the appendix (MAA), pT3N0M0.
+MODEL ANSWER: Cecal adenocarcinoma
+
+[25]
+REFERENCE: Intermediate-type synovial hemangioma of the right knee.
+MODEL ANSWER: Synovial spindle cell hemangioma of the right knee
+
+[26]
+REFERENCE: Infective endocarditis due to mitral valve prolapse leading to acute ischemic stroke.
+MODEL ANSWER: Infective endocarditis
+
+[27]
+REFERENCE: Schimmelpenning syndrome with IDH-mutant astrocytoma, WHO grade 3.
+MODEL ANSWER: Pilocytic astrocytoma (HRAS-mutant, associated with Schimmelpenning syndrome)
+
+[28]
+REFERENCE: Recurrent post-viral rhabdomyolysis likely associated with variants in the SYNE2 gene.
+MODEL ANSWER: Recurrent virus-triggered rhabdomyolysis, possibly due to an Emery-Dreifuss muscular dystrophy–associated gene variant (VUS, unconfirmed), with incidental biclonal MGUS
+
+[29]
+REFERENCE: Primary pulmonary carcinoma with metastatic involvement of the breasts and adrenal gland.
+MODEL ANSWER: Synchronous bilateral triple-negative invasive ductal breast carcinoma and primary pulmonary carcinoma
+
+[30]
+REFERENCE: Jejunal Atresia
+MODEL ANSWER: Fetal intestinal atresia (bowel obstruction)
+
+[31]
+REFERENCE: Chlamydia trachomatis-associated reactive arthritis (ReA)
+MODEL ANSWER: Chlamydia trachomatis-induced reactive arthritis
+
+[32]
+REFERENCE: Very early onset Crohn’s disease (CD).
+MODEL ANSWER: Early-onset pediatric Crohn's disease with upper GI (gastric) granulomatous involvement
+
+[33]
+REFERENCE: Spinocerebellar Ataxia (SCA)
+MODEL ANSWER: Hereditary (likely autosomal recessive) pure cerebellar ataxia with marked cerebellar atrophy.
+
+[34]
+REFERENCE: Classic biphasic pulmonary blastoma (CBPB).
+MODEL ANSWER: Pulmonary blastoma (pulmonary sarcomatoid carcinoma), metastatic to the right lung, vertebrae and pelvis.
+
+[35]
+REFERENCE: Invasive pancreatic ductal adenocarcinoma (PDAC) arising in association with IPMN with high-grade dysplasia.
+MODEL ANSWER: Pancreatic ductal adenocarcinoma arising in the setting of chronic calcific pancreatitis.
+
+[36]
+REFERENCE: Acquired uterine arteriovenous malformation (AVM).
+MODEL ANSWER: Acquired uterine arteriovenous malformation (post-D&C), supplied by the left uterine artery.
+
+[37]
+REFERENCE: Primary ovarian leiomyosarcoma (LMS).
+MODEL ANSWER: Leiomyosarcoma arising from malignant transformation of an ovarian mature cystic teratoma
+
+[38]
+REFERENCE: Pancreaticobiliary maljunction with Type 1A choledochal cyst and extrahepatic cholangiocarcinoma.
+MODEL ANSWER: Type IC choledochal cyst with anomalous pancreaticobiliary junction, complicated by cholangiocarcinoma (adenosquamous carcinoma arising from an intraductal tubular papillary neoplasm)
+
+[39]
+REFERENCE: Mesenteric inflammatory pseudotumor
+MODEL ANSWER: Inflammatory myofibroblastic tumor (IMT)
+
+[40]
+REFERENCE: Intermediate-type synovial hemangioma of the right knee.
+MODEL ANSWER: Synovial (spindle cell) haemangioma of the right knee with secondary haemophilic-like arthropathy.
+
+[41]
+REFERENCE: Pseudoachalasia secondary to metastatic osteosarcoma.
+MODEL ANSWER: Pseudoachalasia (secondary achalasia) caused by a malignant signet-ring cell tumor in the mediastinum infiltrating the distal esophagus and gastroesophageal junction
+
+[42]
+REFERENCE: Diffuse cerebral lymphomatosis with superimposed primary CNS lymphoma.
+MODEL ANSWER: Lymphomatosis cerebri (primary central nervous system diffuse large B-cell lymphoma)
+
+[43]
+REFERENCE: Benign insulinoma.
+MODEL ANSWER: Insulinoma (well-differentiated G1 pancreatic NET of the uncinate process)
+
+[44]
+REFERENCE: Infective endocarditis caused by *Abiotrophia defectiva* with embolic neurological complications.
+MODEL ANSWER: Definite infective endocarditis of the prosthetic mitral valve and native aortic valve (streptococcal or enterococcal, judging by the regimen), complicated by septic cerebral embolism with hemorrhagic stroke (intraparenchymal and subarachnoid hemorrhage) causing right hemiparesis.
+
+[45]
+REFERENCE: Acute cholecystitis with liver hydatid cysts.
+MODEL ANSWER: Acute cholecystitis secondary to hepatic hydatid cyst with cysto-biliary communication
+
+[46]
+REFERENCE: Human Bocavirus (HBoV) infection.
+MODEL ANSWER: Acute viral bronchiolitis (non-RSV; e.g., SARS-CoV-2 or Human metapneumovirus bronchiolitis)
+
+[47]
+REFERENCE: Recurrent post-viral rhabdomyolysis likely associated with variants in the SYNE2 gene.
+MODEL ANSWER: Recurrent virus-triggered rhabdomyolysis, possibly due to an underlying hereditary myopathy (EDMD-associated gene variants of unknown significance)
+
+[48]
+REFERENCE: Primary hepatic leiomyosarcoma (PHLS)
+MODEL ANSWER: Primary hepatic dedifferentiated leiomyosarcoma
+
+[49]
+REFERENCE: Grade I temporo-occipital ganglioglioma
+MODEL ANSWER: Dysembryoplastic neuroepithelial tumor (DNET)
+
+[50]
+REFERENCE: Primary Hyperparathyroidism due to left extrathyroid parathyroid adenoma, minimally invasive follicular thyroid carcinoma, and subsequent development of papillary thyroid carcinoma.
+MODEL ANSWER: Primary hyperparathyroidism secondary to an ectopic parathyroid adenoma
+
+[51]
+REFERENCE: Interstitial ectopic pregnancy.
+MODEL ANSWER: Unruptured ectopic pregnancy (left tubal/interstitial ectopic pregnancy)
+
+[52]
+REFERENCE: Anaerobic brain abscess caused by *Paraclostridium tenue*.
+MODEL ANSWER: Gas-forming hemorrhagic brain abscess caused by a Clostridium species (cryptogenic source; species per sequencing).
+
+[53]
+REFERENCE: Pericardial effusion causing dysphagia and subsequent cardiac tamponade.
+MODEL ANSWER: Cardiac tamponade secondary to large pericardial effusion
+
+[54]
+REFERENCE: Double Superior Vena Cava (DSVC).
+MODEL ANSWER: Acute pulmonary embolism
+
+[55]
+REFERENCE: Omental cystic lymphangioma.
+MODEL ANSWER: Omental cystic lymphangioma
+
+[56]
+REFERENCE: Mosaic Down Syndrome and Spinal Muscular Atrophy Type 2
+MODEL ANSWER: Spinal muscular atrophy (SMA) Type 2 (coexisting with mosaic trisomy 21)
+
+[57]
+REFERENCE: Adult-Onset Neuronal Ceroid Lipofuscinosis (NCL) due to a homozygous CLN5 variant.
+MODEL ANSWER: Adult-onset neuronal ceroid lipofuscinosis type 1 (CLN1, homozygous PPT1-related) presenting as progressive focal lower limb dystonia with cerebellar ataxia
+
+[58]
+REFERENCE: HSV-2-associated conjunctival phlyctenule and nodular scleritis
+MODEL ANSWER: Herpes simplex virus-associated (herpetic) nodular scleritis, preceded by a conjunctival phlyctenule
+
+[59]
+REFERENCE: Malignant transformation of hereditary multiple exostoses (Chondrosarcoma).
+MODEL ANSWER: Secondary chondrosarcoma
+
+[60]
+REFERENCE: Mucinous adenocarcinoma of the appendix (MAA), pT3N0M0.
+MODEL ANSWER: Moderately differentiated cecal adenocarcinoma (pT3N0M0)
+
+[61]
+REFERENCE: Pseudoachalasia secondary to metastatic osteosarcoma.
+MODEL ANSWER: Pseudoachalasia secondary to malignant mediastinal tumor
+
+[62]
+REFERENCE: Omental cystic lymphangioma.
+MODEL ANSWER: Giant abdominoscrotal cystic lymphangioma (macrocystic lymphatic malformation).
+
+[63]
+REFERENCE: Acute-on-chronic mesenteric ischemia secondary to metastatic neuroendocrine tumor involvement of mesenteric vessels.
+MODEL ANSWER: Acute-on-chronic mesenteric ischemia (acute mesenteric ischemia secondary to small bowel neuroendocrine tumor)
+
+[64]
+REFERENCE: Congenital syphilis with metaphysitis.
+MODEL ANSWER: Congenital syphilis
+
+[65]
+REFERENCE: Spontaneous heterotopic pregnancy.
+MODEL ANSWER: Heterotopic pregnancy (live intrauterine pregnancy with a coexisting live right adnexal/tubal ectopic pregnancy), with subchorionic hemorrhage and a right paratubal cyst
+
+[66]
+REFERENCE: Infective endocarditis caused by *Abiotrophia defectiva* with embolic neurological complications.
+MODEL ANSWER: Infective endocarditis of the prosthetic mitral valve and native aortic valve, complicated by septic cerebral emboli with hemorrhagic and ischemic stroke (right hemiparesis)
+
+[67]
+REFERENCE: Gastrointestinal tuberculosis with ileocecal perforation and HIV infection.
+MODEL ANSWER: Disseminated tuberculosis (pulmonary and intestinal tuberculosis with cecal perforation)
+
+[68]
+REFERENCE: Hereditary Elliptocytosis due to SPTA1 mutation.
+MODEL ANSWER: Hereditary elliptocytosis
+
+[69]
+REFERENCE: Adult-Onset Neuronal Ceroid Lipofuscinosis (NCL) due to a homozygous CLN5 variant.
+MODEL ANSWER: Adult-onset neuronal ceroid lipofuscinosis (likely CLN1/PPT1-related) presenting with progressive focal dystonia and cerebellar ataxia
+
+[70]
+REFERENCE: Neurodegeneration associated with oral dysbiosis (Spirochaetes phylum, predominantly *Treponema* species). Suspected link to neuroinflammation in context of dementia.
+MODEL ANSWER: Neurospirochetosis
+
+[71]
+REFERENCE: Acquired uterine arteriovenous malformation (AVM).
+MODEL ANSWER: Acquired uterine arteriovenous malformation (AVM)
+
+[72]
+REFERENCE: Infective endocarditis caused by *Abiotrophia defectiva* with embolic neurological complications.
+MODEL ANSWER: Prosthetic mitral valve and native aortic valve infective endocarditis (likely streptococcal/enterococcal) complicated by septic cerebral emboli with hemorrhagic stroke (intracerebral and subarachnoid hemorrhage, infarcts) causing right hemiparesis.
+
+[73]
+REFERENCE: Omental cystic lymphangioma.
+MODEL ANSWER: Abdominoscrotal cystic lymphatic malformation (cystic lymphangioma)
+
+[74]
+REFERENCE: Pseudoachalasia secondary to metastatic osteosarcoma.
+MODEL ANSWER: Pseudoachalasia (secondary achalasia) due to malignant mediastinal/esophageal tumor
+
+[75]
+REFERENCE: Class I malocclusion with anterior spacing (Dewey’s modification type 2).
+MODEL ANSWER: Angle Class I malocclusion (Dewey type 2) on a Class I skeletal base, with proclined, spaced maxillary incisors (maxillary dentoalveolar protrusion), lower anterior crowding, increased overjet and overbite, and lip incompetence.
+
+[76]
+REFERENCE: Recurrent post-viral rhabdomyolysis likely associated with variants in the SYNE2 gene.
+MODEL ANSWER: Recurrent viral-induced rhabdomyolysis
+
+[77]
+REFERENCE: Spontaneous heterotopic pregnancy.
+MODEL ANSWER: Heterotopic pregnancy (with right paratubal cyst)
+
+[78]
+REFERENCE: EBV-positive CNS lymphoid proliferations (B cell) + EBV-positive NK/T cell lymphoma arising in post-transplantation.
+MODEL ANSWER: EBV-positive NK/T-cell post-transplant lymphoproliferative disorder (PTLD)
+
+[79]
+REFERENCE: Intermediate-type synovial hemangioma of the right knee.
+MODEL ANSWER: Synovial spindle cell haemangioma of the right knee
+
+[80]
+REFERENCE: Invasive pancreatic ductal adenocarcinoma (PDAC) arising in association with IPMN with high-grade dysplasia.
+MODEL ANSWER: Pancreatic ductal adenocarcinoma arising in long-standing chronic calcific pancreatitis
+
+[81]
+REFERENCE: Breast hamartoma.
+MODEL ANSWER: Breast hamartoma
+
+[82]
+REFERENCE: Primary pulmonary carcinoma with metastatic involvement of the breasts and adrenal gland.
+MODEL ANSWER: Metastatic triple-negative breast carcinoma (from synchronous bilateral invasive ductal carcinoma) to the lung, adrenal gland and subcutaneous tissue
+
+[83]
+REFERENCE: Abemaciclib-induced interstitial lung disease (ILD).
+MODEL ANSWER: Abemaciclib-induced interstitial lung disease (drug-induced fibrosing organizing pneumonia)
+
+[84]
+REFERENCE: Primary Hyperparathyroidism due to left extrathyroid parathyroid adenoma, minimally invasive follicular thyroid carcinoma, and subsequent development of papillary thyroid carcinoma.
+MODEL ANSWER: Ectopic parathyroid adenoma
+
+[85]
+REFERENCE: Acute cholecystitis with liver hydatid cysts.
+MODEL ANSWER: Acute emphysematous cholecystitis associated with hepatic hydatid cysts
+
+[86]
+REFERENCE: Primary small cell carcinoma of the pancreas (SCCP).
+MODEL ANSWER: Metastatic small cell carcinoma (high-grade neuroendocrine carcinoma, Ki-67 95%) involving the pancreas, with obstructive jaundice and widespread metastases
+
+[87]
+REFERENCE: Non-O1/non-O139 Vibrio cholerae bacteremia.
+MODEL ANSWER: Non-O1/non-O139 Vibrio cholerae bacteremia
+
+[88]
+REFERENCE: Primary pulmonary carcinoma with metastatic involvement of the breasts and adrenal gland.
+MODEL ANSWER: Multiple primary malignancies: synchronous bilateral triple-negative invasive ductal breast carcinoma, plus primary pulmonary carcinoma (non-small cell, TTF1/napsin-negative, driver-wild-type) with subcutaneous and adrenal metastases
+
+[89]
+REFERENCE: Invasive pancreatic ductal adenocarcinoma (PDAC) arising in association with IPMN with high-grade dysplasia.
+MODEL ANSWER: Pancreatic ductal adenocarcinoma
+
+[90]
+REFERENCE: Anaerobic brain abscess caused by *Paraclostridium tenue*.
+MODEL ANSWER: Clostridium brain abscess (gas-forming hemorrhagic brain abscess)
+
