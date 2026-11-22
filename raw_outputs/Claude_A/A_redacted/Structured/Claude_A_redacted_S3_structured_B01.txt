@@ -1,0 +1,278 @@
+CASE: M001
+
+KEY FINDINGS:
+Multiple bead-like intradural nodules from L1 to S1, homogeneously enhancing, with no cyst, hemorrhage or necrosis. This pattern suggests multiple benign nerve sheath tumors.
+A prior perineal schwannoma was resected, a mobile perineal nodule has now recurred, and the canal lesions are pathology-confirmed schwannoma. That makes at least two non-intradermal schwannomas in separate locations.
+Head, cervical and thoracic imaging is normal, so there are no vestibular schwannomas or meningiomas, which argues against NF2.
+Germline testing is negative for NF2, SMARCB1 and LZTR1, and there is no family history.
+There is no neurological deficit. Chronic constipation may be a mild cauda equina effect.
+DIFFERENTIAL:
+Schwannomatosis (genetically unexplained, "not elsewhere classified")
+NF2-related schwannomatosis (mosaic)
+Neurofibromatosis type 1 with multiple spinal neurofibromas
+Myxopapillary ependymoma with CSF seeding
+Leptomeningeal metastases or drop metastases
+EVIDENCE FOR AND AGAINST:
+Schwannomatosis.
+For: multiple pathology-proven schwannomas in separate sites, spinal and peripheral predominance, no vestibular tumors, no neurological deficit.
+Against: no pathogenic variant was found, but that is expected in this category.
+Mosaic NF2.
+For: blood testing can miss mosaic NF2; multiple schwannomas.
+Against: normal head imaging with no vestibular schwannomas, meningiomas or ependymomas.
+NF1 neurofibromas.
+For: multiple spinal nerve sheath tumors.
+Against: histology is schwannoma, and there are no café-au-lait macules or other NF1 stigmata.
+Myxopapillary ependymoma with seeding.
+For: lumbosacral intradural location.
+Against: histology is schwannoma, and the rest of the neuraxis is normal.
+Metastases.
+For: multiple intradural nodules.
+Against: no primary cancer, years of stability (2022 to 2024), benign pathology.
+EXCLUSIONS AND COMMITMENT:
+NF1, ependymoma and metastases are excluded by histology.
+NF2 is unlikely because there are no cranial or vestibular lesions and germline NF2 testing is negative. Tumor-tissue NF2 analysis could still exclude mosaicism formally.
+I commit to schwannomatosis because she has at least two pathologically confirmed non-intradermal schwannomas without vestibular schwannoma.
+FINAL DIAGNOSIS: Schwannomatosis (no NF2, SMARCB1 or LZTR1 variant identified, i.e. schwannomatosis-NEC), with multiple lumbosacral intraspinal schwannomas and recurrent perineal schwannoma.
+
+CASE: M002
+
+KEY FINDINGS:
+Synchronous bilateral breast carcinomas. Both are poorly differentiated (G3), node-negative, triple-negative, with Ki-67 of 50%.
+After surgery there are new lung, adrenal and subcutaneous lesions.
+The lung biopsy is morphologically similar to the breast tumors.
+The lung tumor is CK7-positive and negative for TTF-1, napsin A and p40, which argues against primary lung adenocarcinoma and squamous carcinoma.
+GATA3 is negative. This is a known pitfall, because GATA3 sensitivity is reduced in triple-negative breast cancer.
+The lung tumor has no actionable lung driver alterations.
+There is a strong family history of cancer, including breast cancer in a paternal aunt.
+DIFFERENTIAL:
+Metastatic triple-negative breast carcinoma (lung, adrenal, subcutaneous)
+Primary TTF-1-negative lung adenocarcinoma, synchronous with the breast cancers
+Metastatic carcinoma of another primary, such as upper GI or pancreaticobiliary
+Primary lung squamous or large-cell carcinoma
+EVIDENCE FOR AND AGAINST:
+Metastatic breast carcinoma.
+For: known aggressive bilateral triple-negative disease, the same morphology in the lung, CK7 positivity, a lung marker profile that is negative.
+Against: GATA3 negativity and node-negative primaries. Neither is unusual in triple-negative breast cancer.
+Primary lung adenocarcinoma.
+For: a spiculated lung nodule and a CK7-positive carcinoma.
+Against: TTF-1 and napsin A are negative, there are no driver mutations, and the morphology mirrors the breast tumors.
+Another primary.
+For: CK7-positive carcinoma of unknown origin.
+Against: no GI or pancreatic lesion is described, and the morphology resembles the breast tumors.
+Lung squamous or large-cell carcinoma.
+Against: p40 is negative and the morphology is not consistent.
+EXCLUSIONS AND COMMITMENT:
+Primary lung carcinoma is excluded by the immunoprofile (TTF-1, napsin A and p40 negative) and the absence of driver mutations.
+Another primary is unsupported.
+I commit to metastatic breast origin, based on matching morphology and the known high-grade triple-negative primaries. Germline testing (BRCA1/2 and similar) is warranted given the family history.
+FINAL DIAGNOSIS: Metastatic triple-negative breast carcinoma (from synchronous bilateral invasive ductal carcinoma) to the lung, adrenal gland and subcutaneous tissue.
+
+CASE: M003
+
+KEY FINDINGS:
+A 2-year-old boy with slowly progressive, painless, massive abdominal distension and left scrotal swelling.
+The scrotal swelling transilluminates and is partially reducible, so it is fluid-filled and communicates through the inguinal canal.
+CT shows a 25 × 30 cm multiloculated cyst with internal septations, extending from the abdomen through the inguinal canal into the scrotum and displacing the bowel.
+The left testis is not palpable, likely displaced or compressed.
+Labs are normal and there is no solid component.
+DIFFERENTIAL:
+Abdominoscrotal cystic lymphangioma (lymphatic malformation)
+Abdominoscrotal hydrocele
+Mesenteric or omental cyst with inguinal extension
+Cystic teratoma
+Hydrocele with indirect inguinal hernia
+EVIDENCE FOR AND AGAINST:
+Lymphangioma.
+For: multiloculated with septations, very large, insidious growth in early childhood, transilluminates, extends across tissue planes.
+Against: nothing substantial.
+Abdominoscrotal hydrocele.
+For: transilluminant scrotal swelling with an abdominal component that communicates through the canal.
+Against: it is typically unilocular ("hourglass"), and this lesion is multiloculated and septated.
+Mesenteric or omental cyst.
+For: a multiloculated abdominal cyst.
+Against: scrotal extension through the canal is atypical.
+Cystic teratoma.
+For: a pediatric cystic mass.
+Against: no fat, calcification or solid elements.
+Hernia with hydrocele.
+For: partially reducible.
+Against: no bowel in the sac, and the CT shows a cystic mass.
+EXCLUSIONS AND COMMITMENT:
+Teratoma and hernia are excluded by the CT.
+Simple hydrocele and mesenteric cyst fit less well because of the multiloculation and the canal extension.
+I commit to a lymphatic malformation, consistent with the histopathology.
+FINAL DIAGNOSIS: Giant abdominoscrotal cystic lymphangioma (macrocystic lymphatic malformation).
+
+CASE: M004
+
+KEY FINDINGS:
+A 2.4 cm well-circumscribed breast mass with a mucinous cut surface.
+The tumor is a high-grade adenocarcinoma with mucin secretion and papillary architecture.
+It is CK7-positive and negative for CK20, CDX-2, SATB2 and PAX-8, which argues against GI and Müllerian origin.
+Breast markers GCDFP-15 and mammaglobin are weakly positive.
+It is triple-negative with Ki-67 of 70% and strong p53 expression.
+CEA is elevated, and PET shows no other primary.
+DIFFERENTIAL:
+Primary mucinous cystadenocarcinoma of the breast
+Pure mucinous (colloid) carcinoma of the breast
+Metastatic mucinous adenocarcinoma from ovary, GI tract, pancreas or lung
+Invasive papillary or micropapillary carcinoma with mucin production
+Triple-negative invasive carcinoma of no special type with mucinous differentiation
+EVIDENCE FOR AND AGAINST:
+Mucinous cystadenocarcinoma.
+For: intracellular mucin, papillary and cystic architecture, triple-negative, CK7-positive and CK20-negative, postmenopausal-age woman, circumscribed, node-negative.
+Against: it is very rare.
+Pure mucinous carcinoma.
+For: mucinous, circumscribed tumor.
+Against: it is usually ER/PR-positive and low-grade with extracellular mucin pools, whereas this is triple-negative and high-grade.
+Metastasis.
+For: mucinous histology and high CEA.
+Against: the GI and Müllerian markers are negative, breast markers are positive, and PET shows no other lesion.
+Papillary or micropapillary carcinoma.
+For: papillary formation.
+Against: mucin secretion dominates, and micropapillary carcinoma is usually ER-positive.
+Triple-negative NST.
+For: high grade and triple-negative.
+Against: the distinctive mucinous and papillary features.
+EXCLUSIONS AND COMMITMENT:
+Metastasis is excluded by the immunoprofile and the PET.
+Colloid and micropapillary carcinoma are unlikely given the receptor status and grade.
+I commit to primary mucinous cystadenocarcinoma.
+FINAL DIAGNOSIS: Primary mucinous cystadenocarcinoma of the left breast (triple-negative, pT2N0).
+
+CASE: M005
+
+KEY FINDINGS:
+Acute odynophagia, retrosternal burning and mild hematemesis.
+Endoscopy shows multiple small "volcano-like" ulcers with raised erythematous edges in the mid-esophagus, with normal surrounding mucosa. This pattern is classic for herpes simplex.
+Biopsy shows multinucleation, nuclear molding and enlargement, and ground-glass nuclei. These are the "3 Ms" of HSV.
+Serology was initially negative, with IgG seroconversion at 2 months, indicating primary infection.
+She is immunocompetent: HIV is negative and glucose is normal.
+DIFFERENTIAL:
+Herpes simplex virus esophagitis (primary infection)
+Cytomegalovirus esophagitis
+Pill-induced esophagitis
+Reflux esophagitis
+Candida esophagitis
+EVIDENCE FOR AND AGAINST:
+HSV.
+For: volcano ulcers, ground-glass multinucleated cells, seroconversion.
+Against: she is immunocompetent, but HSV esophagitis is well described in healthy adults.
+CMV.
+For: viral ulcers.
+Against: CMV usually causes large, deep linear ulcers with owl's-eye inclusions in endothelial and stromal cells, and it is rare in immunocompetent patients.
+Pill-induced esophagitis.
+For: mid-esophageal ulcers.
+Against: no culprit medication is described, and the histology shows viral changes.
+Reflux esophagitis.
+For: prior heartburn.
+Against: reflux affects the distal esophagus, and the histology shows viral changes.
+Candida.
+Against: no plaques and no fungal elements.
+EXCLUSIONS AND COMMITMENT:
+The histology and seroconversion exclude the non-viral causes and CMV.
+I commit to primary HSV esophagitis in an immunocompetent host.
+FINAL DIAGNOSIS: Herpes simplex virus esophagitis (primary infection) in an immunocompetent patient.
+
+CASE: M006
+
+KEY FINDINGS:
+A submucosal gastric mass along the lesser curvature, initially suspected to be a GIST.
+Histology shows a spindle-cell proliferation.
+It is S100-positive and negative for CD117, DOG-1 and CD34, which excludes GIST. It is negative for SMA and desmin, which excludes smooth-muscle tumors.
+There is no necrosis, lymphadenopathy or metastasis.
+DIFFERENTIAL:
+Gastric schwannoma
+Gastrointestinal stromal tumor (GIST)
+Leiomyoma or leiomyosarcoma
+Solitary fibrous tumor or inflammatory fibroid polyp
+Malignant peripheral nerve sheath tumor
+EVIDENCE FOR AND AGAINST:
+Schwannoma.
+For: S100-positive spindle cells, negative for KIT, DOG-1, CD34 and the muscle markers, indolent course, young woman.
+Against: nothing significant.
+GIST.
+For: the CT appearance and location.
+Against: CD117 and DOG-1 are negative.
+Smooth-muscle tumors.
+Against: SMA and desmin are negative.
+Solitary fibrous tumor or inflammatory fibroid polyp.
+Against: CD34 is negative.
+MPNST.
+For: S100-positive.
+Against: no necrosis, invasion or metastasis, and MPNST typically shows only patchy S100.
+EXCLUSIONS AND COMMITMENT:
+The immunohistochemistry excludes GIST, smooth-muscle tumors, solitary fibrous tumor and inflammatory fibroid polyp.
+The benign behavior argues against MPNST.
+I commit to gastric schwannoma.
+FINAL DIAGNOSIS: Gastric schwannoma.
+
+CASE: M007
+
+KEY FINDINGS:
+An asymptomatic primigravida at 12 weeks.
+The gestational sac lies near the left uterine horn with an empty endometrial cavity.
+MRI confirms a live 12-week fetus (CRL 5.8 cm) within the left fallopian tube.
+There are no peritoneal signs, which indicates the pregnancy is unruptured.
+Survival to 12 weeks near the cornu suggests implantation in the interstitial portion of the tube, which is surrounded by myometrium.
+DIFFERENTIAL:
+Unruptured left tubal ectopic pregnancy, interstitial portion
+Ampullary or isthmic tubal ectopic pregnancy
+Angular (eccentric intrauterine) pregnancy
+Rudimentary horn pregnancy
+Abdominal pregnancy
+EVIDENCE FOR AND AGAINST:
+Interstitial tubal pregnancy.
+For: located near the horn, empty cavity, MRI shows the sac in the tube, unruptured late survival.
+Against: nothing significant.
+Ampullary or isthmic pregnancy.
+For: located in the tube.
+Against: these usually rupture by 6 to 8 weeks, and this sac is next to the horn.
+Angular pregnancy.
+For: located near the horn.
+Against: the endometrial cavity is empty and MRI places the sac in the tube.
+Rudimentary horn pregnancy.
+For: located near the horn and survived late.
+Against: no Müllerian anomaly was identified.
+Abdominal pregnancy.
+Against: MRI shows the sac in the tube.
+EXCLUSIONS AND COMMITMENT:
+MRI excludes intrauterine, abdominal and horn pregnancies.
+The cornual location and survival to 12 weeks favor the interstitial segment.
+I commit to an unruptured tubal ectopic pregnancy.
+FINAL DIAGNOSIS: Unruptured live left tubal (interstitial) ectopic pregnancy at 12 weeks' gestation.
+
+CASE: M008
+
+KEY FINDINGS:
+Known metastatic small bowel neuroendocrine tumor with a mesenteric mass encasing the SMA and SMV.
+Several months of postprandial pain and reduced food intake, which suggests chronic mesenteric ischemia ("intestinal angina").
+Now sudden pain rated 10/10, out of proportion to the exam.
+Leukocytosis.
+CT shows reduced bowel-wall enhancement and wall thickening in right lower quadrant small bowel loops.
+Lactate is normal, which does not exclude early ischemia.
+DIFFERENTIAL:
+Acute-on-chronic mesenteric ischemia from tumor or desmoplastic encasement of the SMA and SMV
+Small bowel obstruction or volvulus from mesenteric fibrosis
+SMV thrombosis (venous ischemia)
+Carcinoid crisis
+Perforation
+EVIDENCE FOR AND AGAINST:
+Mesenteric ischemia.
+For: chronic postprandial pain followed by acute severe pain, bowel hypoenhancement, vessel encasement, leukocytosis.
+Against: normal lactate, which is an insensitive marker early on.
+Small bowel obstruction.
+For: nausea and vomiting, mesenteric fibrosis.
+Against: no dilated loops or transition point are reported.
+SMV thrombosis.
+For: SMV involvement and wall thickening.
+Against: no thrombus is described. This may still be part of the ischemic mechanism.
+Carcinoid crisis.
+Against: no flushing, hemodynamic instability or bronchospasm.
+Perforation.
+Against: no free air or peritonitis is described.
+EXCLUSIONS AND COMMITMENT:
+Carcinoid crisis and perforation are excluded clinically and radiologically.
+Obstruction is not supported by the imaging.
+I commit to acute-on-chronic mesenteric ischemia caused by tumor and desmoplastic encasement of the mesenteric vessels.
+FINAL DIAGNOSIS: Acute-on-chronic mesenteric ischemia of the small bowel secondary to metastatic SBNET mesenteric mass encasing the SMA and SMV.

@@ -1,0 +1,131 @@
+You will be given 8 clinical cases. Use only the information in each case. Do not search the web or use any tools. Answer all 8 cases, in order, and use exactly the output format below for every case.
+
+Give the most likely final diagnosis for each case.
+
+Output format for every case:
+CASE: <case id>
+FINAL DIAGNOSIS: <diagnosis>
+
+=== CASE M113 ===
+- **Patient Information:** 58-year-old female.
+- **Chief Complaint:** Intermittent cough and shortness of breath for half a year.
+- **History of Present Illness:** Symptoms persisted for six months. Initial tests including blood tests and sputum pathogen screenings were negative. Partial improvement was achieved with methylprednisolone and antibiotics (Cefoperazone-Sulbactam plus Voriconazole). Bronchoscopy revealed white, milky bronchoalveolar lavage fluid but no improvement in clinical condition.
+- **Past Medical History:** Hypertension and coronary artery disease.
+- **Personal History:** None mentioned.
+- **Family History:** None reported.
+- **Physical Examination:** Afebrile, vital signs within normal limits but showed oxygen saturation of 94% on room air. Crackles and wheezes found bilaterally in lower lung fields.
+- **Ancillary Tests:** 
+  - Blood test results: Elevated inflammatory markers (CRP: 101.87 mg/L, ESR: 74 ml/h), LDH: 541 U/L, elevated LDL-C, tumor markers CEA (30.8 ng/mL) and Cyfra21-1 (14 ng/mL). Positive antinuclear antibody (titer 1:80).
+  - Pulmonary function tests: Restrictively impaired with reduced diffusion capacity.
+  - Arterial blood gas: Lower PaO2 (65 mmHg) and higher alveolar-arterial gradient (41.3 mmHg).
+  - Chest CT: "Crazy-paving" pattern indicating diffuse ground glass opacities with septal thickening.
+  - Biopsy: Percutaneous CT-guided biopsy showed granular eosinophilic material filling alveolar spaces (weakly PAS-positive). Bacterial culture confirmed [REDACTED].
+  - Further testing for GM-CSF antibodies was borderline significant (4.5 μg/mL; normal threshold >4 μg/mL).
+
+=== CASE M114 ===
+- **Patient Information:** 40-year-old female.
+- **Chief Complaint:** Dry cough and exertional dyspnea for 3 months.
+- **History of Present Illness:** No history of tuberculosis, smoking, or exposure to chemicals and organic dust.
+- **Past Medical History:** None.
+- **Personal History:** No history of regular medication or surgeries.
+- **Family History:** None.
+- **Physical Examination:** 
+  - Afebrile and stable vital signs.
+  - Reduced breath sounds, wheezes, and occasional crackles on the right side.
+  - Cardiac pulsations noted on the right side of the chest.
+- **Ancillary Tests:** 
+  1. Chest radiograph:
+     - Right lung volume loss.
+     - Ipsilateral tracheal shift.
+     - Cardiac dextroposition.
+     - Tenting of the right hemidiaphragm.
+  2. CECT of the chest:
+     - Anomalous venous drainage into the infra-diaphragmatic IVC.
+     - Hypoplastic right lung.
+     - Dextroposition of the heart in the small right hemithorax.
+     - Hyparterial bilobed right bronchus.
+     - Hypoplastic right main pulmonary artery.
+     - Anomalous systemic arterial supply from the abdominal aorta to the right lower lobe.
+
+=== CASE M115 ===
+- **Patient Information**: 23-year-old Caucasian woman, third gravida, nulliparous, 36 weeks pregnant with dichorionic diamniotic twins.
+- **Chief Complaint**: Oxygen desaturation (post-operative finding), without respiratory or cardiovascular symptoms.
+- **History of Present Illness**: New diagnosis of pre-eclampsia with a sFlt-1/PIGF ratio of 77 upon admission for preterm prolabor rupture of membranes (PPROM). Underwent emergency caesarean section for fetal distress.
+- **Past Medical History**: None mentioned.
+- **Personal History**: None mentioned.
+- **Family History**: None mentioned.
+- **Physical Examination**: Bilateral basal crackles in the lungs post-operatively.
+- **Ancillary Tests**: 
+  - **Electrocardiograms (ECG)**: Sinus rhythm.
+  - **Chest X-Ray (CXR)**: Pulmonary edema and cardiomegaly.
+  - **CT Pulmonary Angiogram**: Ruled out pulmonary embolism.
+  - **Troponin Levels**: Mildly elevated at 47 ng/L (normal <13 ng/L).
+  - **B-type Natriuretic Peptide**: Elevated at 6965 pg/mL (normal <100 pg/mL).
+  - **Echocardiography**: Ejection fraction (EF) of 41%, fractional shortening of 19%, impaired left ventricular diastolic function.
+
+=== CASE M116 ===
+- **Patient Information:** 33-year-old female.
+- **Chief Complaint:** Symptoms of hypoglycemia and seizure-like activity.
+- **History of Present Illness:** Recurrent symptoms, including weakness, sweating, shakiness, confusion, and pallor since high school, triggered by physical activity, fasting, hot weather, and meals. Loss of consciousness and seizure-like episodes often requiring emergency interventions occurred more than 10 times. Marked symptoms included fatigue, malaise, and diaphoresis, with confirmed low blood glucose during episodes. Diagnosed with reactive hypoglycemia after an oral glucose tolerance test at age 28 and found to have nonepileptic seizures via video electroencephalography. 
+- **Past Medical History:** Hypermobile Ehlers-Danlos Syndrome (hEDS), postural orthostatic tachycardia syndrome (POTS), small fiber neuropathy, dysautonomia, Raynaud syndrome, orthostatic hypotension, polycystic ovarian syndrome, among other comorbidities including gastrointestinal and systemic manifestations of hEDS. Additionally, concussions with traumatic brain injury history.
+- **Personal History:** None other than weight stability (BMI 22-23 kg/m²).
+- **Family History:** Maternal hEDS and paternal type 2 diabetes. No relevant family history of endocrine tumors or adrenal/pituitary issues.
+- **Physical Examination:** Findings consistent with hEDS, including a Beighton score of 9/9, joint hypermobility, atrophic scarring, and piezogenic heel papules.
+- **Ancillary Tests:** 
+  - Capillary glucose: Consistently low levels (below 60 mg/dL) during symptomatic periods.
+  - Fasting laboratory studies showed normal β-cell peptides (insulin, proinsulin, C-peptide), cortisol, and appropriate ketogenesis, excluding insulinoma and other endocrine causes.
+  - Imaging (CT abdomen, brain MRI) was unremarkable.
+  - Continuous glucose monitoring revealed hypoglycemic episodes in the postprandial and fasting states.
+  - No evidence of malnutrition, celiac disease, adrenal insufficiency, or gastrointestinal surgeries.
+
+=== CASE M117 ===
+- Patient Information: 30-year-old woman.
+- Chief Complaint: Bilateral, abrupt, painless, progressive diminution of vision, nyctalopia, photopsia, and restricted peripheral field of vision over one year.
+- History of Present Illness: Progressive worsening of symptoms despite prior treatment with antiviral drugs and steroids.
+- Past Medical History: None reported.
+- Personal History: Born into a consanguineous marriage; not a vegetarian.
+- Family History: No family history of night blindness, autoimmune disease, or neoplastic disease.
+- Physical Examination: Systemic and general examinations normal.
+- Ancillary Tests:
+  - Ocular Examination: BCVA 3/60 (right eye) and 2/60 (left eye), impaired color vision, sluggish pupillary reactions, mild disc pallor, attenuated vessels, dull foveolar reflex, no bony spicules.
+  - Fundus Fluorescein Angiography: Pinpoint leakages, perivascular staining, disc staining.
+  - OCT and Macular Thickness Mapping: Perifoveal thinning, granularity in the photoreceptor layer, inner and outer photoreceptor segment loss.
+  - ERG: Electro-negative responses, indicating photoreceptor dysfunction.
+  - Serology: Negative; no evidence of infection or autoantibodies.
+  - PET Scan: Normal; ruled out malignancy.
+
+=== CASE M118 ===
+- **Patient Information:** 59-year-old male
+- **Chief Complaint:** Right-sided mouth pain
+- **History of Present Illness:** Right-sided mouth pain initially attributed to dental disease; worsened despite antibiotic therapy, leading to recurrent emergency department visits with additional symptoms, including facial numbness and dysgeusia.
+- **Past Medical History:** ADHD, bilateral hearing loss due to occupational exposures.
+- **Personal History:** None
+- **Family History:** Father passed from diffuse large B-cell lymphoma (DLBCL), paternal uncle passed from anaplastic thyroid cancer, brother diagnosed with an unknown kidney malignancy.
+- **Physical Examination:** Not specifically described but supplemented by imaging revealing multiple abnormal lesions.
+- **Ancillary Tests:**  
+  - Imaging: MRI and CT showed numerous lytic and enhancing lesions, including an extramedullary skull base mass. PET/CT confirmed hypermetabolic bone marrow lesions and an extramedullary mass.  
+  - Labs: Elevated kappa free light chain (73 mg/L), elevated kappa/lambda ratio (9.2), IgG-K band on SPEP, and normal blood counts.  
+  - Biopsies: Bone marrow confirmed CD5+/CD23+ [REDACTED] and a clonal plasma cell neoplasm with a 13q14 deletion. Skull mass biopsy confirmed [REDACTED] (distinct clonal origin from CLL). FISH showed gains in ATM, TP53, and NF1 mutations in the [REDACTED] but no CLL-related genetic deletions in peripheral blood.
+
+=== CASE M119 ===
+- Patient Information: Female, 33-week preterm newborn.
+- Chief Complaint: None mentioned.
+- History of Present Illness: Born to a mother with inadequately treated gestational syphilis; no immediate clinical symptoms.
+- Past Medical History: None.
+- Personal History: None applicable (newborn).
+- Family History: Maternal history of untreated gestational syphilis.
+- Physical Examination: No notable clinical symptoms described.
+- Ancillary Tests: Positive nontreponemal serology test (RPR titer of 1:128). Radiographs of the long bones showed radiolucent transverse bands with adjacent sclerotic lines, irregular sclerotic borders on the distal radius and ulna, and a transverse osteolytic lesion in the proximal femoral metaphysis.
+
+=== CASE M120 ===
+- **Patient Information:** 44-year-old Afghan married woman.
+- **Chief Complaint:** Acute severe abdominal pain, nausea, and vomiting for 3 days.
+- **History of Present Illness:** Persistent abdominal pain not relieved with analgesics or antacids. No urinary tract symptoms. Prior medical history significant for no prior surgeries.
+- **Past Medical History:** None.
+- **Personal History:** None.
+- **Family History:** None.
+- **Physical Examination:** Palpable abdominal mass found (specific exam findings not detailed). Normal bowel sounds.
+- **Ancillary Tests:** 
+  - Ultrasound: Complex mass in mid-abdomen/right iliac fossa, suspected appendicular abscess.
+  - CT scan: Twisted splenic vessels with whirlpool sign, absence of spleen in normal location. Hypodense, nonenhancing mid-abdominal lesion [REDACTED].
+  - Surgery: Ectopic spleen found in mid-abdomen/right iliac fossa with 720° torsion of vascular pedicle. [REDACTED]; splenectomy performed.

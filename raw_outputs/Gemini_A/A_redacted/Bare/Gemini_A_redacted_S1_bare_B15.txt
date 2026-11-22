@@ -1,0 +1,23 @@
+CASE: M113
+FINAL DIAGNOSIS: Autoimmune pulmonary alveolar proteinosis
+
+CASE: M114
+FINAL DIAGNOSIS: Scimitar syndrome
+
+CASE: M115
+FINAL DIAGNOSIS: Peripartum cardiomyopathy
+
+CASE: M116
+FINAL DIAGNOSIS: Idiopathic hypoglycemia (associated with dysautonomia and hypermobile Ehlers-Danlos syndrome)
+
+CASE: M117
+FINAL DIAGNOSIS: Non-paraneoplastic autoimmune retinopathy
+
+CASE: M118
+FINAL DIAGNOSIS: Multiple myeloma (with extramedullary plasmacytoma) and concurrent chronic lymphocytic leukemia
+
+CASE: M119
+FINAL DIAGNOSIS: Congenital syphilis
+
+CASE: M120
+FINAL DIAGNOSIS: Torsion of a wandering spleen (with splenic infarction)

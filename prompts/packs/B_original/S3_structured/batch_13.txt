@@ -1,0 +1,132 @@
+You will be given 8 clinical cases. Use only the information in each case. Do not search the web or use any tools. Answer all 8 cases, in order, and use exactly the output format below for every case.
+
+For each case, complete this structured diagnostic work-up.
+
+Output format for every case:
+CASE: <case id>
+1. KEY FINDINGS: the clinically decisive findings, with their significance
+2. DIFFERENTIAL: 3-5 candidate diagnoses, ranked
+3. EVIDENCE FOR AND AGAINST: for each candidate, the findings that support it and the findings that argue against it
+4. EXCLUSIONS AND COMMITMENT: which candidates you exclude and why, and which you commit to by that reasoning
+5. FINAL DIAGNOSIS: <diagnosis>
+
+=== CASE M097 ===
+- **Patient Information**: 83-year-old female, former elementary school teacher, widow, two sons.
+- **Chief Complaint**: Dementia and late-onset dyskinesia.
+- **History of Present Illness**: Dementia initially diagnosed as Lewy Body Dementia, later associated with akathisia, somatic dyskinesia (involving diaphragm and abdomen), sleep disorder, complex mood disorder, psychosis (including unintelligible confabulations), and Parkinsonism.
+- **Past Medical History**: Deep venous thrombosis, pulmonary embolism, femoral fracture.
+- **Personal History**: None relevant to neurodegeneration noted.
+- **Family History**: No clear history of neurodegenerative disorders.
+- **Physical Examination**: Signs consistent with complex neuropsychiatric symptoms (details not specified).
+- **Ancillary Tests**:
+  - Head CT: Marked cerebral atrophy, slight pallidal calcifications.
+  - Genetic tests: Normal number of CAG repeats in the HTT gene (to rule out Huntington's disease).
+  - Microbiome sequencing (16S metagenomics): Presence of Spirochaetes phylum, with Treponema species constituting 90% of the identified phylum. Specific species included *T. medium* (42%), *Treponema sp.* (31%), and *T. denticola* (20%).
+
+=== CASE M098 ===
+- **Patient Information:** 23-year-old woman
+- **Chief Complaint:** None explicitly stated; active hidradenitis suppurativa (HS) flare.
+- **History of Present Illness:** 10-year history of Hurley stage III HS treated with antibiotics (clindamycin, rifampin, doxycycline) and later with adalimumab. Recurrent symptoms over the past year, including progressive weight loss, nausea, malaise, fevers, jaw swelling, and worsening HS.
+- **Past Medical History:** Polycystic ovary syndrome (PCOS).
+- **Personal History:** None provided.
+- **Family History:** None provided.
+- **Physical Examination:** Actively draining nodules and sinus tracts in bilateral axillae, inguinal folds, and mons pubis.
+- **Ancillary Tests:** 
+  - Elevated total IgG (2,700 mg/mL, reference: ~1300 indicative of severe HS) and IgG4 levels. 
+  - Hypercalcemia, neutrophilia, and leukocytosis (WBC count: 18 x 10^9/L).
+  - Biopsy of cervical lymph nodes and parotid gland showed focal chronic sialadenitis and fibrosis with <5% IgG-positive cells being IgG4-positive, ruling out IgG4-related disease (IgG4-RD).
+  - Infectious workup: Positive monospot test, but no specific infectious pathology identified.
+  - Imaging: CT neck revealed sialadenitis; PET/CT suggested hypermetabolic inflammatory or infectious cutaneous thickening consistent with HS flares.
+
+=== CASE M099 ===
+- Patient Information: 64-year-old Caucasian male
+- Chief Complaint: Progressive proximal muscle weakness and extreme muscle pain for 3 months
+- History of Present Illness: History of statin use (atorvastatin 40 mg for 4 years, switched to rosuvastatin 5 mg after liver enzyme elevation, continued for 10 months before symptom onset). Symptoms include difficulty climbing stairs, rising from a chair, and syncopal episodes.
+- Past Medical History: Type 2 diabetes mellitus, hypertension, hyperlipidemia, metabolic dysfunction-associated steatotic liver disease, Gilbert syndrome, coronary artery disease
+- Personal History: Not mentioned
+- Family History: Not mentioned
+- Physical Examination: Moderate to significant weakness in shoulder girdle, biceps, triceps, hips; good strength in wrists, hands, knees, and ankles
+- Ancillary Tests: 
+  - CK: Elevated (232.48 µkat/L; normal: 0.833-5.133 µkat/L)
+  - AST/ALT: Elevated
+  - Electromyography: Findings of diffuse myopathy suggesting myonecrosis
+  - Muscle biopsy: Necrosis and regenerating fibers; scarce inflammation
+  - Anti-HMGCR antibodies: Strongly positive (>200 CU)
+  - Normal thyroid function, renal function, right upper quadrant ultrasound
+  - Negative SRP IFA test and unremarkable colonoscopy
+
+=== CASE M100 ===
+- **Patient Information:** 3-year-old girl, second child of healthy, nonconsanguineous parents. No significant antenatal issues, normal developmental milestones prior to the event.
+- **Chief Complaint:** Persistent weakness in the left upper and lower limbs following prolonged seizures at age 2.
+- **History of Present Illness:** At age 2, prolonged focal seizures affecting the left side. Post-seizure, spastic left hemiparesis developed and persisted. Subsequent psychomotor retardation was noted.
+- **Past Medical History:** None reported.
+- **Personal History:** None significant.
+- **Family History:** No significant family history of neurological or genetic conditions.
+- **Physical Examination:** Spastic left hemiparesis and delayed motor milestones. Normal weight and height. Unremarkable systemic examination.
+- **Ancillary Tests:** Brain MRI showed generalized atrophy of the right cerebral hemisphere, homolateral ventricular dilatation, and subcortical white matter gliosis consistent with the chronic phase of Hemiconvulsion-Hemiplegia-Epilepsy (HHE) syndrome. EEG findings were not explicitly detailed in this case.
+
+=== CASE M101 ===
+- Patient Information: 13-year-old female
+- Chief Complaint: Headache for two weeks, associated with nausea, vomiting, and ataxia.
+- History of Present Illness: Progressive symptoms including dizziness, vertigo, and worsening headache on straining.
+- Past Medical History: None.
+- Personal History: None.
+- Family History: None.
+- Physical Examination: 
+  - Vital signs: Pulse 68 bpm, BP 140/90 mmHg.
+  - General: No icterus, pallor, or lymphadenopathy.
+  - Cardiovascular, respiratory, musculoskeletal, and gastrointestinal systems: Normal.
+- Ancillary Tests:
+  - MRI results: Heterogeneously enhancing lesion (4.3 x 4.1 x 3.9 cm) in the vermis region and roof of the fourth ventricle, causing obstructive hydrocephalus and perilesional edema. The lesion appeared hypo-intense on T1, iso/hyperintense on T2/FLAIR, restricted on DWI, with low signal on ADC, and blooming on SWI.
+  - Associated findings: Upstream dilatation of third and lateral ventricles, compression of brain stem structures.
+  - Noted anatomical anomalies: Partial occipital bone assimilation with C1 vertebra, cervico-medullary kinking, basilar invagination, increased atlantoaxial interval.
+
+---
+
+=== CASE M102 ===
+- **Patient Information:** 8-year-old boy, previously healthy.
+- **Chief Complaint:** Fever, fatigue, and vomiting for 3 days, worsening to confusion, oliguria, and hypotension.
+- **History of Present Illness:** Recurrent fever (up to 39.4°C) along with fatigue, vomiting, and abdominal pain. Progressed to oliguria, confusion, and hypotension the day before admission.
+- **Past Medical History:** None.
+- **Personal History:** None.
+- **Family History:** None.
+- **Physical Examination:** Bilateral rales, muffled heart sounds, gallop rhythm, signs of cardiogenic shock.
+- **Ancillary Tests:** 
+  - Laboratory tests: Elevated brain natriuretic peptide (BNP), NT-pro BNP, CRP, cardiac biomarkers (troponin I, CK, CK-MB).
+  - ECG: Wide QRS complex, ST-segment depression, premature ventricular contractions, complete right bundle branch block.
+  - Echocardiography: Reduced ejection fraction (28%), mild mitral and tricuspid regurgitation, no significant ventricular enlargement or hypertrophy.
+  - Chest X-ray: High-density shadows over lung fields, cardiomegaly, bilateral pleural effusion.
+  - Viral analysis: HRV-A66 detected via mNGS and PCR.
+  - Blood cultures: Negative.
+
+=== CASE M103 ===
+- **Patient Information:** 27-year-old woman
+- **Chief Complaint:** Chronic pain, nausea, and vomiting
+- **History of Present Illness:** Recent abdominal trauma with lumbar fracture; presence of a palpable abdominal mass
+- **Past Medical History:** History of pulmonary tuberculosis
+- **Personal History:** None
+- **Family History:** None
+- **Physical Examination:** Palpable abdominal mass
+- **Ancillary Tests:**
+  - Laboratory tests: Mild anemia, normal tumor marker levels
+  - CT scan: Large abdomino-pelvic cystic mass measuring 183 × 170 × 73 mm with hypodense content; no abnormalities in liver, spleen, pancreas
+  - MRI: Well-defined peritoneal cystic mass with hyperintensity on T1- and T2-weighted images and dark peripheral capsule on T2; normal multifollicular ovaries ruled out ovarian origin; small peritoneal effusion observed
+  - Histopathology of excised mass: Cyst with thin wall and necrotic-hemorrhagic content, characterized by hyalinized hypocellular fibrous tissue, chronic inflammatory infiltrate, capillaries, necrotic debris, and blood clots without epithelial lining or neoplastic component
+
+=== CASE M104 ===
+- **Patient Information:** 7-year-old male, first child, nonconsanguineous parents, no significant family history, previously healthy.
+- **Chief Complaint:** Recurrent, prolonged seizures of generalized tonic-clonic type without recovery of consciousness.
+- **History of Present Illness:** Gradual progression over 6 months starting with left exotropia and visual acuity changes, leading to cognitive decline, hearing impairment, pseudobulbar affect, motor difficulties, social isolation, difficulty walking, and school dropout.
+- **Past Medical History:** None.
+- **Personal History:** None.
+- **Family History:** None.
+- **Physical Examination:** 
+  - General: Diffuse hyperpigmentation over joints, perioral area, gums, and knuckles.
+  - Neurological: Hypoprosexia, difficulty reading and calculating, spasticity in all four limbs with brisk deep tendon reflexes, bilateral extensor plantar response, spastic gait, pseudobulbar affect, bilateral visual acuity of 20/150, positive Rinne test.
+- **Ancillary Tests:** 
+  - MRI Brain: Diffuse bilateral white matter lesions, parieto-occipital involvement, Loes score of 22/34 indicating moderately severe abnormalities.
+  - Very Long Chain Fatty Acids (VLCFA): Elevated tetracosanoic acid (C24), hexacosanoic acid (C26), and C24/C22 and C26/C22 ratios confirming X-ALD.
+  - Serum ACTH: 5 times above normal, indicative of adrenal insufficiency.
+  - Blood tests: Normal arterial blood gas, normal serum lactate, negative serum glycosphingolipid markers (Krabbe disease excluded), elevated serum triglycerides. 
+  - Genetic studies: Not conducted due to financial constraints.
+  - Other Exclusions: Normal serum lactate excluded mitochondrial metabolic disorders.

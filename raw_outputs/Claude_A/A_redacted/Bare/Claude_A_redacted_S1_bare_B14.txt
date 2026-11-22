@@ -1,0 +1,23 @@
+CASE: M105
+FINAL DIAGNOSIS: Adult-onset neuronal ceroid lipofuscinosis (likely CLN1/PPT1-related) presenting as progressive focal lower-limb dystonia with cerebellar ataxia
+
+CASE: M106
+FINAL DIAGNOSIS: Cystic adventitial disease of the left common femoral vein (venous adventitial cyst) with secondary venous thrombosis
+
+CASE: M107
+FINAL DIAGNOSIS: Truncus arteriosus type I with anomalous origin of the left coronary artery from the pulmonary trunk (ALCAPA-type anomaly), with pulmonary hypertension
+
+CASE: M108
+FINAL DIAGNOSIS: Chronic myeloid leukemia (BCR-ABL positive, chronic phase) presenting with digital gangrene
+
+CASE: M109
+FINAL DIAGNOSIS: Herpes simplex virus-associated (herpetic) nodular scleritis, preceded by a conjunctival phlyctenule
+
+CASE: M110
+FINAL DIAGNOSIS: Symptomatic sinus node dysfunction (sinus arrest/pauses) causing syncope, associated with chronic cannabis use and sleep deprivation
+
+CASE: M111
+FINAL DIAGNOSIS: Cryptococcoid Sweet syndrome (neutrophilic dermatosis, hemorrhagic-bullous/necrotic variant) with likely pulmonary involvement, in a patient with MPO-ANCA vasculitis
+
+CASE: M112
+FINAL DIAGNOSIS: Acute ischemic stroke in the right hemisphere due to severe (95%) right internal carotid artery stenosis with hemodynamic hypoperfusion

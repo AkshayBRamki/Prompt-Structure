@@ -1,0 +1,334 @@
+You are an expert clinician rating the SOUNDNESS OF DIAGNOSTIC REASONING written by AI systems. For each case you get the case as the AI saw it, the reference diagnosis, the clinician-written reference reasoning, and several AI responses (labelled with item IDs such as R017). Rate EACH response independently on its own merits, not by comparing it with the other responses.
+
+Score each response 0, 1 or 2:
+2 = SOUND: identifies the findings that actually drive the diagnosis, links them to the diagnosis with valid clinical logic consistent with the reference reasoning, and rules out the main competing alternatives with appropriate evidence (or the case leaves no serious alternative). No material factual or logical error.
+1 = PARTIAL: right direction, but a key step is missing (e.g. pattern-matching without excluding an obvious alternative, or ignoring a decisive finding), or it contains an error that does not drive the conclusion.
+0 = UNSOUND: reasoning is wrong, irrelevant or absent; contains a material factual error; or the conclusion does not follow from the stated evidence.
+
+Rules:
+- Do NOT reward length, formatting, the number of differentials listed, or confident tone. A short response that names the decisive findings and excludes the main alternative can score 2. A long response with a material error scores 0 or 1.
+- A response whose final diagnosis is wrong cannot score 2.
+- Some case details were removed and shown as [REDACTED]. Do not penalise a response for not using information that was redacted.
+- Judge only the reasoning shown; do not assume reasoning that is not written.
+
+OUTPUT FORMAT: reply with ONLY one line per item, exactly `item_id: score` (e.g. `R017: 2`). No explanations.
+
+CASES (part 1 of 10):
+
+===== CASE =====
+- **Patient Information:** 57-year-old woman.
+- **Chief Complaint:** Fever and headache lasting several days.
+- **History of Present Illness:** None provided beyond the current complaints.
+- **Past Medical History:** Embolic stroke of undetermined source, on warfarin (4.25 mg/day).
+- **Personal History:** None.
+- **Family History:** None.
+- **Physical Examination:** Alert consciousness, mild hearing loss in the left ear, no other neurological abnormalities such as meningeal irritation signs or motor palsy.
+- **Ancillary Tests:**
+  - **Brain MRI:** Hemorrhagic lesion with wall enhancement in the left hemisphere on contrast-enhanced T1 imaging; cystic features with heterogeneous intensities.
+  - **CSF Analysis:** Pleocytosis (23 cells/μL), elevated protein (125 mg/dL), decreased glucose (51 mg/dL vs. 128 mg/dL in blood).
+  - **Blood Tests:** WBC 5,180/μL, CRP 0.04 mg/dL, PT-INR 2.89.
+  - **Imaging:** Non-contrast head CT showing circular hemorrhagic lesion with air-fluid level in the left hemisphere; no sinusitis or vascular abnormalities noted.
+  - **Cultures:** Conventional bacterial cultures initially failed to identify a pathogen.
+  - **Molecular Tests:** Shotgun sequencing and ribosomal multilocus sequence typing identified *[REDACTED]* as the pathogen.
+  - **Other Investigations:** Anaerobic culture suggested Clostridium spp. Transthoracic echocardiography and dental exam found no source of infection. Thoracoabdominal CT showed no abnormalities.
+
+REFERENCE DIAGNOSIS: Anaerobic brain abscess caused by *Paraclostridium tenue*.
+REFERENCE REASONING (clinician): 1. The initial clinical suspicion of a brain abscess with intracerebral hemorrhage was supported by imaging findings (cystic lesion with hemorrhage) and CSF analysis (pleocytosis, elevated protein, low glucose).
+2. Differential diagnosis included:
+   - **Bacterial abscess:** Supported by imaging, CSF findings, and fever. Further narrowed down to anaerobic pathogens given culture results.
+   - **Intracerebral hemorrhage alone:** Ruled out due to accompanying abscess findings on imaging, and patient’s fever and systemic inflammatory markers also pointed toward infection.
+   - **Fungal or atypical infections:** Less likely due to absence of immune suppression or typical imaging patterns.
+3. Conventional cultures failed to identify the pathogen. Molecular methods (whole-metagenome sequencing and ribosomal multilocus typing) ultimately identified *Paraclostridium tenue*. This organism, a rare anaerobic bacterium, was consistent with clinical features and imaging, confirming a bacterial etiology.
+
+--- RESPONSE R158 ---
+A woman on warfarin with a supratherapeutic INR has fever and headache. Imaging shows a ring-enhancing, cystic, hemorrhagic lesion with an air-fluid level, meaning a gas-forming organism. CSF shows pleocytosis, high protein and relatively low glucose, which fits a parenchymal abscess. CRP and WBC are low. No contiguous source (sinusitis, dental) or endocardial source was found. Anaerobic culture suggested Clostridium, and molecular sequencing identified the species. A gas-producing Clostridium causing a hemorrhagic abscess most commonly means C. perfringens.
+Final diagnosis: Gas-forming hemorrhagic brain abscess caused by Clostridium species (most likely Clostridium perfringens).
+
+--- RESPONSE R139 ---
+A 57-year-old woman on warfarin presents with fever, headache, and mild left-sided hearing loss.
+Brain MRI and non-contrast CT reveal a ring-enhancing, cystic, hemorrhagic left hemispheric lesion with an air-fluid level, which is characteristic of a gas-forming brain abscess (with hemorrhage likely exacerbated by therapeutic anticoagulation, INR 2.89).
+CSF analysis shows pleocytosis, elevated protein, and hypoglycorrhachia, supporting an intracranial bacterial infection.
+Anaerobic culture points to Clostridium species—classic gas-forming anaerobes capable of causing gas-containing brain abscesses—which was definitively confirmed at the species level by molecular sequencing (most commonly Clostridium perfringens).
+Final diagnosis: Clostridium brain abscess (gas-forming hemorrhagic brain abscess)
+
+--- RESPONSE R057 ---
+57-year-old woman on warfarin (PT-INR 2.89) presenting with fever, headache, and mild left hearing loss: Raises suspicion for an intracranial infection complicated by hemorrhage.
+Non-contrast CT and contrast-enhanced MRI showing a circular, hemorrhagic, cystic lesion with wall enhancement and an air-fluid level in the left hemisphere: Ring/wall enhancement with an intralesional air-fluid level (gas) is classic for a gas-forming brain abscess; anticoagulation explains the hemorrhagic component.
+CSF showing pleocytosis (23 cells/μL), elevated protein (125 mg/dL), and hypoglycorrhachia (51 vs. 128 mg/dL): Confirms a bacterial CNS infectious process.
+Anaerobic culture suggesting Clostridium spp. and molecular confirmation by shotgun sequencing/rMLST: Establishes a Clostridium species as the causative pathogen of this gas-forming brain abscess.
+Clostridial brain abscess (gas-forming hemorrhagic brain abscess due to Clostridium species, e.g., Clostridium perfringens)
+Primary intracerebral hemorrhage (warfarin-associated)
+Necrotic or hemorrhagic brain tumor (e.g., glioblastoma or metastasis)
+Non-clostridial bacterial brain abscess (e.g., Klebsiella pneumoniae or Streptococcus spp.)
+Clostridial brain abscess:
+For: Fever, headache, ring/wall-enhancing cystic lesion with an intralesional air-fluid level (gas production), bacterial-pattern CSF (pleocytosis, high protein, low glucose), anaerobic culture identifying Clostridium spp., and molecular confirmation of the pathogen.
+Against: Normal peripheral WBC (5,180/μL) and low CRP (0.04 mg/dL) are atypical for severe bacterial infection; no obvious primary source (no trauma, sinusitis, dental infection, or GI lesion on CT).
+Primary intracerebral hemorrhage (warfarin-associated):
+For: Therapeutic/supratherapeutic anticoagulation (PT-INR 2.89) and hemorrhagic lesion on CT/MRI.
+Against: Cannot explain the intralesional air-fluid level (gas), CSF hypoglycorrhachia with pleocytosis, fever, or isolation of Clostridium spp.
+Necrotic or hemorrhagic brain tumor:
+For: Cystic, wall-enhancing, hemorrhagic intracranial mass with normal peripheral WBC and CRP.
+Against: Air-fluid level (gas) is not a feature of uncomplicated tumors; fever, bacterial CSF profile, and microbiological/molecular confirmation of Clostridium rule this out.
+Non-clostridial bacterial brain abscess:
+For: Fever, headache, ring-enhancing lesion with gas, and bacterial CSF profile.
+Against: Conventional aerobic bacterial cultures were negative, whereas anaerobic culture specifically suggested Clostridium spp.
+Primary warfarin-associated hemorrhage and brain tumor are excluded by the gas-forming air-fluid level, infectious CSF profile, and microbiological identification of Clostridium spp. Non-clostridial bacterial abscesses are excluded by negative conventional cultures and anaerobic/molecular identification of Clostridium. Committing to clostridial brain abscess (hemorrhagic, gas-forming brain abscess due to Clostridium species).
+Final diagnosis: Clostridial brain abscess (brain abscess due to Clostridium species)
+
+--- RESPONSE R129 ---
+The patient has fever and headache. Imaging shows a ring-enhancing cystic lesion in the left hemisphere with an air-fluid level, which means a gas-forming brain abscess. The lesion is hemorrhagic, and she is anticoagulated on warfarin with an INR of 2.89. CSF shows pleocytosis, high protein and low glucose, consistent with a pyogenic or parameningeal infection. Routine cultures were negative, but anaerobic culture suggested Clostridium spp. and sequencing identified the organism. There is no sinus, dental or cardiac source, and her systemic inflammatory markers are normal.
+(1) Clostridial gas-forming brain abscess; (2) brain abscess from another anaerobe or mixed flora; (3) hemorrhagic neoplasm such as a glioblastoma or metastasis; (4) warfarin-associated intracerebral hemorrhage with organization; (5) septic embolism with hemorrhagic infarct.
+Clostridial abscess. For: gas in the lesion, anaerobic growth of Clostridium, molecular identification, inflammatory CSF and fever. Against: no obvious portal of entry.
+Other anaerobic or mixed abscess. For: gas, ring enhancement and culture-negativity. Against: sequencing pinpointed a single organism.
+Hemorrhagic tumor. For: a heterogeneous hemorrhagic cystic mass. Against: gas, fever, CSF picture and microbiology.
+Warfarin-associated hemorrhage. For: a supratherapeutic-range INR and hemorrhage. Against: wall enhancement, gas, fever and infected CSF.
+Septic embolism. For: her prior embolic stroke. Against: a normal echo and a single lesion.
+Gas within the lesion plus the microbiology exclude a bland hemorrhage or tumor. A normal echo makes endocarditis-related emboli unlikely. I commit to a cryptogenic clostridial brain abscess, with hemorrhage aggravated by anticoagulation.
+Final diagnosis: Gas-forming hemorrhagic brain abscess caused by a Clostridium species (cryptogenic source; species per sequencing).
+
+===== CASE =====
+- **Patient Information:** 33-year-old female.
+- **Chief Complaint:** Symptoms of hypoglycemia and seizure-like activity.
+- **History of Present Illness:** Recurrent symptoms, including weakness, sweating, shakiness, confusion, and pallor since high school, triggered by physical activity, fasting, hot weather, and meals. Loss of consciousness and seizure-like episodes often requiring emergency interventions occurred more than 10 times. Marked symptoms included fatigue, malaise, and diaphoresis, with confirmed low blood glucose during episodes. Diagnosed with reactive hypoglycemia after an oral glucose tolerance test at age 28 and found to have nonepileptic seizures via video electroencephalography. 
+- **Past Medical History:** Hypermobile Ehlers-Danlos Syndrome (hEDS), postural orthostatic tachycardia syndrome (POTS), small fiber neuropathy, dysautonomia, Raynaud syndrome, orthostatic hypotension, polycystic ovarian syndrome, among other comorbidities including gastrointestinal and systemic manifestations of hEDS. Additionally, concussions with traumatic brain injury history.
+- **Personal History:** None other than weight stability (BMI 22-23 kg/m²).
+- **Family History:** Maternal hEDS and paternal type 2 diabetes. No relevant family history of endocrine tumors or adrenal/pituitary issues.
+- **Physical Examination:** Findings consistent with hEDS, including a Beighton score of 9/9, joint hypermobility, atrophic scarring, and piezogenic heel papules.
+- **Ancillary Tests:** 
+  - Capillary glucose: Consistently low levels (below 60 mg/dL) during symptomatic periods.
+  - Fasting laboratory studies showed normal β-cell peptides (insulin, proinsulin, C-peptide), cortisol, and appropriate ketogenesis, excluding insulinoma and other endocrine causes.
+  - Imaging (CT abdomen, brain MRI) was unremarkable.
+  - Continuous glucose monitoring revealed hypoglycemic episodes in the postprandial and fasting states.
+  - No evidence of malnutrition, celiac disease, adrenal insufficiency, or gastrointestinal surgeries.
+
+REFERENCE DIAGNOSIS: Reactive hypoglycemia associated with hypermobile Ehlers-Danlos Syndrome (hEDS).
+REFERENCE REASONING (clinician): - **Step 1:** Confirmation of the hypoglycemia diagnosis:
+  - Fulfillment of the Whipple triad (symptoms, documented low venous glucose, and symptom relief with glucose correction) confirmed hypoglycemia.
+  - Initial evaluation excluded nonislet cell tumor syndromes, insulinoma, and autoimmune hypoglycemia based on fasting test results with appropriate suppression of β-cell peptides and normal ketogenesis.
+- **Step 2:** Exclusion of alternative structural or surgical causes:
+  - History and imaging excluded gastrointestinal surgeries or structural abnormalities such as dumping syndrome.
+- **Step 3:** Evaluation of reactive (postprandial) hypoglycemia:
+  - Identified reactive hypoglycemia as a predominant trigger, which can occur in gastrointestinal dysmotility disorders or dysautonomia.
+- **Step 4:** Consideration of underlying EDS-related autonomic dysfunction:
+  - Dysautonomia, seen commonly in hEDS, could impair glucose counterregulation and explain hypoglycemia patterns.
+  - Additional contributing mechanisms such as rapid gastric emptying and impaired counterregulation were considered consistent with her clinical picture.
+- While rare, the strong association between hypoglycemia and hEDS in both the patient and similar case series supports the link between these conditions.
+
+--- RESPONSE R148 ---
+Documented hypoglycemia below 60 mg/dL with symptoms that resolve with treatment (Whipple's triad), in both fasting and postprandial states on CGM.
+Normal insulin, proinsulin, and C-peptide with appropriate ketogenesis during hypoglycemia. This excludes hyperinsulinemic causes such as insulinoma, sulfonylurea use, and insulin autoimmunity.
+Normal cortisol and imaging. This excludes adrenal insufficiency and tumors.
+hEDS (Beighton 9/9) with POTS, dysautonomia, and small fiber neuropathy. Autonomic dysfunction disrupts the counter-regulatory response and gut motility/absorption.
+Non-epileptic seizures on video EEG. The "seizures" are symptomatic or functional, not epilepsy.
+Hypoglycemia associated with hEDS/dysautonomia (non-insulin-mediated reactive and fasting hypoglycemia)
+Insulinoma / endogenous hyperinsulinism (including NIPHS)
+Adrenal insufficiency or other counter-regulatory hormone deficiency
+Factitious hypoglycemia
+Glycogen storage / fatty-acid oxidation disorder
+hEDS/dysautonomia-associated hypoglycemia.
+For: lifelong course, triggers (exertion, heat, meals, fasting), extensive dysautonomia, negative endocrine work-up.
+Against: this is a diagnosis of exclusion.
+Insulinoma / NIPHS.
+For: postprandial and fasting hypoglycemia.
+Against: normal β-cell peptides during hypoglycemia and normal CT.
+Adrenal insufficiency.
+For: orthostatic hypotension, fatigue.
+Against: normal cortisol.
+Factitious hypoglycemia.
+For: recurrent unexplained episodes.
+Against: suppressed insulin and C-peptide pattern, and many years of objectively documented episodes.
+Inborn metabolic error.
+For: fasting hypoglycemia.
+Against: appropriate ketogenesis, onset in adolescence, normal hepatic imaging.
+Hyperinsulinism, adrenal insufficiency, and factitious causes are excluded biochemically.
+Metabolic disorders are excluded by the normal ketogenesis and the clinical course.
+I commit to hypoglycemia secondary to hEDS-related autonomic dysfunction.
+Final diagnosis: Recurrent non-insulin-mediated (reactive and fasting) hypoglycemia associated with hypermobile Ehlers-Danlos syndrome and dysautonomia; episodes are non-epileptic.
+
+--- RESPONSE R037 ---
+The patient has a long-standing history of symptomatic hypoglycemia confirmed by capillary glucose (<60 mg/dL) and continuous glucose monitoring in both fasting and postprandial states, meeting Whipple's triad. Extensive endocrine and imaging workups excluded insulinoma and hyperinsulinemic states (normal insulin, proinsulin, C-peptide, and appropriate ketogenesis), adrenal insufficiency (normal cortisol), malnutrition, celiac disease, and prior gastrointestinal surgery. Given her underlying hypermobile Ehlers-Danlos syndrome (hEDS) with prominent dysautonomia, POTS, and small fiber neuropathy, along with triggers including heat, fasting, meals, and exertion, her non-insulin-mediated fasting and reactive hypoglycemic episodes are best explained as dysautonomia-associated (idiopathic) hypoglycemia in the setting of hEDS.
+Final diagnosis: Dysautonomia-associated idiopathic hypoglycemia (secondary to hypermobile Ehlers-Danlos syndrome)
+
+--- RESPONSE R118 ---
+She has had documented hypoglycemia (under 60 mg/dL) with symptoms since adolescence, in both postprandial and fasting states, triggered by exertion, heat and meals. Fasting studies show appropriately suppressed insulin, proinsulin and C-peptide with appropriate ketogenesis, which excludes insulinoma and other hyperinsulinemic causes. Cortisol is normal, imaging is unremarkable, and there is no malnutrition, celiac disease or prior GI surgery. The seizure-like episodes are nonepileptic. She has hEDS with dysautonomia and POTS, conditions in which autonomic dysregulation of glucose counter-regulation has been described.
+Final diagnosis: Non-insulin-mediated (reactive and fasting) hypoglycemia associated with hypermobile Ehlers-Danlos syndrome and dysautonomia.
+
+--- RESPONSE R074 ---
+33-year-old female with recurrent symptomatic hypoglycemia (capillary glucose consistently below 60 mg/dL, fulfilling Whipple's triad) since high school, presenting with neuroglycopenic and autonomic symptoms and recurrent nonepileptic seizure-like episodes.
+Continuous glucose monitoring (CGM) documenting both postprandial (reactive) and fasting hypoglycemia, triggered by meals, fasting, physical activity, and heat.
+Extensive background of hypermobile Ehlers-Danlos syndrome (hEDS, Beighton score 9/9) and severe dysautonomia (POTS, small fiber neuropathy, orthostatic hypotension, Raynaud syndrome).
+Normal fasting beta-cell peptides (insulin, proinsulin, C-peptide), normal cortisol, appropriate ketogenesis, and unremarkable abdominal CT and brain MRI, effectively excluding endogenous hyperinsulinism, adrenal insufficiency, and structural endocrine lesions.
+Normal BMI (22-23 kg/m2) with no malnutrition, celiac disease, or prior gastrointestinal surgery.
+Idiopathic hypoglycemia (associated with dysautonomia / hypermobile Ehlers-Danlos syndrome)
+Insulinoma / non-insulinoma pancreatogenous hypoglycemia syndrome (NIPHS)
+Adrenal insufficiency or hypopituitarism
+Dumping syndrome (post-gastric surgery reactive hypoglycemia)
+Factitious (surreptitious) hypoglycemia
+Idiopathic hypoglycemia (associated with dysautonomia / hEDS): Supported by documented true hypoglycemia (below 60 mg/dL) in both fasting and postprandial states on CGM, prior OGTT-confirmed reactive hypoglycemia, prominent dysautonomia/small fiber neuropathy and hEDS (which impair autonomic counter-regulatory responses and gastrointestinal motility), and complete exclusion of hyperinsulinemic, endocrine, structural, and nutritional causes. Argued against by its status as a diagnosis of exclusion, as no single biochemical defect is isolated.
+Insulinoma / NIPHS: Supported by recurrent severe fasting and postprandial hypoglycemia with neuroglycopenic symptoms since adolescence. Argued against by normal fasting insulin, proinsulin, and C-peptide levels, appropriate ketogenesis (hyperinsulinism suppresses ketogenesis), and an unremarkable abdominal CT.
+Adrenal insufficiency or hypopituitarism: Supported by fasting hypoglycemia, fatigue, orthostatic hypotension, and malaise. Argued against by normal cortisol levels, normal brain MRI, and explicit absence of adrenal insufficiency on testing.
+Dumping syndrome: Supported by postprandial reactive hypoglycemia triggered by meals. Argued against by the absence of prior gastrointestinal surgery and the presence of fasting hypoglycemia on CGM.
+Factitious hypoglycemia: Supported by recurrent unexplained hypoglycemia with normal imaging. Argued against by normal insulin and C-peptide levels with appropriate ketogenesis during fasting studies (exogenous insulin or sulfonylureas would cause suppressed ketogenesis and abnormal insulin/C-peptide profiles) and consistent chronic triggers since high school.
+Insulinoma, NIPHS, and factitious hypoglycemia are excluded by normal beta-cell peptides (insulin, proinsulin, C-peptide), appropriate ketogenesis, and normal abdominal CT. Adrenal insufficiency and pituitary disease are excluded by normal cortisol and normal brain MRI. Surgical dumping syndrome is excluded by the lack of prior GI surgery. With all endocrine, neoplastic, nutritional, and surgical causes rigorously ruled out in a patient with documented fasting and postprandial hypoglycemia alongside severe dysautonomia and hEDS, the diagnosis commits to idiopathic hypoglycemia associated with dysautonomia and hypermobile Ehlers-Danlos syndrome.
+Final diagnosis: Idiopathic hypoglycemia (associated with dysautonomia and hypermobile Ehlers-Danlos syndrome)
+
+===== CASE =====
+- Patient Information: 58-year-old male.
+- Chief Complaint: None explicitly noted; major concerns include cutaneous ulcerations, respiratory involvement, and sinus and orbital issues.
+- History of Present Illness: Chronic sinusitis, epistaxis, cavitary lung lesions unresponsive to antibiotics, and subsequent development of painful bilateral lower extremity cutaneous ulcerations following prednisone taper. Later symptoms included sinus pain, proptosis, and periocular swelling.
+- Past Medical History: Intranasal cocaine use, chronic sinusitis, and epistaxis.
+- Personal History: Intranasal cocaine use.
+- Family History: None mentioned.
+- Physical Examination: Well-demarcated ulcers with raised violaceous borders; sinus opacification, midline septal defect, destruction of the orbital floor, and hard palate.
+- Ancillary Tests: Negative autoimmune and ANCA workup, normal serum protein electrophoresis and eosinophil levels, abnormal histologic findings (PG on skin biopsy; nonspecific findings lacking classic signs of [REDACTED]), radiologic findings of lung and sinus involvement, and culture showing neutrophils without infection.
+
+REFERENCE DIAGNOSIS: ANCA-negative Granulomatosis with Polyangiitis (GPA) with Pyoderma Gangrenosum (PG)-like presentations.
+REFERENCE REASONING (clinician): 1. **Multisystem Pyoderma Gangrenosum (PG)**: Initially considered due to the presence of PG-like cutaneous ulcers and negative ANCA. Skin biopsy findings and temporary response to immunosuppressive therapy supported this diagnosis. However, recurrent symptoms, progression of disease (sinus and bone destruction), and multisystem involvement complicated the diagnosis.
+2. **Granulomatosis with Polyangiitis (GPA)**: Despite ANCA negativity, sinus and lung involvement, bone necrosis, and systemic inflammation raised suspicion for ANCA-negative GPA. Renal sparing and absence of definitive histological findings are known in GPA and aligned with the clinical presentation.
+3. **Infectious, Autoimmune, or Malignant Conditions**: Infections were ruled out by culture; autoimmune conditions like inflammatory bowel disease or arthritis were unlikely due to a lack of systemic features; malignancy was ruled out by histopathological assessments.
+
+Through systemic exclusion, ANCA-negative GPA with PG-like ulceration emerged as the robust diagnosis based on multisystem disease and evidence of granulomatous inflammation despite negative lab and biopsy findings.
+
+--- RESPONSE R033 ---
+Severe destructive sinonasal and orbital disease (chronic sinusitis, epistaxis, midline septal defect, destruction of the orbital floor and hard palate, proptosis, periocular swelling): Indicates an aggressive necrotizing midline destructive process.
+Cavitary lung lesions unresponsive to antibiotics: Strongly favors a systemic necrotizing vasculitis/granulomatous disorder over localized sinonasal pathology or bacterial pneumonia.
+Well-demarcated lower extremity ulcers with raised violaceous borders confirmed as pyoderma gangrenosum (PG) on biopsy, flaring after prednisone taper: Steroid-responsive neutrophilic dermatosis (PG) is a recognized cutaneous manifestation of systemic vasculitis (particularly GPA) and argues for an immune-mediated systemic process.
+Negative ANCA and autoimmune workup, with nonspecific biopsy findings lacking classic histologic signs: Highlights a diagnostic challenge (ANCA-negative disease vs. cocaine-induced mimic).
+History of intranasal cocaine use: Major confounder that can cause midline destructive lesions and mimic systemic vasculitis.
+ANCA-negative Granulomatosis with polyangiitis (GPA)
+Cocaine-induced midline destructive lesions (CIMDL) with levamisole-associated vasculopathy/PG
+Extranodal NK/T-cell lymphoma, nasal type
+Invasive fungal rhinosinusitis (e.g., mucormycosis or aspergillosis)
+ANCA-negative Granulomatosis with polyangiitis (GPA):
+For: Classic multisystem triad of upper respiratory/sinonasal destruction (chronic sinusitis, epistaxis, septal/palatal/orbital floor destruction, proptosis), lower respiratory tract involvement (antibiotic-refractory cavitary lung lesions), and cutaneous involvement (pyoderma gangrenosum-like/PG ulcerations flaring upon prednisone taper, demonstrating steroid responsiveness); the case specifically notes nonspecific histology lacking classic signs of the redacted entity (granulomatous vasculitis), which is well-documented in limited or partially treated/steroid-exposed GPA.
+Against: Negative ANCA serology (seen in a minority of GPA cases), history of intranasal cocaine use, and absence of classic necrotizing granulomatous vasculitis on biopsy.
+Cocaine-induced midline destructive lesions (CIMDL):
+For: Explicit history of intranasal cocaine use; severe midline destruction involving the nasal septum, hard palate, and orbital floor; negative ANCA; nonspecific histology without classic GPA granulomas; cocaine/levamisole can also trigger cutaneous ulcerations/PG.
+Against: Antibiotic-unresponsive cavitary lung lesions are classic for systemic GPA and far less typical of isolated CIMDL, and the cutaneous ulcers specifically flared following a prednisone taper (pointing to a steroid-dependent systemic inflammatory disease).
+Extranodal NK/T-cell lymphoma, nasal type:
+For: Midline sinonasal, palatal, and orbital destruction with negative ANCA and sterile cultures.
+Against: Biopsy showed nonspecific findings and PG rather than angiocentric atypical lymphoid infiltrate; cavitary lung lesions and steroid-taper-triggered lower extremity PG ulcers are atypical.
+Invasive fungal rhinosinusitis:
+For: Orbital floor and hard palate destruction, proptosis, periocular swelling, and cavitary lung lesions.
+Against: Cultures showed neutrophils without infection, no fungal hyphae were seen on histology, and no underlying severe immunocompromise (e.g., DKA, neutropenia) is reported.
+Invasive fungal rhinosinusitis is excluded by sterile cultures and absence of fungal elements on histology. Extranodal NK/T-cell lymphoma is excluded by the lack of malignant lymphoid infiltration on biopsy and the presence of steroid-responsive PG ulcers and cavitary pulmonary lesions. While CIMDL is a strong mimic given the cocaine history and negative ANCA, the combination of antibiotic-unresponsive cavitary lung lesions, severe sinonasal/orbital destruction, and biopsy-proven pyoderma gangrenosum flaring after prednisone taper—along with the biopsy explicitly noted as lacking classic histologic signs of the condition—favors ANCA-negative Granulomatosis with polyangiitis (GPA).
+Final diagnosis: ANCA-negative Granulomatosis with polyangiitis (GPA)
+
+--- RESPONSE R070 ---
+Painful lower-limb ulcers with well-demarcated, raised violaceous borders. Skin biopsy is consistent with pyoderma gangrenosum (PG), and the ulcers appeared during a prednisone taper, which suggests the disease responds to steroids.
+Midline destructive disease: septal perforation and destruction of the hard palate and orbital floor, in a person who uses intranasal cocaine.
+Cavitary lung lesions that did not respond to antibiotics; cultures showed sterile neutrophilic infiltrates.
+ANCA negative, autoimmune work-up negative, and biopsies lacked the classic features of granulomatosis with polyangiitis (GPA).
+Normal serum protein electrophoresis and normal eosinophils, which argues against a paraproteinemia or eosinophilic granulomatosis.
+Pyoderma gangrenosum with extracutaneous (pulmonary, sinonasal and orbital) involvement, in the setting of cocaine-induced midline destructive lesions (CIMDL)
+Granulomatosis with polyangiitis, ANCA-negative
+Cocaine/levamisole-induced vasculopathy
+Chronic infection (fungal or mycobacterial)
+Extranodal NK/T-cell lymphoma, nasal type
+PG with extracutaneous involvement plus CIMDL
+For: biopsy-proven PG; sterile neutrophilic lung lesions; flare when steroids were tapered; septal and palatal destruction explained by cocaine.
+Against: lung and orbital PG is rare.
+ANCA-negative GPA
+For: the triad of sinus, lung and skin disease; cavitating nodules; orbital involvement.
+Against: ANCA negative; no granulomatous vasculitis on biopsy; cocaine alone can explain the midline destruction.
+Levamisole/cocaine vasculopathy
+For: active cocaine use.
+Against: no retiform purpura or ear-lobe necrosis; ANCA negative (levamisole usually produces high-titre ANCA); histology shows PG rather than vasculitis.
+Infection
+For: cavitation; sinus disease.
+Against: cultures negative; no response to antibiotics; the lesions respond to steroids.
+NK/T-cell lymphoma
+For: midline destruction.
+Against: no atypical lymphoid infiltrate on biopsy.
+Infection is excluded by negative cultures and antibiotic failure. Lymphoma is excluded by histology. GPA and levamisole vasculopathy are excluded by negative serology and the absence of vasculitic or granulomatous histology. A single sterile neutrophilic process that responds to steroids and involves skin, lung and orbit, with cocaine accounting for the midline destruction, best explains everything. I commit to PG with systemic involvement.
+Final diagnosis: Pyoderma gangrenosum with extracutaneous (pulmonary and sinonasal/orbital) involvement, associated with cocaine-induced midline destructive lesions; GPA mimic
+
+--- RESPONSE R127 ---
+This 58-year-old male presents with a multisystem necrotizing and destructive process involving the upper respiratory tract (chronic sinusitis, epistaxis, midline septal defect, destruction of the orbital floor and hard palate, proptosis), lower respiratory tract (cavitary lung lesions unresponsive to antibiotics), and skin (painful lower extremity ulcers with raised violaceous borders confirmed as pyoderma gangrenosum on biopsy, flaring upon prednisone taper). Although intranasal cocaine use can cause cocaine-induced midline destructive lesions (CIMDL), CIMDL does not typically account for cavitary pulmonary lesions and systemic steroid-responsive pyoderma gangrenosum. While ANCA serology is negative and biopsy findings are nonspecific, ANCA-negative granulomatosis with polyangiitis (GPA) is well recognized and classically presents with this exact combination of sinonasal/orbital destruction, cavitary lung lesions, and pyoderma gangrenosum-like cutaneous ulcerations.
+Final diagnosis: ANCA-negative granulomatosis with polyangiitis (GPA)
+
+--- RESPONSE R124 ---
+This man uses intranasal cocaine and has chronic sinusitis, epistaxis, a septal perforation, and destruction of the orbital floor and hard palate. That is a midline destructive process. He also has cavitary lung lesions that did not respond to antibiotics, and painful ulcers with violaceous borders whose biopsy showed pyoderma gangrenosum. The picture mimics granulomatosis with polyangiitis (GPA), but ANCA and the autoimmune workup were negative and histology lacked the classic features of GPA. Cultures showed neutrophils without infection. Cocaine (and levamisole-adulterated cocaine) can cause a pseudovasculitis with midline destruction and pyoderma gangrenosum-like ulcers.
+Final diagnosis: Cocaine-induced midline destructive lesion with pyoderma gangrenosum (cocaine-induced GPA-mimicking pseudovasculitis)
+
+===== CASE =====
+- **Patient Information:** 28-year-old male.
+- **Chief Complaint:** Acute epigastric and left hypochondrium pain for 3 days, inability to pass stool and flatus.
+- **History of Present Illness:** Multiple episodes of non-bilious, non-projectile vomiting. No abdominal distension, fever, or shortness of breath.
+- **Past Medical History:** Road traffic accident 2 years ago with left chest impact and rib fractures requiring thoracostomy tube placement (documentation unavailable).
+- **Personal History:** None.
+- **Family History:** None.
+- **Physical Examination:** Tachypnea (respiratory rate: 22 cycles/min). Tenderness in left hypochondrium and epigastric region. Absence of breath sounds in the lower chest with audible bowel sounds. Abdomen soft and non-distended.
+- **Ancillary Tests:** 
+  - Routine bloodwork: Normal.
+  - Chest X-ray: Bowel loops herniated into the left hemithorax with lower lung collapse.
+  - CT: 4 cm diaphragmatic defect with protrusion of intra-abdominal content into the left hemidiaphragm, basal atelectasis of the left lung, and mild jejunal dilatation with air-fluid levels, no transition point.
+
+REFERENCE DIAGNOSIS: Delayed traumatic diaphragmatic hernia with bowel herniation.
+REFERENCE REASONING (clinician): 1. **Initial considerations for diagnosis:** Based on symptoms of pain, vomiting, absent stool/flatus, and history of blunt trauma, potential causes included bowel obstruction, perforated viscus, or delayed presentation of a traumatic diaphragmatic hernia.
+2. **Ruling out bowel obstruction as primary diagnosis:** Although jejunal dilatation and air-fluid levels were noted, there was no transition point or signs of strangulation on CT.
+3. **Excluding perforated viscus:** No evidence of free air or peritoneal signs was observed clinically or on imaging.
+4. **Confirming delayed traumatic diaphragmatic hernia diagnosis:**
+   - History of prior trauma and imaging findings (herniated bowel loops and diaphragmatic defect with respiratory compromise) were consistent with this diagnosis.
+   - Clinical examination corroborated findings with audible bowel sounds in the lower chest and decreased breath sounds.
+
+--- RESPONSE R055 ---
+Prior blunt left chest trauma with rib fractures and a chest tube, two years earlier. This sets up an occult diaphragmatic injury.
+Bowel sounds heard in the left chest, with absent breath sounds and tachypnea.
+Chest X-ray and CT show bowel in the left hemithorax through a 4 cm diaphragmatic defect, with lower lobe collapse.
+Obstipation, vomiting, and jejunal air-fluid levels indicate obstruction of the herniated bowel.
+Normal blood tests and a soft abdomen argue against strangulation at this stage.
+Delayed post-traumatic left diaphragmatic hernia with bowel obstruction
+Congenital (Bochdalek) diaphragmatic hernia
+Diaphragmatic eventration
+Adhesive small bowel obstruction
+Left pleural effusion/hemothorax
+Traumatic diaphragmatic hernia
+For: trauma history, a focal defect, herniated bowel, and obstruction.
+Against: none.
+Bochdalek hernia
+For: left-sided location.
+Against: adult presentation after a clear traumatic injury.
+Eventration
+For: elevated abdominal contents.
+Against: CT shows a true defect rather than an intact, thinned diaphragm.
+Adhesive SBO
+For: obstruction.
+Against: the bowel is in the thorax, and there was no abdominal surgery.
+Effusion/hemothorax
+For: absent breath sounds.
+Against: bowel loops are seen on imaging.
+Imaging and the history exclude the alternatives. I commit to a delayed traumatic diaphragmatic hernia complicated by bowel obstruction.
+Final diagnosis: Delayed post-traumatic left diaphragmatic hernia with herniated small bowel causing intestinal obstruction
+
+--- RESPONSE R152 ---
+The 28-year-old male presented with acute epigastric and left upper quadrant pain, vomiting, and obstipation (inability to pass stool or flatus) two years after blunt left chest trauma with rib fractures from a road traffic accident. Physical exam revealed absent breath sounds and audible bowel sounds in the left lower hemithorax. Chest X-ray and CT confirmed a 4 cm left diaphragmatic defect with herniation of intra-abdominal bowel loops into the left hemithorax, basal lung atelectasis, and jejunal dilatation with air-fluid levels, establishing a delayed traumatic diaphragmatic hernia complicated by bowel obstruction.
+Final diagnosis: Delayed traumatic diaphragmatic hernia (with small bowel obstruction)
+
+--- RESPONSE R092 ---
+Two years earlier, he had left-sided blunt chest trauma with rib fractures and a chest tube. He now has epigastric and left upper quadrant pain, vomiting and obstipation. Absent lower chest breath sounds with audible bowel sounds suggest bowel in the chest. Chest X-ray shows bowel loops in the left hemithorax. CT confirms a 4 cm diaphragmatic defect with abdominal contents herniating into the chest, left basal atelectasis, and jejunal dilatation with air-fluid levels.
+Final diagnosis: Delayed post-traumatic left diaphragmatic hernia with herniated bowel causing small bowel obstruction.
+
+--- RESPONSE R027 ---
+Remote thoracic trauma: Road traffic accident 2 years ago with left chest impact, rib fractures, and thoracostomy tube placement—classic mechanism for an initially occult left diaphragmatic rupture.
+Clinical signs of thoracic herniation and obstruction: 3 days of acute epigastric/left hypochondrium pain, obstipation (no stool or flatus), non-bilious vomiting, tachypnea (RR 22), and absent breath sounds with audible bowel sounds in the left lower chest.
+Diagnostic imaging: Chest X-ray shows bowel loops in the left hemithorax with lower lung collapse; CT confirms a 4 cm left diaphragmatic defect with herniation of intra-abdominal contents into the left hemithorax, basal atelectasis, and jejunal dilatation with air-fluid levels.
+Delayed traumatic diaphragmatic hernia (with small bowel obstruction)
+Congenital diaphragmatic hernia (e.g., adult-presenting Bochdalek hernia)
+Paraesophageal (hiatal) hernia with obstruction
+Diaphragmatic eventration with concurrent small bowel obstruction
+Delayed traumatic diaphragmatic hernia:
+For: Clear history of blunt left chest trauma with rib fractures 2 years prior; acute obstructive symptoms; audible bowel sounds in the left chest; CT confirmation of a discrete 4 cm left diaphragmatic defect with herniated bowel and air-fluid levels.
+Against: None.
+Congenital diaphragmatic hernia (Bochdalek hernia):
+For: Left-sided diaphragmatic defect with bowel herniation into the hemithorax and basal lung atelectasis.
+Against: Far less likely in a 28-year-old with a well-documented history of severe left-sided blunt chest trauma and rib fractures 2 years earlier, which directly accounts for an acquired defect.
+Paraesophageal (hiatal) hernia:
+For: Epigastric pain, vomiting, and intrathoracic herniation of abdominal contents.
+Against: CT specifically identifies a 4 cm diaphragmatic defect with herniation into the left hemithorax rather than herniation through the esophageal hiatus, and the patient has a clear history of left chest trauma.
+Diaphragmatic eventration with concurrent small bowel obstruction:
+For: Elevated abdominal contents in the left hemithorax, basal atelectasis, and jejunal dilatation with air-fluid levels.
+Against: Eventration involves an intact, thinned hemidiaphragm without a true defect; CT explicitly demonstrates a 4 cm diaphragmatic defect with protrusion of intra-abdominal contents.
+Diaphragmatic eventration is excluded because CT shows a true 4 cm defect rather than an intact elevated diaphragm. Paraesophageal hernia is excluded by the location of the defect in the left hemidiaphragm rather than the esophageal hiatus. Congenital Bochdalek hernia is far less plausible given the significant history of blunt left thoracic trauma with rib fractures 2 years prior. I commit to delayed traumatic diaphragmatic hernia.
+Final diagnosis: Delayed traumatic diaphragmatic hernia
+

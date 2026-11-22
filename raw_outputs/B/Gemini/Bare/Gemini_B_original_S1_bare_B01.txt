@@ -1,0 +1,23 @@
+CASE: M001
+FINAL DIAGNOSIS: Schwannomatosis
+
+CASE: M002
+FINAL DIAGNOSIS: Synchronous bilateral triple-negative invasive ductal breast carcinoma and primary pulmonary carcinoma
+
+CASE: M003
+FINAL DIAGNOSIS: Omental cystic lymphangioma
+
+CASE: M004
+FINAL DIAGNOSIS: Primary mucinous cystadenocarcinoma of the breast
+
+CASE: M005
+FINAL DIAGNOSIS: Primary herpes simplex virus type 1 (HSV-1) esophagitis
+
+CASE: M006
+FINAL DIAGNOSIS: Gastric schwannoma
+
+CASE: M007
+FINAL DIAGNOSIS: Interstitial ectopic pregnancy
+
+CASE: M008
+FINAL DIAGNOSIS: Acute-on-chronic mesenteric ischemia secondary to metastatic small bowel neuroendocrine tumor

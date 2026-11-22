@@ -1,0 +1,251 @@
+CASE: M081
+
+KEY FINDINGS:
+Bilateral symmetric calcifications of the basal ganglia, thalami and subcortical white matter on CT. This is the defining imaging finding.
+Progressive neuropsychiatric decline: agitation, dysarthria, seizures, chorea, rigidity, spasticity, cognitive impairment (MoCA 22/30). This is the typical clinical picture of striatopallidodentate calcification.
+Copper and calcium metabolism tests were normal, which excludes Wilson disease and the parathyroid causes of calcification.
+Anemia, high ESR and high CRP point to chronic inflammation or deprivation, but nothing in them is specific.
+Subclinical hypothyroidism (TSH 13.92) is an incidental finding and does not explain the calcification.
+Onset is in adolescence with no family history, so the condition is sporadic or not yet recognized as familial.
+DIFFERENTIAL:
+Fahr disease (primary/idiopathic basal ganglia calcification)
+Secondary Fahr syndrome from hypoparathyroidism or pseudohypoparathyroidism
+Wilson disease
+Mitochondrial disorder (e.g., MELAS, Kearns-Sayre)
+Post-infectious or inflammatory calcification (e.g., neurocysticercosis, TORCH sequelae)
+EVIDENCE FOR AND AGAINST:
+Fahr disease
+For: symmetric calcification in a classic distribution; mixed movement disorder; seizures; cognitive decline; metabolic causes excluded.
+Against: no family history (although sporadic cases occur); onset is earlier than the typical 4th to 5th decade.
+Hypoparathyroidism or pseudohypoparathyroidism
+For: this is the most common cause of the same imaging picture.
+Against: calcium metabolism was normal and the case states it was ruled out.
+Wilson disease
+For: adolescent onset; chorea, rigidity and dysarthria; dark urine early in the illness.
+Against: copper studies ruled it out; Wilson disease does not cause calcification.
+Mitochondrial disorder
+For: seizures, headaches, cognitive decline, basal ganglia calcification.
+Against: no stroke-like episodes, ophthalmoplegia, myopathy or lactate data; no maternal family history.
+Infectious or inflammatory calcification
+For: low socioeconomic setting; febrile onset; raised inflammatory markers.
+Against: the calcification is symmetric and confined to deep structures rather than scattered; no cystic lesions are described.
+EXCLUSIONS AND COMMITMENT: Wilson disease and the parathyroid disorders are excluded by laboratory testing. A mitochondrial disorder is not supported by the phenotype. Infectious calcification does not fit the symmetric deep distribution. What remains is idiopathic bilateral striatopallidodentate calcification with its typical neuropsychiatric picture, so I commit to Fahr disease.
+FINAL DIAGNOSIS: Fahr disease (primary/idiopathic bilateral basal ganglia calcification)
+
+CASE: M082
+
+KEY FINDINGS:
+Painful lower-limb ulcers with well-demarcated, raised violaceous borders. Skin biopsy is consistent with pyoderma gangrenosum (PG), and the ulcers appeared during a prednisone taper, which suggests the disease responds to steroids.
+Midline destructive disease: septal perforation and destruction of the hard palate and orbital floor, in a person who uses intranasal cocaine.
+Cavitary lung lesions that did not respond to antibiotics; cultures showed sterile neutrophilic infiltrates.
+ANCA negative, autoimmune work-up negative, and biopsies lacked the classic features of granulomatosis with polyangiitis (GPA).
+Normal serum protein electrophoresis and normal eosinophils, which argues against a paraproteinemia or eosinophilic granulomatosis.
+DIFFERENTIAL:
+Pyoderma gangrenosum with extracutaneous (pulmonary, sinonasal and orbital) involvement, in the setting of cocaine-induced midline destructive lesions (CIMDL)
+Granulomatosis with polyangiitis, ANCA-negative
+Cocaine/levamisole-induced vasculopathy
+Chronic infection (fungal or mycobacterial)
+Extranodal NK/T-cell lymphoma, nasal type
+EVIDENCE FOR AND AGAINST:
+PG with extracutaneous involvement plus CIMDL
+For: biopsy-proven PG; sterile neutrophilic lung lesions; flare when steroids were tapered; septal and palatal destruction explained by cocaine.
+Against: lung and orbital PG is rare.
+ANCA-negative GPA
+For: the triad of sinus, lung and skin disease; cavitating nodules; orbital involvement.
+Against: ANCA negative; no granulomatous vasculitis on biopsy; cocaine alone can explain the midline destruction.
+Levamisole/cocaine vasculopathy
+For: active cocaine use.
+Against: no retiform purpura or ear-lobe necrosis; ANCA negative (levamisole usually produces high-titre ANCA); histology shows PG rather than vasculitis.
+Infection
+For: cavitation; sinus disease.
+Against: cultures negative; no response to antibiotics; the lesions respond to steroids.
+NK/T-cell lymphoma
+For: midline destruction.
+Against: no atypical lymphoid infiltrate on biopsy.
+EXCLUSIONS AND COMMITMENT: Infection is excluded by negative cultures and antibiotic failure. Lymphoma is excluded by histology. GPA and levamisole vasculopathy are excluded by negative serology and the absence of vasculitic or granulomatous histology. A single sterile neutrophilic process that responds to steroids and involves skin, lung and orbit, with cocaine accounting for the midline destruction, best explains everything. I commit to PG with systemic involvement.
+FINAL DIAGNOSIS: Pyoderma gangrenosum with extracutaneous (pulmonary and sinonasal/orbital) involvement, associated with cocaine-induced midline destructive lesions; GPA mimic
+
+CASE: M083
+
+KEY FINDINGS:
+Acute viral prodrome (fever, cough, coryza), then wheeze, tachypnea (RR 62), subcostal retractions and tachycardia. This is lower respiratory tract obstruction, i.e., bronchiolitis or a wheezing illness.
+Bilateral hyperinflation on chest X-ray, with no consolidation, which is consistent with small-airway disease.
+Mildly raised CRP and a sterile blood culture, which favour a viral rather than bacterial cause.
+Nasopharyngeal RT-PCR positive for a non-RSV virus (Ct 28, a substantial viral load); RSV negative.
+Microcytic hypochromic anemia, which is incidental (likely iron deficiency).
+DIFFERENTIAL:
+Human metapneumovirus (hMPV) bronchiolitis
+RSV bronchiolitis
+Rhinovirus or other viral wheeze
+Bacterial pneumonia
+Foreign-body aspiration or early asthma
+EVIDENCE FOR AND AGAINST:
+hMPV bronchiolitis
+For: a picture clinically identical to RSV but with RSV PCR negative; positive targeted RT-PCR; hyperinflation; toddler age.
+Against: the virus name is redacted, so its identity is inferred rather than confirmed.
+RSV
+For: classic presentation.
+Against: PCR negative.
+Rhinovirus or other virus
+For: common cause of wheeze.
+Against: the case emphasizes a specific positive PCR as the explanation.
+Bacterial pneumonia
+Against: no consolidation, sterile blood culture, low CRP.
+Foreign body or asthma
+Against: febrile coryzal onset; bilateral symmetric findings; no history of choking.
+EXCLUSIONS AND COMMITMENT: RSV is excluded by PCR. Bacterial infection is excluded by the CXR, culture and CRP. Foreign body and asthma do not fit the infectious onset. The leading non-RSV cause of RSV-like bronchiolitis that is diagnosed by targeted RT-PCR is hMPV, so I commit to it. The virus itself is redacted in the case.
+FINAL DIAGNOSIS: Human metapneumovirus (hMPV) acute bronchiolitis
+
+CASE: M084
+
+KEY FINDINGS:
+Absent posterior septum pellucidum. The crura of the fornix are inferiorly displaced and not joined by a commissure. This is a midline developmental anomaly.
+Lateral ventricles mildly prominent; third and fourth ventricles normal. This argues against hydrocephalus-induced destruction of the septum.
+No other anomalies: the corpus callosum, cortex and optic structures are not reported abnormal, and there is no visual or endocrine complaint.
+20-year history of generalized tonic-clonic seizures with a normal neurological examination.
+DIFFERENTIAL:
+Isolated partial (posterior) agenesis of the septum pellucidum
+Septo-optic dysplasia
+Lobar holoprosencephaly or the septopreoptic variant
+Septal absence secondary to schizencephaly, callosal agenesis or polymicrogyria
+Acquired septal fenestration from chronic hydrocephalus
+EVIDENCE FOR AND AGAINST:
+Isolated partial septal agenesis
+For: imaging confined to the septum and fornix; no other malformation; normal examination.
+Against: the association with epilepsy is debated, but it is reported.
+Septo-optic dysplasia
+For: absent septum.
+Against: no visual deficit, optic nerve hypoplasia or pituitary dysfunction; the absence is partial and posterior, whereas SOD typically involves the anterior septum.
+Holoprosencephaly
+Against: the hemispheres are separated; the frontal horns and third ventricle are normal.
+Schizencephaly, callosal agenesis or polymicrogyria
+Against: the MRI shows no other anomaly.
+Hydrocephalus-related fenestration
+Against: ventricles only mildly prominent; third and fourth ventricles normal.
+EXCLUSIONS AND COMMITMENT: SOD is excluded clinically and by the location of the defect. Holoprosencephaly and the associated cortical or callosal malformations are excluded on imaging. Hydrocephalus is excluded by the normal ventricular system. I commit to isolated posterior septal agenesis with fornix maldevelopment, presenting as epilepsy.
+FINAL DIAGNOSIS: Isolated partial (posterior) agenesis of the septum pellucidum with fornix anomaly, presenting with epilepsy
+
+CASE: M085
+
+KEY FINDINGS:
+Large, well-defined, heterogeneous liver mass with gradual (delayed) enhancement, and necrosis or hemorrhage on MRI. This is a mesenchymal rather than a hepatocellular enhancement pattern.
+AFP, CEA and CA19-9 normal despite chronic HBV, which argues against HCC and cholangiocarcinoma.
+Pathology shows two components:
+a differentiated spindle-cell area positive for desmin, caldesmon and SMA (smooth-muscle lineage);
+an abrupt dedifferentiated area with high mitotic rate, necrosis and high Ki-67.
+DIFFERENTIAL:
+Primary hepatic dedifferentiated leiomyosarcoma
+Sarcomatoid HCC or sarcomatoid cholangiocarcinoma
+GIST arising from the stomach or lesser omentum and involving the liver
+Hepatic PEComa (angiomyolipoma)
+Metastatic leiomyosarcoma
+EVIDENCE FOR AND AGAINST:
+Dedifferentiated leiomyosarcoma
+For: full smooth-muscle immunoprofile; a well-differentiated component next to a high-grade dedifferentiated one; delayed enhancement.
+Against: primary hepatic leiomyosarcoma is rare.
+Sarcomatoid HCC or cholangiocarcinoma
+For: HBV background.
+Against: normal tumour markers; no epithelial component reported; desmin and caldesmon positive.
+GIST
+For: hepatogastric location; spindle cells.
+Against: desmin and caldesmon positivity is atypical; final pathology favours smooth-muscle tumour.
+PEComa
+For: SMA positive; spindle cells.
+Against: no fat, epithelioid cells or melanocytic markers; there is a dedifferentiated component.
+Metastasis
+Against: no other primary is described.
+EXCLUSIONS AND COMMITMENT: Epithelial liver cancers are excluded by the markers and immunohistochemistry. GIST and PEComa are excluded by the smooth-muscle immunoprofile. Metastasis is excluded by the absence of a primary. The biphasic smooth-muscle histology defines dedifferentiated leiomyosarcoma, so I commit to it.
+FINAL DIAGNOSIS: Primary dedifferentiated leiomyosarcoma of the liver
+
+CASE: M086
+
+KEY FINDINGS:
+Postmenopausal woman with four months of pain, weight loss and anorexia: a constitutional picture.
+Large (15 cm) solid ovarian mass with necrosis and a ruptured capsule; peritoneal spread (FIGO IIIC).
+CA19-9 and LDH elevated, which fits a teratoma-derived and/or high-grade tumour; CA-125 and CEA normal, which argues against epithelial carcinoma.
+High-grade spindle-cell sarcoma arising within a teratoma; SMA positive and S100 negative, indicating smooth-muscle differentiation.
+DIFFERENTIAL:
+Leiomyosarcoma arising from malignant transformation of a mature cystic teratoma
+Ovarian carcinosarcoma (malignant mixed Müllerian tumour)
+Primary ovarian leiomyosarcoma (not teratoma-derived)
+Immature teratoma
+Malignant peripheral nerve sheath tumour or other sarcoma arising in a teratoma
+EVIDENCE FOR AND AGAINST:
+Leiomyosarcoma in teratoma
+For: teratomatous elements with a malignant spindle-cell component; SMA positive and S100 negative.
+Against: rare (most transformations are squamous carcinoma).
+Carcinosarcoma
+For: age; aggressive behaviour.
+Against: no carcinomatous component; normal CA-125.
+Primary ovarian leiomyosarcoma
+For: same immunophenotype.
+Against: teratoma features are present, which indicates the tumour arose from one.
+Immature teratoma
+Against: postmenopausal age; no immature neuroectoderm reported; sarcomatous rather than embryonal histology.
+MPNST or other sarcoma
+Against: S100 negative; SMA positive.
+EXCLUSIONS AND COMMITMENT: Carcinosarcoma is excluded by the absence of epithelium. Immature teratoma is excluded by age and histology. MPNST is excluded by the S100-negative, SMA-positive profile. "De novo" leiomyosarcoma is excluded because teratoma features are present. I commit to leiomyosarcoma arising in a teratoma.
+FINAL DIAGNOSIS: Ovarian leiomyosarcoma arising from malignant transformation of a mature cystic teratoma, FIGO stage IIIC
+
+CASE: M087
+
+KEY FINDINGS:
+Slow-growing, asymptomatic, lobulated lesion that looks submucosal, near the GE junction, over three years, after treated H. pylori gastritis.
+EUS shows high internal echoes without posterior attenuation. This does not fit a hypoechoic GIST or leiomyoma.
+CT shows enhancement similar to the gastric wall, which suggests the lesion is made of mucosa-like tissue.
+Resection showed downward (inverted) proliferation of hyperplastic crypt epithelium into the submucosa, with sparse spindle cells and no eosinophils.
+The FNA suggestion of an inflammatory fibroid polyp was a sampling artefact.
+DIFFERENTIAL:
+Gastric hamartomatous inverted polyp (inverted hyperplastic polyp)
+Inflammatory fibroid polyp
+Gastritis cystica profunda / submucosal heterotopic glands
+GIST or leiomyoma
+Well-differentiated adenocarcinoma with submucosal invasion
+EVIDENCE FOR AND AGAINST:
+Inverted polyp
+For: mucosal crypts proliferating down into the submucosa; submucosal-tumour appearance; heterogeneous high internal echoes; background of a prior hyperplastic polyp.
+Against: the diagnosis was not reached before resection.
+Inflammatory fibroid polyp
+For: FNA showed SMA-positive spindle cells.
+Against: spindle cells are sparse, there are no eosinophils, and the lesion is predominantly glandular.
+Gastritis cystica profunda
+For: glands in the submucosa.
+Against: no prior surgery or anastomosis; the lesion is a discrete lobulated polyp rather than diffuse cystic dilatation.
+GIST or leiomyoma
+Against: DOG1 negative; no spindle-cell mass; echo pattern does not fit.
+Adenocarcinoma
+Against: no atypia; slow course.
+EXCLUSIONS AND COMMITMENT: GIST and leiomyoma are excluded by immunohistochemistry and EUS. IFP is excluded by the lack of eosinophils and the scant stroma. Carcinoma is excluded by the absence of atypia. A discrete inverted polyp is a better fit than diffuse gastritis cystica profunda. I commit to gastric hamartomatous inverted polyp.
+FINAL DIAGNOSIS: Gastric hamartomatous inverted polyp (inverted hyperplastic polyp)
+
+CASE: M088
+
+KEY FINDINGS:
+Focal seizures with visual aura (blurred vision), ictal nystagmus and preserved awareness. This points to an occipital (posterior cortex) seizure onset.
+Epileptiform activity in the right occipital region spreading to the right temporal and parietal regions, which matches the lesion side. The right-sided clonic movements suggest spread or a possible laterality inconsistency in the report.
+Cortical lesion in the right parieto-occipital region with a bulging (expanded) gyrus, T1 isointense and only slightly T2/FLAIR hyperintense, with perifocal edema.
+Epilepsy persisted while the EEG fluctuated, which fits a structural, lesional epilepsy.
+DIFFERENTIAL:
+Low-grade diffuse glioma (pediatric-type, e.g., diffuse astrocytoma or angiocentric glioma)
+Dysembryoplastic neuroepithelial tumour (DNET)
+Ganglioglioma
+Focal cortical dysplasia
+Peri-ictal MRI changes or focal encephalitis (e.g., MOG-associated cortical encephalitis)
+EVIDENCE FOR AND AGAINST:
+Diffuse low-grade glioma
+For: gyral expansion; T1 isointense with only slight T2 hyperintensity; epilepsy in a child.
+Against: perifocal edema is uncommon in low-grade tumours; no histology.
+DNET
+For: cortical location; child; drug-resistant focal epilepsy.
+Against: DNETs are usually markedly T2 hyperintense, "bubbly" and T1 hypointense, without edema.
+Ganglioglioma
+For: the most common epilepsy-associated tumour in children.
+Against: no cyst, calcification or enhancement described.
+Focal cortical dysplasia
+For: epilepsy; cortical signal change.
+Against: mass effect and edema are atypical; no transmantle sign.
+Peri-ictal change or encephalitis
+For: edema; fluctuating EEG.
+Against: no infection or inflammatory signs; the mass-like gyral expansion persisted.
+EXCLUSIONS AND COMMITMENT: FCD and peri-ictal or inflammatory causes do not explain a persistent mass-like gyral expansion. The near-isointense signal argues against a typical DNET or ganglioglioma. I commit to a low-grade diffuse glioma, with the caveat that histology is needed to confirm it.
+FINAL DIAGNOSIS: Low-grade diffuse glioma of the right parieto-occipital cortex (pediatric-type) presenting with focal occipital-lobe epilepsy

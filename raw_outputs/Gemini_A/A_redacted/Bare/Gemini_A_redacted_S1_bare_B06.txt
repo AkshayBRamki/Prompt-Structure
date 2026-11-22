@@ -1,0 +1,23 @@
+CASE: M041
+FINAL DIAGNOSIS: Infective endocarditis (aortic and prosthetic mitral valve) complicated by septic cerebral emboli and intracranial hemorrhage
+
+CASE: M042
+FINAL DIAGNOSIS: Intraventricular fibroblastic meningioma of the right lateral ventricle
+
+CASE: M043
+FINAL DIAGNOSIS: Atypical proximal tibial fracture secondary to long-term antiresorptive therapy
+
+CASE: M044
+FINAL DIAGNOSIS: Atypical hemolytic uremic syndrome (aHUS)
+
+CASE: M045
+FINAL DIAGNOSIS: Crohn's disease (very early-onset)
+
+CASE: M046
+FINAL DIAGNOSIS: Pseudoachalasia secondary to malignant mediastinal tumor
+
+CASE: M047
+FINAL DIAGNOSIS: Dermatomyositis
+
+CASE: M048
+FINAL DIAGNOSIS: Cardiac (right ventricular) metastasis from oral squamous cell carcinoma

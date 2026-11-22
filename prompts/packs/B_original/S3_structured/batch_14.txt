@@ -1,0 +1,141 @@
+You will be given 8 clinical cases. Use only the information in each case. Do not search the web or use any tools. Answer all 8 cases, in order, and use exactly the output format below for every case.
+
+For each case, complete this structured diagnostic work-up.
+
+Output format for every case:
+CASE: <case id>
+1. KEY FINDINGS: the clinically decisive findings, with their significance
+2. DIFFERENTIAL: 3-5 candidate diagnoses, ranked
+3. EVIDENCE FOR AND AGAINST: for each candidate, the findings that support it and the findings that argue against it
+4. EXCLUSIONS AND COMMITMENT: which candidates you exclude and why, and which you commit to by that reasoning
+5. FINAL DIAGNOSIS: <diagnosis>
+
+=== CASE M105 ===
+- **Patient Information:** 49-year-old male
+- **Chief Complaint:** Progressive focal right lower limb dystonia
+- **History of Present Illness:** Progressive right lower limb dystonia over three years, starting with pain and posturing in the right foot, progressing to the entire lower limb in the last three months. Dystonia was partially improved with sensory tricks and reduced at rest or with backward walking. No seizures, vision impairment, memory issues, or behavioral disturbances.
+- **Past Medical History:** Poliomyelitis at age 5 in an affected sibling (III-1) with seizures and an unspecified psychiatric illness. Another sibling (III-4) died at age 5 of an unknown illness. 
+- **Personal History:** No significant abnormalities in birth or developmental milestones.
+- **Family History:** Parents were first cousins; documented illnesses in two siblings as described above.
+- **Physical Examination:** Normal ocular movements, horizontal nystagmus, normal reflexes, subtle ataxia, dystonic posturing in the right lower limb with sensory tricks, and impaired tandem gait. MoCA score was 30/30. 
+- **Ancillary Tests:** 
+  - **Laboratory Results:** Normal renal/liver/metabolic function tests, electrolytes, copper, ceruloplasmin, paraneoplastic, and autoimmune panels.
+  - **Imaging:** MRI showed cerebellar atrophy without significant cerebral lesions.
+  - **Genetic Testing:** Homozygous missense CLN5 variant (c.826T > C; p.Phe276 Leu) of uncertain significance. Heterozygous variant in unaffected sibling (III-2).
+  - **Skin Biopsy:** Electron microscopy showed granular osmiophilic inclusions and mitochondrial vacuolar changes, consistent with neuronal ceroid lipofuscinosis (NCL).
+- **Treatment Trials:** Levodopa-carbidopa (transient improvement, discontinued after 1 month), botulinum toxin injections (mild improvement), ongoing baclofen, tetrabenazine, clonazepam, and trihexyphenidyl.
+
+=== CASE M106 ===
+- **Patient Information**: 38-year-old male.
+- **Chief Complaint**: Left-sided inguinal lump associated with painful swelling of the ipsilateral limb.
+- **History of Present Illness**: A left inguinal lump had been present for 7 months with progressive leg swelling extending from the thigh to the leg. Initial diagnosis was proximal left leg DVT treated with heparin and warfarin for 6 months, but swelling persisted.
+- **Past Medical History**: None.
+- **Personal History**: None.
+- **Family History**: None.
+- **Physical Examination**: 3×2 cm firm, slightly tender inguinal mass with associated ipsilateral leg swelling and leg-leg circumference discrepancy of 5 cm (calf) and 2 cm (mid-thigh).
+- **Ancillary Tests**: 
+  - Doppler ultrasound showed a cystic lesion (2.5×2.4 cm) compressing the left common femoral vein (CFV) with sluggish blood flow and no DVT.
+  - CT venography confirmed a similar cystic mass impression.
+  - Intraoperative findings revealed a CFV saccular aneurysm with thrombosis and no extramural mass.
+
+=== CASE M107 ===
+- **Patient Information:** 3-year-old boy from northern Syria.
+- **Chief Complaint:** Failure to thrive, recurrent respiratory infections, cyanosis, and shortness of breath.
+- **History of Present Illness:** Diagnosed at 1 year old with pulmonary atresia and ventricular septal defect (VSD). Planned intervention delayed due to low weight.
+- **Past Medical History:** Pulmonary atresia and large perimembranous VSD.
+- **Personal History:** Normal vaccination status, no history of consanguinity, and no prenatal evaluations during pregnancy.
+- **Family History:** No sudden cardiac death or congenital anomalies.
+- **Physical Examination:** Central and peripheral cyanosis, oxygen saturation ~75%, systolic and diastolic murmurs, single second heart sound (S2), hepatomegaly, and anthropometric measurements below the 3rd percentile.
+- **Ancillary Tests:**  
+  - Chest radiogram: Cardiomegaly, absent main pulmonary segment, increased pulmonary vascularity.  
+  - Echocardiography: Truncus arteriosus Type I with an overriding truncus and tricuspid truncal valve regurgitation, anomalous left coronary artery from pulmonary artery (suspected ALCAPA), bidirectional VSD shunt, right ventricle hypertrophy, and pulmonary hypertension.  
+  - Multislice CT angiography (MSCT): Anomalous left coronary artery from pulmonary trunk, Type I truncus arteriosus with shared aorta/pulmonary trunk, dilated pulmonary arteries, and 1 cm VSD.  
+  - Cardiac catheterization: Confirmed findings, normal right coronary artery, and elevated pulmonary vascular resistance.  
+  - ECG: Biventricular hypertrophy, q-waves in lateral leads.  
+  - Karyotyping: Negative for chromosomal abnormalities.
+
+=== CASE M108 ===
+- **Patient Information:** 40-year-old male, chronic smoker and alcoholic.
+- **Chief Complaint:** Pain and discoloration of the tips of the ring and little fingers of the right hand for 20 days.
+- **History of Present Illness:** Symptoms progressed to dry gangrene of the ring and little fingers, with pre-gangrenous changes in the index and middle fingers. No history of abdominal swelling, fatigue, anorexia, weight loss, jaundice, or other systemic symptoms.
+- **Past Medical History:** None.
+- **Personal History:** History of ethanol and tobacco consumption for 20 years; works in manual labor washing utensils; denies drug abuse or trauma.
+- **Family History:** None provided.
+- **Physical Examination:** Mucosal pallor, dry gangrene of the ring and little fingers, and pre-gangrenous changes with tenderness in the index and middle fingers. Normal peripheral pulses and vital signs; no lymphadenopathy or other abnormalities.
+- **Ancillary Tests:** 
+  - CBC: Hemoglobin 6 g/dL, leukocytosis (153,000/mm³), thrombocytosis (969,000/mm³), normocytic normochromic anemia.
+  - Peripheral blood smear and bone marrow findings consistent with chronic-phase CML.
+  - Biochemical studies: Normal renal and liver functions.
+  - RT-PCR for BCR-ABL (Philadelphia chromosome): Positive, confirming CML.
+  - Arterial Doppler: Normal.
+  - Autoimmune workup (ANA, antiphospholipid antibodies): Negative.
+  - Imaging (CXR, ECG, echocardiogram, abdominal USG): Mild hepatosplenomegaly; otherwise normal.
+
+---
+
+=== CASE M109 ===
+- **Patient Information**: 66-year-old female.
+- **Chief Complaint**: Pain, redness, and a foreign body sensation in the left eye for 2 days.
+- **History of Present Illness**: Symptoms initially improved with tobramycin-dexamethasone (prescribed for presumed epidemic keratoconjunctivitis), but 3 weeks later, she developed conjunctival phlyctenule with significant redness and pain. Subsequent development of nodular scleritis was noted.
+- **Past Medical History**: Positive HSV-2 IgG; no other significant history noted.
+- **Personal History**: Not discussed.
+- **Family History**: None provided.
+- **Physical Examination**:
+  - Initial exam: Mild chemosis, diffuse conjunctival injection, mild mucoid discharge, follicular reaction in the left palpebral conjunctiva.
+  - Follow-ups: Development of a conjunctival phlyctenule (elevated lesion) and subsequent nodular scleritis.
+- **Ancillary Tests**:
+  - Blood tests for systemic and infectious conditions: Negative except for HSV-2 IgG positive.
+  - Conjunctival swabs: Negative for HSV-2, HSV-1, and adenovirus.
+  - Imaging: Anterior segment OCT and UBM confirmed conjunctival phlyctenule and later nodular scleritis.
+
+=== CASE M110 ===
+- **Patient Information:** 53-year-old Hispanic male.  
+- **Chief Complaint:** Three episodes of sudden loss of consciousness (LOC).  
+- **History of Present Illness:** The patient experienced LOC episodes after starting a night shift job, which caused chronic sleep deprivation. Loss of consciousness occurred without prodromal (e.g., chest pain, palpitations, dyspnea, diaphoresis) or postictal (e.g., drowsiness, nausea, confusion, headache) symptoms. LOC occurred during bathroom use and at work, with the patient returning to baseline immediately. He reported intermittent palpitations since starting night shifts, a 15-pound weight loss over three months, and daily marijuana use. Symptoms were not linked to activity or time of day.  
+- **Past Medical History:** Depression, hemorrhoids, hepatitis, hiatal hernia, pancreatitis, and chronic marijuana use.  
+- **Personal History:** Chronic marijuana use (daily). Night shift worker. Affected by chronic sleep deprivation.  
+- **Family History:** Non-contributory (no significant family history of syncopal episodes or cardiac abnormalities).  
+- **Physical Examination:** Normal upon ED visit; vital signs were unremarkable, including orthostatics.  
+- **Ancillary Tests:**  
+  - **EKG:** Sinus bradycardia (HR: 54 bpm), incomplete right bundle branch block (RBBB), and episodes of sinus pauses.  
+  - **Telemetry:** Overnight 8-second sinus pause with a heart rate of 37 bpm.  
+  - **Echocardiogram:** Normal structure and function (no ventricular hypertrophy or valvular pathology).  
+  - **Computed Tomography (CT):** Normal, ruling out central neurological causes.  
+  - **Electrophysiology Study (EPS):** Dual AV node physiology; no accessory pathways; AV nodal reentrant tachycardia (AVNRT) not inducible.  
+  - **Other Labs:** Normal metabolic panel, electrolytes, and TSH. Troponins negative. EEG revealed bilateral cerebral dysfunction but no epileptiform patterns.
+
+---
+
+=== CASE M111 ===
+- **Patient Information:** 57-year-old male.
+- **Chief Complaint:** Rapidly worsening multifactorial anemia with melena of unknown origin.
+- **History of Present Illness:** Acute onset of disseminated hemorrhagic edematous cutaneous lesions with vesiculation and necrosis, primarily on the head, with respiratory failure and fever requiring invasive ventilation.
+- **Past Medical History:** Pauci-immune p-ANCA-associated crescentic glomerulonephritis (on peritoneal dialysis and chronic low-dose prednisone), chronic kidney disease (end-stage), emphysematous chronic obstructive pulmonary disease (COPD), hypertension, chronic gastritis, depression.
+- **Personal History:** None provided beyond medications and treatment status.
+- **Family History:** None mentioned.
+- **Physical Examination:** Disseminated hemorrhagic skin lesions and necrotic changes, erosive mucosal lesions (tongue, oral cavity, nasal mucosa), fever, respiratory distress.
+- **Ancillary Tests:**
+  - Bloodwork: Neutrophilic leukocytosis, elevated C-reactive protein (CRP), low C3 complement levels, positive p-ANCA and MPO.
+  - Skin Biopsy: Dermal neutrophilic infiltrate, pseudocapsulated yeast-like structures resembling Cryptococcus, positive myeloperoxidase (MPO) staining, negative fungal/bacterial staining and cultures.
+  - Infection Workup: Negative blood and skin cultures for bacteria and fungi, negative serology/PCR for various pathogens. Respiratory cultures grew non-specific Candida albicans.
+  - Imaging: Pulmonary consolidation in the right upper lobe, pleural effusion, mediastinal lymphadenopathy.
+
+---
+
+=== CASE M112 ===
+- **Patient Information:** 65-year-old male
+- **Chief Complaint:** Severe headache for 7 days
+- **History of Present Illness:** Severe headache described as swelling on the right side of the head accompanied by nausea (no vomiting). Transient left limb numbness and weakness lasting 10 minutes and occurring twice daily prior to hospital admission. Symptom progression to persistent left limb weakness with a Visual Analog Scale (VAS) headache score of 9/10.
+- **Past Medical History:** History of stroke and diabetes
+- **Personal History:** Not documented
+- **Family History:** Not documented
+- **Physical Examination:**
+  - Neurologic examination: Mild left-sided facial and lingual paresis, left limb muscle strength 4/5, positive left Babinski sign, diminished sensation to light touch, pinprick, and temperature in the left upper limb.
+  - Mental status and other cranial nerves intact.
+  - On day 1: Worsening left limb weakness (3/5 muscle strength in both upper and lower limbs) with dysarthria and horizontal nystagmus.
+- **Ancillary Tests:**
+  - Initial head CT: Minute ischemic lesions and multiple patchy hypodense areas in the brain.
+  - Cranio-cervical CTA: 95% stenosis at the origin of the right internal carotid artery.
+  - Diffusion-weighted imaging (DWI): Multiple scattered hyperintensities in the right hemisphere.
+  - Susceptibility-weighted imaging (SWI): Asymmetrically prominent cortical veins (APCV) on the right side.
+  - Routine laboratory tests, ECG, and blood pressure (122/71 mmHg): Unremarkable.

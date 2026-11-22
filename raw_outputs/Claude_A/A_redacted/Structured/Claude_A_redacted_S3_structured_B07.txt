@@ -1,0 +1,259 @@
+CASE: M049
+
+KEY FINDINGS:
+A synovial haemangioma of the right ankle was resected 11 years earlier. This makes a second vascular synovial lesion in the same limb plausible.
+The knee has recurrent atraumatic pain and swelling, which suggests repeated haemarthroses.
+X-ray shows epiphyseal overgrowth, a widened intercondylar notch, osteopenia and early degeneration in a 17-year-old. This "haemophilic-like" arthropathy is caused by chronic intra-articular bleeding and hyperaemia during growth.
+MRI shows lobulated lesions infiltrating the suprapatellar and Hoffa's fat pads. They are T2/PD-hyperintense, enhance avidly, and are fed by popliteal arterial branches, which means a vascular tumour.
+Histology confirms spindle cell haemangioma.
+DIFFERENTIAL:
+Intra-articular (synovial) spindle cell haemangioma with secondary haemophilic-like arthropathy
+Tenosynovial giant cell tumour / pigmented villonodular synovitis (PVNS)
+Haemophilic arthropathy
+Synovial sarcoma
+Lipoma arborescens
+EVIDENCE FOR AND AGAINST:
+Synovial haemangioma
+For: prior haemangioma in the same limb, avid enhancement, arterial feeders, fat-pad infiltration, and the arthropathy pattern.
+Against: none significant; the histology is diagnostic.
+PVNS
+For: recurrent swelling, a lobulated synovial mass, and bone remodelling.
+Against: no haemosiderin "blooming" or low T2 signal is described, the lesion is T2-hyperintense with arterial feeders, and the histology differs.
+Haemophilic arthropathy
+For: identical radiographic features.
+Against: no bleeding disorder or family history, and a mass lesion is present.
+Synovial sarcoma
+For: an enhancing periarticular mass in an adolescent.
+Against: an 11-year vascular history, an infiltrative fat-pad pattern without aggressive destruction, and benign histology.
+Lipoma arborescens
+For: fat-pad and suprapatellar location.
+Against: the signal is not fat-equivalent and enhancement is avid.
+EXCLUSIONS AND COMMITMENT: Histology excludes PVNS, sarcoma and lipoma arborescens. The absence of a coagulopathy history and the presence of a vascular mass exclude primary haemophilia. I commit to synovial spindle cell haemangioma causing recurrent haemarthrosis and secondary arthropathy.
+FINAL DIAGNOSIS: Intra-articular (synovial) spindle cell haemangioma of the right knee with secondary haemophilic-like arthropathy and muscle atrophy
+
+CASE: M050
+
+KEY FINDINGS:
+Sudden sleepiness with a normal brain CT argues against stroke or haemorrhage and points to a metabolic, respiratory or embolic cause.
+Arterial gas shows hypoxaemia (PaO2 58) with mild hypercapnia and a raised bicarbonate (30), which fits a metabolic alkalosis with hypoventilation.
+Atrial fibrillation, ejection fraction 25%, pulmonary artery systolic pressure 81 mmHg and bilateral effusions indicate severe heart failure with marked pulmonary hypertension.
+A contrast chest CT was performed despite CKD. That implies a vascular question was specifically being investigated, most likely pulmonary embolism.
+Other contributors to her drowsiness: anaemia (Hb 7.6), renal failure responding to dialysis, hyponatraemia, and a history of malignancy (a prothrombotic risk factor).
+DIFFERENTIAL:
+Acute pulmonary embolism on a background of HFrEF and pulmonary hypertension
+Acute decompensated heart failure with hypercapnic/hypoxic encephalopathy
+Uraemic/metabolic encephalopathy (AKI on CKD, hyponatraemia)
+Asthma exacerbation with CO2 retention
+Cardioembolic stroke from atrial fibrillation
+EVIDENCE FOR AND AGAINST:
+Pulmonary embolism
+For: hypoxaemia, atrial fibrillation, prior cancer, immobility and age; very high PASP; and a contrast CT ordered despite renal risk.
+Against: the result is redacted; the effusions and wheeze can be explained by heart failure.
+Decompensated heart failure
+For: EF 25%, bilateral effusions, and wheeze ("cardiac asthma").
+Against: does not by itself explain a sudden change in consciousness.
+Uraemic/metabolic encephalopathy
+For: raised urea and creatinine that improved with dialysis, and hyponatraemia.
+Against: the onset was sudden, and her CKD is chronic.
+Asthma with CO2 retention
+For: diffuse wheeze.
+Against: PaCO2 is only 47, and pH 7.42 does not indicate significant CO2 narcosis.
+Cardioembolic stroke
+For: atrial fibrillation.
+Against: normal brain CT and no focal deficits.
+EXCLUSIONS AND COMMITMENT: Stroke is unlikely given the normal CT and lack of focal signs. Asthma-related CO2 narcosis is unlikely given the near-normal pH. Uraemia and heart failure probably contribute but do not explain a sudden event or the targeted contrast CT. I commit to pulmonary embolism, with moderate confidence because the key CT result is redacted.
+FINAL DIAGNOSIS: Acute pulmonary embolism in a patient with severe HFrEF, pulmonary hypertension and acute-on-chronic kidney disease
+
+CASE: M051
+
+KEY FINDINGS:
+A pancreatic mass with biliary obstruction and very high lipase (1,592) shows pancreatic origin with obstructive cholestatic and hepatocellular injury.
+Metastases are widespread: liver, bone, spleen, adrenal glands, peritoneum, retroperitoneum and mediastinal nodes. This is a highly aggressive tumour.
+Immunohistochemistry is positive for cytokeratins (AE1/AE3, CAM5.2, CK7), synaptophysin, chromogranin A and TTF-1, which indicates epithelial neuroendocrine differentiation.
+Ki-67 of 95% means a high-grade small cell carcinoma, not a well-differentiated tumour.
+Normal CA19-9 argues against ductal adenocarcinoma.
+DIFFERENTIAL:
+Primary small cell (high-grade neuroendocrine) carcinoma of the pancreas
+Metastatic small cell lung carcinoma to the pancreas
+Pancreatic ductal adenocarcinoma
+Well-differentiated pancreatic neuroendocrine tumour (G3)
+Lymphoma
+EVIDENCE FOR AND AGAINST:
+Primary pancreatic small cell carcinoma
+For: a dominant pancreatic mass with biliary obstruction and pancreatitis-range lipase, neuroendocrine markers, Ki-67 95%, and TTF-1 (which can be positive in extrapulmonary small cell carcinoma).
+Against: TTF-1 and mediastinal/hilar nodes raise the possibility of a lung primary.
+Metastatic small cell lung cancer
+For: TTF-1 positivity and mediastinal/hilar lymphadenopathy.
+Against: no lung primary is described, and the pancreatic mass is the dominant obstructing lesion.
+Ductal adenocarcinoma
+For: pancreatic mass, biliary obstruction and weight loss.
+Against: neuroendocrine markers, TTF-1 and normal CA19-9.
+Well-differentiated NET G3
+For: synaptophysin and chromogranin.
+Against: Ki-67 95% and TTF-1 favour poorly differentiated carcinoma.
+Lymphoma
+For: widespread nodal and visceral disease.
+Against: cytokeratin and neuroendocrine positivity.
+EXCLUSIONS AND COMMITMENT: The immunoprofile excludes adenocarcinoma and lymphoma. The proliferation index excludes a well-differentiated NET. A lung primary cannot be fully excluded, but with no lung mass and a dominant obstructing pancreatic tumour I commit to primary pancreatic small cell carcinoma.
+FINAL DIAGNOSIS: Small cell (poorly differentiated, high-grade neuroendocrine) carcinoma of the pancreas with widespread metastases
+
+CASE: M052
+
+KEY FINDINGS:
+A one-year history of jaundice, intermittent upper abdominal pain and a palpable mass fits the classic presentation of a choledochal cyst.
+Labs show conjugated hyperbilirubinaemia (direct 6.6) with raised transaminases, which means obstructive cholestasis.
+MRCP shows fusiform cystic dilatation of both the intrahepatic and extrahepatic ducts, which is Todani type IVA.
+Hepatosplenomegaly with splenic vein dilatation suggests portal hypertension from secondary biliary cirrhosis.
+DIFFERENTIAL:
+Choledochal cyst, Todani type IVA
+Caroli disease/syndrome (type V)
+Choledochal cyst type I with secondary intrahepatic dilatation
+Primary sclerosing cholangitis
+Hepatic hydatid cyst or biliary cystadenoma
+EVIDENCE FOR AND AGAINST:
+Type IVA choledochal cyst
+For: multiple intrahepatic and extrahepatic cysts in continuity with the bile duct, the classic triad, and a female adolescent.
+Against: none.
+Caroli disease/syndrome
+For: intrahepatic cystic dilatation, and portal hypertension (as in Caroli syndrome).
+Against: Caroli disease is limited to intrahepatic ducts, and here there is fusiform extrahepatic dilatation.
+Type I with secondary intrahepatic dilatation
+For: an extrahepatic fusiform cyst.
+Against: the intrahepatic lesions are cystic in their own right, not simple upstream dilatation.
+Primary sclerosing cholangitis
+For: cholestasis with intra- and extrahepatic involvement.
+Against: cystic ectasia rather than beaded strictures, and her age.
+Hydatid cyst or cystadenoma
+For: cystic liver lesions.
+Against: they communicate with the bile ducts in a ductal pattern, and there is no exposure history.
+EXCLUSIONS AND COMMITMENT: Extrahepatic involvement excludes Caroli disease. The imaging morphology excludes primary sclerosing cholangitis and parasitic or neoplastic cysts. I commit to Todani type IVA choledochal cyst.
+FINAL DIAGNOSIS: Choledochal cyst, Todani type IVA, with obstructive jaundice and possible secondary portal hypertension
+
+CASE: M053
+
+KEY FINDINGS:
+Short stature, a short neck, a low posterior hairline, a broad chest, primary amenorrhoea, a hypoplastic uterus and non-visualised ovaries form the Turner phenotype.
+The karyotype is 46,X,i(X)(q10)/45,X, a mosaic isochromosome Xq that confirms Turner syndrome. Isochromosome Xq also carries an increased risk of hearing loss and autoimmune disease.
+A suprasellar meningioma extends into the pituitary and causes low ACTH, cortisol and GH. This explains the hyponatraemia, hypoglycaemia and decreased responsiveness as secondary adrenal insufficiency.
+Bilateral cataracts, a second meningioma in the cerebellopontine angle and hearing loss raise the question of NF2 as a coexisting condition.
+LH and FSH are low (hypogonadotropic). This is atypical for Turner syndrome, where gonadotropins are normally high, and is explained by the pituitary compression.
+DIFFERENTIAL:
+Turner syndrome (mosaic i(Xq)) with suprasellar meningioma causing hypopituitarism
+Neurofibromatosis type 2
+Noonan syndrome
+Isolated hypopituitarism from a sellar tumour (craniopharyngioma, pituitary adenoma)
+Kallmann syndrome
+EVIDENCE FOR AND AGAINST:
+Turner with meningioma-induced hypopituitarism
+For: the karyotype, the phenotype, streak gonads, hearing loss and the hormone profile.
+Against: none decisive.
+NF2
+For: multiple meningiomas, cataracts and hearing loss.
+Against: no vestibular schwannoma is reported, and NF2 does not explain the karyotype or the dysmorphism.
+Noonan syndrome
+For: short stature, a short neck and a broad chest.
+Against: an abnormal X karyotype, and no cardiac lesion.
+Isolated sellar tumour
+For: panhypopituitarism.
+Against: does not explain the dysmorphism or gonadal dysgenesis, and imaging shows meningioma.
+Kallmann syndrome
+For: hypogonadotropic hypogonadism.
+Against: ACTH and GH are also deficient, and the karyotype is abnormal.
+EXCLUSIONS AND COMMITMENT: The karyotype excludes Noonan and Kallmann syndromes as primary diagnoses. Hypopituitarism is secondary to the meningioma. NF2 remains a consideration for genetic and audiological follow-up but is not proven. I commit to mosaic Turner syndrome with a suprasellar meningioma causing hypopituitarism and adrenal crisis.
+FINAL DIAGNOSIS: Mosaic Turner syndrome (45,X/46,X,i(Xq)) complicated by a suprasellar meningioma causing hypopituitarism (secondary adrenal insufficiency), with a cerebellopontine angle meningioma
+
+CASE: M054
+
+KEY FINDINGS:
+Tenderness over the posteromedial malleolus with pain on passive dorsiflexion points to a posterior tibial plafond injury.
+Imaging shows an oblique, minimally displaced posterior malleolar fragment involving 40% of the articular surface. That is a large fragment that threatens joint stability and needs fixation.
+There is no fibular or medial malleolar fracture and no proximal fibular tenderness, which excludes Maisonneuve and bimalleolar or trimalleolar patterns.
+DIFFERENTIAL:
+Isolated posterior malleolus fracture
+Trimalleolar fracture or equivalent
+Maisonneuve injury
+Posterior pilon fracture
+Posterior talar process fracture or Achilles rupture
+EVIDENCE FOR AND AGAINST:
+Isolated posterior malleolus fracture
+For: X-ray and CT show only a posterior malleolar fracture.
+Against: none.
+Trimalleolar fracture
+For: posterior malleolar involvement.
+Against: no fibular or medial malleolar fracture on CT.
+Maisonneuve injury
+For: posterior malleolar fractures can accompany it.
+Against: no proximal fibular tenderness and no fibular fracture.
+Posterior pilon fracture
+For: a large articular fragment.
+Against: low-energy mechanism, a single oblique fragment, and no comminution or impaction.
+Talar fracture or Achilles rupture
+For: posterior ankle pain.
+Against: imaging localises the injury to the tibia.
+EXCLUSIONS AND COMMITMENT: CT and examination exclude associated fractures and Maisonneuve injury. I commit to an isolated posterior malleolus fracture, which was treated successfully with ORIF.
+FINAL DIAGNOSIS: Isolated posterior malleolus fracture of the right ankle (about 40% of the articular surface)
+
+CASE: M055
+
+KEY FINDINGS:
+Painless jaundice with a cholestatic picture (ALP 546, bilirubin 8.7) indicates biliary obstruction.
+A long common channel (about 15 mm) is an anomalous pancreaticobiliary junction, which allows pancreatic juice to reflux into the bile duct and is carcinogenic.
+Fusiform dilatation of the common bile duct to 50 mm is a Todani type I (IC) choledochal cyst.
+A common hepatic duct mass with biopsy-proven malignancy and adenosquamous carcinoma arising from an intraductal tubular papillary neoplasm show malignant transformation.
+PET shows no metastases and the lymph nodes were negative, so the disease was resectable.
+DIFFERENTIAL:
+Type I choledochal cyst with pancreaticobiliary maljunction complicated by cholangiocarcinoma
+Choledocholithiasis with benign stricture
+Primary IPNB-associated cholangiocarcinoma without a congenital cyst
+Pancreatic head or ampullary carcinoma
+Primary sclerosing cholangitis with cholangiocarcinoma
+EVIDENCE FOR AND AGAINST:
+Choledochal cyst with maljunction and cholangiocarcinoma
+For: all the imaging and pathology findings.
+Against: none.
+Choledocholithiasis
+For: stones were removed at ERCP.
+Against: does not explain a 50 mm fusiform cyst or a malignant mass.
+IPNB-associated cancer without a cyst
+For: the precursor histology.
+Against: a fusiform cyst and long common channel indicate a congenital anomaly.
+Pancreatic or ampullary cancer
+For: painless jaundice and distal narrowing.
+Against: the mass is in the common hepatic duct and the pancreas is not involved.
+PSC with cholangiocarcinoma
+For: cholangiocarcinoma.
+Against: no multifocal strictures and no inflammatory bowel disease.
+EXCLUSIONS AND COMMITMENT: Pathology and imaging exclude benign and pancreatic causes. I commit to a type I choledochal cyst with maljunction and malignant degeneration.
+FINAL DIAGNOSIS: Type IC choledochal cyst with anomalous pancreaticobiliary junction, complicated by cholangiocarcinoma (adenosquamous carcinoma arising from an intraductal tubular papillary neoplasm)
+
+CASE: M056
+
+KEY FINDINGS:
+Prenatal upper small bowel atresia (dilated stomach and jejunum) is the known association for umbilical cord ulcer. Refluxed bile and gastric contents in the amniotic fluid erode the cord.
+A teardrop-shaped haematoma next to the cord on MRI indicates cord vessel bleeding.
+Decreased fetal movement led to fetal death, with 1,300 mL of bloody amniotic fluid and a pale fetus. This means fetal exsanguination from fetal vessels, not maternal haemorrhage.
+The cord itself showed ulceration, loss of Wharton's jelly, and degenerated, haemorrhagic vessels.
+DIFFERENTIAL:
+Umbilical cord ulcer associated with congenital intestinal (jejunal) atresia, causing fetal haemorrhage and intrauterine death
+Placental abruption
+Ruptured vasa praevia
+Massive fetomaternal haemorrhage
+Spontaneous umbilical cord haematoma
+EVIDENCE FOR AND AGAINST:
+Cord ulcer with atresia
+For: intestinal atresia, bloody amniotic fluid, a pale fetus, and ulcerated cord vessels.
+Against: none.
+Placental abruption
+For: bloody fluid and fetal death.
+Against: the haemorrhage is fetal, there are cord lesions, and no retroplacental clot is described.
+Vasa praevia
+For: fetal exsanguination.
+Against: no membranous vessels are described, and bleeding was intra-amniotic, not vaginal at rupture of membranes.
+Fetomaternal haemorrhage
+For: a pale fetus.
+Against: the blood is in the amniotic fluid, and the cord is ulcerated.
+Spontaneous cord haematoma
+For: a haematoma near the cord.
+Against: ulceration, the atresia association, and free intra-amniotic bleeding.
+EXCLUSIONS AND COMMITMENT: The gross cord pathology and the atresia exclude the alternatives. I commit to umbilical cord ulcer secondary to upper small bowel atresia.
+FINAL DIAGNOSIS: Umbilical cord ulcer associated with congenital upper small bowel (jejunal) atresia, causing fetal haemorrhage and intrauterine fetal death

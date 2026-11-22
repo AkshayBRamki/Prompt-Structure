@@ -1,0 +1,103 @@
+CASE: M017
+
+KEY FINDINGS: A 61-year-old with 3 days of right iliac fossa pain, positive McBurney's sign, rebound tenderness and leukocytosis, which together form an appendicitis-like picture. CT shows a large 13 × 5.2 cm oval mass arising from the cecum; a mass this size at this age is atypical for simple appendicitis. There was no fever, vomiting or bowel change, so the course is less in keeping with classic acute appendicitis. Post-surgical pathology shows a moderately differentiated (G2) tumor invading into the subserosa, staged pT3N0M0; this grading and TNM staging are typical of an adenocarcinoma. Raised creatinine and urea most likely reflect prerenal or acute kidney stress. Splenectomy and valproate are incidental to the diagnosis.
+DIFFERENTIAL: (1) Cecal adenocarcinoma presenting as acute appendicitis; (2) appendiceal adenocarcinoma or mucinous neoplasm; (3) appendiceal abscess or phlegmon from complicated appendicitis; (4) cecal lymphoma; (5) neuroendocrine tumor of the cecum or appendix.
+EVIDENCE FOR AND AGAINST:
+Cecal adenocarcinoma. For: the mass arises from the cecum; age 61; G2 grading with pT3 invasion depth. Against: the acute, appendicitis-like presentation.
+Appendiceal neoplasm. For: right iliac fossa location and appendicitis mimicry. Against: CT places the origin in the cecum; no mucin or mucocele is described.
+Abscess or phlegmon. For: pain, peritonism and raised white cells. Against: no fever; pathology shows a malignant tumor.
+Lymphoma. For: a bulky ileocecal mass. Against: G2 differentiation with mucosa-based invasion staging is not a lymphoma pattern.
+Neuroendocrine tumor. For: can occur at this site. Against: a "moderately differentiated" G2 colonic-type pT3 tumor without any mention of neuroendocrine markers.
+EXCLUSIONS AND COMMITMENT: I exclude abscess and lymphoma on the pathology. I exclude an appendiceal primary because CT places the origin in the cecum, and neuroendocrine tumor because the reported histology is colonic-type. I commit to a primary cecal adenocarcinoma whose local inflammation mimicked acute appendicitis.
+FINAL DIAGNOSIS: Cecal adenocarcinoma (moderately differentiated, pT3N0M0) presenting as acute appendicitis
+
+CASE: M018
+
+KEY FINDINGS: Calcium is 11.6 mg/dL with PTH 306 pg/mL and phosphate low at 1.6 mg/dL, which is PTH-dependent hypercalcemia, i.e. primary hyperparathyroidism. Vitamin D (43) and eGFR are normal, which argues against secondary or tertiary disease. The urine calcium/creatinine clearance ratio is above 1%, which argues against familial hypocalciuric hypercalcemia (FHH). DXA shows low bone density, meaning skeletal involvement. MIBI uptake was seen in the left thyroid lobe, but the PTH washout was low, so an intrathyroidal adenoma is excluded. The 4D CT shows an 8 × 6 × 12 mm enhancing lesion posterolateral to the esophagus on the left, an ectopic location. PTH and calcium normalized after surgery, confirming a single culprit gland.
+DIFFERENTIAL: (1) Ectopic (para- or retroesophageal) parathyroid adenoma; (2) intrathyroidal parathyroid adenoma; (3) orthotopic parathyroid adenoma; (4) parathyroid carcinoma; (5) multigland hyperplasia.
+EVIDENCE FOR AND AGAINST:
+Ectopic adenoma. For: the 4D CT lesion beside the esophagus; cure after removal of a single lesion. Against: the MIBI focus projected over the thyroid.
+Intrathyroidal adenoma. For: the MIBI-avid thyroid focus. Against: the negative PTH washout.
+Orthotopic adenoma. For: classic biochemistry. Against: no lesion in a typical position.
+Carcinoma. For: PTH is markedly high. Against: calcium is below about 14, there is no palpable mass, and the patient was cured.
+Hyperplasia. For: none specific. Against: a single lesion and normalization after one excision.
+EXCLUSIONS AND COMMITMENT: I exclude FHH on the urinary calcium and secondary disease on the normal vitamin D and eGFR. I exclude an intrathyroidal adenoma on the washout. I exclude carcinoma and hyperplasia on the clinical course. The thyroid nodules (Hurthle cell neoplasm, AUS) are a separate coexisting problem. I commit to an ectopic paraesophageal parathyroid adenoma.
+FINAL DIAGNOSIS: Primary hyperparathyroidism due to an ectopic (left para/retroesophageal) parathyroid adenoma
+
+CASE: M019
+
+KEY FINDINGS: She meets Whipple's triad: neuroglycopenic and adrenergic symptoms when fasting, relieved by glucose. Biochemistry shows hypoglycemia with inappropriately high insulin, C-peptide and proinsulin and suppressed β-hydroxybutyrate, which is endogenous hyperinsulinism. The negative sulfonylurea screen, and the raised C-peptide which argues against exogenous insulin, exclude factitious causes. The 68Ga-DOTATATE scan was negative but 68Ga-Exendin-4 localized a lesion; GLP-1 receptor avidity is typical of benign insulinomas. Histology shows a 1.5 cm G2-free tumor: grade 1, insulin-positive, Ki-67 1%. Insulin fell after enucleation. Weight gain fits defensive eating.
+DIFFERENTIAL: (1) Insulinoma; (2) noninsulinoma pancreatogenous hypoglycemia (nesidioblastosis); (3) factitious hypoglycemia from sulfonylurea or insulin; (4) insulin autoimmune syndrome; (5) MEN1-associated insulinoma.
+EVIDENCE FOR AND AGAINST:
+Insulinoma. For: fasting hyperinsulinemic hypoglycemia, a solitary Exendin-avid lesion, insulin-positive NET histology, and biochemical cure. Against: none significant.
+Nesidioblastosis. For: hyperinsulinism with negative initial imaging. Against: hypoglycemia is fasting rather than postprandial, there is a discrete tumor, and she was cured by enucleation.
+Factitious. For: she is a chemistry teacher with possible access. Against: the negative sulfonylurea screen and raised C-peptide and proinsulin.
+Insulin autoimmune syndrome. For: hyperinsulinism. Against: a tumor was found and removed with cure.
+MEN1. For: insulinoma is a known component. Against: a single tumor, no other endocrinopathy and no family history of it.
+EXCLUSIONS AND COMMITMENT: I exclude factitious, autoimmune and nesidioblastosis causes on the biochemistry and the cure. MEN1 is unsupported by anything in the case. I commit to a sporadic insulinoma.
+FINAL DIAGNOSIS: Insulinoma (well-differentiated G1 pancreatic NET of the uncinate process)
+
+CASE: M020
+
+KEY FINDINGS: New mesenteric masses appeared after high-risk GIST surgery (with rupture in patient 1) and imatinib, which raises suspicion of recurrence. Immunohistochemistry is CD117, DOG-1 and CD34 negative in both patients, which argues strongly against GIST. Both show nuclear β-catenin positivity, the hallmark of desmoid-type fibromatosis. SMA is positive (myofibroblastic) and Ki-67 is low at 5%. Prior abdominal surgery and trauma are a known trigger for desmoids.
+DIFFERENTIAL: (1) Intra-abdominal (mesenteric) desmoid-type fibromatosis; (2) recurrent or metastatic GIST; (3) sclerosing mesenteritis; (4) inflammatory myofibroblastic tumor; (5) leiomyoma or leiomyosarcoma.
+EVIDENCE FOR AND AGAINST:
+Desmoid. For: nuclear β-catenin, SMA positivity, low Ki-67, post-surgical setting. Against: none.
+GIST recurrence. For: the history and the imaging appearance. Against: CD117, DOG-1 and CD34 are all negative.
+Sclerosing mesenteritis. For: a mesenteric location. Against: nuclear β-catenin; no inflammatory or fat-necrosis pattern is described.
+Inflammatory myofibroblastic tumor. For: SMA positivity. Against: nuclear β-catenin; ALK status is not reported.
+Smooth muscle tumor. For: SMA positivity. Against: nuclear β-catenin and low proliferation; desmin and h-caldesmon are not reported.
+EXCLUSIONS AND COMMITMENT: I exclude GIST on the triple-negative profile, and the other entities on nuclear β-catenin. I commit to desmoid fibromatosis mimicking GIST recurrence.
+FINAL DIAGNOSIS: Mesenteric desmoid-type fibromatosis mimicking GIST recurrence (both patients)
+
+CASE: M021
+
+KEY FINDINGS: She has acute aphasia with right hemiparesis (NIHSS 16), with left-hemisphere cortical infarcts and a normal MR angiogram, which points to an embolic pattern. Two months of fever and weight loss suggest a systemic infection. Echocardiography shows a 6 × 6 mm mitral vegetation on a previously unknown prolapsing valve with moderate regurgitation; MVP with regurgitation is a predisposing substrate. She developed a contralateral occipital hemorrhage after thrombolysis, which suggests multifocal emboli and the known bleeding risk of thrombolysis in endocarditis. PET-CT, autoimmune, vasculitis and infection screens were negative, which lowers the likelihood of malignancy-related or lupus-related nonbacterial endocarditis, and raises the possibility of culture-negative infective endocarditis.
+DIFFERENTIAL: (1) Infective endocarditis of the mitral valve (likely culture-negative) with cardioembolic stroke; (2) nonbacterial thrombotic (marantic) endocarditis; (3) Libman–Sacks endocarditis; (4) CNS vasculitis; (5) atrial myxoma or cardiac tumor embolism.
+EVIDENCE FOR AND AGAINST:
+Infective endocarditis. For: fever, weight loss, the vegetation, the MVP/MR substrate, multifocal embolism and post-thrombolysis bleeding. Against: negative infection screens, though culture-negative endocarditis is well recognized.
+Nonbacterial thrombotic endocarditis. For: the vegetation and emboli. Against: no malignancy on PET-CT, and fever is less typical.
+Libman–Sacks. For: a valve lesion. Against: the negative autoimmune panel.
+CNS vasculitis. For: multifocal infarcts. Against: normal MR angiogram, negative vasculitis screen, and a cardiac source is present.
+Myxoma. For: embolic stroke, constitutional symptoms. Against: the lesion is a leaflet vegetation, not an atrial mass.
+EXCLUSIONS AND COMMITMENT: I exclude the autoimmune, vasculitic and neoplastic causes on the negative workup and the morphology of the lesion. I commit to infective endocarditis on the mitral valve with septic cardioembolic stroke.
+FINAL DIAGNOSIS: Mitral valve infective endocarditis (likely culture-negative) on underlying MVP, complicated by cardioembolic stroke and post-thrombolysis hemorrhage
+
+CASE: M022
+
+KEY FINDINGS: He has had five episodes of rhabdomyolysis (CK up to about 216,000), each triggered by a viral illness, which points to a susceptibility myopathy. CPT1/2 deficiency, other fatty acid oxidation defects and metabolic enzyme defects were excluded, and the biopsy showed no enzyme deficiency. The biopsy showed only mild fiber-size variability, which is nonspecific. EMG is normal and he has no fixed weakness or contractures. He carries two variants of unknown significance in a gene linked to Emery-Dreifuss muscular dystrophy; this is suggestive but not diagnostic. Biclonal MGUS with a mildly raised ESR is probably incidental.
+DIFFERENTIAL: (1) Recurrent virus-triggered rhabdomyolysis with a possible EDMD-gene-related (laminopathy or nuclear envelope) myopathy susceptibility; (2) an undiagnosed metabolic myopathy (e.g., LPIN1 or RYR1 related); (3) viral myositis episodes without underlying myopathy; (4) inflammatory or paraprotein-related myopathy; (5) drug-induced rhabdomyolysis (e.g., statin use, given hyperlipidemia).
+EVIDENCE FOR AND AGAINST:
+EDMD-gene susceptibility. For: the variants, the recurrent episodes and mild biopsy changes. Against: no contractures, cardiac involvement or weakness; normal EMG; the variants are of unknown significance.
+Other metabolic or channel disorder. For: classic triggered episodes. Against: the main metabolic disorders were excluded, though LPIN1 and RYR1 are not stated as tested.
+Isolated viral myositis. For: the viral triggers. Against: five recurrences imply a host susceptibility.
+Inflammatory or paraprotein myopathy. For: raised ESR and gammopathy. Against: the biopsy is not inflammatory and the course is episodic.
+Drug-induced. For: hyperlipidemia raises the possibility of statin use. Against: no drug exposure is reported, and the clear viral pattern.
+EXCLUSIONS AND COMMITMENT: I exclude the fatty acid oxidation and enzyme disorders as tested. I exclude inflammatory myopathy on the biopsy. I commit to recurrent viral-triggered rhabdomyolysis with a possible, unconfirmed EDMD-spectrum genetic basis; segregation or functional studies are needed to reclassify the variants.
+FINAL DIAGNOSIS: Recurrent virus-triggered rhabdomyolysis, possibly due to an Emery-Dreifuss muscular dystrophy–associated gene variant (VUS, unconfirmed), with incidental biclonal MGUS
+
+CASE: M023
+
+KEY FINDINGS: A 13-year-old with untreated peptic ulcer disease presents with hematemesis, melena, hematocrit 22% and recurrent shock, which is a life-threatening upper GI bleed. Endoscopy showed a Forrest IIb ulcer with an adherent clot. Bleeding recurred despite endoscopic therapy, which suggests an arterial source. CT and DSA showed an aneurysm of the gastroduodenal artery near the proximal duodenum, typically a pseudoaneurysm caused by ulcer erosion. Embolization was successful.
+DIFFERENTIAL: (1) Gastroduodenal artery pseudoaneurysm secondary to peptic ulcer; (2) rebleeding from the peptic ulcer alone; (3) Dieulafoy lesion; (4) visceral artery aneurysm from vasculitis or connective tissue disease; (5) hemosuccus pancreaticus.
+EVIDENCE FOR AND AGAINST:
+GDA pseudoaneurysm. For: the imaging and DSA findings, recurrent massive bleeding, and the untreated ulcer next to the artery. Against: none.
+Ulcer rebleed alone. For: the Forrest IIb stigmata. Against: the aneurysm was confirmed and bleeding stopped after embolization.
+Dieulafoy lesion. For: recurrent arterial bleeding. Against: an ulcer was present and there was an aneurysm rather than a caliber-persistent vessel.
+Vasculitic aneurysm. For: young age. Against: a single aneurysm adjacent to an ulcer, with no systemic features.
+Hemosuccus pancreaticus. For: GDA territory. Against: no pancreatitis and no bleeding from the papilla.
+EXCLUSIONS AND COMMITMENT: The angiographic findings and the response to embolization exclude the alternatives. I commit to an ulcer-related GDA pseudoaneurysm.
+FINAL DIAGNOSIS: Gastroduodenal artery (pseudo)aneurysm secondary to peptic ulcer disease, causing recurrent massive upper GI bleeding
+
+CASE: M024
+
+KEY FINDINGS: A long-standing, soft, mobile, painless mass, which suggests a benign process. Imaging shows a large, circumscribed, fat-containing mass with mixed density ("breast within a breast"), the classic hamartoma appearance. An internal spiculated component with microcalcifications and plateau kinetics was graded BI-RADS 5 and mimicked carcinoma. Core biopsy and excision both showed disorganized ducts, lobules, fibrous tissue and fat without atypia or mitoses.
+DIFFERENTIAL: (1) Breast hamartoma (fibroadenolipoma); (2) invasive carcinoma arising in or near a hamartoma; (3) lipoma or liposarcoma; (4) phyllodes tumor; (5) fat necrosis.
+EVIDENCE FOR AND AGAINST:
+Hamartoma. For: encapsulated fatty-glandular imaging, years of stability, and diagnostic histology. Against: the spiculated BI-RADS 5 focus, explained here by internal fibroglandular change.
+Carcinoma in a hamartoma. For: spiculation, microcalcifications, plateau kinetics. Against: no atypia or malignancy on either core or excision.
+Lipoma or liposarcoma. For: the fatty component. Against: the glandular elements, and no lipoblasts or atypia.
+Phyllodes tumor. For: a large circumscribed mass. Against: no leaf-like stromal hypercellularity and no mitoses.
+Fat necrosis. For: spiculation and calcification in fat. Against: no trauma history; histology shows organized benign mixed tissue rather than necrosis.
+EXCLUSIONS AND COMMITMENT: The excision histology excludes malignancy, phyllodes tumor and lipomatous tumors. I commit to a hamartoma whose internal component mimicked malignancy.
+FINAL DIAGNOSIS: Breast hamartoma (fibroadenolipoma) with a malignancy-mimicking internal spiculated component

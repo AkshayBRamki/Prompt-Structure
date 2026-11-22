@@ -1,0 +1,489 @@
+CASE: M073
+
+KEY FINDINGS:
+
+Chronic heavy alcohol use and severe malnutrition: 25-year history of alcoholism escalated to 2 liters of red wine daily with severe malnutrition and folate (Vitamin B9) deficiency, strongly predisposing to alcohol-related demyelinating and metabolic encephalopathies.
+
+Frontal release and interhemispheric disconnection signs: Apraxia (inability to manipulate objects), gestural perseveration, bilateral grasp reflex, dysarthria, astasia-abasia, spastic hypertonia, and hyperreflexia indicate diffuse callosal and bilateral frontal cortical dysfunction.
+
+Characteristic corpus callosum neuroimaging: CT shows hypodensity of the splenium; MRI demonstrates symmetrical T2/FLAIR and DWI hyperintensity throughout the entire corpus callosum with low ADC values (cytotoxic edema/acute demyelination) plus bilateral frontal cortical T2/FLAIR hyperintensity.
+
+Normal arterial MR angiography: Rules out major large-vessel arterial occlusion.
+
+Macrocytosis and elevated liver enzymes: Corroborate chronic alcohol abuse and nutritional deficiency.
+
+DIFFERENTIAL:
+
+Marchiafava-Bignami disease
+
+Wernicke encephalopathy
+
+Osmotic demyelination syndrome (extrapontine myelinolysis)
+
+Corpus callosum ischemic infarction
+
+Hepatic encephalopathy
+
+EVIDENCE FOR AND AGAINST:
+
+Marchiafava-Bignami disease:
+
+For: Classic association with chronic heavy red wine consumption and severe malnutrition; subacute neuropsychiatric decline, dysarthria, apraxia, astasia-abasia, spasticity, and frontal release signs (bilateral grasp reflex, perseveration); hallmark symmetrical T2/FLAIR/DWI hyperintensity with restricted diffusion (low ADC) spanning the entire corpus callosum, along with bilateral frontal cortical involvement.
+
+Against: None of the provided findings argue against it.
+
+Wernicke encephalopathy:
+
+For: Chronic alcoholism, severe malnutrition, acute-to-subacute confusion, stupor, and gait/balance disturbance.
+
+Against: Absence of ophthalmoplegia or nystagmus; MRI lacks the classic mammillary body, medial thalamic, and periaqueductal gray lesions and instead shows diffuse pan-callosal demyelination and frontal cortical hyperintensity.
+
+Osmotic demyelination syndrome:
+
+For: Chronic alcoholism and malnutrition are major risk factors; can cause stupor, dysarthria, spastic quadriparesis, and extrapontine white matter T2/DWI hyperintensity.
+
+Against: No history of hyponatremia or rapid sodium correction is present; absence of pontine ("trident") or basal ganglia involvement, with pathology centered symmetrically throughout the corpus callosum.
+
+Corpus callosum ischemic infarction:
+
+For: DWI hyperintensity with low ADC values in the corpus callosum.
+
+Against: Arterial MR angiography is normal; symmetrical involvement of the entire corpus callosum plus bilateral frontal cortex is atypical for a single vascular territory, and the subacute 10-day progression favors a metabolic-demyelinating process.
+
+Hepatic encephalopathy:
+
+For: Chronic alcoholism, elevated liver enzymes, confusion, and stupor.
+
+Against: Does not produce symmetrical cytotoxic edema/demyelination throughout the corpus callosum on MRI, nor does it typically present with bilateral grasp reflexes and spastic hypertonia without asterixis or documented cirrhosis/hyperammonemia.
+
+EXCLUSIONS AND COMMITMENT:
+Corpus callosum infarction is excluded by normal MR angiography, symmetrical pan-callosal distribution, and subacute progression. Wernicke encephalopathy and osmotic demyelination syndrome are excluded by the anatomic distribution on MRI (absence of mammillary/thalamic/periaqueductal or pontine lesions) and lack of rapid electrolyte shifts or ocular findings. Hepatic encephalopathy is excluded because it cannot account for the diffuse structural callosal necrosis/demyelination. The combination of chronic red wine alcoholism, malnutrition, frontal/disconnection signs, and symmetrical T2/FLAIR/DWI hyperintensity throughout the corpus callosum commits the diagnosis to Marchiafava-Bignami disease.
+
+FINAL DIAGNOSIS: Marchiafava-Bignami disease
+
+CASE: M074
+
+KEY FINDINGS:
+
+Young age at initial renal tumor presentation: The patient is 39 years old now and underwent radical nephrectomy 15 years earlier (at age 24), which is unusually young for conventional renal cell carcinoma.
+
+Initial histologic diagnosis without immunohistochemistry: The primary 4.7 cm × 4.3 cm renal mass was labeled papillary renal cell carcinoma on morphology alone, a well-known diagnostic pitfall for tumors with papillary architecture when immunohistochemistry is omitted.
+
+Very late retroperitoneal recurrence: Development of mildly enhancing, partially cystic retroperitoneal soft tissue masses 15 years after radical nephrectomy indicates an indolent-appearing yet persistently malignant neoplasm capable of late metastasis/recurrence.
+
+Immunohistochemical confirmation: Definitive reclassification required immunohistochemistry at recurrence.
+
+DIFFERENTIAL:
+
+Xp11.2 translocation renal cell carcinoma (TFE3-rearranged renal cell carcinoma)
+
+Mucinous tubular and spindle cell carcinoma
+
+Epithelioid angiomyolipoma (renal PEComa)
+
+Primary renal synovial sarcoma
+
+Recurrent papillary renal cell carcinoma
+
+EVIDENCE FOR AND AGAINST:
+
+Xp11.2 translocation renal cell carcinoma (TFE3-rearranged RCC):
+
+For: Classic predilection for young females (age 24 at initial presentation); frequently exhibits papillary architecture and is notoriously misdiagnosed as papillary RCC when immunohistochemistry (TFE3) is not performed; well-recognized propensity for very late retroperitoneal/nodal recurrence (10–20 years post-nephrectomy) with mild enhancement and cystic degeneration on CT.
+
+Against: Specific IHC markers (e.g., TFE3) are redacted, so confirmation relies on clinical-pathologic pattern matching.
+
+Mucinous tubular and spindle cell carcinoma:
+
+For: Strong female predominance; morphologically overlaps with papillary RCC and requires IHC to distinguish; mildly enhancing on CT.
+
+Against: Typically occurs in middle-aged women (mean age ~50s) rather than age 24, and is generally low-grade with rare late recurrence or metastasis.
+
+Epithelioid angiomyolipoma (PEComa):
+
+For: Occurs in younger adults, can be misdiagnosed as RCC without IHC (HMB-45/Melan-A), and can recur in the retroperitoneum.
+
+Against: Typically mimics clear cell or high-grade unclassified RCC rather than specifically papillary RCC, and usually shows more avid/heterogeneous enhancement.
+
+Primary renal synovial sarcoma:
+
+For: Affects young adults, frequently demonstrates cystic changes on CT, and requires IHC/molecular testing for definitive diagnosis.
+
+Against: Histologically composed of monophasic spindle cells and is rarely misdiagnosed as papillary RCC; tends to behave aggressively with earlier recurrence rather than a 15-year disease-free interval.
+
+Recurrent papillary renal cell carcinoma:
+
+For: Initial pathology report called it papillary RCC; papillary RCC classically shows mild enhancement and cystic changes on CT.
+
+Against: Uncommon at age 24; the case specifically highlights that IHC was not performed initially and that IHC at recurrence confirmed a distinct, redacted diagnosis.
+
+EXCLUSIONS AND COMMITMENT:
+Recurrent conventional papillary RCC is excluded because the clinical narrative specifically emphasizes the lack of initial immunohistochemistry and subsequent immunohistochemical reclassification. Primary renal synovial sarcoma is excluded by its spindle-cell morphology (unlikely to be called papillary RCC) and typically aggressive early course. Epithelioid angiomyolipoma is less likely because it rarely mimics papillary RCC. Mucinous tubular and spindle cell carcinoma is less likely given the very young age of onset (24 years) and the rarity of late metastasis. The triad of young female onset, initial misdiagnosis as papillary RCC without IHC, and late retroperitoneal recurrence after 15 years commits the diagnosis to Xp11.2 translocation renal cell carcinoma (TFE3-rearranged RCC).
+
+FINAL DIAGNOSIS: Xp11.2 translocation renal cell carcinoma (TFE3-rearranged renal cell carcinoma)
+
+CASE: M075
+
+KEY FINDINGS:
+
+Acute paroxysmal dry cough provoked by exertion: One-week history of dry cough in bouts severe enough to abort a six-minute walk test.
+
+Strong atopic and occupational risk profile: Lifelong allergic diathesis (episodic sneezing and rhinorrhea), history of employment in a woodcarving factory (wood dust exposure), and obesity (BMI 30.2 kg/m²).
+
+Normal cardiopulmonary structure and resting physiology: Normal chest X-ray, completely normal high-resolution chest CT (no pleuro-parenchymal abnormality), normal transthoracic echocardiogram, normal baseline spirometry (FEV1/FVC 84.5%), normal oxygenation (SpO2 97%), and normal CBC/eosinophil count.
+
+Recent rituximab therapy and underlying myasthenia gravis: IV rituximab one month prior and chronic steroid use for myasthenia gravis raise concern for drug-induced lung disease or opportunistic infection, which are actively evaluated and unconfirmed on imaging.
+
+DIFFERENTIAL:
+
+Cough-variant asthma
+
+Upper airway cough syndrome (allergic rhinitis)
+
+Rituximab-induced airway hyperresponsiveness / drug-induced cough
+
+Gastroesophageal reflux disease (GERD)-related cough
+
+Rituximab-induced interstitial lung disease (R-ILD)
+
+EVIDENCE FOR AND AGAINST:
+
+Cough-variant asthma:
+
+For: Dry cough occurring in bouts and severely triggered by physical exertion (inability to complete the 6-minute walk test); strong predisposing factors including lifelong allergic diathesis, wood dust exposure, and obesity; characteristically presents with normal chest X-ray, normal HRCT, normal lung auscultation, and normal baseline spirometry.
+
+Against: Duration is currently acute (1 week) rather than chronic, and bronchoprovocation testing (e.g., methacholine challenge) is not provided.
+
+Upper airway cough syndrome (allergic rhinitis):
+
+For: Lifelong episodic sneezing and rhinorrhea; normal chest imaging, normal spirometry, and normal cardiopulmonary exam.
+
+Against: Does not typically cause abrupt, severe, exercise-induced coughing bouts that force termination of a 6-minute walk test.
+
+Rituximab-induced airway hyperresponsiveness / drug-induced cough:
+
+For: Temporal association with IV rituximab administration one month prior; dry cough with normal chest imaging.
+
+Against: Rituximab pulmonary toxicity overwhelmingly presents with parenchymal abnormalities (ground-glass opacities/interstitial infiltrates) on HRCT; isolated severe paroxysmal cough with a completely normal HRCT is rare and does not explain the strong atopic/wood-dust background.
+
+GERD-related cough:
+
+For: Obesity (BMI 30.2 kg/m²) and ongoing corticosteroid use predispose to reflux; normal chest imaging and spirometry.
+
+Against: No gastrointestinal reflux symptoms are reported, and acute onset of severe exercise-triggered bouts is less typical than chronic postprandial or nocturnal cough.
+
+Rituximab-induced interstitial lung disease (R-ILD):
+
+For: Recent rituximab exposure (1 month prior) with new dry cough.
+
+Against: Effectively ruled out by a completely normal high-resolution chest CT (no pleuro-parenchymal abnormality), normal oxygen saturation (97%), and normal lung auscultation.
+
+EXCLUSIONS AND COMMITMENT:
+Rituximab-induced interstitial lung disease and structural pulmonary or cardiac complications of myasthenia gravis (such as thymoma, aspiration, or heart failure) are definitively excluded by the normal HRCT, normal chest X-ray, normal echocardiogram, and preserved oxygenation. GERD-related cough lacks supporting gastrointestinal symptoms and does not fit the acute exertional paroxysms. While upper airway cough syndrome may coexist given her allergic rhinitis, it poorly explains severe exercise-limiting coughing bouts. The combination of paroxysmal dry cough triggered by exertion (aborting the 6-minute walk test), lifelong allergic diathesis, occupational wood-dust exposure, and completely normal baseline spirometry and HRCT commits the diagnosis to cough-variant asthma.
+
+FINAL DIAGNOSIS: Cough-variant asthma
+
+CASE: M076
+
+KEY FINDINGS:
+
+Prolonged parenteral nutrition: One month of parenteral nutrition for intestinal obstruction is a classic iatrogenic cause of acute thiamine depletion when vitamin supplementation is inadequate.
+
+Classic clinical triad plus brainstem signs: Encephalopathy (dull speech comprehension and reaction), ophthalmoplegia (limited adduction, abduction, upward/downward gaze, diplopia, convergence deficit), and gait ataxia (unsteady gait, positive Romberg), accompanied by pinpoint pupils and refractory hiccups.
+
+Confirmed biochemical thiamine deficiency: Low serum Vitamin B1 (41.5 mmol/L; normal 70–180 mmol/L).
+
+Characteristic reversible MRI findings: Repeat MRI shows symmetrical hyperintense lesions in the bilateral thalami and periaqueductal midbrain, which subsequently improved on follow-up MRI.
+
+Key negative exclusions: Normal lumbar puncture (no albuminocytologic dissociation) and negative aquaporin-4 (AQP-4) antibody.
+
+DIFFERENTIAL:
+
+Wernicke encephalopathy
+
+Neuromyelitis optica spectrum disorder (NMOSD)
+
+Miller Fisher syndrome
+
+Brainstem stroke (basilar artery / top-of-the-basilar infarction)
+
+Central pontine / extrapontine myelinolysis
+
+EVIDENCE FOR AND AGAINST:
+
+Wernicke encephalopathy:
+
+For: Prolonged parenteral nutrition; documented low Vitamin B1 (41.5 mmol/L); classic triad of ophthalmoplegia, ataxia, and encephalopathy, plus atypical brainstem features (pinpoint pupils, refractory hiccups); classic bilateral thalamic and periaqueductal gray MRI hyperintensities that improved on follow-up imaging.
+
+Against: Initial MRI was normal (common in early Wernicke encephalopathy and does not exclude it).
+
+Neuromyelitis optica spectrum disorder (NMOSD):
+
+For: Refractory hiccups (area postrema syndrome) and periaqueductal/diencephalic MRI lesions.
+
+Against: Negative AQP-4 antibody, documented severe thiamine deficiency, and rapid radiological improvement in the context of parenteral nutrition.
+
+Miller Fisher syndrome:
+
+For: Ophthalmoplegia, ataxia, and decreased tendon reflexes.
+
+Against: Normal lumbar puncture (no albuminocytologic dissociation), normal EMG, encephalopathy, and central bilateral thalamic/midbrain MRI lesions.
+
+Brainstem stroke (top-of-the-basilar syndrome):
+
+For: Bilateral thalamic and midbrain involvement with ocular motility deficits, pinpoint pupils, and altered mental status.
+
+Against: Initial MRI was normal despite evolving symptoms, subacute progression during parenteral nutrition, documented thiamine deficiency, and radiologic reversibility without vascular territory infarction pattern.
+
+Central pontine / extrapontine myelinolysis:
+
+For: Malnutrition/parenteral nutrition setting with brainstem/thalamic symptoms.
+
+Against: No reported hyponatremia or osmotic shift, lesions are localized to the bilateral thalami and periaqueductal gray rather than the central pons, and low Vitamin B1 directly explains the presentation.
+
+EXCLUSIONS AND COMMITMENT:
+Miller Fisher syndrome is excluded by the absence of albuminocytologic dissociation, normal EMG, and central MRI lesions. NMOSD is excluded by negative AQP-4 antibodies and proven thiamine deficiency. Brainstem infarction and osmotic demyelination are excluded by the subacute nutritional context, normal initial MRI, classic periaqueductal/bilateral thalamic distribution, and subsequent radiologic resolution. The documented Vitamin B1 deficiency after one month of parenteral nutrition paired with the clinical triad and reversible bilateral thalamic/periaqueductal lesions commits the diagnosis to Wernicke encephalopathy.
+
+FINAL DIAGNOSIS: Wernicke encephalopathy
+
+CASE: M077
+
+KEY FINDINGS:
+
+Severe non-alcoholic malnutrition: Four months of recurrent nausea, vomiting, dysphagia, and 60-pound weight loss resulting in profound multi-vitamin deficiency, critically including severe thiamine deficiency (less than 7 pg/mL).
+
+Ocular, vestibular, and cerebellar/neuropathic deficits: Binocular diplopia, esotropia, horizontal nystagmus, ataxic wide-based gait, areflexia, and bilateral lower extremity numbness (concomitant dry beriberi), alongside severe vision loss (light perception only) and bilateral sensorineural hearing loss/tinnitus.
+
+Pathognomonic neuroimaging: Brain MRI demonstrates increased T2 signal in the bilateral medial thalami and periaqueductal gray areas.
+
+DIFFERENTIAL:
+
+Wernicke encephalopathy
+
+Neuromyelitis optica spectrum disorder (NMOSD)
+
+Multiple sclerosis / acute disseminated encephalomyelitis (ADEM)
+
+Susac syndrome
+
+Leigh syndrome / mitochondrial encephalopathy
+
+EVIDENCE FOR AND AGAINST:
+
+Wernicke encephalopathy:
+
+For: Prolonged vomiting and 60-pound weight loss; confirmed severe thiamine deficiency (less than 7 pg/mL); classic ocular motor abnormalities (diplopia, esotropia, horizontal nystagmus) and gait ataxia, plus recognized atypical manifestations (bilateral optic neuropathy/vision loss, vestibulocochlear neuropathy/hearing loss, and peripheral neuropathy/areflexia); hallmark MRI T2 hyperintensity in the bilateral medial thalami and periaqueductal regions.
+
+Against: No alcohol use (non-alcoholic Wernicke encephalopathy is well established in hyperemesis/malnutrition); overt confusion is not highlighted, though encephalopathy is absent in a substantial minority of cases.
+
+Neuromyelitis optica spectrum disorder (NMOSD):
+
+For: Young woman with severe bilateral vision loss, intractable nausea/vomiting, and periaqueductal/diencephalic MRI lesions.
+
+Against: Does not explain severe thiamine and multi-vitamin deficiencies, symmetric areflexia with stocking numbness, or bilateral hearing loss; nausea/vomiting was attributable to documented esophagitis and gallstone pancreatitis.
+
+Multiple sclerosis / ADEM:
+
+For: Young adult female with subacute optic neuropathy, diplopia, nystagmus, and ataxia.
+
+Against: Symmetrical bilateral medial thalamic and periaqueductal lesions are metabolic rather than demyelinating plaques; does not explain profound thiamine deficiency or peripheral areflexia.
+
+Susac syndrome:
+
+For: Young woman with vision loss, hearing loss, tinnitus, and neurological deficits.
+
+Against: Susac syndrome causes branch retinal artery occlusions and corpus callosum ("snowball") lesions rather than symmetrical medial thalamic/periaqueductal T2 hyperintensities and severe thiamine deficiency.
+
+Leigh syndrome / mitochondrial encephalopathy:
+
+For: Symmetrical deep gray matter/brainstem lesions, optic atrophy, hearing loss, and ataxia.
+
+Against: No family history, acute onset strictly following 4 months of vomiting and 60-pound weight loss, and proven severe acquired thiamine deficiency.
+
+EXCLUSIONS AND COMMITMENT:
+Susac syndrome, multiple sclerosis/ADEM, and NMOSD are excluded by the symmetrical metabolic MRI signature (bilateral medial thalami and periaqueductal gray) and the proven severe nutritional thiamine deficiency (less than 7 pg/mL) with concurrent fat- and water-soluble vitamin deficiencies and peripheral areflexia. Mitochondrial disease is excluded by the acute acquired context of severe weight loss and documented thiamine depletion. The combination of severe thiamine deficiency, ocular motor dysfunction, ataxia, and characteristic bilateral medial thalamic and periaqueductal T2 hyperintensities commits the diagnosis to Wernicke encephalopathy.
+
+FINAL DIAGNOSIS: Wernicke encephalopathy
+
+CASE: M078
+
+KEY FINDINGS:
+
+Hereditary predisposition: Family history of multiple hereditary exostoses (MHE) in paternal relatives (uncle and cousin) and imaging confirming multiple sessile exostoses in the pelvis and lower limbs.
+
+Clinical and radiologic red flags for malignant transformation: Progressive activity-worsening pain without trauma, restricted range of motion, irregular borders, heterogeneous bone matrix, thickened cartilaginous cap (6 mm) with gadolinium enhancement, heterogeneous T2 signal, and soft tissue infiltration on MRI.
+
+Histopathologic confirmation of malignancy: Bone biopsy shows mesenchymal tumor proliferation with moderate cytonuclear atypia and spindle cells with irregular nuclei, confirming malignancy.
+
+Normal inflammatory and metabolic labs: Normal WBC, CRP, calcium, and phosphorus argue against infection or metabolic bone disease.
+
+DIFFERENTIAL:
+
+Secondary chondrosarcoma (malignant transformation of hereditary multiple exostoses)
+
+Secondary osteosarcoma
+
+Benign osteochondroma with mechanical irritation or bursitis
+
+Ewing sarcoma
+
+Chronic osteomyelitis
+
+EVIDENCE FOR AND AGAINST:
+
+Secondary chondrosarcoma:
+
+For: Strongest known malignant complication of hereditary multiple exostoses; progressive pain in an exostosis, irregular margins, heterogeneous bone/T2 signal, enhancing cartilaginous cap, and soft tissue infiltration on MRI; biopsy confirms malignant mesenchymal proliferation with cytonuclear atypia.
+
+Against: Very young age (8 years old; malignant transformation usually occurs in adulthood, though rare pediatric cases exist) and a 6 mm cartilage cap (smaller than the classic adult threshold of greater than 15–20 mm, though enhancement and soft tissue infiltration confirm malignancy).
+
+Secondary osteosarcoma:
+
+For: Can rarely arise from a pre-existing osteochondroma in young patients; malignant mesenchymal tumor with atypia and soft tissue infiltration.
+
+Against: Far rarer than secondary chondrosarcoma in MHE, and imaging highlights a thickened, enhancing cartilaginous cap rather than classic osteoid matrix/periosteal sunburst reaction; biopsy does not mention malignant osteoid production.
+
+Benign osteochondroma with mechanical irritation or bursitis:
+
+For: Known MHE with activity-related pain and restricted knee motion.
+
+Against: Definitively excluded by soft tissue infiltration on MRI and biopsy-proven malignant mesenchymal proliferation with cytonuclear atypia.
+
+Ewing sarcoma:
+
+For: Pediatric age group (8 years old) with leg pain and soft tissue infiltration.
+
+Against: Arises de novo rather than from a cartilaginous cap of an exostosis, and biopsy shows mesenchymal spindle-cell proliferation with atypia rather than small round blue cells.
+
+Chronic osteomyelitis:
+
+For: Progressive bone pain and heterogeneous radiographic appearance.
+
+Against: Normal WBC and CRP (2 mg/L), no erythema or systemic signs of infection, and biopsy confirms malignancy.
+
+EXCLUSIONS AND COMMITMENT:
+Benign osteochondroma and chronic osteomyelitis are definitively excluded by the biopsy-confirmed malignancy, soft tissue infiltration on MRI, and normal inflammatory markers. Ewing sarcoma is excluded by the histology (mesenchymal atypia/spindle cells rather than small round blue cells) and direct origin from an exostosis with an enhancing cartilaginous cap. Secondary osteosarcoma is much less likely given the absence of malignant osteoid on biopsy and the prominent cartilaginous cap abnormality. In a child with hereditary multiple exostoses showing an enhancing cartilaginous cap, soft tissue infiltration, and biopsy-proven malignant mesenchymal proliferation, the diagnosis commits to secondary chondrosarcoma.
+
+FINAL DIAGNOSIS: Secondary chondrosarcoma
+
+CASE: M079
+
+KEY FINDINGS:
+
+Chronic recurrent right upper quadrant pain since adolescence: 10-year history (starting at age 13) of intermittent RUQ pain in a 23-year-old male, pointing to a congenital hepatobiliary anomaly.
+
+Normal liver biochemistry and absence of acute infection: Normal bilirubin, transaminases, alkaline phosphatase, and CBC, with no fever or jaundice, ruling out acute ascending cholangitis or complete extrahepatic biliary obstruction.
+
+Multifocal intrahepatic biliary ectasia with hepatolithiasis: Ultrasound and MRCP show multifocal saccular and fusiform dilations of the intrahepatic bile ducts (0.5–2.8 cm) containing multiple intrahepatic stones (4–16.2 mm), with a normal gallbladder.
+
+Pathognomonic "central dot sign" on MRCP: Represents fibrovascular bundles (portal vein radicles) surrounded by dilated intrahepatic bile ducts, virtually specific for Caroli disease.
+
+DIFFERENTIAL:
+
+Caroli disease
+
+Caroli syndrome
+
+Primary sclerosing cholangitis (PSC)
+
+Recurrent pyogenic cholangitis (oriental cholangiohepatitis)
+
+Polycystic liver disease
+
+EVIDENCE FOR AND AGAINST:
+
+Caroli disease:
+
+For: Symptom onset in adolescence (age 13); multifocal saccular and fusiform intrahepatic bile duct dilations (Todani type V choledochal cyst) complicated by intrahepatic stones (hepatolithiasis); pathognomonic "central dot sign" on MRCP; absence of clinical or laboratory evidence of portal hypertension or hepatic fibrosis.
+
+Against: Slight dilation of the extrahepatic bile duct is noted (which can occasionally accompany Caroli disease due to stone passage or associated choledochal malformation).
+
+Caroli syndrome:
+
+For: Identical intrahepatic biliary saccular dilations, hepatolithiasis, and "central dot sign" on MRCP.
+
+Against: Caroli syndrome requires concomitant congenital hepatic fibrosis (typically manifesting with portal hypertension, hepatosplenomegaly, thrombocytopenia, or renal cystic disease), none of which are present here (normal exam, no hepatomegaly, normal CBC).
+
+Primary sclerosing cholangitis (PSC):
+
+For: Young adult male with multifocal intrahepatic bile duct abnormalities and RUQ pain.
+
+Against: Normal alkaline phosphatase and bilirubin; MRCP shows large saccular dilations (up to 2.8 cm) with the "central dot sign" rather than alternating strictures and mild beading ("beads-on-a-string").
+
+Recurrent pyogenic cholangitis:
+
+For: Intrahepatic bile duct dilation and multiple intrahepatic stones causing recurrent RUQ pain.
+
+Against: Does not produce the congenital "central dot sign" on MRCP, lacks episodes of fever/jaundice/cholangitis, and is epidemiologically uncommon in Honduras compared to East/Southeast Asia.
+
+Polycystic liver disease:
+
+For: Multiple cystic-appearing intrahepatic lesions on ultrasound.
+
+Against: MRCP confirms the saccular dilations communicate directly with the biliary tree, contain biliary stones, and exhibit the "central dot sign."
+
+EXCLUSIONS AND COMMITMENT:
+Polycystic liver disease is excluded because MRCP demonstrates direct communication with the biliary tree and intraluminal stones. Primary sclerosing cholangitis is excluded by normal cholestatic liver enzymes and saccular dilations with the "central dot sign" rather than stricturing. Recurrent pyogenic cholangitis is excluded by the pathognomonic "central dot sign" and absence of infectious cholangitis. Caroli syndrome is excluded by the lack of any clinical, hematologic, or imaging evidence of congenital hepatic fibrosis or portal hypertension. The adolescent-onset recurrent RUQ pain, multifocal saccular intrahepatic ductal dilations with hepatolithiasis, and pathognomonic "central dot sign" commit the diagnosis to Caroli disease.
+
+FINAL DIAGNOSIS: Caroli disease
+
+CASE: M080
+
+KEY FINDINGS:
+
+Strong serologic evidence of recent Group A Streptococcal infection: Markedly elevated antistreptolysin O (ASO) titer of 1,450 IU/mL.
+
+Active systemic inflammation: Markedly elevated ESR (70 mm/h) and CRP (20.2 mg/dL) with mild anemia (Hb 10.8 g/dL) and negative blood and urine cultures.
+
+Objective carditis and high-grade conduction block: Echocardiography demonstrates mild-to-moderate aortic and mitral regurgitation with mild left ventricular systolic dysfunction (subclinical/echocardiographic valvulitis and myocarditis), accompanied by bradycardia (45–52 bpm) and Mobitz type II second-degree AV block on ECG.
+
+Pseudo-appendicitis presentation with normal appendix: Right iliac fossa pain, vomiting, and diarrhea with a normal 5-mm appendix and no free fluid on ultrasound, a recognized atypical abdominal presentation of acute rheumatic fever.
+
+DIFFERENTIAL:
+
+Acute rheumatic fever (with rheumatic carditis)
+
+Viral myocarditis
+
+Infective endocarditis
+
+Lyme carditis
+
+Acute appendicitis
+
+EVIDENCE FOR AND AGAINST:
+
+Acute rheumatic fever (with rheumatic carditis):
+
+For: Pediatric age (13 years); markedly elevated ASO titer (1,450 IU/mL); echocardiographic carditis (mitral and aortic regurgitation with mild LV dysfunction); conduction system involvement (Mobitz type II AV block); markedly elevated ESR (70 mm/h) and CRP (20.2 mg/dL); negative cultures; well-described atypical presentation mimicking acute appendicitis (abdominal pain, vomiting, diarrhea) with a normal appendix on ultrasound.
+
+Against: Classic murmurs, arthritis, chorea, erythema marginatum, and subcutaneous nodules are absent (subclinical carditis without audible murmurs is explicitly recognized in modern Jones criteria).
+
+Viral myocarditis:
+
+For: Can present in adolescents with gastrointestinal prodrome, palpitations, AV block, mild LV dysfunction, and elevated inflammatory markers.
+
+Against: Does not explain the markedly elevated ASO titer (1,450 IU/mL) or prominent dual left-sided valvulitis (mild-to-moderate aortic and mitral regurgitation).
+
+Infective endocarditis:
+
+For: Aortic and mitral regurgitation, conduction block (e.g., from aortic root abscess), anemia, and markedly elevated ESR/CRP.
+
+Against: Negative blood cultures, no fever or vegetations/abscess reported on echocardiography, and markedly elevated ASO titer pointing to post-streptococcal immune-mediated disease.
+
+Lyme carditis:
+
+For: High-grade AV block (Mobitz type II) and bradycardia in an adolescent.
+
+Against: No tick exposure or rash mentioned; does not cause dual aortic/mitral regurgitation or an ASO titer of 1,450 IU/mL.
+
+Acute appendicitis:
+
+For: Right iliac fossa tenderness, vomiting, loss of appetite, and diarrhea.
+
+Against: Ultrasound shows a normal 5-mm appendix without free fluid, no rebound tenderness or rigidity, and appendicitis cannot explain Mobitz type II heart block, aortic/mitral regurgitation, or an ASO titer of 1,450 IU/mL.
+
+EXCLUSIONS AND COMMITMENT:
+Acute appendicitis is excluded by the normal 5-mm appendix without free fluid on ultrasound and the presence of severe cardiac and immunologic abnormalities. Infective endocarditis is excluded by negative blood cultures and absence of vegetations on echocardiography. Viral myocarditis and Lyme carditis are excluded because neither accounts for the markedly elevated ASO titer (1,450 IU/mL) combined with combined aortic and mitral valvulitis. The convergence of recent Group A Streptococcal infection (ASO 1,450 IU/mL), echocardiographic mitral and aortic valvulitis with LV dysfunction, high-grade AV block (Mobitz type II), and pronounced systemic inflammation (ESR 70 mm/h, CRP 20.2 mg/dL) commits the diagnosis to acute rheumatic fever.
+
+FINAL DIAGNOSIS: Acute rheumatic fever

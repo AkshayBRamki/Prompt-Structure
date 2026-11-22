@@ -1,0 +1,497 @@
+CASE: M105
+
+KEY FINDINGS:
+
+Progressive focal right lower limb dystonia (3 years) with sensory tricks and relief with backward walking: Establishes a primary or neurodegenerative movement disorder phenotype.
+
+Horizontal nystagmus, subtle ataxia, impaired tandem gait, and cerebellar atrophy on MRI: Localizes pathology to the cerebellum in addition to basal ganglia/motor circuits, pointing to a multisystem neurodegenerative disorder.
+
+Parental consanguinity (first cousins) and affected siblings (seizures, psychiatric illness, early childhood death): Strongly indicates an autosomal recessive hereditary disorder.
+
+Homozygous missense variant (c.826T > C; p.Phe276Leu) with heterozygous unaffected sibling: Confirms autosomal recessive segregation of a candidate pathogenic variant.
+
+Skin biopsy electron microscopy showing granular osmiophilic inclusions and mitochondrial vacuolar changes: Pathognomonic ultrastructural hallmark of neuronal ceroid lipofuscinosis (NCL).
+
+Normal copper, ceruloplasmin, metabolic, autoimmune, and paraneoplastic panels: Rules out Wilson disease and common acquired/treatable metabolic or immune etiologies.
+
+DIFFERENTIAL:
+
+Adult-onset neuronal ceroid lipofuscinosis (Kufs disease / NCL)
+
+Autosomal recessive cerebellar ataxia with dystonia (e.g., ataxia-telangiectasia variant, Niemann-Pick type C, or SPG/NBIA spectrum)
+
+Wilson disease
+
+Dopa-responsive dystonia (DRD)
+
+Paraneoplastic or autoimmune cerebellar degeneration with dystonia
+
+EVIDENCE FOR AND AGAINST:
+
+Adult-onset neuronal ceroid lipofuscinosis (Kufs disease / NCL):
+
+For: Autosomal recessive inheritance (consanguineous parents, homozygous missense variant, heterozygous unaffected sibling, affected siblings with seizures/psychiatric illness), adult-onset progressive dystonia with cerebellar ataxia and cerebellar atrophy on MRI, normal cognition (MoCA 30/30, which can be preserved early in adult-onset forms), and pathognomonic granular osmiophilic deposits (GRODs) on skin biopsy electron microscopy.
+
+Against: Absence of seizures, vision loss, or cognitive/behavioral decline in the proband so far (though vision loss is classically absent in Kufs disease and presentation can be predominantly motor/dystonic).
+
+Autosomal recessive cerebellar ataxia with dystonia (e.g., Niemann-Pick type C, NBIA):
+
+For: Consanguinity, autosomal recessive segregation, combined dystonia and cerebellar ataxia with cerebellar atrophy.
+
+Against: Normal ocular movements (argues against Niemann-Pick type C, which typically causes vertical supranuclear gaze palsy), absence of brain iron accumulation on MRI (argues against NBIA), and skin biopsy specifically showing granular osmiophilic inclusions rather than foam cells or polymorphous cytoplasmic bodies.
+
+Wilson disease:
+
+For: Autosomal recessive inheritance, progressive focal dystonia, ataxia, and psychiatric/neurologic family history.
+
+Against: Normal serum copper, ceruloplasmin, and liver function tests, and absence of basal ganglia lesions on MRI; does not produce granular osmiophilic inclusions on skin EM.
+
+Dopa-responsive dystonia (DRD):
+
+For: Focal lower limb dystonia with sensory tricks and initial transient response to levodopa-carbidopa.
+
+Against: Lack of sustained robust response to levodopa, prominent cerebellar signs (nystagmus, ataxia, cerebellar atrophy), and granular osmiophilic inclusions on skin biopsy.
+
+Paraneoplastic or autoimmune cerebellar degeneration with dystonia:
+
+For: Adult-onset progressive cerebellar ataxia with nystagmus and focal dystonia.
+
+Against: Negative autoimmune and paraneoplastic panels, chronic 3-year course, strong consanguineous family history with homozygous genetic variant, and diagnostic skin biopsy EM findings.
+
+EXCLUSIONS AND COMMITMENT:
+Wilson disease and autoimmune/paraneoplastic syndromes are excluded by normal copper/ceruloplasmin, liver function, and negative autoimmune/paraneoplastic panels. Dopa-responsive dystonia is excluded by the failure of sustained levodopa response, cerebellar atrophy, and ultrastructural pathology. Other autosomal recessive ataxias/storage disorders are excluded because skin biopsy electron microscopy demonstrates granular osmiophilic inclusions, which are diagnostic of neuronal ceroid lipofuscinosis. Combined with autosomal recessive segregation, consanguinity, cerebellar atrophy, and adult-onset dystonia, I commit to adult-onset neuronal ceroid lipofuscinosis (Kufs disease).
+
+FINAL DIAGNOSIS: Adult-onset neuronal ceroid lipofuscinosis (Kufs disease)
+
+CASE: M106
+
+KEY FINDINGS:
+
+7-month history of a firm, tender left inguinal mass (3×2 cm) with progressive ipsilateral leg swelling (5 cm calf and 2 cm thigh discrepancy): Indicates chronic venous outflow obstruction of the left lower extremity.
+
+Failure to improve after 6 months of anticoagulation (heparin and warfarin) for presumed DVT: Argues against uncomplicated primary deep vein thrombosis and points to a structural/anatomical venous lesion.
+
+Doppler ultrasound and CT venography showing a 2.5×2.4 cm cystic lesion compressing the left common femoral vein (CFV) with sluggish flow and no DVT: Demonstrates a localized fluid-filled or vascular dilatation at the CFV causing outflow stasis.
+
+Intraoperative finding of thrombosis within the lesion and no extramural mass: Rules out extrinsic compression from an adjacent cyst, hernia, or tumor, proving the lesion is intrinsic to the common femoral vein itself.
+
+DIFFERENTIAL:
+
+Thrombosed common femoral vein aneurysm (primary venous aneurysm of the CFV)
+
+Adventitial cystic disease of the common femoral vein
+
+Deep vein thrombosis (DVT) of the common femoral vein
+
+Extrinsic venous compression by a synovial/ganglion cyst or iliopsoas bursitis
+
+Incarcerated femoral/inguinal hernia or necrotic inguinal lymphadenopathy
+
+EVIDENCE FOR AND AGAINST:
+
+Thrombosed common femoral vein aneurysm:
+
+For: Presents as a tender inguinal mass with chronic ipsilateral lower extremity swelling refractory to anticoagulation; frequently mimics a cystic mass compressing the CFV on ultrasound and CT venography; intraoperatively confirmed as an intrinsic venous lesion with thrombosis and no extramural mass.
+
+Against: Rare entity, which explains the initial misdiagnosis as simple DVT or an extramural cyst.
+
+Adventitial cystic disease of the common femoral vein:
+
+For: Causes a cystic lesion at the CFV on US/CTV with venous compression, sluggish flow, and persistent leg swelling unresponsive to anticoagulation.
+
+Against: Adventitial cystic disease consists of mucin-filled cysts within the vessel wall adventitia causing extrinsic-like luminal narrowing rather than an aneurysmal sac containing thrombosis as the primary intraoperative finding.
+
+Deep vein thrombosis (DVT) of the common femoral vein:
+
+For: Unilateral painful leg swelling with calf and thigh circumference discrepancy.
+
+Against: Doppler ultrasound explicitly showed no DVT, and 6 months of therapeutic anticoagulation failed to resolve the mass or swelling.
+
+Extrinsic venous compression by a synovial/ganglion cyst or iliopsoas bursitis:
+
+For: Appears as a well-defined cystic lesion compressing the CFV on ultrasound and CT venography.
+
+Against: Directly excluded by intraoperative exploration showing no extramural mass.
+
+Incarcerated femoral/inguinal hernia or necrotic inguinal lymphadenopathy:
+
+For: Firm, tender 3×2 cm inguinal mass capable of compressing the femoral vein.
+
+Against: Cystic appearance on Doppler US/CTV and intraoperative confirmation of thrombosis with no extramural mass.
+
+EXCLUSIONS AND COMMITMENT:
+Extrinsic causes of CFV compression (synovial/ganglion cyst, iliopsoas bursitis, hernia, lymphadenopathy) are definitively excluded by intraoperative findings demonstrating no extramural mass. Simple proximal DVT is excluded by negative Doppler findings for DVT and lack of response to 6 months of anticoagulation. Adventitial cystic disease is less consistent with an intraoperative finding of thrombosis rather than an intramural mucinous cyst. Therefore, I commit to a thrombosed common femoral vein aneurysm.
+
+FINAL DIAGNOSIS: Thrombosed left common femoral vein aneurysm
+
+CASE: M107
+
+KEY FINDINGS:
+
+Central and peripheral cyanosis (SpO2 ~75%), failure to thrive (<3rd percentile), recurrent respiratory infections, and hepatomegaly: Reflects severe cyanotic congenital heart disease with high pulmonary blood flow/pulmonary hypertension and congestive heart failure.
+
+Single S2 with systolic and diastolic murmurs: Classic auscultatory findings of a single semilunar (truncal) valve with truncal valve regurgitation.
+
+Echocardiography and MSCT angiography showing a single overriding arterial trunk giving rise to the aorta and main pulmonary artery (shared trunk), dilated pulmonary arteries, tricuspid truncal valve regurgitation, and a 1 cm VSD: Diagnostic of Type I truncus arteriosus.
+
+MSCT angiography and cardiac catheterization confirming anomalous origin of the left coronary artery from the pulmonary trunk (ALCAPA) with normal RCA: Confirms coexisting ALCAPA.
+
+ECG showing biventricular hypertrophy and lateral Q-waves: Lateral Q-waves corroborate myocardial ischemia/infarction territory from ALCAPA; biventricular hypertrophy reflects VSD and pulmonary hypertension.
+
+Elevated pulmonary vascular resistance (PVR) and bidirectional VSD shunt: Indicates advanced pulmonary vascular disease / pulmonary hypertension due to delayed repair.
+
+DIFFERENTIAL:
+
+Type I truncus arteriosus with anomalous origin of the left coronary artery from the pulmonary artery (ALCAPA)
+
+Pulmonary atresia with ventricular septal defect (PA-VSD) and major aortopulmonary collateral arteries (MAPCAs)
+
+Isolated anomalous origin of the left coronary artery from the pulmonary artery (ALCAPA)
+
+Tetralogy of Fallot with absent pulmonary valve or severe pulmonary stenosis
+
+Large unrestrictive VSD with Eisenmenger syndrome
+
+EVIDENCE FOR AND AGAINST:
+
+Type I truncus arteriosus with ALCAPA:
+
+For: Directly confirmed on echocardiography, MSCT angiography, and cardiac catheterization (shared aorta/pulmonary trunk with main pulmonary artery arising from the truncus, 1 cm VSD, truncal valve regurgitation, and left coronary artery originating from the pulmonary trunk); explains single S2, systolic/diastolic murmurs, cyanosis, increased pulmonary vascularity, pulmonary hypertension, and lateral ECG Q-waves.
+
+Against: None; all clinical, electrocardiographic, and multimodality imaging findings align completely.
+
+Pulmonary atresia with VSD (PA-VSD):
+
+For: Prior diagnosis at age 1; presents with cyanosis, single S2, absent main pulmonary segment on CXR, and VSD.
+
+Against: Excluded by MSCT and echocardiography showing a shared truncal vessel giving rise to a main pulmonary artery and dilated pulmonary arteries (Type I truncus arteriosus) rather than atresia of the pulmonary valve/trunk; also does not explain ALCAPA or lateral Q-waves.
+
+Isolated ALCAPA:
+
+For: Explains lateral Q-waves on ECG, failure to thrive, and left coronary artery arising from the pulmonary trunk.
+
+Against: Cannot explain central cyanosis (SpO2 75%), single S2, overriding shared arterial trunk, or the 1 cm bidirectional VSD.
+
+Tetralogy of Fallot:
+
+For: Cyanosis, VSD, RVH, and overriding great vessel.
+
+Against: Tetralogy of Fallot causes decreased pulmonary vascularity due to RVOT obstruction, whereas this patient has increased pulmonary vascularity, dilated pulmonary arteries, a single shared arterial trunk, and ALCAPA.
+
+Large unrestrictive VSD with Eisenmenger syndrome:
+
+For: Bidirectional VSD shunt, cyanosis, hepatomegaly, and elevated PVR.
+
+Against: Does not explain the single arterial trunk, single S2, truncal valve regurgitation, or anomalous left coronary artery origin.
+
+EXCLUSIONS AND COMMITMENT:
+PA-VSD, Tetralogy of Fallot, isolated ALCAPA, and simple VSD with Eisenmenger syndrome are all definitively excluded by echocardiography, MSCT angiography, and cardiac catheterization, which directly visualize a shared arterial trunk with a main pulmonary artery (Type I truncus arteriosus), a 1 cm VSD, truncal valve regurgitation, and the left coronary artery arising anomalously from the pulmonary trunk. I commit to Type I truncus arteriosus with anomalous origin of the left coronary artery from the pulmonary artery (ALCAPA).
+
+FINAL DIAGNOSIS: Type I truncus arteriosus with anomalous origin of the left coronary artery from the pulmonary artery (ALCAPA)
+
+CASE: M108
+
+KEY FINDINGS:
+
+Dry gangrene of the right ring and little fingers with pre-gangrenous changes in the index and middle fingers, despite normal peripheral pulses and normal arterial Doppler: Points to microvascular occlusion/thrombosis (hyperviscosity, leukostasis, or platelet-mediated microvascular thrombosis) rather than large-vessel arterial occlusion.
+
+Extreme leukocytosis (153,000/mm³), marked thrombocytosis (969,000/mm³), severe normocytic normochromic anemia (Hb 6 g/dL), and mild hepatosplenomegaly: Classic hematologic profile of a myeloproliferative neoplasm, specifically chronic myeloid leukemia (CML).
+
+Peripheral blood smear and bone marrow consistent with chronic-phase myeloid proliferation and positive RT-PCR for BCR-ABL (Philadelphia chromosome): Definitively diagnostic of chronic myeloid leukemia (CML) in chronic phase.
+
+Negative ANA and antiphospholipid antibodies: Excludes common systemic autoimmune and antiphospholipid vasculopathies.
+
+DIFFERENTIAL:
+
+Chronic myeloid leukemia (CML), chronic phase, presenting with digital gangrene
+
+Thromboangiitis obliterans (Buerger disease)
+
+Essential thrombocythemia (ET) or other BCR-ABL-negative myeloproliferative neoplasm
+
+Antiphospholipid syndrome (APS) or systemic autoimmune vasculitis
+
+Cryoglobulinemia or Raynaud phenomenon secondary to occupational cold/water exposure
+
+EVIDENCE FOR AND AGAINST:
+
+Chronic myeloid leukemia (CML), chronic phase, presenting with digital gangrene:
+
+For: Positivity for BCR-ABL (Philadelphia chromosome) on RT-PCR is diagnostic; confirmed by peripheral smear and bone marrow findings, WBC 153,000/mm³, platelets 969,000/mm³, anemia, and hepatosplenomegaly. Extreme thrombocytosis and leukocytosis cause microvascular occlusion/leukostasis resulting in digital ischemia/gangrene with preserved macrovascular pulses and normal arterial Doppler.
+
+Against: Digital gangrene as the initial sole presenting symptom without constitutional symptoms (weight loss, fatigue, abdominal fullness) is rare, though well-documented in CML with severe thrombocytosis/leukocytosis.
+
+Thromboangiitis obliterans (Buerger disease):
+
+For: 40-year-old male with a 20-year history of heavy tobacco use presenting with digital pain, discoloration, and dry gangrene.
+
+Against: Normal peripheral pulses and normal arterial Doppler argue against segmental occlusive arteritis; does not explain extreme leukocytosis (153,000/mm³), thrombocytosis, hepatosplenomegaly, or BCR-ABL positivity.
+
+Essential thrombocythemia (ET):
+
+For: Marked thrombocytosis (969,000/mm³) causing digital microvascular ischemia and gangrene with intact pulses.
+
+Against: Excluded by the presence of the BCR-ABL fusion gene (Philadelphia chromosome) and severe leukocytosis (153,000/mm³), which define CML.
+
+Antiphospholipid syndrome or autoimmune vasculitis:
+
+For: Digital ischemia/gangrene with intact proximal pulses.
+
+Against: Negative ANA and antiphospholipid antibodies, and does not account for the hematologic and genetic findings.
+
+Occupational Raynaud phenomenon / cryoglobulinemia:
+
+For: Manual labor washing utensils (potential cold water exposure) with fingertip ischemia.
+
+Against: Rapid progression to dry gangrene in the setting of massive leukocytosis, thrombocytosis, and BCR-ABL positivity.
+
+EXCLUSIONS AND COMMITMENT:
+Buerger disease is excluded by normal arterial Doppler and pulses alongside overwhelming hematologic malignancy findings. Essential thrombocythemia is excluded by the presence of BCR-ABL (Philadelphia chromosome). Autoimmune vasculitis and antiphospholipid syndrome are excluded by negative serologies. Positive RT-PCR for BCR-ABL with characteristic bone marrow/smear findings confirms chronic-phase CML, which directly explains the microvascular digital gangrene via marked thrombocytosis and hyperleukocytosis.
+
+FINAL DIAGNOSIS: Chronic myeloid leukemia (CML), chronic phase, presenting with digital gangrene
+
+CASE: M109
+
+KEY FINDINGS:
+
+Acute unilateral follicular conjunctivitis initially responding to topical tobramycin-dexamethasone, followed 3 weeks later by a conjunctival phlyctenule and nodular scleritis: Demonstrates progression from surface viral/immune conjunctivitis to deeper immune-mediated episcleral/scleral inflammation, likely exacerbated or unmasked after topical corticosteroid therapy.
+
+Anterior segment OCT and UBM confirming conjunctival phlyctenule and subsequent nodular scleritis: Objective anatomical confirmation of the lesion types and scleral involvement.
+
+Positive HSV-2 IgG serology with all other systemic and infectious blood tests negative: Identifies HSV-2 as the sole detected infectious etiology after excluding systemic autoimmune and other infectious causes (e.g., tuberculosis, syphilis, vasculitis).
+
+Negative conjunctival swabs for HSV-1, HSV-2, and adenovirus: Common in post-steroid or immune-mediated ocular manifestations (phlyctenulosis and scleritis), where active surface viral shedding may no longer be detectable.
+
+DIFFERENTIAL:
+
+Herpes simplex virus type 2 (HSV-2)-associated nodular scleritis (preceded by follicular conjunctivitis and conjunctival phlyctenule)
+
+Epidemic keratoconjunctivitis (adenoviral conjunctivitis) with secondary immune reaction
+
+Autoimmune/systemic inflammatory nodular scleritis (e.g., rheumatoid arthritis, ANCA-associated vasculitis, SLE)
+
+Tuberculous or syphilitic phlyctenulosis and nodular scleritis
+
+Staphylococcal hypersensitivity phlyctenulosis
+
+EVIDENCE FOR AND AGAINST:
+
+HSV-2-associated nodular scleritis (with preceding follicular conjunctivitis and conjunctival phlyctenule):
+
+For: Initial unilateral follicular conjunctivitis, positive HSV-2 IgG with negative workup for all other systemic/infectious etiologies, and progression to immune-mediated phlyctenule and nodular scleritis following topical steroid use (steroids can worsen or prolong herpetic ocular disease). Negative surface swabs are typical in immune-mediated deeper scleral/phlyctenular disease.
+
+Against: Negative conjunctival PCR/swab for HSV-2 (though expected once inflammation shifts from active epithelial shedding to deeper immune-mediated scleritis).
+
+Epidemic keratoconjunctivitis (adenoviral):
+
+For: Initial presentation of unilateral redness, foreign body sensation, chemosis, mucoid discharge, and follicular reaction.
+
+Against: Negative adenovirus swab; adenoviral conjunctivitis is typically self-limiting and does not characteristically progress to conjunctival phlyctenule and nodular scleritis weeks later.
+
+Autoimmune/systemic inflammatory nodular scleritis:
+
+For: Nodular scleritis in a 66-year-old female is frequently associated with systemic autoimmune disease.
+
+Against: Systemic blood tests were negative, no systemic autoimmune history was present, and autoimmune scleritis does not typically begin with acute follicular conjunctivitis and a conjunctival phlyctenule.
+
+Tuberculous or syphilitic phlyctenulosis and nodular scleritis:
+
+For: Both tuberculosis and syphilis are classic infectious causes of phlyctenules and nodular scleritis.
+
+Against: Excluded by negative blood tests for other infectious conditions.
+
+Staphylococcal hypersensitivity phlyctenulosis:
+
+For: Common cause of conjunctival phlyctenules.
+
+Against: No evidence of blepharitis/meibomian gland dysfunction described, does not typically cause acute follicular conjunctivitis initially, and rarely progresses to nodular scleritis.
+
+EXCLUSIONS AND COMMITMENT:
+Systemic autoimmune scleritis and other infectious causes (such as tuberculosis and syphilis) are excluded by negative systemic and infectious serologic panels. Adenoviral keratoconjunctivitis is excluded by negative swabs and the atypical progression to nodular scleritis. Given the unilateral follicular conjunctivitis, progression to phlyctenule and nodular scleritis after topical corticosteroid exposure, and isolated HSV-2 IgG positivity, I commit to HSV-2-associated nodular scleritis.
+
+FINAL DIAGNOSIS: Herpes simplex virus type 2 (HSV-2)-associated nodular scleritis (preceded by follicular conjunctivitis and conjunctival phlyctenule)
+
+CASE: M110
+
+KEY FINDINGS:
+
+Three episodes of sudden loss of consciousness (LOC) without prodrome or postictal state and immediate return to baseline: Classic presentation of cardiogenic syncope (Stokes-Adams-like attacks) rather than vasovagal syncope or seizure.
+
+EKG showing sinus bradycardia (54 bpm) with sinus pauses and telemetry showing an overnight 8-second sinus pause (HR 37 bpm): Directly documents severe sinus node dysfunction / sinus arrest capable of causing abrupt cerebral hypoperfusion and syncope.
+
+Normal echocardiogram, normal head CT, non-epileptiform EEG, normal electrolytes/TSH/troponins, and non-inducible AVNRT on EPS: Excludes structural heart disease, acute ischemia, hypothyroidism, electrolyte disturbances, structural CNS lesions, epilepsy, and supraventricular tachyarrhythmias.
+
+Chronic daily marijuana use and chronic sleep deprivation from night-shift work: Well-recognized vagotonic/autonomic triggers capable of suppressing sinoatrial node automaticity and inducing symptomatic sinus arrest.
+
+DIFFERENTIAL:
+
+Sinus node dysfunction (sick sinus syndrome / symptomatic sinus arrest), likely marijuana-induced and exacerbated by sleep deprivation
+
+Vasovagal (neurocardiogenic) or situational syncope
+
+Epileptic seizure
+
+Paroxysmal supraventricular tachycardia (e.g., AVNRT) or ventricular arrhythmia
+
+High-grade atrioventricular (AV) block
+
+EVIDENCE FOR AND AGAINST:
+
+Sinus node dysfunction (sick sinus syndrome / symptomatic sinus arrest), likely marijuana-induced:
+
+For: Sudden syncope without prodrome or postictal confusion; EKG shows baseline sinus bradycardia and sinus pauses; telemetry captures a dramatic 8-second sinus pause (HR 37 bpm); structurally normal heart and normal metabolic/thyroid labs point to functional/toxicologic SA node suppression from chronic daily marijuana use and sleep deprivation.
+
+Against: Dual AV node physiology on EPS and incomplete RBBB are incidental findings, and 15-lb weight loss may reflect lifestyle/night-shift disruption or depression rather than primary cardiac pathology.
+
+Vasovagal or situational syncope:
+
+For: One episode occurred during bathroom use; normal structural heart and normal orthostatics.
+
+Against: Complete absence of prodromal symptoms (diaphoresis, nausea, lightheadedness), episodes also occurring at work unrelated to triggers, and an 8-second overnight sinus pause on telemetry favor intrinsic or drug-induced sinus node dysfunction.
+
+Epileptic seizure:
+
+For: Recurrent LOC episodes and non-specific bilateral cerebral dysfunction on EEG.
+
+Against: Immediate return to baseline without postictal confusion, drowsiness, or headache; normal head CT; no epileptiform discharges on EEG; documented 8-second sinus pause explains transient cerebral hypoperfusion.
+
+AVNRT or other tachyarrhythmia:
+
+For: History of intermittent palpitations and dual AV node physiology on EPS.
+
+Against: AVNRT was not inducible on EPS, no accessory pathways were found, and telemetry demonstrated profound bradycardia/sinus arrest rather than tachyarrhythmia.
+
+High-grade AV block:
+
+For: Causes sudden syncope without prodrome.
+
+Against: Telemetry and EKG specifically documented sinus bradycardia and sinus pauses (failure of SA node impulse generation) rather than dropped QRS complexes following P waves.
+
+EXCLUSIONS AND COMMITMENT:
+Epileptic seizure is excluded by the lack of postictal features and absence of epileptiform activity on EEG. AVNRT and accessory-pathway tachyarrhythmias are excluded by negative inducibility on EPS. High-grade AV block is excluded by telemetry demonstrating sinus pauses rather than AV conduction failure. Vasovagal syncope is less consistent with abrupt, prodrome-free syncope and an 8-second nocturnal sinus pause. With structural, ischemic, and metabolic causes ruled out, I commit to symptomatic sinus node dysfunction (sick sinus syndrome / sinus arrest), likely induced by chronic marijuana use and exacerbated by sleep deprivation.
+
+FINAL DIAGNOSIS: Sinus node dysfunction (sick sinus syndrome / symptomatic sinus arrest), likely marijuana-induced
+
+CASE: M111
+
+KEY FINDINGS:
+
+Acute disseminated hemorrhagic, edematous, vesicular, and necrotic skin lesions (predominantly on the head) with oral/nasal mucosal erosions, fever, neutrophilic leukocytosis, and elevated CRP: Classic systemic and cutaneous presentation of severe/bullous/hemorrhagic acute febrile neutrophilic dermatosis (Sweet syndrome).
+
+Skin biopsy showing dermal neutrophilic infiltrate with pseudocapsulated yeast-like structures resembling Cryptococcus that stain positive for myeloperoxidase (MPO) and negative for fungal/bacterial stains and cultures: Pathognomonic histopathologic hallmark of cryptococcoid Sweet syndrome (degenerating, vacuolated neutrophils mimicking fungal organisms).
+
+Negative blood, skin, and targeted infectious workup (only non-specific respiratory Candida albicans): Rules out disseminated cryptococcosis and other invasive fungal or bacterial infections.
+
+Pulmonary consolidation, pleural effusion, mediastinal lymphadenopathy, and respiratory failure in a patient with p-ANCA/MPO-positive glomerulonephritis on chronic prednisone: Represents extracutaneous (pulmonary) neutrophilic involvement or overlap with underlying ANCA-associated systemic inflammation.
+
+DIFFERENTIAL:
+
+Cryptococcoid Sweet syndrome (acute febrile neutrophilic dermatosis, cryptococcoid variant)
+
+Disseminated cutaneous and pulmonary cryptococcosis
+
+Cutaneous and pulmonary flare of MPO-ANCA-associated vasculitis (microscopic polyangiitis)
+
+Pyoderma gangrenosum (bullous/hemorrhagic variant)
+
+Disseminated histoplasmosis or other deep fungal infection
+
+EVIDENCE FOR AND AGAINST:
+
+Cryptococcoid Sweet syndrome:
+
+For: Acute febrile presentation with neutrophilic leukocytosis, elevated CRP, edematous/hemorrhagic/necrotic cutaneous plaques and mucosal erosions, pulmonary involvement (extracutaneous Sweet syndrome), and a definitive skin biopsy showing a dermal neutrophilic infiltrate with Cryptococcus-like pseudocapsulated bodies that are MPO-positive (confirming myeloid/neutrophilic origin) and negative on all fungal stains and cultures.
+
+Against: Mucosal necrosis and severe respiratory failure are atypical for classic mild Sweet syndrome, though well-recognized in severe/bullous/extracutaneous and ANCA-associated variants.
+
+Disseminated cryptococcosis:
+
+For: Immunocompromised host (chronic prednisone, ESRD), disseminated necrotic/hemorrhagic head lesions, pulmonary consolidation, and yeast-like pseudocapsulated structures on routine histology.
+
+Against: Definitively excluded by negative fungal staining, negative skin and blood cultures, negative pathogen serology/PCR, and MPO positivity of the yeast-like bodies (true Cryptococcus does not stain for MPO).
+
+Flare of MPO-ANCA-associated vasculitis (microscopic polyangiitis):
+
+For: Known history of p-ANCA/MPO-positive crescentic glomerulonephritis, positive p-ANCA/MPO titers, low C3, pulmonary infiltrates, hemorrhagic skin lesions, and GI bleeding (melena).
+
+Against: Skin biopsy showed a dense dermal neutrophilic infiltrate with cryptococcoid bodies rather than leukocytoclastic vasculitis with fibrinoid necrosis of vessel walls; however, Sweet syndrome can occur as a reactive/associated manifestation of ANCA-associated vasculitis.
+
+Bullous/hemorrhagic pyoderma gangrenosum:
+
+For: Neutrophilic dermatosis with hemorrhagic, vesicular, and necrotic cutaneous lesions and systemic inflammation.
+
+Against: Typically presents with rapidly expanding painful ulcers with undermined violaceous borders rather than disseminated edematous head plaques with cryptococcoid bodies on histology.
+
+Disseminated histoplasmosis:
+
+For: Immunosuppression, mucocutaneous erosions, pulmonary consolidation, mediastinal lymphadenopathy, and yeast-like bodies on histology.
+
+Against: Excluded by negative fungal stains, cultures, and serology/PCR, as well as MPO positivity of the pseudocapsulated structures.
+
+EXCLUSIONS AND COMMITMENT:
+Disseminated cryptococcosis and histoplasmosis are definitively excluded by negative fungal stains, negative cultures/PCR, and MPO positivity of the yeast-like bodies, proving they are degenerated neutrophils rather than fungi. Pure cutaneous ANCA vasculitis and pyoderma gangrenosum do not account for the specific cryptococcoid neutrophilic histology. Therefore, I commit to cryptococcoid Sweet syndrome.
+
+FINAL DIAGNOSIS: Cryptococcoid Sweet syndrome (acute febrile neutrophilic dermatosis, cryptococcoid variant)
+
+CASE: M112
+
+KEY FINDINGS:
+
+Severe right-sided headache (VAS 9/10) with nausea, preceding recurrent 10-minute episodes of left limb numbness/weakness (crescendo TIAs), progressing to persistent left hemiparesis (4/5 to 3/5), left facial/lingual paresis, left Babinski sign, sensory loss, and dysarthria: Localizes to an evolving right cerebral hemispheric ischemic process.
+
+Cranio-cervical CTA showing 95% stenosis at the origin of the right internal carotid artery (ICA): Identifies critical proximal atherosclerotic carotid narrowing as the primary vascular etiology.
+
+DWI showing multiple scattered hyperintensities in the right hemisphere: Confirms acute multifocal right-hemispheric cerebral infarction (borderzone/hemodynamic and/or artery-to-artery embolic).
+
+SWI showing asymmetrically prominent cortical veins (APCV) on the right side: Reflects elevated deoxyhemoglobin concentration due to severely reduced cerebral blood flow and increased oxygen extraction fraction ("misery perfusion") in the right hemisphere.
+
+History of stroke and diabetes with normal routine labs, ECG, and blood pressure (122/71 mmHg): Supports large-artery atherosclerotic disease over cardioembolism or hypertensive hemorrhage.
+
+DIFFERENTIAL:
+
+Acute right-hemispheric ischemic stroke secondary to severe (95%) right internal carotid artery stenosis with hemodynamic compromise
+
+Right internal carotid artery (ICA) dissection with secondary ischemic stroke
+
+Cerebral venous sinus thrombosis (CVST)
+
+Intracerebral hemorrhage
+
+Hemiplegic migraine
+
+EVIDENCE FOR AND AGAINST:
+
+Acute right-hemispheric ischemic stroke secondary to severe (95%) right ICA stenosis:
+
+For: Classic atherosclerotic risk factors (age 65, diabetes, prior stroke); stenosis specifically located at the origin of the right ICA (the hallmark site of carotid atherosclerosis); crescendo TIAs progressing to persistent contralateral hemiparesis and facial/lingual paresis; acute scattered right-hemispheric infarcts on DWI; and right-sided APCV on SWI confirming severe hemodynamic hypoperfusion (which also accounts for the severe ipsilateral vascular/ischemic headache).
+
+Against: Horizontal nystagmus on day 1 is less typical of purely anterior circulation ischemia (though it can reflect concurrent microvascular/brainstem ischemia or prior stroke); severe 9/10 headache is less common than in hemorrhage or dissection, though well-recognized in critical carotid stenosis with hemodynamic compromise.
+
+Right ICA dissection with secondary ischemic stroke:
+
+For: Severe unilateral right-sided headache (9/10) accompanied by ipsilateral ICA stenosis and right-hemispheric ischemic strokes.
+
+Against: Dissections classically occur in younger patients and involve the cervical ICA distal to the carotid bulb with an intimal flap or intramural hematoma, whereas this 65-year-old diabetic patient has 95% stenosis specifically at the ICA origin (characteristic of atherosclerosis) with no dissection features reported on CTA.
+
+Cerebral venous sinus thrombosis (CVST):
+
+For: Severe subacute headache (7 days) with nausea, focal neurologic deficits, and prominent cortical veins on SWI.
+
+Against: CTA directly identifies 95% right ICA origin stenosis, DWI shows scattered right-hemispheric arterial infarcts, and APCV on SWI in the setting of high-grade ICA stenosis represents hemodynamic hypoperfusion rather than venous sinus occlusion.
+
+Intracerebral hemorrhage:
+
+For: Severe 9/10 headache, nausea, and progressive focal neurologic deficits.
+
+Against: Directly excluded by head CT showing only ischemic/hypodense lesions without hemorrhage and DWI confirming acute ischemia.
+
+Hemiplegic migraine:
+
+For: Severe unilateral headache with nausea and transient unilateral weakness/numbness.
+
+Against: Persistent worsening motor deficits, positive Babinski sign, acute infarcts on DWI, and 95% right ICA stenosis on CTA exclude migraine.
+
+EXCLUSIONS AND COMMITMENT:
+Intracerebral hemorrhage is excluded by head CT and DWI. Hemiplegic migraine is excluded by persistent deficits, acute DWI infarcts, and critical arterial stenosis. CVST is excluded because the clinical and imaging triad (95% right ICA origin stenosis, scattered right-hemispheric DWI hyperintensities, and right APCV on SWI) is classic for arterial hemodynamic ischemia rather than venous occlusion. Carotid dissection is far less likely given the patient's age, atherosclerotic risk factors, and localization of the 95% stenosis at the ICA origin. I commit to acute right-hemispheric ischemic stroke secondary to severe (95%) right internal carotid artery stenosis with hemodynamic compromise.
+
+FINAL DIAGNOSIS: Acute right-hemispheric ischemic stroke secondary to severe (95%) right internal carotid artery stenosis with hemodynamic compromise

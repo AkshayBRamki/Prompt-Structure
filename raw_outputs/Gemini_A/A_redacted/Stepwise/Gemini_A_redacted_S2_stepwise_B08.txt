@@ -1,0 +1,89 @@
+CASE: M057
+REASONING:
+
+A 55-year-old male presents with a hard, painful, well-demarcated hyperechoic right testicular mass (9 × 11 mm) with testicular microlithiasis and normal serum AFP and β-hCG levels (with only mildly elevated LDH).
+
+Negative immunohistochemistry for SALL4, OCT4, AFP, and D2-40 effectively rules out germ cell tumors (such as seminoma, embryonal carcinoma, and yolk sac tumor) as well as mesothelial/adenomatoid tumors (typically D2-40 positive).
+
+Positivity for vimentin, calretinin, and weak CD99 supports a sex cord-stromal tumor of the testis.
+
+Among testicular sex cord-stromal tumors, Leydig cell tumors are almost universally positive for inhibin, whereas Sertoli cell tumors are frequently inhibin-negative while staining positive for vimentin, calretinin, and CD99.
+FINAL DIAGNOSIS: Testicular Sertoli cell tumor
+
+CASE: M058
+REASONING:
+
+An 89-year-old male with Waldenstrom macroglobulinemia presents with progressive dyspnea, orthopnea, paroxysmal nocturnal dyspnea, peripheral edema, and notable dysphagia to both solids and liquids with coughing and emesis upon oral intake.
+
+Imaging (chest X-ray, CT, and echocardiogram) demonstrates cardiomegaly and a large pericardial effusion without classic initial signs of cardiac tamponade (no JVD, pulsus paradoxus, electrical alternans, or low-voltage QRS), and pericardial fluid cytology is negative for malignancy.
+
+A large pericardial effusion can exert external mass effect on the adjacent esophagus (and left atrium), resulting in mechanical esophageal compression and dysphagia, which explains the combination of heart failure/effusion symptoms and dysphagia that prompted pericardiocentesis.
+FINAL DIAGNOSIS: Large pericardial effusion (causing esophageal compression and dysphagia)
+
+CASE: M059
+REASONING:
+
+A 24-year-old male presents with a slow-growing, painless right medial upper eyelid mass over 10 years causing inferotemporal globe displacement without visual acuity loss or motility restriction.
+
+MRI shows a well-circumscribed, homogeneously enhancing medial orbital mass extending from the extraconal into the intraconal space.
+
+Histopathology demonstrates a benign monomorphic spindle-cell neoplasm with characteristic cigar-shaped nuclei, dispersed calcifications, and no significant mitotic activity or necrosis.
+
+Immunohistochemistry is positive for smooth muscle markers (SMA and desmin) and negative for S100 (excluding neural tumors like schwannoma) and CD34 (excluding solitary fibrous tumor), confirming a benign smooth muscle tumor of the orbit.
+FINAL DIAGNOSIS: Orbital leiomyoma
+
+CASE: M060
+REASONING:
+
+A 57-year-old woman on warfarin presents with fever, headache, and mild left-sided hearing loss.
+
+Brain MRI and non-contrast CT reveal a ring-enhancing, cystic, hemorrhagic left hemispheric lesion with an air-fluid level, which is characteristic of a gas-forming brain abscess (with hemorrhage likely exacerbated by therapeutic anticoagulation, INR 2.89).
+
+CSF analysis shows pleocytosis, elevated protein, and hypoglycorrhachia, supporting an intracranial bacterial infection.
+
+Anaerobic culture points to Clostridium species—classic gas-forming anaerobes capable of causing gas-containing brain abscesses—which was definitively confirmed at the species level by molecular sequencing (most commonly Clostridium perfringens).
+FINAL DIAGNOSIS: Clostridium brain abscess (gas-forming hemorrhagic brain abscess)
+
+CASE: M061
+REASONING:
+
+A 2-year-old male presents with acute-onset bilateral upper extremity pseudoparalysis (flaccid arms with preserved finger movement and intact sensation) following an unwitnessed event at daycare.
+
+Extensive imaging (plain radiographs of the cervical spine and upper extremities, head/cervical spine CT, and chest X-ray) rules out fractures, dislocations, and central nervous system or spinal cord injury.
+
+Complete resolution of symptoms immediately after bilateral elbow supination and flexion maneuvers accompanied by palpable clicks is pathognomonic for reduction of radial head subluxation (nursemaid's elbow).
+FINAL DIAGNOSIS: Bilateral radial head subluxation (bilateral nursemaid's elbow)
+
+CASE: M062
+REASONING:
+
+A 68-year-old female sustains a ground-level fall initially diagnosed on plain radiograph as an isolated left pubic symphysis fracture.
+
+Persistent severe pain four days later prompts repeat X-ray and CT imaging, which reveals a previously missed (occult) concurrent left femoral neck fracture alongside mild joint space narrowing.
+
+The diagnosis is further confirmed by definitive surgical management with a left hemiarthroplasty.
+FINAL DIAGNOSIS: Concurrent (occult) left femoral neck fracture with left pubic symphysis fracture
+
+CASE: M063
+REASONING:
+
+A 28-year-old primigravida undergoes prenatal ultrasound showing grade 3 fetal echogenic bowel (FEB) at 18 weeks and 3 days gestation, accompanied by progressive fetal bowel dilation reaching 21 mm by nearly 30 weeks.
+
+The primary differential diagnosis for grade 3 FEB includes chromosomal aneuploidy (e.g., trisomy 21), congenital TORCH infections (especially CMV), and cystic fibrosis/meconium ileus (as well as intestinal atresia).
+
+Normal first-trimester screening, low-risk NIPT, normal fetal echocardiogram, and negative maternal TORCH serologies effectively exclude chromosomal aneuploidies and congenital infections.
+
+The combination of persistent grade 3 hyperechogenic bowel and progressive bowel dilation strongly points to inspissated meconium causing intestinal obstruction (meconium ileus), which is classically associated with cystic fibrosis.
+FINAL DIAGNOSIS: Fetal meconium ileus (associated with cystic fibrosis)
+
+CASE: M064
+REASONING:
+
+A 51-year-old HIV-negative, immunocompetent male from Palestine (Mediterranean/Middle Eastern origin) presents with a rapidly enlarging, painless purple nodule on the left forearm and hyperpigmented lesions on the back, without mucosal or visceral involvement on CT.
+
+Normal immune cell subcounts and negative HIV, hepatitis B, and hepatitis C serologies exclude AIDS-related or iatrogenic immunodeficiency-associated disease.
+
+Histopathology demonstrates strong positivity for CD31 (confirming a vascular/endothelial neoplasm) and HHV-8 (human herpesvirus-8), which is diagnostic of Kaposi sarcoma.
+
+Given the patient's geographic background, age, HIV-negative status, and cutaneous-limited presentation, this represents the classic subtype of Kaposi sarcoma.
+FINAL DIAGNOSIS: Classic Kaposi sarcoma

@@ -1,0 +1,31 @@
+CASE: M017
+REASONING: A 61-year-old man has 3 days of right iliac fossa pain with a positive McBurney's sign and rebound tenderness. The clinical picture mimicked acute appendicitis. However, CT showed a large 13 × 5.2 cm oval mass arising from the cecum. Postoperative pathology showed a moderately differentiated (G2) tumor invading through the muscularis propria into the subserosa without reaching the serosa (pT3N0M0). Grading (G2) and TNM staging of this kind are typical of colorectal adenocarcinoma. In older patients, cecal carcinoma can present as appendicitis because it obstructs the appendiceal lumen or perforates locally. The splenectomy and valproate history are incidental.
+FINAL DIAGNOSIS: Cecal (colonic) adenocarcinoma, moderately differentiated, pT3N0M0 (stage IIA), presenting as acute appendicitis
+
+CASE: M018
+REASONING: Hypercalcemia with a markedly raised PTH (306 pg/mL), low phosphate and reduced bone mineral density confirms primary hyperparathyroidism. Normal renal function argues against secondary disease, and the urinary calcium/creatinine ratio above 1% makes familial hypocalciuric hypercalcemia unlikely. MIBI uptake in the left thyroid lobe initially suggested an intrathyroidal adenoma, but the low PTH washout excluded it. The MIBI uptake likely reflected the Hürthle cell thyroid nodule, since oncocytic cells are MIBI-avid. 4D CT then found an enhancing 8 × 6 × 12 mm lesion posterolateral to the esophagus on the left. After it was removed, PTH and calcium returned to normal, which confirms it was the culprit.
+FINAL DIAGNOSIS: Primary hyperparathyroidism due to an ectopic (retroesophageal) parathyroid adenoma
+
+CASE: M019
+REASONING: The patient has Whipple's triad: neuroglycopenic and adrenergic symptoms when fasting, low glucose, and relief with sugar. Fasting tests showed endogenous hyperinsulinemic hypoglycemia, with high insulin, C-peptide and proinsulin, suppressed β-hydroxybutyrate and a negative sulfonylurea screen. Weight gain from frequent eating is typical. Conventional imaging and DOTATATE PET were negative, which is common because benign insulinomas often express little SSTR2. GLP-1 receptor imaging (Exendin-4 PET) localized the lesion in the uncinate process. Enucleation corrected insulin levels, and histology showed a grade 1 neuroendocrine tumor that stained positive for insulin.
+FINAL DIAGNOSIS: Insulinoma (well-differentiated grade 1 pancreatic neuroendocrine tumor), localized by 68Ga-Exendin-4 PET/CT
+
+CASE: M020
+REASONING: Both men had high-risk GISTs, one of which ruptured, and had prior abdominal surgery. Both developed new mesenteric masses that looked like GIST recurrence on imaging. However, immunohistochemistry was negative for CD117, DOG-1 and CD34, which argues against GIST. Nuclear β-catenin positivity, SMA expression and a low Ki-67 are characteristic of desmoid-type fibromatosis. Prior surgery and trauma are known risk factors for this condition.
+FINAL DIAGNOSIS: Mesenteric desmoid-type fibromatosis (desmoid tumor) mimicking GIST recurrence
+
+CASE: M021
+REASONING: A 39-year-old woman with 2 months of fever and weight loss had an acute stroke with infarcts in the left frontal and perisylvian regions. MR angiography was normal, which points to an embolic cause. After thrombolysis she developed hemorrhage at a separate site, consistent with septic emboli or hemorrhage from a mycotic lesion. Echocardiography showed a 6 × 6 mm mitral vegetation on a previously unknown prolapsing mitral valve with moderate regurgitation. Mitral valve prolapse with regurgitation predisposes to endocarditis. With negative cultures and infection screens, this most likely represents culture-negative infective endocarditis. Malignancy and autoimmune causes such as marantic or Libman–Sacks endocarditis were excluded by negative PET-CT and autoimmune panels.
+FINAL DIAGNOSIS: Infective endocarditis (likely culture-negative) of the mitral valve on underlying mitral valve prolapse, complicated by cardioembolic stroke and post-thrombolysis intracranial hemorrhage
+
+CASE: M022
+REASONING: The patient has had recurrent severe rhabdomyolysis, with CK up to 216,000, each episode triggered by a viral illness. This pattern suggests an underlying metabolic or genetic myopathy. Fatty acid oxidation disorders (such as CPT deficiency) and glycogen and enzyme disorders were excluded. Muscle biopsy showed only mild variability in fiber size, and EMG was normal. Genetic testing found two variants of unknown significance in a gene associated with Emery-Dreifuss muscular dystrophy (genes include EMD, LMNA, FHL1, SYNE1 and SYNE2). The biclonal gammopathy is likely incidental. Without contractures or cardiac findings, classic EDMD is not established. The best-supported diagnosis is recurrent viral-triggered rhabdomyolysis, possibly due to a genetic myopathy linked to the EDMD gene variants.
+FINAL DIAGNOSIS: Recurrent virus-triggered rhabdomyolysis, possibly due to an underlying hereditary myopathy (EDMD-associated gene variants of unknown significance)
+
+CASE: M023
+REASONING: A 13-year-old with untreated peptic ulcer disease had hematemesis and melena. Endoscopy showed a gastric ulcer (Forrest IIB), but he kept rebleeding with hemodynamic instability despite endoscopic treatment. CT then showed an aneurysm of the gastroduodenal artery next to the proximal duodenum. Peptic ulcers can erode the gastroduodenal artery wall and form a pseudoaneurysm, which causes recurrent massive bleeding. Angiography confirmed the aneurysm, and embolization treated it.
+FINAL DIAGNOSIS: Gastroduodenal artery (pseudo)aneurysm secondary to peptic ulcer disease, causing recurrent upper gastrointestinal hemorrhage
+
+CASE: M024
+REASONING: The patient has a long-standing, painless, soft, mobile breast mass. Imaging showed a large circumscribed fatty mass containing denser tissue, the classic "breast within a breast" appearance. The internal spiculated lesion with microcalcifications led to a BI-RADS V rating, which mimics malignancy. Core biopsy and the excised specimen showed a well-circumscribed lesion with disorganized ducts, lobules, fibrous stroma and fat, with no atypia or mitoses. These features are diagnostic of a mammary hamartoma.
+FINAL DIAGNOSIS: Breast hamartoma (fibroadenolipoma) mimicking malignancy (BI-RADS V)

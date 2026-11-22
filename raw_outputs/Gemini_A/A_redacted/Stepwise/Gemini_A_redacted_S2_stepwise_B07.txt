@@ -1,0 +1,99 @@
+CASE: M049
+REASONING:
+
+The patient is a 17-year-old male with progressive right knee pain, swelling, functional impairment, and ipsilateral muscular atrophy without significant trauma.
+
+He has a relevant past medical history of a biopsy-confirmed synovial haemangioma of the right ankle 11 years earlier.
+
+Radiographs show diminished bone mineralization, epiphyseal overgrowth, intercondylar groove widening, subchondral sclerosis, and joint space narrowing—classic features of hemophilia-like arthropathy caused by recurrent intra-articular bleeding (hemarthrosis).
+
+MRI reveals lobulated, coalescent vascular lesions infiltrating the suprapatellar and Hoffa's fat pads with marked gadolinium enhancement and arterial supply from popliteal branches, along with secondary degenerative changes.
+
+Excisional biopsy confirms spindle cell haemangioma, establishing a synovial haemangioma of the spindle cell subtype involving the right knee.
+FINAL DIAGNOSIS: Synovial spindle cell haemangioma of the right knee
+
+CASE: M050
+REASONING:
+
+The patient is an 86-year-old female with a history of rectal carcinoma, chronic kidney disease, valvular heart disease, and asthma presenting with sudden-onset sleepiness and subsequent acute respiratory deterioration with diffuse wheezing.
+
+Objective findings include hypoxemia (SpO2 93% on room air, PaO2 58 mmHg), atrial fibrillation, bilateral pleural effusions, and severe pulmonary hypertension (pulmonary artery systolic pressure of 81 mmHg) with reduced ejection fraction on echocardiogram.
+
+Brain CT is normal, ruling out an acute intracranial cause for her sudden-onset sleepiness, which can be an atypical presentation of hypoxemia or hemodynamic compromise in elderly patients.
+
+Given her malignancy history (hypercoagulable state), sudden respiratory deterioration, hypoxemia, severe pulmonary hypertension, and definitive identification on a contrast-enhanced chest CT, the primary acute diagnosis is pulmonary embolism.
+FINAL DIAGNOSIS: Pulmonary embolism
+
+CASE: M051
+REASONING:
+
+The patient is an 88-year-old male presenting with severe back pain, epistaxis, significant weight loss, elevated liver enzymes, markedly elevated lipase (1,592 U/L), and progressive cholestasis (rising bilirubin and alkaline phosphatase).
+
+Imaging demonstrates a pancreatic mass causing biliary obstruction with widespread metastases (liver, bones, spleen, adrenal glands, peritoneum, retroperitoneum, and mediastinal/hilar lymph nodes).
+
+Normal CA19-9 levels argue against typical pancreatic ductal adenocarcinoma.
+
+Biopsy of the retroperitoneal mass shows strong positivity for epithelial markers (AE1/AE3, CAM5.2, CK7), neuroendocrine markers (synaptophysin, chromogranin A), and TTF-1, with an extremely high proliferation index (Ki-67 of 95%), which is diagnostic of a high-grade (poorly differentiated) small cell neuroendocrine carcinoma, originating from the pancreas.
+FINAL DIAGNOSIS: Metastatic pancreatic small cell neuroendocrine carcinoma (poorly differentiated neuroendocrine carcinoma)
+
+CASE: M052
+REASONING:
+
+The patient is a 16-year-old girl presenting with a one-year history of intermittent upper abdominal pain, an upper abdominal mass, painless jaundice, nausea, vomiting, and dark ("tea-colored") urine.
+
+Labs demonstrate conjugated hyperbilirubinemia and elevated transaminases, consistent with obstructive jaundice.
+
+Ultrasound, MSCT, and MRCP demonstrate bilateral intrahepatic and extrahepatic fusiform cystic biliary dilations connected to the extrahepatic bile duct.
+
+According to the Todani classification, multiple cystic dilations involving both the intrahepatic and extrahepatic biliary tree define a Type IVA choledochal cyst.
+FINAL DIAGNOSIS: Choledochal cyst (Todani type IVA)
+
+CASE: M053
+REASONING:
+
+The patient is a 47-year-old female presenting with decreased responsiveness, decreased appetite, hyponatremia, and hypoglycemia, alongside a lifelong history of delayed milestones, primary amenorrhea, progressive hearing loss, and visual impairment.
+
+Physical examination shows classic stigmata of Turner syndrome (short stature at 144 cm, short neck, low posterior hairline, broad chest, absent axillary/pubic hair, sensorineural hearing loss) along with bilateral optic atrophy and immature cataracts.
+
+Pelvic ultrasound reveals a hypoplastic uterus with non-visualized ovaries.
+
+Karyotype analysis shows 46,X,i(X)(q10)(37)/45,X(3), confirming mosaic Turner syndrome with an isochromosome of the long arm of the X chromosome.
+
+Additionally, hormonal assays show hypopituitarism (low FSH, LH, GH, ACTH, and cortisol), explained by the brain MRI findings of a suprasellar meningioma extending into the pituitary gland (as well as a second meningioma in the left cerebellopontine angle).
+FINAL DIAGNOSIS: Mosaic Turner syndrome (complicated by hypopituitarism secondary to suprasellar and cerebellopontine angle meningiomas)
+
+CASE: M054
+REASONING:
+
+The patient is a 50-year-old female presenting with severe right ankle pain and inability to bear weight after falling backward on stairs.
+
+Physical exam reveals tenderness and swelling over the posterior aspect of the medial malleolus with pain on passive dorsiflexion, an intact neurovascular exam, and no proximal fibular tenderness (excluding a Maisonneuve fracture).
+
+X-rays and CT scan confirm an obliquely oriented, minimally displaced fracture of the posterior malleolus involving 40% of the tibiotalar articular surface, with no other associated tibial or fibular fractures.
+
+The fracture required open reduction and internal fixation due to the large articular surface involvement (>25%).
+FINAL DIAGNOSIS: Isolated posterior malleolus fracture of the right ankle
+
+CASE: M055
+REASONING:
+
+The patient is a 45-year-old male presenting with painless jaundice, dark urine, and cholestatic liver enzyme elevation (alkaline phosphatase 546 U/L, bilirubin 8.7 mg/dL).
+
+CT and MRI/MRCP reveal a long pancreaticobiliary common channel (~15 mm), indicating an anomalous pancreaticobiliary junction (pancreaticobiliary maljunction), along with a 50 mm fusiform dilation of the common bile duct (choledochal cyst) and a mass in the common hepatic duct.
+
+Both anomalous pancreaticobiliary junction and choledochal cysts strongly predispose patients to biliary tract malignancy.
+
+ERCP biopsy and final surgical pathology confirm a poorly differentiated adenosquamous carcinoma of the common hepatic duct (cholangiocarcinoma) arising from an intraductal tubular papillary neoplasm.
+FINAL DIAGNOSIS: Adenosquamous carcinoma of the common hepatic duct (cholangiocarcinoma) arising from an intraductal tubular papillary neoplasm, associated with a choledochal cyst and anomalous pancreaticobiliary junction
+
+CASE: M056
+REASONING:
+
+The patient is a 34-year-old pregnant woman (IVF conception) whose fetus was diagnosed with suspected congenital small bowel (jejunal) atresia on prenatal ultrasounds showing stomach and jejunal dilatation.
+
+Fetal MRI at 33 weeks 3 days confirmed the intestinal atresia and revealed a teardrop-shaped hematoma adjacent to the umbilical cord, indicative of an umbilical cord ulcer.
+
+She subsequently presented with decreased fetal movement, and emergency ultrasound confirmed intrauterine fetal demise (no fetal heart rate).
+
+Post-delivery and postmortem findings of large-volume bloody amniotic fluid (1300 mL), a pale (exsanguinated) fetus, and gross umbilical cord ulcerations with decreased Wharton's jelly and hemorrhagic vessels confirm fetal hemorrhage from umbilical cord ulceration secondary to congenital jejunal/small bowel atresia.
+FINAL DIAGNOSIS: Umbilical cord ulceration associated with congenital small bowel (jejunal) atresia causing intrauterine fetal demise

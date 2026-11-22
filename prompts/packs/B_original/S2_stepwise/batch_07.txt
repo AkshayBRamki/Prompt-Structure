@@ -1,0 +1,135 @@
+You will be given 8 clinical cases. Use only the information in each case. Do not search the web or use any tools. Answer all 8 cases, in order, and use exactly the output format below for every case.
+
+For each case, think step by step, then give the most likely final diagnosis.
+
+Output format for every case:
+CASE: <case id>
+REASONING: <your step-by-step reasoning>
+FINAL DIAGNOSIS: <diagnosis>
+
+=== CASE M049 ===
+- Patient Information: 17-year-old male.
+- Chief Complaint: Progressive pain, swelling, and functional impairment of the right knee, accompanied by ipsilateral muscular atrophy.
+- History of Present Illness: Recurrent symptoms without significant trauma or other relevant medical conditions.
+- Past Medical History: Synovial haemangioma of the right ankle diagnosed 11 years earlier and confirmed by excisional biopsy.
+- Personal History: None mentioned.
+- Family History: None mentioned.
+- Physical Examination: Ipsilateral muscular atrophy in the affected limb (right knee); no further specifics provided.
+- Ancillary Tests:
+  - X-ray: Diminished bone mineralization, epiphyseal overgrowth, intercondylar groove widening, subchondral sclerosis, and joint space reduction with degenerative changes.
+  - MRI: Lobulated nodular coalescent lesions infiltrating the suprapatellar and Hoffa’s fat pads; hyperintense on proton density fat-saturated imaging, intermediate signal intensity on T1-weighted sequence, significant gadolinium enhancement, vascular supply from popliteal arterial branches, evidence of bone remodelling, marginal osteophytosis of the condyles, and chondromalacia.
+  - Histopathology: Spindle cell haemangioma confirmed on excisional biopsy.
+
+=== CASE M050 ===
+- **Patient Information:** 86-year-old female.
+- **Chief Complaint:** Sleepiness.
+- **History of Present Illness:** Sudden onset of sleepiness; no other symptoms documented in this context.
+- **Past Medical History:** Chronic kidney disease (baseline creatinine: 2.5-3.4 mg/dL), asthma, valvular heart disease, history of rectal carcinoma, prior colonic polypectomy, laparoscopic cholecystectomy conducted 4 years ago.
+- **Personal History:** Nonsmoker with no known drug or food allergies.
+- **Family History:** None reported.
+- **Physical Examination:** O2 saturation of 93% on room air, atrial fibrillation on ECG, bilateral pleural effusion on a chest X-ray, bilateral diffuse wheezes on respiratory examination during acute respiratory deterioration.
+- **Ancillary Tests:**
+  - Chest X-ray: Bilateral pleural effusion and later confirmed no pneumothorax after chest tube placement.
+  - CT scan of the brain: No abnormalities.
+  - Chest CT with contrast: Double superior vena cava (DSVC) identified.
+  - Echocardiogram: Left ventricular hypertrophy and dilatation, pulmonary artery systolic pressure 81 mmHg, mild aortic stenosis, moderate mitral and tricuspid regurgitation, reduced ejection fraction (25%).
+  - Arterial Blood Gases: pH 7.42, PaCO2 47 mmHg, PaO2 58 mmHg, HCO3 30 mEq/L.
+  - Laboratory Findings: Hyponatremia, hypochloremic metabolic alkalosis, normochromic anemia (hemoglobin 7.6 g/dL), and elevated creatinine and blood urea nitrogen levels, which improved with hemodialysis.
+
+=== CASE M051 ===
+- Patient Information: 88-year-old male with a history of hypertension, type 2 diabetes mellitus, COPD, beta-thalassemia minor, and prior cholecystectomy and appendectomy.
+- Chief Complaint: Severe back pain and unrelieved persistent epistaxis lasting 30 minutes.
+- History of Present Illness: 30-pound weight loss over one year, likely related to initiating a fat burner pill. Additionally, worsening back pain and metastatic disease-related symptoms.
+- Past Medical History: Hypertension, diabetes mellitus, COPD, beta-thalassemia minor, prior cholecystectomy, and appendectomy.
+- Personal History: None mentioned.
+- Family History: None mentioned.
+- Physical Examination: No specific abnormal findings mentioned, but imaging and lab work pointed to significant systemic involvement due to metastatic disease.
+- Ancillary Tests: 
+  1. Labs: Elevated ALT (301 U/L) and AST (340 U/L); markedly high lipase (1,592 U/L); slightly elevated troponin (0.05 ng/mL); a borderline elevated prothrombin time of 13.5 seconds; anemia observed; bilirubin and alkaline phosphatase levels progressively increasing.
+  2. Imaging: Abdominal ultrasound and CT scan revealed a pancreatic mass with biliary obstruction and extensive metastasis (liver, bones, spleen, adrenal glands, peritoneum, retroperitoneum). Chest CT showed mediastinal and hilar lymphadenopathy, likely metastatic.
+  3. Biopsy: Histopathology of a right retroperitoneal mass confirmed poorly differentiated neuroendocrine carcinoma, small cell type. Tumor markers were positive for AB1/AE3, CAM5.2, CK7, synaptophysin, chromogranin A, and thyroid transcription factor-1 (TTF-1), with a proliferation index (Ki-67) of 95%. CA19-9 levels were within normal limits.
+
+=== CASE M052 ===
+- **Patient Information**: 16-year-old girl.
+- **Chief Complaint**: Intermittent upper abdominal pain for one year.
+- **History of Present Illness**: 
+  - Complaints of a lump in the upper left abdomen when pressed.
+  - One year of jaundice without fever, frequent nausea, and vomiting.
+  - No significant changes in weight or abnormal bowel/urinary symptoms except dark-colored urine ("tea-colored").
+- **Past Medical History**: None noted.
+- **Personal History**: No significant history, including no tattoos or blood transfusions.
+- **Family History**: None stated.
+- **Physical Examination**: Icteric sclera.
+- **Ancillary Tests**:
+  - Abdominal MSCT scan: Intra- and extrahepatic biliary ectasia with multiple cystic lesions (suggestive of choledochal cyst Type IV), hepatosplenomegaly, and mild splenic vein dilation.
+  - Hepatobiliary ultrasound: Cystic lesions connected to extrahepatic bile duct, intrahepatic biliary ectasia, and splenomegaly; liver and pancreas normal.
+  - MRCP: Bilateral intrahepatic and extrahepatic cystic lesions (fusiform in appearance), consistent with type IVA choledochal cysts per Todani classification.
+  - Laboratory tests: Elevated SGOT, SGPT, and bilirubin levels (total bilirubin 9.458 mg/dL, direct bilirubin 6.635 mg/dL, indirect bilirubin 2.823 mg/dL); decreased urea (16.4 mg/dL).
+
+=== CASE M053 ===
+- **Patient Information:** 47-year-old female.
+- **Chief Complaint:** Decreased responsiveness and decreased appetite.
+- **History of Present Illness:** Delayed developmental milestones, primary amenorrhea, hearing loss for six years, visual impairment for five years—no prior medical care sought.
+- **Past Medical History:** None documented.
+- **Personal History:** Unmarried, no sexual contact, no deleterious habits or substance abuse.
+- **Family History:** Nonconsanguineous marriage; no known familial medical disorders or history of short stature or delayed puberty.
+- **Physical Examination:**
+  - Short stature (144 cm), short neck, low posterior hairline.
+  - Broad chest with Tanner stage 3 breast development, absent axillary and pubic hair, Tanner stage 1 vaginal development.
+  - Bilateral immature cataracts, optic atrophy, sensorineural hearing loss, blind vagina, no inguinal masses, unremarkable cardiopulmonary and abdominal examination.
+- **Ancillary Tests:**
+  - **Basic Labs:** Hyponatremia, hypokalemia, hypoglycemia; unremarkable liver function, fasting lipid profile, 2D echocardiogram, and kidney ultrasound.
+  - **Hormonal Assays:** Hypogonadotropic hypogonadism; low FSH, LH, growth hormone, cortisol; low ACTH; normal TSH and free T4.
+  - **Imaging:** MRI brain: suprasellar region meningioma extending into the pituitary causing hypopituitarism, and another meningioma in the left cerebellopontine angle. Pelvic ultrasound revealed a hypoplastic uterus with no ovaries visualized.
+  - **Karyotype:** 46,X,i(X)(q10)(37)/45,X(3), confirming isochromosome mosaic Turner syndrome (IMTS).
+  - **Ophthalmological Exam:** Bilateral optic atrophy, immature cataracts.
+  - **Audiogram:** Sensorineural hearing loss.
+
+=== CASE M054 ===
+- **Patient Information**: 50-year-old female
+- **Chief Complaint**: Right ankle pain and inability to bear weight after a fall.
+- **History of Present Illness**: Fell backward on stairs, leading to severe right ankle pain and inability to bear weight.
+- **Past Medical History**: None reported.
+- **Personal History**: None reported.
+- **Family History**: None reported.
+- **Physical Examination**: Swelling and tenderness over the posterior aspect of medial malleolus; pain elicited with passive dorsiflexion; normal neurovascular exam with normal motor and sensory function and no Maisonneuve-related tenderness over the fibular head.
+- **Ancillary Tests**: 
+  - **X-rays**: Obliquely oriented, minimally displaced posterior malleolus fracture.
+  - **CT Scan**: Fracture involving 40% of the tibiotalar articular surface with no associated tibia or fibula fractures.
+- **Surgical Procedure**: Open reduction and internal fixation (ORIF) via posterolateral approach with two posteroanterior cannulated screws.
+- **Post-Operative Outcome**: Full recovery with no pain, pre-injury activity level restored after six months.
+
+=== CASE M055 ===
+- **Patient Information:** 45-year-old white male.
+- **Chief Complaint:** Jaundice and dark-colored urine for 2 days.
+- **History of Present Illness:** Jaundice and dark urine without additional symptoms such as abdominal pain, nausea, vomiting, recent illness, or substance use.
+- **Past Medical History:** None reported.
+- **Personal History:** Denied relevant risk factors such as alcohol abuse, illicit drug use, or a history of hepatitis/chronic liver disease.
+- **Family History:** None provided.
+- **Physical Examination:** Findings not explicitly stated.
+- **Ancillary Tests:**
+  - Laboratory tests: Elevated alkaline phosphatase (546 U/L), AST (174 U/L), and bilirubin (8.7 mg/dL).
+  - Imaging:
+    - Abdominal CT and MRI/MRCP: Pancreaticobiliary maljunction (PBM) with a long common channel (~15 mm), Type 1A choledochal cyst (fusiform dilation of common bile duct to 50 mm), narrowing at the distal segment, and a mass in the common hepatic duct suggestive of extrahepatic cholangiocarcinoma.
+  - ERCP: Confirmed extrahepatic cholangiocarcinoma via biopsy.
+  - PET/CT: Hypermetabolic activity in the bile duct without distant metastases.
+  - Surgical specimen: Poorly differentiated adenosquamous carcinoma originating from an intraductal tubular papillary neoplasm, with perineural invasion but no lymph node involvement.
+  - Interventions:
+    - Biliary sphincterotomy and stenting for obstruction and stone removal.
+    - Robotic-assisted bile duct resection, cholecystectomy, hepatic lobectomy, and Roux-en-Y hepaticojejunostomy.
+
+---
+
+=== CASE M056 ===
+- **Patient Information:** 34-year-old woman, gravida 2, para 0. Conceived via in vitro fertilization.  
+- **Chief Complaint:** Decreased fetal movement.  
+- **History of Present Illness:** Suspected fetal small bowel atresia noted on ultrasound (US) at 28 weeks 5 days of gestation, confirmed by intestinal dilatation findings. Referred for further evaluation at 31 weeks 2 days. Fetal MRI at 33 weeks 3 days showed jejunal atresia and a teardrop-shaped hematoma adjacent to the umbilical cord, suggestive of umbilical cord ulcer (UCU).  
+- **Past Medical History:** None reported.  
+- **Personal History:** None reported.  
+- **Family History:** None reported.  
+- **Physical Examination:** Emergency ultrasound at return showed no fetal heart rate. Post-delivery examination revealed bloody amniotic fluid, pale fetus, and macroscopic changes in the umbilical cord consistent with UCU (e.g., decreased Wharton’s jelly, degenerated and hemorrhagic umbilical vessels).  
+- **Ancillary Tests:**  
+  - Ultrasound at 28 weeks 5 days: Showed intestinal dilatation, later interpreted as congenital small bowel atresia.  
+  - Ultrasound at 31 weeks 2 days: Stomach and jejunal dilatation; maximum diameter size 18.6 mm.  
+  - Fetal MRI at 33 weeks 3 days: Confirmed jejunal atresia and hematoma near the umbilical cord, likely associated with UCU.  
+  - Postmortem findings: Large bloody amniotic fluid (1300 mL) and gross umbilical cord ulcerations.

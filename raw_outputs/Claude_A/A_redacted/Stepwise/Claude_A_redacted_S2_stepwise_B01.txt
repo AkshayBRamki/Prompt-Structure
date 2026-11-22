@@ -1,0 +1,31 @@
+CASE: M001
+REASONING: A 37-year-old woman has multiple schwannomas: a previously resected left perineal schwannoma, a likely perineal recurrence, and multiple bead-like nodules from L1 to S1 in the lumbosacral canal, with resection pathology confirming schwannoma. Head imaging is normal, so there are no vestibular schwannomas. There is no family history of neurofibromatosis. Germline testing is negative for NF2, SMARCB1, and LZTR1. Multiple non-vestibular, non-intradermal schwannomas without vestibular tumors and without NF2 features fit schwannomatosis. The negative gene panel places it in the gene-negative category: schwannomatosis not otherwise specified, or possibly mosaic disease not detectable in blood.
+FINAL DIAGNOSIS: Schwannomatosis (gene-negative / NOS, non-NF2-related), with multiple lumbosacral intraspinal schwannomas and a recurrent perineal schwannoma
+
+CASE: M002
+REASONING: The patient has synchronous bilateral poorly differentiated (G3) invasive ductal carcinomas. The left tumor is triple-negative with Ki-67 of 50%. After surgery she developed a spiculated lung nodule, adrenal and subcutaneous metastases, all CK7-positive. The lung biopsy showed carcinoma resembling the breast tumors. It was negative for TTF1 and napsin A, which argues against primary lung adenocarcinoma, and negative for p40, which argues against squamous carcinoma. The driver-mutation panel was entirely wild-type. GATA3 can be negative in triple-negative breast cancer. The family history (breast cancer in a paternal aunt) raises the possibility of a hereditary predisposition. Overall, the picture best fits metastatic disease from the triple-negative breast carcinoma.
+FINAL DIAGNOSIS: Metastatic triple-negative breast carcinoma (from synchronous bilateral invasive ductal carcinoma) to the lung, adrenal gland and subcutaneous tissue
+
+CASE: M003
+REASONING: A 2-year-old boy has painless, slowly progressive abdominal distension and left inguinoscrotal swelling. The swelling transilluminates and is partially reducible, and the left testis is not palpable because the mass obscures it. Imaging shows a huge (25 × 30 cm) multiloculated cystic lesion with internal septations that runs through the inguinal canal into the scrotum and displaces the bowel. Laboratory tests are normal. An abdominoscrotal hydrocele is usually unilocular. A multiloculated, septated cystic mass in this location fits a cystic lymphatic malformation.
+FINAL DIAGNOSIS: Abdominoscrotal cystic lymphangioma (cystic lymphatic malformation) extending from the abdomen/retroperitoneum into the left scrotum
+
+CASE: M004
+REASONING: A 51-year-old woman has a 2.4 cm well-circumscribed breast mass with mucinous features. Biopsy shows high-grade adenocarcinoma with mucin secretion and papillary formation. The tumor is CK7-positive and CK20, CDX2, SATB2, and PAX8 negative, which excludes gastrointestinal, ovarian, and other Müllerian sources. Weakly positive GCDFP15 and mammaglobin support a breast primary. PET shows no other primary. The tumor is triple-negative with Ki-67 of 70% and p53 overexpression, and CEA is elevated. A mucin-producing papillary or cystic adenocarcinoma of breast origin with this triple-negative, CK7+/CK20− profile is characteristic of the rare primary mucinous cystadenocarcinoma of the breast.
+FINAL DIAGNOSIS: Primary mucinous cystadenocarcinoma of the breast (triple-negative)
+
+CASE: M005
+REASONING: A 68-year-old woman with no immunosuppression (HIV negative, normal labs, normal HbA1c) has severe odynophagia and hematemesis. Endoscopy shows multiple "volcano-like" ulcers in the mid-esophagus, a classic appearance for HSV esophagitis. Histology shows multinucleation, nuclear molding/enlargement and ground-glass nuclei, which are typical herpes viral cytopathic changes. Serology was initially negative and then converted to positive HSV IgG, indicating a primary infection.
+FINAL DIAGNOSIS: Herpes simplex virus (HSV) esophagitis (primary infection) in an immunocompetent patient
+
+CASE: M006
+REASONING: A young woman has a gastric submucosal mass on the lesser curvature that was initially suspected to be a GIST. Histology shows a spindle cell proliferation. The tumor is S100-positive and negative for CD117, DOG-1, and CD34 (excluding GIST) and for SMA and desmin (excluding leiomyoma/leiomyosarcoma). Follow-up imaging shows no necrosis, lymph node involvement, or metastasis, consistent with a benign tumor. An S100-positive spindle cell tumor of the stomach is a gastric schwannoma.
+FINAL DIAGNOSIS: Gastric schwannoma
+
+CASE: M007
+REASONING: An asymptomatic 30-year-old woman in her first pregnancy was seen at routine 12-week booking. Ultrasound showed the gestation near the left uterine horn with an empty endometrial cavity. MRI confirmed a live 12-week fetus (CRL 5.8 cm) within the left fallopian tube. She has no signs of rupture: no tenderness or peritonism and stable findings. A tubal pregnancy reaching 12 weeks with a live fetus near the cornua suggests a proximal or interstitial tubal location.
+FINAL DIAGNOSIS: Unruptured live left tubal (likely interstitial/proximal) ectopic pregnancy at 12 weeks' gestation
+
+CASE: M008
+REASONING: The patient has known metastatic small bowel NET with mesenteric involvement. Mesenteric metastases cause desmoplastic fibrosis that encases the SMA and SMV. Her months of postprandial pain and reduced intake are consistent with chronic intestinal angina. She now has sudden, severe (10/10) pain out of proportion to the exam, with leukocytosis and anemia. CT shows reduced bowel wall enhancement and wall thickening in the right lower quadrant small bowel, together with tumor involvement of the SMA and SMV. Lactate is normal, but that does not exclude ischemia. This is acute-on-chronic mesenteric ischemia caused by tumor and desmoplastic encasement of the mesenteric vessels.
+FINAL DIAGNOSIS: Acute-on-chronic mesenteric ischemia of the small bowel due to SMA/SMV encasement by mesenteric metastatic small bowel neuroendocrine tumor (desmoplastic mesenteric fibrosis)

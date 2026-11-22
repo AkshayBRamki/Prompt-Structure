@@ -1,0 +1,23 @@
+CASE: M073
+FINAL DIAGNOSIS: Marchiafava-Bignami disease
+
+CASE: M074
+FINAL DIAGNOSIS: Xp11.2 translocation renal cell carcinoma
+
+CASE: M075
+FINAL DIAGNOSIS: Cough-variant asthma
+
+CASE: M076
+FINAL DIAGNOSIS: Wernicke encephalopathy
+
+CASE: M077
+FINAL DIAGNOSIS: Wernicke encephalopathy
+
+CASE: M078
+FINAL DIAGNOSIS: Secondary chondrosarcoma
+
+CASE: M079
+FINAL DIAGNOSIS: Caroli disease
+
+CASE: M080
+FINAL DIAGNOSIS: Acute rheumatic fever

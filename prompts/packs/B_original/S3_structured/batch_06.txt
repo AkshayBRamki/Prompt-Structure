@@ -1,0 +1,144 @@
+You will be given 8 clinical cases. Use only the information in each case. Do not search the web or use any tools. Answer all 8 cases, in order, and use exactly the output format below for every case.
+
+For each case, complete this structured diagnostic work-up.
+
+Output format for every case:
+CASE: <case id>
+1. KEY FINDINGS: the clinically decisive findings, with their significance
+2. DIFFERENTIAL: 3-5 candidate diagnoses, ranked
+3. EVIDENCE FOR AND AGAINST: for each candidate, the findings that support it and the findings that argue against it
+4. EXCLUSIONS AND COMMITMENT: which candidates you exclude and why, and which you commit to by that reasoning
+5. FINAL DIAGNOSIS: <diagnosis>
+
+=== CASE M041 ===
+- **Patient Information:** 47-year-old male
+- **Chief Complaint:** Right-sided weakness in the upper and lower limbs lasting six hours
+- **History of Present Illness:** Intermittent high-grade fever for four weeks, accompanied by loss of appetite and progressive weight loss. History of negative fever panel workup and no growth in blood cultures at a previous hospital visit.
+- **Past Medical History:** Rheumatic heart disease (status-post mitral valve replacement) and diabetes mellitus
+- **Personal History:** Denies alcohol use, smoking, or intravenous drug use
+- **Family History:** None provided
+- **Physical Examination:** Febrile. Neurological examination revealed right-sided paresis in upper and lower limbs. Cardiovascular exam showed a diastolic murmur in the aortic area and a prosthetic click in the mitral area. Fundoscopic exam identified Roth’s spots (suggestive of endocarditis).
+- **Ancillary Tests:**
+  - Elevated ESR
+  - Blood cultures from three sites grew *Abiotrophia defectiva*
+  - CT brain revealed intraparenchymal hemorrhage in the right basifrontal lobe, subarachnoid hemorrhage, hemorrhagic focus in the left internal capsule, chronic lacunar infarcts, and a right corona radiata infarct.
+  - Carotid angiography was normal.
+  - 2D transthoracic echocardiogram and transesophageal echocardiogram (TEE) showed 9x9 mm vegetation on the aortic and prosthetic mitral valves.
+- **Clinical Course:** Patient was started on four weeks of IV antibiotics (Gentamycin and Penicillin G), underwent aortic valve replacement surgery, and received neurological and rehabilitation care. Marked symptomatic improvement was noted.
+
+=== CASE M042 ===
+- **Patient Information:** 43-year-old female
+- **Chief Complaint:** Progressive frontal headache and unsteadiness for 2 months
+- **History of Present Illness:** Recurrent episodes of progressive frontal headache and unsteadiness over 2 months
+- **Past Medical History:** None
+- **Personal History:** None
+- **Family History:** None
+- **Physical Examination:** Mild left-sided hemiparesis, no neck stiffness, negative pathological reflexes, normal physiological reflexes, isochoric pupils with positive light reflex, and normal eye movements. MMSE score: 32.
+- **Ancillary Tests:** 
+  - **CT Scan:** An intensely enhancing tumor in the right trigone of the lateral ventricle extending to the posterior body, temporal and occipital horns, with vasogenic edema and midline shift to the left.
+  - **MRI:** Tumor localized in the right trigone with dimensions 4.19 mm × 6.42 mm × 6.54 mm. Inhomogeneous hypointensity on T1, inhomogeneous isointensity on T2, and hyperintensity on T2-FLAIR with peritumoral edema. Loculated enlargement of the occipital horn and restricted diffusion (ADC 0.8 × 10⁻³ mm²/s).
+  - **MR Spectroscopy:** Increased choline (141.59), decreased NAA (29.15), and creatine (47.23), supporting meningioma diagnosis.
+  - **Pathology:** Revealed fibroblastic meningioma components.
+
+=== CASE M043 ===
+- **Patient Information:** 76-year-old female.
+- **Chief Complaint:** Pain in the proximal right tibia for 2 months without trauma.
+- **History of Present Illness:** Chronic osteoporosis treated with bisphosphonates for 15 years and denosumab for maintenance. Previously treated for atypical fractures in the contralateral femur and ipsilateral tibia with teriparatide.
+- **Past Medical History:** 
+  - Long-term bisphosphonate therapy (sodium risedronate for 4 years, intravenous ibandronate for 10 years).
+  - Previous insufficiency fractures treated conservatively (ipsilateral tibia and contralateral femur).
+  - Maintenance osteoporosis therapy transitioned to denosumab after femoral fracture healing.
+- **Personal History:** None.
+- **Family History:** None.
+- **Physical Examination:** Localized tenderness in the anterior aspect of the proximal right tibia.
+- **Ancillary Tests:**
+  - Radiographs: Cortical thickening and horizontal fracture line in the proximal right tibia.
+  - MRI: Fracture confirmed with surrounding edema.
+  - Lab tests: Normal parathyroid hormone, calcium, phosphate, thyroid function, and vitamin D; significantly reduced osteocalcin (4.82 ng/mL, reference range 11–30 ng/mL).
+
+=== CASE M044 ===
+- **Patient Information:** 49-year-old female
+- **Chief Complaint:** Left hip joint pain
+- **History of Present Illness:** Presented with left hip joint pain; diagnosed with large osteomas on the left femur and iliac bone, confirmed as myositis ossificans post histopathology.
+- **Past Medical History:** Cardiovascular event (CVE) three years ago with an acute infarct in the MCA territory, managed conservatively; no prior autoimmune disorders, renal disease, or significant hematological abnormalities.
+- **Personal History:** History of a fall during physiotherapy post-CVE.
+- **Family History:** None mentioned.
+- **Physical Examination:** Preoperative status was unremarkable; postoperative findings included thrombocytopenia, anemia, and acutely reduced renal function.
+- **Ancillary Tests:**
+  - Elevated LDH (714), decreased platelet count (114,000), increased creatinine (7.4 mg/dL), hemoglobin 9.7 g/dL postoperatively.
+  - Peripheral smear: Moderate thrombocytopenia, fragmented RBCs.
+  - Kidney ultrasound: Grade 1 renal parenchymal disease.
+  - Normal ADAMTS13 activity (>50%) and negative Shiga toxin PCR, ruling out TTP and STEC-HUS.
+  - Blood and urine cultures performed during septic episode; appropriate antibiotic therapy administered.
+  - Response to interventions: Resolution of proteinuria and hematuria, normalization of hemoglobin, platelets, and improvement in renal function.
+
+=== CASE M045 ===
+- **Patient Information:** 4-year-old female
+- **Chief Complaint:** Chronic hemorrhagic diarrhea
+- **History of Present Illness:** 6 months of chronic hemorrhagic diarrhea, severe anemia unresponsive to iron treatment, partially improved with antibiotics and iron supplementation.
+- **Past Medical History:** None provided
+- **Personal History:** None provided
+- **Family History:** Mother has a perianal fistula under investigation.
+- **Physical Examination:** Malnourished, pale girl with abdominal tenderness upon palpation (BMI: 15.3 kg/m²).
+- **Ancillary Tests:**
+  - Laboratory: Severe sideropenia, iron-refractory anemia (Hgb 109 g/L, MCV 70.2 fL), hypoalbuminemia (30 g/L), elevated inflammatory markers (CRP 8 g/L, ESR 45 mm/h), fecal calprotectin 1338 µg/g, hypergammaglobulinemia (IgA 2.63 g/L), normal liver and kidney function tests. ANA positive (1:320, speckled), negative anti-dsDNA, AMA, ASMA, anti-LKM1, ANCA, SSA, SSB. Coeliac disease excluded.
+  - Stool Culture: Negative for infection.
+  - Imaging: Bowel thickening, mesenteric lymphadenopathy, creeping fat on ultrasound.
+  - Endoscopy: Focal active pangastritis, terminal ileal ulcerations, colonic aphthous lesions, anal fissure.
+  - Histology: Granulomas (Langhans-type giant cells), crypt distortion, cryptitis, crypt abscesses, Paneth cell metaplasia, inflammatory infiltrates. Gastric mucosa with Schaumann bodies (SB). 
+  - TB ruled out: Negative QuanTIFERON TB GOLD, negative sputum culture.
+  - Sarcoidosis evaluation: Normal ACE, urinary calcium, chitotriosidase, normal chest X-ray and CT, no skin or ocular involvement.
+  - Other: Negative for schistosomiasis.
+
+=== CASE M046 ===
+- Patient Information: 75-year-old female.
+- Chief Complaint: Dysphagia for the past four weeks, predominantly for solids.
+- History of Present Illness: Rapidly progressive dysphagia with a history of food impaction, significant weight loss of 7 kg over four weeks, easy fatigability, and anorexia. No odynophagia, regurgitation, hoarseness, abdominal pain, or night sweats.
+- Past Medical History: Diagnosed with left tibial osteosarcoma one year ago, treated with above-knee amputation and radiotherapy.
+- Personal History: Currently on antihypertensive and antidiabetic medications.
+- Family History: None.
+- Physical Examination: Afebrile and vitally stable with no systemic abnormalities detected.
+- Ancillary Tests:
+  - Barium swallow: "Rat-tail appearance," suggestive of achalasia.
+  - Laboratory findings: Normal except for elevated glycated hemoglobin (HbA1c).
+  - Esophagogastroduodenoscopy (EGD): Luminal narrowing at 34 cm from incisors with resistance across the gastroesophageal junction.
+  - High-resolution esophageal manometry: Raised LES pressure, decreased relaxation, and elevated intra-esophageal resting pressure (IRP), consistent with achalasia.
+  - CT scan: Mediastinal mass (64x84 mm) with patchy enhancement and esophageal involvement.
+  - Endosonography and biopsy: Thickening and hyperechoic deposits at 34 cm; biopsy confirmed malignant spindle- and round-shaped tumor cells.
+  - Histopathology: Positive for malignant signet cell tumor cells.
+
+=== CASE M047 ===
+- **Patient Information:** 19-year-old Hispanic female with no significant past medical history.
+- **Chief Complaint:** Proximal muscle weakness and hyperpigmented rash.
+- **History of Present Illness:** 4-month history of progressive proximal muscle weakness affecting upper/lower extremities and oropharyngeal muscles, causing dysphagia. Associated hyperpigmented rash noted on sun-exposed areas (face, neck, chest).
+- **Past Medical History:** None.
+- **Personal History:** None.
+- **Family History:** None.
+- **Physical Examination:** 
+  - Hyperpigmented rash on forehead, chin, upper chest (shawl sign), and Gottron’s papules on dorsal joints bilaterally.
+  - Symmetrical proximal muscle weakness (3/5).
+  - Decreased reflexes (1+).
+- **Ancillary Tests:**
+  - Elevated inflammatory markers: ESR 39 mm, CRP 8.9 mg/L.
+  - Elevated muscle enzymes: AST 212 U/L, ALT 65 U/L, LDH 622 U/L, aldolase 21.8 U/L. Normal CK and myoglobin levels.
+  - ANA positive: 1:320 titer (nuclear speckled pattern).
+  - EMG: Acute inflammatory myopathy without polyneuropathy.
+  - MRI: Diffuse muscle edema/enhancement consistent with inflammatory myositis.
+  - Muscle biopsy: Severe inflammatory myopathy with perifascicular pathology.
+  - Myositis panel: Positive for anti-SAE1 and anti-MDA5 antibodies.
+  - Modified barium swallow: Delayed oral transit and moderate dysphagia.
+  - CT chest: No lymphadenopathy, nodules, or interstitial pneumonitis.
+
+=== CASE M048 ===
+- **Patient Information:** 58-year-old male, smoker, presenting with advanced squamous cell carcinoma of the oral cavity.
+- **Chief Complaint:** Sublingual discomfort, swelling, and associated symptoms.
+- **History of Present Illness:** Sublingual discomfort, swelling, aphagia, odynophagia, bloody sputum, 12 kg weight loss, and asthenia over 3 weeks.
+- **Past Medical History:** None documented.
+- **Personal History:** Chronic smoking.
+- **Family History:** Not specified.
+- **Physical Examination:** 4 cm ulcerative lesion on the right tongue and adjacent gum; right-sided level Ib firm lymphadenopathy.
+- **Ancillary Tests:**
+  - Biopsy: p16-negative squamous cell carcinoma with high PD-L1 expression (CPS > 50).
+  - 18F-FDG PET/CT: Hypermetabolic mass in the right side of the tongue with local invasion and bilateral necrotic adenopathy. Tumor staged as cT4aN2cM0.
+  - Echocardiography: Right ventricular mass initially suspected to be thrombus, unresponsive to anticoagulation.
+  - Follow-up 18F-FDG PET/CT: Hypermetabolic activity of the right ventricular mass, consistent with metastasis, alongside progression of primary oral lesion and metastatic lymph nodes.

@@ -1,0 +1,23 @@
+CASE: M001
+FINAL DIAGNOSIS: Schwannomatosis (non-NF2, NOS: multiple lumbosacral intraspinal schwannomas with recurrent perineal schwannoma; NF2, SMARCB1 and LZTR1 negative)
+
+CASE: M002
+FINAL DIAGNOSIS: Metastatic triple-negative breast carcinoma (synchronous bilateral) with lung, adrenal and subcutaneous metastases
+
+CASE: M003
+FINAL DIAGNOSIS: Abdominoscrotal cystic lymphatic malformation (cystic lymphangioma)
+
+CASE: M004
+FINAL DIAGNOSIS: Primary mucinous cystadenocarcinoma of the breast (triple-negative)
+
+CASE: M005
+FINAL DIAGNOSIS: Herpes simplex virus esophagitis in an immunocompetent patient
+
+CASE: M006
+FINAL DIAGNOSIS: Gastric schwannoma
+
+CASE: M007
+FINAL DIAGNOSIS: Unruptured left tubal ectopic pregnancy with a live 12-week fetus
+
+CASE: M008
+FINAL DIAGNOSIS: Acute mesenteric ischemia from small bowel neuroendocrine tumor encasing the SMA and SMV

@@ -1,0 +1,23 @@
+CASE: M097
+FINAL DIAGNOSIS: Dementia associated with oral Treponema (spirochetal) infection, a neurosyphilis-like chronic spirochetosis mimicking Lewy body dementia
+
+CASE: M098
+FINAL DIAGNOSIS: Severe (Hurley III) hidradenitis suppurativa flare with systemic inflammation and polyclonal hypergammaglobulinemia (raised IgG/IgG4) mimicking IgG4-related disease
+
+CASE: M099
+FINAL DIAGNOSIS: Statin-associated anti-HMGCR immune-mediated necrotizing myopathy
+
+CASE: M100
+FINAL DIAGNOSIS: Hemiconvulsion-hemiplegia (HH) syndrome
+
+CASE: M101
+FINAL DIAGNOSIS: Medulloblastoma of the cerebellar vermis with obstructive hydrocephalus, with associated basilar invagination and atlanto-occipital assimilation
+
+CASE: M102
+FINAL DIAGNOSIS: Fulminant viral myocarditis caused by human rhinovirus A66 (HRV-A66), with cardiogenic shock
+
+CASE: M103
+FINAL DIAGNOSIS: Post-traumatic peritoneal pseudocyst (organized chronic hematoma)
+
+CASE: M104
+FINAL DIAGNOSIS: Childhood cerebral X-linked adrenoleukodystrophy with primary adrenal insufficiency (Addison disease)

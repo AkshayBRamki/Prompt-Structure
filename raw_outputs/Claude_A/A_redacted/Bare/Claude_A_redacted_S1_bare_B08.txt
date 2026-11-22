@@ -1,0 +1,23 @@
+CASE: M057
+FINAL DIAGNOSIS: Sertoli cell tumor of the right testis
+
+CASE: M058
+FINAL DIAGNOSIS: Large pericardial effusion secondary to Waldenström macroglobulinemia
+
+CASE: M059
+FINAL DIAGNOSIS: Orbital leiomyoma
+
+CASE: M060
+FINAL DIAGNOSIS: Hemorrhagic brain abscess caused by Clostridium perfringens
+
+CASE: M061
+FINAL DIAGNOSIS: Bilateral radial head subluxation (nursemaid's elbow)
+
+CASE: M062
+FINAL DIAGNOSIS: Occult (initially missed) left femoral neck fracture concurrent with left pubic fracture
+
+CASE: M063
+FINAL DIAGNOSIS: Cystic fibrosis presenting as meconium ileus
+
+CASE: M064
+FINAL DIAGNOSIS: Classic Kaposi sarcoma

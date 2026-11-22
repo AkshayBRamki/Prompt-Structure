@@ -1,0 +1,35 @@
+CASE: M033
+REASONING: A 63-year-old woman develops severe neuropathic pain in the proximal right arm about 3 weeks after a dengue infection. The pain is followed by amyotrophy, weakness in the deltoid, infraspinatus and biceps (upper and middle trunk distribution), sensory changes, absent reflexes and autonomic signs (livedo). ENMG shows acute denervation, and MRI shows signal change in the upper and middle trunks of the brachial plexus. Other inflammatory, infectious and immune causes were excluded. This sequence of acute severe pain, then patchy weakness and atrophy of the shoulder girdle and arm after a viral trigger, is classic neuralgic amyotrophy.
+FINAL DIAGNOSIS: Parsonage-Turner syndrome (neuralgic amyotrophy / acute brachial plexus neuritis) following dengue virus infection
+
+CASE: M034
+REASONING: The three cases are unusual causes of peripheral facial nerve palsy that mimic Bell's palsy.
+
+Case 1: Slowly progressive right facial palsy with ipsilateral sensorineural hearing loss and a reduced corneal reflex. MRI shows a well-defined, CSF-intensity lesion at the right cerebellopontine angle compressing CN VII/VIII. This fits a CPA arachnoid cyst.
+Case 2: Recurrent ipsilateral "Bell's palsy" with an AICA vascular loop compressing CN VII/VIII. This fits neurovascular compression.
+Case 3: Fever, bilateral facial palsy with lower cranial neuropathies (IX, X), and confirmation by IgM ELISA plus western blot. This fits Lyme neuroborreliosis, even without a recalled tick bite.
+FINAL DIAGNOSIS: Secondary (non-Bell's) facial nerve palsy. Case 1: right cerebellopontine angle arachnoid cyst. Case 2: AICA vascular loop compressing CN VII/VIII (neurovascular conflict). Case 3: Lyme neuroborreliosis with bilateral facial palsy and multiple cranial neuropathies.
+
+CASE: M035
+REASONING: A middle-aged man with high sexual activity and pyuria has positive Chlamydia trachomatis IgA/IgG and raised CRP and WBC. He has multifocal enthesitis on MRI at the spinous processes, ischial tuberosity, trochanters and shoulder greater tuberosity, with peritendinitis but no sacroiliitis. HLA-B27 is negative. Inflammatory enthesitis after a genitourinary chlamydial infection is a post-infectious spondyloarthritis, even without HLA-B27 or sacroiliitis.
+FINAL DIAGNOSIS: Chlamydia trachomatis–associated reactive arthritis (reactive enthesitis/peripheral spondyloarthritis)
+
+CASE: M036
+REASONING: A young nulliparous woman has a large unilateral adnexal mass and a markedly raised AFP (>60,000 ng/mL), with raised LDH. Histology shows microcystic and endodermal sinus patterns with Schiller–Duval bodies, and immunohistochemistry is AFP-positive. These findings are diagnostic of a malignant germ cell tumor of the yolk sac type. The tumor is confined to one ovary with an intact capsule, which is FIGO IA. The prior endometriosis may be incidental or relevant to histogenesis.
+FINAL DIAGNOSIS: Ovarian yolk sac tumor (endodermal sinus tumor), left ovary, FIGO stage IA
+
+CASE: M037
+REASONING: An elderly woman from an endemic area of Brazil has major weight loss, generalized lymphadenopathy, and jaundice from hilar and retroperitoneal adenopathy and gallbladder wall thickening. She also has adrenal nodules, and her lungs are normal. Fungal yeast forms were found in the appendix. Tuberculosis and malignancy were excluded. This picture is a systemic endemic mycosis with lymphatic and abdominal involvement and adrenal tropism, typical of the juvenile/acute, lymph-abdominal type of disease.
+FINAL DIAGNOSIS: Disseminated paracoccidioidomycosis (Paracoccidioides brasiliensis), lymph-abdominal form with appendiceal, hepatobiliary and adrenal involvement
+
+CASE: M038
+REASONING: A patient with Schimmelpenning syndrome (a mosaic RAS-pathway epidermal/sebaceous nevus syndrome) develops a large, irregular, partly cystic, infiltrative left frontal mass with mass effect and progressive headache. The tumor carries the same mosaic HRAS G13R variant, which links it to the syndrome. RAS-driven intra-axial tumors with cystic components in adults are gliomas. The size, irregularity and rapid symptom progression favor a high-grade lesion.
+FINAL DIAGNOSIS: High-grade glioma (glioblastoma) of the left frontal lobe arising in Schimmelpenning syndrome with mosaic HRAS c.37G>C p.(G13R) mutation
+
+CASE: M039
+REASONING: A non-smoking adolescent has hemoptysis, cough and dyspnea. Imaging shows a left upper lobe mass with calcification and a polypoid endobronchial component, plus lung, vertebral and pelvic metastases. The biopsy shows malignant spindle cells that co-express cytokeratin, vimentin and TTF-1. Epithelial (CK, TTF-1) and mesenchymal (vimentin) markers together in a spindle-cell lung tumor indicate a lung carcinoma with sarcomatoid differentiation rather than a pure sarcoma. Pulmonary blastoma is the main differential.
+FINAL DIAGNOSIS: Primary pulmonary sarcomatoid (spindle cell) carcinoma of the left lung, stage IV, with pulmonary and bone metastases
+
+CASE: M040
+REASONING: A 17-year-old with no vascular risk factors and normal labs has an acute left MCA territory infarct. The left carotid canal is congenitally narrow (3 mm versus 7 mm), and the left ICA is small and runs inside it. A small bony canal shows that the artery was hypoplastic from development, not narrowed by acquired dissection or vasculitis. The reduced flow led to poor opacification of the left MCA and its branches and caused ischemia.
+FINAL DIAGNOSIS: Ischemic stroke in the left middle cerebral (sylvian) artery territory due to congenital hypoplasia of the left internal carotid artery

@@ -1,0 +1,23 @@
+CASE: M097
+FINAL DIAGNOSIS: Neurodegenerative dementia (Alzheimer-type) with late-onset dyskinesia, associated with chronic oral Treponema spirochetal infection (spirochetal dementia)
+
+CASE: M098
+FINAL DIAGNOSIS: Severe Hurley stage III hidradenitis suppurativa with systemic inflammation and polyclonal hypergammaglobulinemia/elevated IgG4, mimicking IgG4-related disease
+
+CASE: M099
+FINAL DIAGNOSIS: Statin-associated anti-HMGCR immune-mediated necrotizing myopathy
+
+CASE: M100
+FINAL DIAGNOSIS: Hemiconvulsion-hemiplegia-epilepsy (HHE) syndrome, chronic phase
+
+CASE: M101
+FINAL DIAGNOSIS: Medulloblastoma of the cerebellar vermis/fourth ventricle with obstructive hydrocephalus, with associated craniovertebral junction anomalies (basilar invagination, atlanto-occipital assimilation)
+
+CASE: M102
+FINAL DIAGNOSIS: Fulminant myocarditis with cardiogenic shock caused by human rhinovirus A66 (HRV-A66)
+
+CASE: M103
+FINAL DIAGNOSIS: Post-traumatic peritoneal (non-pancreatic) pseudocyst
+
+CASE: M104
+FINAL DIAGNOSIS: Childhood cerebral X-linked adrenoleukodystrophy with primary adrenal insufficiency

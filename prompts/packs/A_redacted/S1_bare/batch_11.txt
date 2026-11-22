@@ -1,0 +1,126 @@
+You will be given 8 clinical cases. Use only the information in each case. Do not search the web or use any tools. Answer all 8 cases, in order, and use exactly the output format below for every case.
+
+Give the most likely final diagnosis for each case.
+
+Output format for every case:
+CASE: <case id>
+FINAL DIAGNOSIS: <diagnosis>
+
+=== CASE M081 ===
+- **Patient Information:** 16-year-old male from a low socioeconomic background with a history of poor academic performance and frequent headaches.
+- **Chief Complaint:** Initial presentation with headache, fever, red eyes, generalized weakness, dark yellow urine, and poor appetite.
+- **History of Present Illness:** Progressed over months to include neurological symptoms such as agitation, slurred speech, seizures, vertigo, and reduced sleep. Later developed spasticity, chorea, rigidity, and cognitive decline.
+- **Past Medical History:** Anemic throughout the illness; subclinical hypothyroidism.
+- **Personal History:** Poor educational performance and frequent headaches; no significant family neurological or psychiatric history.
+- **Family History:** No relevant familial neurological or psychiatric history.
+- **Physical Examination:** Restless, reduced ability to speak, spasticity, chorea, rigidity, episodes of convulsions.
+- **Ancillary Tests:** 
+   - Hematologic tests showed low hemoglobin (10.5 g/dL), elevated ESR (30 mm), reduced RBC count, and elevated CRP (58.9 mg/L).
+   - Metabolic panel revealed elevated TSH levels (13.92 µIU/ml), likely indicating subclinical hypothyroidism.
+   - Imaging: Spiral CT showed bilateral calcifications in the basal ganglia, thalami, and subcortical white matter.
+   - EEG confirmed generalized tonic-clonic seizures.
+   - Montreal Cognitive Assessment (MoCA): 22/30 score.
+   - Copper and calcium metabolism tests ruled out Wilson's disease and pseudohypoparathyroidism.
+
+---
+
+=== CASE M082 ===
+- Patient Information: 58-year-old male.
+- Chief Complaint: None explicitly noted; major concerns include cutaneous ulcerations, respiratory involvement, and sinus and orbital issues.
+- History of Present Illness: Chronic sinusitis, epistaxis, cavitary lung lesions unresponsive to antibiotics, and subsequent development of painful bilateral lower extremity cutaneous ulcerations following prednisone taper. Later symptoms included sinus pain, proptosis, and periocular swelling.
+- Past Medical History: Intranasal cocaine use, chronic sinusitis, and epistaxis.
+- Personal History: Intranasal cocaine use.
+- Family History: None mentioned.
+- Physical Examination: Well-demarcated ulcers with raised violaceous borders; sinus opacification, midline septal defect, destruction of the orbital floor, and hard palate.
+- Ancillary Tests: Negative autoimmune and ANCA workup, normal serum protein electrophoresis and eosinophil levels, abnormal histologic findings (PG on skin biopsy; nonspecific findings lacking classic signs of [REDACTED]), radiologic findings of lung and sinus involvement, and culture showing neutrophils without infection.
+
+=== CASE M083 ===
+- **Patient Information:** Toddler, thriving well, developmentally normal, fully immunized, no prior significant illness.
+- **Chief Complaint:** One day of fever, cough, cold, followed by breathing difficulty.
+- **History of Present Illness:** Presented with low-grade fever (100°F), cough, and cold. Breathing difficulty started on the same morning as admission. No history of vomiting, diarrhea, or urinary issues.
+- **Past Medical History:** Uneventful antenatal period; full-term LSCS delivery; Apgar score 9/10; thriving and developmentally normal.
+- **Personal History:** None reported.
+- **Family History:** None reported.
+- **Physical Examination:** Pulse rate of 133/min, respiratory rate of 62/min, subcostal retractions, wheezing in both lungs, fever.
+- **Ancillary Tests:** 
+  - Positive C-reactive protein (CRP): 15.1 mg/L.
+  - Chest X-ray: Bilateral hyperinflated lung fields.
+  - Blood investigations: Microcytic hypochromic anemia, normal renal function, electrolytes, and liver function tests, sterile blood culture.
+  - Nasopharyngeal RT-PCR: Positive for [REDACTED] (Ct value 28), negative for Respiratory Syncytial Virus (RSV).
+
+=== CASE M084 ===
+- **Patient Information:** 38-year-old male
+- **Chief Complaint:** Recent seizure, three days prior to presentation
+- **History of Present Illness:** 20-year history of seizures (3-4 episodes annually, lasting 30 minutes to 1 hour, characterized by upward eye rolling, generalized tonic-clonic convulsions, and drooling of saliva). No history of postictal confusion, headaches, weakness, trauma, or other neurological or systemic symptoms.
+- **Past Medical History:** None notable (no history of diabetes mellitus, hypertension, tuberculosis, asthma, ischemic heart disease, surgeries, or addictions)
+- **Personal History:** None
+- **Family History:** None reported
+- **Physical Examination:** General condition unremarkable; no focal neurological deficits.
+- **Ancillary Tests:** Brain MRI revealed:
+  - Absence of the posterior portion of the septum pellucidum.
+  - Mild prominence of lateral ventricles.
+  - Abnormal course of the crura of the fornix (inferior displacement without commissural formation between crura).
+  - Third and fourth ventricles were normal.
+  - No other structural anomalies.
+
+=== CASE M085 ===
+- **Patient Information:** 66-year-old male.
+- **Chief Complaint:** Abdominal distension.
+- **History of Present Illness:** None.
+- **Past Medical History:** Chronic hepatitis B (20 years), type 2 diabetes mellitus (12 years), past history of tuberculosis treated and resolved 30 years ago.
+- **Personal History:** None.
+- **Family History:** None.
+- **Physical Examination:** Mild tenderness in the right upper quadrant; otherwise unremarkable.
+- **Ancillary Tests:**
+  - **Laboratory Tests:** Slightly decreased serum albumin; hepatitis B surface antigen (HBsAg) positive; normal AFP, CEA, and CA 19-9 tumor markers.
+  - **Imaging:**
+    - Ultrasound revealed a large mass in the hepatogastric space.
+    - Contrast-enhanced CT: Well-defined, heterogeneous hypo-/iso-dense liver mass (6.8 × 4.5 × 5.8 cm) with gradual enhancement during portal and equilibrium phases.
+    - MRI: Mass with slight hyperintensity on T2-weighted images, hypointensity on T1-weighted images, and heterogeneous enhancement consistent with necrosis/hemorrhage.
+  - **Pathology (post-surgery):** Two distinct areas in the tumor:
+    - Differentiated spindle cells (positive for desmin, caldesmon, and SMA).
+    - Dedifferentiated atypical cells (high mitotic rate, necrosis, and Ki-67 elevation).
+  - Final pathology confirmed [REDACTED].
+
+=== CASE M086 ===
+- **Patient Information**: 66-year-old female
+- **Chief Complaint**: Lower abdominal pain for 4 months, associated with weight loss and loss of appetite.
+- **History of Present Illness**: Persistent lower abdominal pain lasting four months with concurrent weight loss and reduced appetite.
+- **Past Medical History**: Hypertension.
+- **Personal History**: None mentioned.
+- **Family History**: None reported.
+- **Physical Examination**: Not explicitly detailed.
+- **Ancillary Tests**:
+  - Laboratory markers: Elevated serum CA19-9, LDH, and CRP; normal CA-125 and CEA levels.
+  - MRI: Large heterogeneous, solid lesion with central necrosis in the left adnexa, suggesting a malignant ovarian neoplasm.
+  - Surgical findings: A tumor measuring 15 × 12 × 7 cm in the right ovary with a ruptured capsule, numerous associated findings.
+  - Histopathology: High-grade spindle cell sarcoma consistent with [REDACTED] and features of teratoma with malignant transformation.
+  - Immunohistochemistry: Positive smooth muscle actin (SMA) and negative S100, confirming [REDACTED].
+  - Stage: pT3c pNx (FIGO stage IIIC).
+
+=== CASE M087 ===
+- Patient Information: 58-year-old woman
+- Chief Complaint: Elevated lesion in the stomach 
+- History of Present Illness: Protruding gastric lesion identified during a routine health check three years prior; previously identified during endoscopy as a hyperplastic polyp with chronic Helicobacter pylori (H. pylori)–induced gastritis treated successfully with antibiotics; no significant symptoms were reported.
+- Past Medical History: Treated H. pylori infection; chronic gastritis managed with annual endoscopic follow-ups.
+- Personal History: None.
+- Family History: None.
+- Physical Examination: Not explicitly described.
+- Ancillary Tests: 
+  - Gastroscopy: Repeated examinations showed a lobulated mass resembling a submucosal tumor with high internal echoes and no attenuated posterior echoes on endoscopic ultrasound (EUS).
+  - Fine-Needle Aspiration (FNA) Biopsy: Normal gastric mucosa and spindle cells with SMA positivity and DOG1/S100 negativities suggested an inflammatory fibroid polyp.
+  - Computed Tomography (CT): Demonstrated a 26-mm elevated lesion near the esophago-gastric junction with early enhancement and similar Hounsfield Units to the gastric wall.
+  - Histopathological (Postoperative): Downward mucosal proliferation into the submucosal layer with hyperplastic crypt epithelium. Sparse spindle cells with no eosinophil infiltration were observed. Final pathology revealed a [REDACTED].
+
+=== CASE M088 ===
+- **Patient Information:** 5-year-old boy
+- **Chief Complaint:** Recurrent seizures
+- **History of Present Illness:** Episodes of horizontal nystagmus in both eyes, clonic movements in the right extremities lasting 15 seconds, blurred vision prior to seizures, with retained consciousness and communicative ability between episodes.
+- **Past Medical History:** None reported.
+- **Personal History:** None reported.
+- **Family History:** None reported.
+- **Physical Examination:** Unremarkable, no signs of infection or trauma.
+- **Ancillary Tests:**
+  - EEG: Initially normal; later showed epileptiform activity in the right occipital region extending to the right posterior temporal and parietal regions; subsequent results were normal despite persistent seizures.
+  - CT Scan: Showed mild cerebral edema.
+  - MRI: Detected a bulging gyrus lesion with perifocal edema in the right parieto-occipital lobe, suggestive of a Dysembryoplastic Neuroepithelial Tumor (DNET) or Diffuse Glioma, with isointensity on T1-weighted imaging, slight hyperintensity on T2-weighted/FLAIR sequences.

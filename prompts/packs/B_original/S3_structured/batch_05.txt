@@ -1,0 +1,159 @@
+You will be given 8 clinical cases. Use only the information in each case. Do not search the web or use any tools. Answer all 8 cases, in order, and use exactly the output format below for every case.
+
+For each case, complete this structured diagnostic work-up.
+
+Output format for every case:
+CASE: <case id>
+1. KEY FINDINGS: the clinically decisive findings, with their significance
+2. DIFFERENTIAL: 3-5 candidate diagnoses, ranked
+3. EVIDENCE FOR AND AGAINST: for each candidate, the findings that support it and the findings that argue against it
+4. EXCLUSIONS AND COMMITMENT: which candidates you exclude and why, and which you commit to by that reasoning
+5. FINAL DIAGNOSIS: <diagnosis>
+
+=== CASE M033 ===
+- **Patient Information**: 63-year-old retired female.
+- **Chief Complaint**: Severe pain in the proximal and intermediate thirds of the right arm.
+- **History of Present Illness**: Approximately 21 days after recovering from dengue virus infection, the patient developed severe stabbing, shock-like, and burning pain with associated limb atrophy, livedo (skin discoloration), muscle weakness, and joint instability. The pain was neuropathic, causing functional impairment.
+- **Past Medical History**: Mild hypertension.
+- **Personal History**: None reported.
+- **Family History**: None reported.
+- **Physical Examination**: 
+  - Amyotrophy in the proximal and intermediate thirds of the right upper limb.
+  - Hypotonia, grade 2/3 paresis in specific muscles including the deltoid, infraspinatus, and biceps brachii.
+  - Allodynia to touch and pressure, thermal hyperesthesia, and neuropathic pain.
+  - Deep hypoesthesia and absent tendon reflexes in the right upper limb.
+  - Cranial nerves: normal.
+- **Ancillary Tests**:
+  - Serology: Positive IgM for dengue virus.
+  - Electroneuromyography (ENMG): Acute denervation of peripheral nerves, prolonged action potentials, increased latency.
+  - MRI of the brachial plexus: Subtle signal changes in the upper and middle primary trunks.
+  - Routine tests for other inflammatory, infectious, and immune-mediated conditions were normal.
+
+---
+
+=== CASE M034 ===
+#### Case 1:
+- Patient Information: 65-year-old female
+- Chief Complaint: Right-sided facial weakness, inability to close right eye, and occasional giddiness.
+- History of Present Illness: Symptoms progressed over one year, worsening in the past two months, with mild sensory neural hearing loss (SNHL) on the same side.
+- Past Medical History: Hypertension, diabetes, hypothyroidism.
+- Personal History: Not stated.
+- Family History: Not stated.
+- Physical Examination: Inability to wrinkle right forehead, close right eye fully, and deviation of the mouth angle to the left. Right SNHL, impaired corneal reflex on the right, no limb weakness, normal cerebellar exam, normal external ear.
+- Ancillary Tests: MRI brain with MRA/MRV showing a cerebrospinal fluid intensity area at the right cerebellopontine angle (~2.1 × 1.2 × 0.9 cm) abutting the seventh and eighth cranial nerves and the anterior inferior cerebellar artery (AICA). Diagnosis: Arachnoid cyst (AC) in the CP angle.
+
+#### Case 2:
+- Patient Information: 60-year-old male
+- Chief Complaint: Right-sided facial weakness with drooling and difficulty closing the right eye.
+- History of Present Illness: Sudden facial nerve palsy treated as idiopathic Bell's palsy, with recurrence two months later.
+- Past Medical History: Hypertension, diabetes.
+- Personal History: Not stated.
+- Family History: Not stated.
+- Physical Examination: Same as Case 1 with no external ear abnormalities. Residual orbicularis oculi weakness after treatment.
+- Ancillary Tests: MRI brain with MRA/MRV revealing a vascular loop of the AICA compressing the right seventh and eighth cranial nerves at the CP angle.
+
+#### Case 3:
+- Patient Information: 72-year-old male
+- Chief Complaint: Difficulty swallowing for one week, intermittent fever for three weeks, and bilateral cranial nerve palsy.
+- History of Present Illness: No tick exposure reported. Bilateral FNP and involvement of multiple cranial nerves (7, 9, 10).
+- Past Medical History: Not stated.
+- Personal History: Not stated.
+- Family History: Not stated.
+- Physical Examination: Left-facing uvula, nasal voice, absent gag reflex, no limb weakness, flexor plantar reflex.
+- Ancillary Tests: CSF analysis, serum ACE levels, MRI brain, and serology for infectious causes. IgM ELISA and western blot confirmed Lyme disease.
+
+---
+
+=== CASE M035 ===
+- **Patient Information:** Male, in his 50s.
+- **Chief Complaint:** Hip, lower back, and right shoulder pain.
+- **History of Present Illness:** Progressive pain in the hip and lower back leading to difficulty bending forward, standing upright, and applying force with the right shoulder due to weakness.
+- **Past Medical History:** None provided.
+- **Personal History:** History of high sexual activity and pyuria symptoms.
+- **Family History:** None provided.
+- **Physical Examination:** Not detailed specifically.
+- **Ancillary Tests:**
+  - Blood work: Elevated white blood cell count (10,340/μg) and C-reactive protein (6.45 mg/dL); no other abnormalities.
+  - Positive C. trachomatis immunoglobulin A and G antibodies.
+  - Negative HLA-B27.
+  - MRI of the pelvis: Inflammation of tendon attachments at the spinous processes, sciatic tuberosity, greater and lesser trochanters without sacroiliitis.
+  - MRI of the shoulder: Rotator cuff adhesions, muscle inflammation, bone marrow edema of the greater tuberosity, and peritendinitis.
+
+=== CASE M036 ===
+- **Patient Information:** 25-year-old nulliparous woman
+- **Chief Complaint:** Lower abdominal and back pain for 2 weeks
+- **History of Present Illness:** Pain not related to menses, worsened after urinating; accompanied by nausea (2 weeks) and fever (1 day).
+- **Past Medical History:** Bilateral endometriotic ovarian cysts (2 years ago) treated with 1 year of progesterone therapy.
+- **Personal History:** Regular menstrual cycles with heavy bleeding, passage of clots, and dysmenorrhea.
+- **Family History:** None provided.
+- **Physical Examination:** None provided.
+- **Ancillary Tests:**
+  - Elevated serum markers: 
+    - AFP > 60,500 ng/mL (normal range: 0–8.5 ng/mL)
+    - Lactate dehydrogenase: 548 U/L (normal: 125–220 U/L)
+    - CA-125: 48.3 U/mL (normal: <35 U/mL).
+  - Imaging: Contrast-enhanced CT showed a well-defined 9.4 × 8.5 × 6.8 cm lesion in the left adnexa with loss of fat planes adjacent to sigmoid colon; left ovary was not distinct.
+  - Histopathology: Microcystic and endodermal sinus patterns with Schiller–Duval bodies; positive for AFP immunohistochemistry.
+  - Tumor staging: FIGO stage Ia (limited to one ovary with intact capsule and no peritoneal spread).
+
+=== CASE M037 ===
+- **Patient Information:** 71-year-old Brazilian woman
+- **Chief Complaint:** Acute icteric syndrome with abdominal pain, diarrhea, vomiting, and significant weight loss (20 kg in three months)
+- **History of Present Illness:** Symptoms began five months prior to hospitalization; she was initially treated with symptomatic medications. Her abdominal pain eventually worsened, leading to a confirmed diagnosis of appendicitis and subsequent appendectomy.
+- **Past Medical History:** Hypertension; no previous pulmonary or mucocutaneous diseases.
+- **Personal History:** Resides in Brazil, an endemic area for Paracoccidioidomycosis.
+- **Family History:** None reported.
+- **Physical Examination:** On admission, jaundice (+/4+) and generalized lymphadenopathy (cervical, submental, inguinal, and axillary) were observed. No neoplastic pattern in swollen nodes.
+- **Ancillary Tests:**
+  - Abdominal CT and Magnetic Resonance Cholangiography (MRC) revealed gallbladder wall thickening, adenomegaly in hepatic hilum and retroperitoneum, and adrenal gland nodules suggestive of metastatic lesions.
+  - Histopathological analysis of the cecal appendix showed acute appendicitis with fungal spores of *Paracoccidioides spp.*
+  - Tuberculosis test: Negative.
+  - Blood culture: Positive for *Escherichia coli*.
+  - Biopsy of liver lesion: Negative for cancer.
+  - Radiological examination of lungs: Normal.
+
+=== CASE M038 ===
+- **Patient Information:** 44-year-old female.
+- **Chief Complaint:** Progressive headache and dizziness.
+- **History of Present Illness:** Schimmelpenning syndrome diagnosed earlier; the patient presented with worsening neurological symptoms leading to further investigation.
+- **Past Medical History:** Previously diagnosed with Schimmelpenning syndrome (epidermal nevus syndrome).
+- **Personal History:** None provided.
+- **Family History:** None provided.
+- **Physical Examination:** Skin abnormalities since birth, including large, hairless, brown plaques on the scalp and face, along with multiple brown verrucous plaques on the left side of the body.
+- **Ancillary Tests:** 
+  - MRI revealed an irregular mass (6.5 × 3 × 3 cm) with cystic components in the left frontal lobe, causing significant brain deformation and displacement.
+  - Histopathology confirmed IDH-mutant astrocytoma, WHO grade 3.
+  - Molecular analysis identified an HRAS mutation (c37G>C p.(G13R)) with a prevalence of 31%.
+
+=== CASE M039 ===
+- Patient Information: 16-year-old male, non-smoker.
+- Chief Complaint: Hemoptysis.
+- History of Present Illness: Two months of dry coughing and exertional dyspnea.
+- Past Medical History: None.
+- Personal History: Non-smoker; no significant personal history.
+- Family History: Not specified.
+- Physical Examination: Unremarkable chest examination.
+- Ancillary Tests:
+  - Bloodwork: Normal except for elevated CRP (40 mg/L).
+  - Chest X-ray: Left lung density with ill-defined margins extending to the pleura.
+  - CT scan: Circular density in the left upper lung with calcification; metastases in the right lung, vertebrae (T6, T12, S1), and pelvic bone.
+  - Bronchoscopy: Polypoid intraluminal mass in the left main bronchus.
+  - Biopsy: Malignant spindle cells.
+  - Immunohistochemical staining: Positive for cytokeratin (CK), vimentin, and TTF-1, confirming classic biphasic pulmonary blastoma (CBPB).
+
+=== CASE M040 ===
+- **Patient Information:** 17-year-old male
+- **Chief Complaint:** Right hemiparesis and dysarthria
+- **History of Present Illness:** One-week history of right-sided weakness (hemiparesis) and difficulty speaking (dysarthria). No associated symptoms.
+- **Past Medical History:** None
+- **Personal History:** None
+- **Family History:** None
+- **Physical Examination:** 
+  - Findings: Right hemiparesis, increased muscle tone in the right upper and lower limbs, heightened right-side deep tendon reflexes, dysarthria without other cranial nerve deficits.
+  - Unremarkable sensory, cardiopulmonary exams.
+- **Ancillary Tests:** 
+  - Laboratory tests (CBC, basic metabolic panel, coagulation studies): Normal.
+  - Radiological findings: 
+    - CT scan: Ischemic stroke in the superficial and deep left sylvian territory.
+    - Bone window CT: Narrowed left carotid duct (3 mm vs. 7 mm on the right).
+    - Contrast imaging: Defective opacification of the M1 and M2 portions of the left sylvian artery; rarefaction of cortical branches (M3 and M4); hypoplasia of the left internal carotid artery in a narrowed bony canal.

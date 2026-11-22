@@ -1,0 +1,129 @@
+You will be given 8 clinical cases. Use only the information in each case. Do not search the web or use any tools. Answer all 8 cases, in order, and use exactly the output format below for every case.
+
+Give the most likely final diagnosis for each case.
+
+Output format for every case:
+CASE: <case id>
+FINAL DIAGNOSIS: <diagnosis>
+
+=== CASE M001 ===
+- Patient Information: 37-year-old female
+- Chief Complaint: None (presents for treatment of multiple space-occupying lesions in the lumbosacral vertebral canal).
+- History of Present Illness: Chronic constipation; otherwise asymptomatic with normal ambulation.
+- Past Medical History: Schwannoma resection in 2019 (left perineal subcutaneous tumor).
+- Personal History: None.
+- Family History: Negative for neurofibromatosis.
+- Physical Examination: No neurological deficits in bilateral lower limb muscle strength, sensation, or sphincter function. Mobile, palpable nodules (1 x 1.5 cm) in the left perineal region suggestive of postoperative schwannoma recurrence. No further physical abnormalities noted.
+- Ancillary Tests:
+  - Abdominal MRI (2022): Multiple well-defined, bead-like nodules in the lumbosacral canal (L1–S1) with no bleeding, necrosis, or cystic changes.
+  - Lumbar MRI (2024): Similar findings persist; contrast-enhanced MRI shows homogenous enhancement without cystic components or surrounding abnormalities.
+  - Genetic testing: Negative for NF2, SMARCB1, and LZTR1 mutations.
+  - Pathological examination (post-surgery, March 2024): Confirmed diagnosis of schwannoma.
+  - Normal head, cervical, and thoracic spine imaging.
+
+=== CASE M002 ===
+- **Patient Information:** 64-year-old woman.
+- **Chief Complaint:** Left breast nodule.
+- **History of Present Illness:** Presented with a nodular formation in the upper outer quadrant of her left breast. A biopsy revealed infiltrating ductal carcinoma. Noticed a contralateral lesion in the right breast during preoperative evaluation.
+- **Past Medical History:** None reported.
+- **Personal History:** None reported.
+- **Family History:** Significant history of malignancies, including leukemia in father, lung carcinoma in mother, and breast carcinoma in paternal aunt.
+- **Physical Examination:** Not detailed beyond general good condition and 97% oxygen saturation on room air.
+- **Ancillary Tests:** 
+  - Initial mammography revealed a 7 mm and 8 mm left breast lesion. Biopsy: invasive ductal carcinoma with Ki-67 of 50%, ER/PR/HER2-negative.
+  - Right breast ultrasound: lesion with mixed echogenicity classified as E4b.
+  - Histological exam post-mastectomy revealed poorly differentiated neoplasms: left breast invasive ductal carcinoma pT1c/G3/N0, right breast pT1b/G3/N0.
+  - Post-surgery CT imaging: hypodense nodules, spiculated pulmonary nodule, and adrenal metastasis.
+  - Subcutaneous nodule biopsy: carcinomatous involvement with cytokeratin 7 expression but inconclusive histological findings.
+  - Endoscopic lung biopsy identified carcinoma with features similar to breast neoplasms, confirmed as [REDACTED]. Immunohistochemistry: cytokeratin 7-positive; TTF1, GATA3, napsin A, and P40-negative; wild-type status for ALK, EGFR, ROS1, RET, METex14, NTRK, and BRAF.
+
+=== CASE M003 ===
+- **Patient Information:** 2-year-old boy.
+- **Chief Complaint:** Painless abdominal distension and left scrotal swelling.
+- **History of Present Illness:** Gradual onset of abdominal distension and left scrotal swelling over 1.5 years. No infectious or gastrointestinal symptoms. No history of trauma.
+- **Past Medical History:** None.
+- **Personal History:** None mentioned.
+- **Family History:** None mentioned.
+- **Physical Examination:** Massively distended abdomen with visible veins and no organomegaly. Gross left inguinoscrotal swelling, non-tender, with normal overlying skin. Swelling partially reducible and transilluminates positively. Left testis not palpable. Rest of the examination was normal.
+- **Ancillary Tests:** 
+  - Complete blood count, serum electrolytes, renal, and liver function tests were within normal range. 
+  - Abdominal ultrasound: Large multiloculated abdominoscrotal cystic lesion.
+  - CT abdomen and pelvis: 25 × 30 cm multiloculated hypodense cystic lesion with internal septations, extending through the left inguinal canal into the scrotum and displacing bowel loops posteriorly.
+  - Histopathology post-surgery confirmed [REDACTED].
+
+=== CASE M004 ===
+- **Patient Information:** 51-year-old premenopausal woman.
+- **Chief Complaint:** A mass in the left breast present for nearly 1 year.
+- **History of Present Illness:** None.
+- **Past Medical History:** None.
+- **Personal History:** None.
+- **Family History:** Mother diagnosed with lung cancer.
+- **Physical Examination:** Hard, 2-cm mass palpated at the 2 o'clock position in the left breast. No nipple discharge or enlarged lymph nodes observed.
+- **Ancillary Tests:**
+  - **Imaging:**
+    - Ultrasound: 2.4-cm irregular hypo-echoic mass with abundant blood flow signals.
+    - Mammography: Irregularly shaped high-density mass in the upper left breast.
+    - PET/CT: Lesion with increased radioactive uptake in the left breast; no distant metastases. 
+  - **Blood Tests:** Elevated carcinoembryonic antigen (CEA) at 60.1 ng/ml; normal CA153 and CA125 levels.
+  - **Biopsy and Pathological Findings:**
+    - Core needle biopsy revealed high-grade infiltrating adenocarcinoma with mucus secretion and papillary formation.
+    - Tumor cells were CK7-positive, and CK20-, CDX-2-, PAX-8-, SATB2-, CK5/6-, CK14-, and AR-negative.
+    - Primary triple-negative basal-like subtype, ER-, PR-, HER2-negative; high Ki-67 index of 70% with strong p53 expression.
+    - Breast-origin markers GCDFP15 and mammaglobin were weakly positive.
+  - **Surgical Findings:**
+    - Mastectomy and sentinel lymph node biopsy: 2.4-cm tough, well-circumscribed tumor with mucinous features; no lymph node metastasis.
+
+=== CASE M005 ===
+- **Patient Information:** 68-year-old woman
+- **Chief Complaint:** Odynophagia (painful swallowing) and hematemesis (vomiting of blood)
+- **History of Present Illness:** History of heartburn and dysphagia. Experienced intense burning pain from throat to stomach, nausea, and bright red streaks in vomit for 5 days before presentation.
+- **Past Medical History:** Controlled hypertension
+- **Personal History:** None provided
+- **Family History:** None provided
+- **Physical Examination:** Average build, well-nourished, normal vital signs. No signs of herpes infection (e.g., oral ulcerations or keratitis).
+- **Ancillary Tests:** 
+  - Normal laboratory workup (CBC, renal and liver function tests, blood sugar, HbA1c, HbsAg, anti-HCV, and HIV tests).
+  - Endoscopy revealed multiple ulcerations with erythematous borders and central depressions ("volcano-like" appearance) in mid-esophagus. Surrounding mucosa normal.
+  - Histopathology of biopsies showed multinucleation, nuclear enlargement, and ground glass nuclei consistent with [REDACTED].
+  - Initial serology for [REDACTED] IgM and IgG was negative; follow-up testing after 2 months showed seroconversion to positive [REDACTED] IgG.
+
+=== CASE M006 ===
+- **Patient Information:** 32-year-old female with no significant medical history.
+- **Chief Complaint:** Persistent periumbilical pain for 2 months, with associated nausea and vomiting.
+- **History of Present Illness:** Severe periumbilical pain, intermittent nausea, and vomiting persisting for 2 months.
+- **Past Medical History:** None.
+- **Personal History:** None.
+- **Family History:** None.
+- **Physical Examination:** Conscious, oriented, afebrile, normal vitals, with noted periumbilical tenderness and no palpable masses.
+- **Ancillary Tests:**
+  - Lab tests: Normal results.
+  - Ultrasound: 5 × 6 cm cystic lesion.
+  - Abdominal CT: Oval-shaped lesion in the gastric lesser curvature suggestive of GIST.
+  - Endoscopy and endoscopic ultrasound-guided fine needle biopsy: Gastric mass extending from lesser curvature to greater curvature anterior wall.
+  - Histopathology: Dense proliferation of spindle cells with blood vessels.
+  - Immunohistochemical staining: Positive for S100, negative for CD117, DOG-1, SMA, Desmin, and CD34.
+  - Follow-up CT: No necrosis, lymph node enlargement, metastasis, or recurrence.
+
+=== CASE M007 ===
+- **Patient Information:** 30-year-old primigravida Tanzanian female.
+- **Chief Complaint:** None (asymptomatic presentation during routine antenatal care).
+- **History of Present Illness:** None; presented for routine antenatal booking at 12 weeks of gestation.
+- **Past Medical History:** None; no chronic illnesses, prior gynecological surgeries, or sexually transmitted infections.
+- **Personal History:** No contraceptive use or history of chronic medication.
+- **Family History:** None mentioned.
+- **Physical Examination:** Normal; unremarkable findings with no abdominal tenderness, guarding, or rigidity.
+- **Ancillary Tests:** 
+  - Routine ultrasound revealed gestation near the left uterine horn with an empty endometrial cavity, suspicious for an [REDACTED].
+  - MRI confirmed an [REDACTED] in the left fallopian tube with a live fetus corresponding to 12 weeks of gestation (crown-rump length of 5.8 cm).
+
+---
+
+=== CASE M008 ===
+- **Patient Information:** 63-year-old female
+- **Chief Complaint:** Acute-onset abdominal pain rated at 10 out of 10.
+- **History of Present Illness:** Abrupt and severe abdominal pain lasting a few hours before presentation, associated with nausea and one episode of vomiting. History of several months of postprandial abdominal pain and decreased oral intake.
+- **Past Medical History:** Diagnosed with metastatic small bowel neuroendocrine tumor (SBNET) in 2017, involving the duodenum and mesentery, with metastases to the neck, chest, and liver. Previously treated with Lanreotide and Lutathera. Disease stability confirmed on imaging but recent worsening symptoms.
+- **Personal History:** None provided.
+- **Family History:** None provided.
+- **Physical Examination:** Hemodynamically stable, afebrile, but in significant abdominal pain. 
+- **Ancillary Tests:** Leukocytosis, anemia, no lactic acidosis; CT scan showed decreased bowel enhancement and wall thickening in small bowel loops within the right lower quadrant, raising concern for mesenteric ischemia due to tumor involvement of the superior mesenteric artery (SMA) and vein (SMV).

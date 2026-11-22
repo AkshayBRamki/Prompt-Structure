@@ -1,0 +1,23 @@
+CASE: M033
+FINAL DIAGNOSIS: Parsonage-Turner syndrome (neuralgic amyotrophy / acute brachial plexus neuritis) of the right upper limb following dengue virus infection
+
+CASE: M034
+FINAL DIAGNOSIS: Case 1: Right cerebellopontine angle arachnoid cyst causing facial nerve palsy; Case 2: Facial nerve palsy from neurovascular compression by an AICA vascular loop; Case 3: Lyme neuroborreliosis with bilateral facial and multiple cranial nerve palsies
+
+CASE: M035
+FINAL DIAGNOSIS: Chlamydia trachomatis–associated reactive arthritis presenting as HLA-B27-negative enthesitis, without sacroiliitis
+
+CASE: M036
+FINAL DIAGNOSIS: Left ovarian yolk sac tumor (endodermal sinus tumor), FIGO stage IA
+
+CASE: M037
+FINAL DIAGNOSIS: Disseminated paracoccidioidomycosis (Paracoccidioides brasiliensis) with appendiceal, lymph node, hepatobiliary and adrenal involvement, complicated by E. coli bacteremia
+
+CASE: M038
+FINAL DIAGNOSIS: Left frontal glioma (diffuse astrocytoma) with a mosaic HRAS G13R mutation in a patient with Schimmelpenning syndrome
+
+CASE: M039
+FINAL DIAGNOSIS: Pulmonary sarcomatoid (spindle cell) carcinoma of the left lung with pulmonary and bone metastases
+
+CASE: M040
+FINAL DIAGNOSIS: Left middle cerebral artery ischemic stroke caused by congenital hypoplasia of the left internal carotid artery

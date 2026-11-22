@@ -1,0 +1,103 @@
+CASE: M057
+
+KEY FINDINGS: The right testis has a hard, painful 10 × 10 mm mass in the lower pole that is hyperechoic and well demarcated, with microlithiasis, so this is an intratesticular solid lesion. AFP and β-hCG are normal and LDH is only slightly raised, which makes a germ cell tumor less likely. On immunohistochemistry the tumor is vimentin+, calretinin+ and weakly CD99+, which points to a sex cord-stromal tumor. It is SALL4−, OCT4− and AFP−, which argues against seminoma, embryonal carcinoma and yolk sac tumor. It is inhibin−, which argues against Leydig cell tumor, and D2-40−, which argues against adenomatoid tumor and against mesothelial or germ cell origin. The 9 × 5 mm hypoechoic lesion in the left epididymal tail is a separate, benign-appearing finding consistent with a spermatocele. There is no gynecomastia, so no endocrine-active tumor is suggested.
+DIFFERENTIAL: (1) Sertoli cell tumor; (2) Leydig cell tumor; (3) seminoma or other germ cell tumor; (4) adenomatoid tumor; (5) testicular lymphoma.
+EVIDENCE FOR AND AGAINST:
+Sertoli cell tumor. For: the profile is vimentin+, calretinin+ and weakly CD99+, and Sertoli tumors are often inhibin-negative. The germ cell markers and serum markers are negative, and the mass is small and well circumscribed. Against: it is uncommon at age 55, but this is not exclusionary.
+Leydig cell tumor. For: it is calretinin+ and vimentin+, and it is the commonest sex cord-stromal tumor in adults. Against: inhibin is negative, whereas Leydig tumors are typically strongly inhibin+. There is also no gynecomastia.
+Seminoma or other germ cell tumor. For: the patient is male with a testicular mass, microlithiasis and slightly raised LDH. Against: SALL4 and OCT4 are negative, AFP and β-hCG are normal, and the age is atypical.
+Adenomatoid tumor. For: it is calretinin+. Against: it is D2-40 negative, and the lesion is intratesticular rather than paratesticular.
+Lymphoma. For: the age is consistent. Against: the vimentin/calretinin/CD99 profile fits, it is a small solitary lesion, and there is no lymphadenopathy.
+EXCLUSIONS AND COMMITMENT: I exclude germ cell tumors on the negative SALL4/OCT4/AFP staining and normal serum markers. I exclude Leydig cell tumor because it is inhibin-negative, and adenomatoid tumor because it is D2-40 negative. Lymphoma is unsupported. That leaves a sex cord-stromal tumor of Sertoli type, and I commit to it.
+FINAL DIAGNOSIS: Sertoli cell tumor of the right testis, with an incidental left epididymal spermatocele.
+
+CASE: M058
+
+KEY FINDINGS: The patient has known Waldenström macroglobulinemia. Imaging shows a large pericardial effusion together with bilateral pleural effusions and prominent lymph nodes, which suggests a polyserositis-type process. Pericardial fluid cytology was negative. He had heart-failure-type symptoms with atrial flutter but no tamponade physiology. Other findings are hypoalbuminemia, renal dysfunction, hyperkalemia, mild anemia and ecchymoses. Dysphagia with aspiration may be a separate neuromuscular issue given his Charcot-Marie-Tooth syndrome.
+DIFFERENTIAL: (1) pericardial effusion secondary to Waldenström macroglobulinemia; (2) uremic pericarditis; (3) AL amyloid cardiomyopathy related to WM; (4) viral or post-infectious pericarditis; (5) hypoalbuminemic or congestive heart failure effusion.
+EVIDENCE FOR AND AGAINST:
+WM-related effusion. For: the underlying WM, multicavity serous effusions and lymphadenopathy. Against: negative cytology, although this is often insensitive for lymphoplasmacytic disease.
+Uremic pericarditis. For: raised BUN/Cr and potassium. Against: the azotemia is modest, and uremia does not explain the pleural effusions or lymph nodes.
+AL amyloidosis. For: WM, edema, low albumin, renal dysfunction, atrial arrhythmia and easy bruising. Against: there is no low voltage and no described wall thickening or restrictive pattern on echo.
+Viral or post-infectious pericarditis. For: a preceding respiratory infection. Against: no pain, no pericarditic EKG changes, and the lymphadenopathy.
+CHF or hypoalbuminemia. For: edema, low albumin and pulmonary congestion. Against: these rarely produce a large pericardial effusion on their own.
+EXCLUSIONS AND COMMITMENT: Uremia and transudate alone are inadequate to explain the size of the effusion and its multicavity pattern. There is no echo or EKG support for amyloid, and the viral picture is atypical. The most coherent unifying explanation is serosal involvement by the known lymphoproliferative disorder, and I commit to that.
+FINAL DIAGNOSIS: Large pericardial effusion (with polyserositis) secondary to Waldenström macroglobulinemia.
+
+CASE: M059
+
+KEY FINDINGS: The patient is a young adult with a 10-year history of slowly progressive, painless proptosis-type displacement and preserved vision, which indicates a slow-growing benign lesion. MRI shows a well-defined lesion in the medial extraconal-to-intraconal orbit that is isointense to muscle on T1 and enhances homogeneously. Histology shows monomorphic spindle cells with cigar-shaped nuclei, no mitoses and no necrosis, which indicates smooth muscle differentiation without malignancy. The tumor is SMA+ and desmin+, confirming myogenic origin, and S100− and CD34−, which excludes nerve sheath tumors and solitary fibrous tumor.
+DIFFERENTIAL: (1) orbital leiomyoma; (2) schwannoma; (3) solitary fibrous tumor; (4) leiomyosarcoma; (5) cavernous venous malformation.
+EVIDENCE FOR AND AGAINST:
+Leiomyoma. For: cigar-shaped nuclei, SMA/desmin positivity, no atypia or mitoses, indolent course, and a well-circumscribed lesion. Against: it is very rare in the orbit.
+Schwannoma. For: a slow, well-defined orbital spindle-cell mass. Against: it is S100-negative.
+Solitary fibrous tumor. For: an orbital spindle-cell tumor. Against: it is CD34-negative.
+Leiomyosarcoma. For: smooth muscle markers. Against: there are no mitoses, necrosis or pleomorphism, and the course is very slow.
+Cavernous malformation. For: an enhancing, well-circumscribed lesion. Against: the solid spindle-cell histology.
+EXCLUSIONS AND COMMITMENT: The immunoprofile excludes schwannoma and solitary fibrous tumor. The absence of mitoses and necrosis excludes leiomyosarcoma, and the histology excludes a vascular malformation. I commit to a benign smooth muscle tumor.
+FINAL DIAGNOSIS: Orbital leiomyoma (right medial orbit).
+
+CASE: M060
+
+KEY FINDINGS: The patient has fever and headache. Imaging shows a ring-enhancing cystic lesion in the left hemisphere with an air-fluid level, which means a gas-forming brain abscess. The lesion is hemorrhagic, and she is anticoagulated on warfarin with an INR of 2.89. CSF shows pleocytosis, high protein and low glucose, consistent with a pyogenic or parameningeal infection. Routine cultures were negative, but anaerobic culture suggested Clostridium spp. and sequencing identified the organism. There is no sinus, dental or cardiac source, and her systemic inflammatory markers are normal.
+DIFFERENTIAL: (1) Clostridial gas-forming brain abscess; (2) brain abscess from another anaerobe or mixed flora; (3) hemorrhagic neoplasm such as a glioblastoma or metastasis; (4) warfarin-associated intracerebral hemorrhage with organization; (5) septic embolism with hemorrhagic infarct.
+EVIDENCE FOR AND AGAINST:
+Clostridial abscess. For: gas in the lesion, anaerobic growth of Clostridium, molecular identification, inflammatory CSF and fever. Against: no obvious portal of entry.
+Other anaerobic or mixed abscess. For: gas, ring enhancement and culture-negativity. Against: sequencing pinpointed a single organism.
+Hemorrhagic tumor. For: a heterogeneous hemorrhagic cystic mass. Against: gas, fever, CSF picture and microbiology.
+Warfarin-associated hemorrhage. For: a supratherapeutic-range INR and hemorrhage. Against: wall enhancement, gas, fever and infected CSF.
+Septic embolism. For: her prior embolic stroke. Against: a normal echo and a single lesion.
+EXCLUSIONS AND COMMITMENT: Gas within the lesion plus the microbiology exclude a bland hemorrhage or tumor. A normal echo makes endocarditis-related emboli unlikely. I commit to a cryptogenic clostridial brain abscess, with hemorrhage aggravated by anticoagulation.
+FINAL DIAGNOSIS: Gas-forming hemorrhagic brain abscess caused by a Clostridium species (cryptogenic source; species per sequencing).
+
+CASE: M061
+
+KEY FINDINGS: A 2-year-old has bilateral flaccid "paralysis" of the upper limbs after an unwitnessed event. He can still move his fingers on objects already in hand and has intact sensation, which suggests pseudoparalysis from pain rather than a neurologic deficit. There is no bony tenderness or deformity, and radiographs and CT are normal. Most decisive, function resolved immediately after supination-flexion reduction with palpable clicks.
+DIFFERENTIAL: (1) bilateral radial head subluxation (nursemaid's elbow); (2) spinal cord injury without radiographic abnormality (SCIWORA); (3) brachial plexus injury; (4) occult fractures such as the clavicle, supracondylar region or a toddler fracture; (5) non-accidental trauma.
+EVIDENCE FOR AND AGAINST:
+Radial head subluxation. For: the age, sensation preserved, normal films and dramatic resolution with clicks on reduction. Against: bilateral involvement is unusual.
+SCIWORA. For: bilateral weakness and normal imaging. Against: sensation preserved, finger motion, and full recovery with an elbow maneuver.
+Brachial plexus injury. For: arm weakness. Against: it is bilateral, sensation is intact, and it resolved immediately.
+Occult fracture. For: an unwitnessed injury. Against: normal radiographs and no tenderness.
+Non-accidental trauma. For: an unwitnessed event and bilateral injury. Against: no bruising, fractures or head findings. A subluxation can still result from pulling, so the history merits attention.
+EXCLUSIONS AND COMMITMENT: Normal imaging and resolution with reduction exclude neurologic and bony causes. I commit to bilateral subluxation, while noting that the mechanism, a pull injury, should be clarified.
+FINAL DIAGNOSIS: Bilateral radial head subluxation (bilateral nursemaid's elbow).
+
+CASE: M062
+
+KEY FINDINGS: The patient is elderly and anticoagulated, with a ground-level fall. A pubic fracture was diagnosed initially, but she still had disproportionate, persistent pain at day 4. Repeat X-ray and CT then revealed a left femoral neck fracture, so the femoral neck fracture was occult or missed on the initial films. Mild joint space narrowing is incidental degenerative change. She was treated with hemiarthroplasty, which is consistent with a displaced or high-risk intracapsular fracture.
+DIFFERENTIAL: (1) occult left femoral neck fracture coexisting with the pubic fracture; (2) isolated pubic rami or symphysis fracture with severe pain; (3) acetabular fracture; (4) intertrochanteric fracture; (5) hip osteoarthritis flare or hematoma on anticoagulation.
+EVIDENCE FOR AND AGAINST:
+Occult femoral neck fracture. For: confirmed on repeat X-ray and CT, with escalating pain after the initial diagnosis. Against: none.
+Isolated pubic fracture. For: seen initially. Against: it does not explain the new imaging findings.
+Acetabular fracture. For: the fall mechanism. Against: not described on CT.
+Intertrochanteric fracture. For: an elderly patient after a fall. Against: the location is the femoral neck.
+Osteoarthritis or hematoma. For: joint space narrowing and anticoagulation. Against: the fracture is demonstrated.
+EXCLUSIONS AND COMMITMENT: Imaging defines the femoral neck fracture and excludes the other options as the main cause. I commit to an initially missed femoral neck fracture alongside the pelvic ring injury.
+FINAL DIAGNOSIS: Occult (initially missed) left femoral neck fracture concurrent with a left pubic symphysis fracture, treated with hemiarthroplasty.
+
+CASE: M063
+
+KEY FINDINGS: Grade 3 fetal echogenic bowel was found at 18 weeks, with progressive bowel dilation to 21 mm by 30 weeks, which suggests obstruction. TORCH serology is normal, making CMV and other infections less likely. NIPT and first-trimester screening are low risk, making aneuploidy less likely. Fetal echocardiography is normal, and there are no other structural anomalies. Echogenic bowel combined with dilated bowel is the classic prenatal presentation of meconium ileus.
+DIFFERENTIAL: (1) cystic fibrosis with meconium ileus; (2) jejunoileal atresia; (3) congenital CMV or other infection; (4) aneuploidy such as trisomy 21; (5) volvulus or meconium peritonitis.
+EVIDENCE FOR AND AGAINST:
+Cystic fibrosis. For: high-grade echogenicity seen early with later dilation, and other causes screened negative. Against: genetic confirmation is not provided in the case.
+Bowel atresia. For: progressive dilation. Against: echogenic bowel this early favors abnormal meconium.
+Congenital infection. For: echogenic bowel is a recognized sign. Against: normal TORCH, and no other infectious stigmata.
+Aneuploidy. For: echogenic bowel is a soft marker. Against: low-risk NIPT and screening, and a normal heart.
+Meconium peritonitis or volvulus. For: dilation. Against: no calcifications or ascites reported. These are also often complications of CF.
+EXCLUSIONS AND COMMITMENT: Serologies and genetic screening exclude infection and aneuploidy. The combination of early hyperechogenic bowel with progressive dilation favors CF-related meconium ileus over primary atresia. I commit to CF, to be confirmed by parental CFTR carrier testing and fetal or postnatal testing.
+FINAL DIAGNOSIS: Cystic fibrosis presenting prenatally as echogenic bowel with meconium ileus.
+
+CASE: M064
+
+KEY FINDINGS: A middle-aged man from the Mediterranean region has a rapidly growing, painless purple nodule on the forearm. He had a prior similar "pyogenic granuloma," which may have been misdiagnosed KS. Histology is HHV-8 strongly positive, which is diagnostic of Kaposi sarcoma, and CD31+, indicating a vascular neoplasm. He is HIV-negative with normal lymphocyte subsets and has no mucosal or visceral disease on CT, so this is a non-epidemic, localized form. His diabetes is not significant immunosuppression.
+DIFFERENTIAL: (1) classic (Mediterranean) Kaposi sarcoma; (2) recurrent pyogenic granuloma; (3) angiosarcoma; (4) bacillary angiomatosis; (5) iatrogenic or epidemic KS.
+EVIDENCE FOR AND AGAINST:
+Classic KS. For: HHV-8+, a violaceous nodule, Mediterranean origin, male sex, HIV-negative status and localized cutaneous disease. Against: classic KS usually affects older men and the lower legs, whereas this is an upper limb at age 51.
+Pyogenic granuloma. For: the prior diagnosis and a rapidly growing vascular nodule. Against: pyogenic granuloma is HHV-8 negative.
+Angiosarcoma. For: a CD31+ vascular tumor. Against: it is HHV-8+, and angiosarcoma typically affects the elderly scalp or face.
+Bacillary angiomatosis. For: a purple vascular papule. Against: he is immunocompetent and HIV-negative, and the lesion is HHV-8+.
+Epidemic or iatrogenic KS. For: HHV-8. Against: HIV-negative, with no immunosuppressive therapy.
+EXCLUSIONS AND COMMITMENT: HHV-8 positivity excludes pyogenic granuloma, angiosarcoma and bacillary angiomatosis. A negative HIV test and the absence of immunosuppression exclude epidemic and iatrogenic types. I commit to classic KS.
+FINAL DIAGNOSIS: Classic (Mediterranean-type) Kaposi sarcoma of the left forearm, localized cutaneous disease.

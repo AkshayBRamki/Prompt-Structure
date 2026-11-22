@@ -1,0 +1,97 @@
+CASE: M105
+REASONING:
+
+The patient is a 49-year-old male with adult-onset progressive focal right lower limb dystonia (responsive to sensory tricks), subtle cerebellar ataxia, horizontal nystagmus, and cerebellar atrophy on MRI, without visual loss, seizures, or cognitive decline.
+
+Parental consanguinity (first cousins) and affected siblings with neurological/psychiatric illness and early death point strongly toward an autosomal recessive neurodegenerative disorder.
+
+Metabolic, Wilson disease (normal copper/ceruloplasmin), autoimmune, and paraneoplastic causes were ruled out.
+
+Electron microscopy of the skin biopsy revealed granular osmiophilic inclusions (granular osmiophilic deposits, GRODs) and mitochondrial vacuolar changes, which are pathognomonic ultrastructural hallmarks of neuronal ceroid lipofuscinosis (NCL).
+
+Adult-onset NCL without visual impairment presenting with progressive motor symptoms (dystonia, ataxia) and cerebellar atrophy corresponds clinically to Kufs disease (specifically adult-onset neuronal ceroid lipofuscinosis).
+FINAL DIAGNOSIS: Adult-onset neuronal ceroid lipofuscinosis (Kufs disease)
+
+CASE: M106
+REASONING:
+
+The patient is a 38-year-old male with a 7-month history of a firm, slightly tender left inguinal mass and progressive ipsilateral leg swelling that failed to resolve despite 6 months of anticoagulation for presumed proximal DVT.
+
+Doppler ultrasound and CT venography showed a cystic-appearing lesion compressing the left common femoral vein (CFV) with sluggish venous flow and no intraluminal DVT in the main lumen.
+
+Intraoperative exploration demonstrated no extramural mass (ruling out ganglion/synovial cyst, lymphadenopathy, or hernia) and instead revealed an intrinsic vascular lesion with thrombosis.
+
+A thrombosed venous aneurysm of the common femoral vein classically mimics an inguinal mass or extramural cystic lesion on imaging and causes venous outflow obstruction and persistent limb swelling.
+FINAL DIAGNOSIS: Thrombosed left common femoral vein aneurysm
+
+CASE: M107
+REASONING:
+
+The patient is a 3-year-old boy with central and peripheral cyanosis, failure to thrive, recurrent respiratory infections, single S2, systolic/diastolic murmurs, and hepatomegaly.
+
+Chest radiography shows cardiomegaly, an absent main pulmonary segment, and increased pulmonary vascularity, pointing toward a conotruncal cyanotic congenital heart defect with increased pulmonary blood flow.
+
+Echocardiography, multislice CT angiography, and cardiac catheterization confirm a single arterial trunk overriding a large VSD with a shared aorta and main pulmonary trunk (Truncus arteriosus Type I), truncal valve regurgitation, and pulmonary hypertension.
+
+Imaging and catheterization also confirm an anomalous origin of the left coronary artery from the pulmonary artery (ALCAPA), further corroborated by lateral Q-waves on ECG.
+FINAL DIAGNOSIS: Type I truncus arteriosus with anomalous origin of the left coronary artery from the pulmonary artery (ALCAPA)
+
+CASE: M108
+REASONING:
+
+The patient is a 40-year-old male presenting with dry gangrene of the right ring and little fingers and pre-gangrenous changes in the index and middle fingers, despite normal peripheral pulses and a normal arterial Doppler study, which argues against large-vessel occlusive disease.
+
+Autoimmune causes (ANA, antiphospholipid antibodies) were negative.
+
+Complete blood count revealed severe normocytic normochromic anemia (Hb 6 g/dL), marked leukocytosis (153,000/mm³), and marked thrombocytosis (969,000/mm³), with mild hepatosplenomegaly on ultrasound.
+
+Peripheral blood smear, bone marrow examination, and a positive RT-PCR for BCR-ABL (Philadelphia chromosome) definitively confirm chronic-phase chronic myeloid leukemia (CML), with digital gangrene occurring as a rare initial manifestation due to microvascular occlusion from hyperleukocytosis/leukostasis and thrombocytosis.
+FINAL DIAGNOSIS: Chronic myeloid leukemia (chronic phase) presenting with digital gangrene
+
+CASE: M109
+REASONING:
+
+The patient is a 66-year-old female who initially presented with unilateral follicular conjunctivitis that temporarily improved with topical tobramycin-dexamethasone, then progressed 3 weeks later to a conjunctival phlyctenule and subsequently nodular scleritis (confirmed by anterior segment OCT and UBM).
+
+An extensive systemic autoimmune and infectious workup was entirely negative except for positive HSV-2 IgG serology.
+
+Negative conjunctival swabs for HSV-1, HSV-2, and adenovirus do not exclude herpetic ocular disease, as herpetic scleritis and phlyctenular reactions are predominantly immune-mediated stromal/scleral processes rather than active superficial epithelial shedding, and can be exacerbated or unmasked following topical corticosteroid use.
+
+Given the unilateral presentation, progression from follicular conjunctivitis to phlyctenule and nodular scleritis, and isolated HSV-2 seropositivity, herpes simplex virus type 2 is the most likely underlying etiology.
+FINAL DIAGNOSIS: Herpes simplex virus type 2 (HSV-2)-associated nodular scleritis (preceded by conjunctival phlyctenule)
+
+CASE: M110
+REASONING:
+
+The patient is a 53-year-old male with three episodes of sudden loss of consciousness without prodromal or postictal features and immediate return to baseline, which is classic for cardiogenic syncope.
+
+Neurologic (normal head CT, no epileptiform activity on EEG), structural cardiac (normal echocardiogram), metabolic/endocrine (normal electrolytes and TSH), and tachyarrhythmic (non-inducible EPS) causes were ruled out.
+
+EKG showed sinus bradycardia and sinus pauses, and inpatient telemetry captured a prolonged 8-second sinus pause (heart rate 37 bpm), directly explaining the syncopal episodes as sinus node dysfunction (sick sinus syndrome / sinus arrest).
+
+In the absence of structural heart disease or intrinsic conduction defects, the patient's daily chronic marijuana use (combined with chronic sleep deprivation from night-shift work) is a well-recognized trigger for vagally mediated sinus arrest and sick sinus syndrome.
+FINAL DIAGNOSIS: Cannabis-induced sick sinus syndrome (sinus arrest) causing cardiogenic syncope
+
+CASE: M111
+REASONING:
+
+The patient is a 57-year-old male with p-ANCA-associated glomerulonephritis on chronic steroids who developed acute febrile, disseminated hemorrhagic and necrotic cutaneous lesions, mucosal erosions, pulmonary consolidation with respiratory failure, neutrophilic leukocytosis, and elevated CRP.
+
+Skin biopsy showed a dense dermal neutrophilic infiltrate containing pseudocapsulated yeast-like structures closely mimicking Cryptococcus.
+
+Crucially, fungal and bacterial stains and cultures were negative, while the yeast-like bodies stained strongly positive for myeloperoxidase (MPO), proving they are degenerating/vacuolated neutrophils rather than true fungal organisms.
+
+This histopathologic triad (dermal neutrophilic infiltrate, MPO-positive pseudocapsulated Cryptococcus-like bodies, and negative fungal workup) in a febrile patient with hemorrhagic skin lesions and pulmonary involvement is pathognomonic for cryptococcoid Sweet syndrome (an uncommon variant of acute febrile neutrophilic dermatosis).
+FINAL DIAGNOSIS: Cryptococcoid Sweet syndrome
+
+CASE: M112
+REASONING:
+
+The patient is a 65-year-old male with diabetes and prior stroke presenting with a 7-day severe right-sided headache, recurrent transient episodes of left-sided numbness and weakness (crescendo TIAs), and progression to persistent left hemiparesis, left facial/lingual paresis, sensory loss, dysarthria, and a left Babinski sign.
+
+Cranio-cervical CTA demonstrated critical (95%) stenosis at the origin of the right internal carotid artery, directly corresponding to the right hemispheric symptoms.
+
+Brain MRI with DWI confirmed acute ischemic infarcts (multiple scattered hyperintensities in the right hemisphere), and SWI showed asymmetrically prominent cortical veins (APCV) on the right side, a classic imaging marker of severe cerebral hypoperfusion (misery perfusion) with increased deoxyhemoglobin extraction.
+
+Together, these findings establish an acute right hemispheric ischemic stroke driven by hemodynamic hypoperfusion and/or artery-to-artery embolism from severe right internal carotid artery stenosis.
+FINAL DIAGNOSIS: Acute right hemispheric ischemic stroke secondary to severe right internal carotid artery stenosis

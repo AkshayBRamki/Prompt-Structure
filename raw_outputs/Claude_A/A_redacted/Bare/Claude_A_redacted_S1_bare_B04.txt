@@ -1,0 +1,23 @@
+CASE: M025
+FINAL DIAGNOSIS: Idiopathic intracranial hypertension without papilledema (IIHWOP) in a patient with high myopia
+
+CASE: M026
+FINAL DIAGNOSIS: Multilocular cystic renal neoplasm of low malignant potential (right kidney)
+
+CASE: M027
+FINAL DIAGNOSIS: Fibroepithelial polyp of the bulbar urethra with an associated annular bulbar urethral stricture
+
+CASE: M028
+FINAL DIAGNOSIS: Primary endometrial endometrioid adenocarcinoma (MMR-deficient/MSI-H, MSH6-mutated, non-Lynch) metastatic to the ovary and appendix
+
+CASE: M029
+FINAL DIAGNOSIS: EBV-positive extranodal NK/T-cell lymphoma (post-transplant), preceded by EBV-associated post-transplant lymphoproliferative disease with CNS involvement, following EBV-associated HLH
+
+CASE: M030
+FINAL DIAGNOSIS: Non-typhoidal Salmonella bacteremia, secondary to Salmonella gastroenteritis, in an immunocompromised patient
+
+CASE: M031
+FINAL DIAGNOSIS: Intra-abdominal (mesenteric) desmoid tumor (aggressive fibromatosis)
+
+CASE: M032
+FINAL DIAGNOSIS: Dural arteriovenous fistula after venous sinus stenting for idiopathic intracranial hypertension

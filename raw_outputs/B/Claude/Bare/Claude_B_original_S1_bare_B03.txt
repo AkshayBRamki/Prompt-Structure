@@ -1,0 +1,23 @@
+CASE: M017
+FINAL DIAGNOSIS: Moderately differentiated (G2) mucinous adenocarcinoma of the appendix (pT3N0M0), presenting as acute appendicitis
+
+CASE: M018
+FINAL DIAGNOSIS: Primary hyperparathyroidism due to an ectopic left paraesophageal (retroesophageal) parathyroid adenoma, with coexisting thyroid nodules (Hürthle cell neoplasm)
+
+CASE: M019
+FINAL DIAGNOSIS: Insulinoma (well-differentiated grade 1 pancreatic neuroendocrine tumor of the uncinate process), localized by 68Ga-Exendin-4 PET/CT
+
+CASE: M020
+FINAL DIAGNOSIS: Mesenteric desmoid-type fibromatosis mimicking GIST recurrence after GIST treatment
+
+CASE: M021
+FINAL DIAGNOSIS: Acute cardioembolic ischemic stroke from mitral valve infective endocarditis (with underlying mitral valve prolapse), complicated by post-thrombolysis intracerebral hemorrhage
+
+CASE: M022
+FINAL DIAGNOSIS: Recurrent virus-triggered rhabdomyolysis, possibly linked to SYNE2 variants (Emery-Dreifuss muscular dystrophy-related)
+
+CASE: M023
+FINAL DIAGNOSIS: Gastroduodenal artery pseudoaneurysm secondary to peptic ulcer disease, causing recurrent massive upper GI bleeding
+
+CASE: M024
+FINAL DIAGNOSIS: Breast hamartoma (fibroadenolipoma) of the left breast that mimicked malignancy on imaging (BI-RADS 5)

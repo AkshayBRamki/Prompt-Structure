@@ -1,0 +1,31 @@
+CASE: M081
+REASONING: A 16-year-old has a progressive neuropsychiatric illness: seizures, dysarthria, agitation, chorea, rigidity, spasticity and cognitive decline (MoCA 22/30). CT shows symmetric bilateral calcification of the basal ganglia, thalami and subcortical white matter. Wilson's disease and pseudohypoparathyroidism were ruled out, and calcium metabolism was normal. That excludes the main metabolic causes of secondary calcification. Bilateral symmetric striato-pallido-thalamic calcification with movement disorder, seizures and cognitive decline, without a metabolic cause, fits idiopathic basal ganglia calcification. The anemia, raised ESR/CRP and subclinical hypothyroidism are side findings that do not explain the calcification pattern.
+FINAL DIAGNOSIS: Fahr's disease (primary/idiopathic bilateral basal ganglia calcification)
+
+CASE: M082
+REASONING: This man uses intranasal cocaine and has chronic sinusitis, epistaxis, a septal perforation, and destruction of the orbital floor and hard palate. That is a midline destructive process. He also has cavitary lung lesions that did not respond to antibiotics, and painful ulcers with violaceous borders whose biopsy showed pyoderma gangrenosum. The picture mimics granulomatosis with polyangiitis (GPA), but ANCA and the autoimmune workup were negative and histology lacked the classic features of GPA. Cultures showed neutrophils without infection. Cocaine (and levamisole-adulterated cocaine) can cause a pseudovasculitis with midline destruction and pyoderma gangrenosum-like ulcers.
+FINAL DIAGNOSIS: Cocaine-induced midline destructive lesion with pyoderma gangrenosum (cocaine-induced GPA-mimicking pseudovasculitis)
+
+CASE: M083
+REASONING: A previously healthy toddler has an acute febrile respiratory illness. Breathing difficulty came on quickly, with tachypnea, subcostal retractions, bilateral wheeze and hyperinflation on chest X-ray. This is a bronchiolitis/viral lower respiratory tract infection picture. RSV PCR was negative, and the redacted virus was detected by nasopharyngeal RT-PCR. After RSV, the virus that most typically causes this clinical picture in toddlers is human metapneumovirus. The low CRP and sterile blood culture support a viral cause.
+FINAL DIAGNOSIS: Human metapneumovirus (hMPV) bronchiolitis / acute lower respiratory tract infection
+
+CASE: M084
+REASONING: A 38-year-old has had generalized tonic-clonic seizures for 20 years with a normal neurological exam. MRI shows isolated absence of the posterior septum pellucidum, mildly prominent lateral ventricles, and fornix crura that are displaced downward and do not join. The third and fourth ventricles and the rest of the midline are normal. There is no visual or endocrine dysfunction, which argues against septo-optic dysplasia, and no holoprosencephaly or schizencephaly.
+FINAL DIAGNOSIS: Isolated partial (posterior) agenesis of the septum pellucidum with fornix anomaly, presenting with epilepsy
+
+CASE: M085
+REASONING: A 66-year-old has a large, well-defined, heterogeneous liver mass with delayed progressive enhancement, plus necrosis and hemorrhage on MRI. AFP, CEA and CA19-9 are normal, which argues against hepatocellular carcinoma and cholangiocarcinoma despite his hepatitis B. Pathology shows two parts. One is differentiated spindle cells positive for desmin, caldesmon and SMA, which means smooth-muscle lineage. The other is atypical dedifferentiated cells with a high mitotic rate and Ki-67. Together these indicate a leiomyosarcoma with a dedifferentiated component.
+FINAL DIAGNOSIS: Primary hepatic dedifferentiated leiomyosarcoma
+
+CASE: M086
+REASONING: A 66-year-old woman has a large solid, necrotic, ruptured ovarian mass with weight loss. Histology shows teratoma with malignant transformation into a high-grade spindle cell sarcoma. Immunohistochemistry is SMA positive and S100 negative, which points to smooth-muscle differentiation and away from a neural-type sarcoma. This is a sarcoma arising in a mature cystic teratoma (stage IIIC).
+FINAL DIAGNOSIS: Leiomyosarcoma arising from malignant transformation of an ovarian mature cystic teratoma
+
+CASE: M087
+REASONING: This woman has a slowly evolving gastric lesion near the esophagogastric junction that had earlier been called a hyperplastic polyp. On endoscopy it looked like a submucosal tumor, with high internal echoes on EUS. FNA suggested an inflammatory fibroid polyp, but the surgical specimen showed no eosinophils and only sparse spindle cells. The main finding was gastric mucosa growing downward into the submucosa, with hyperplastic crypt epithelium. That inverted growth of hyperplastic mucosa explains why it mimicked a submucosal tumor.
+FINAL DIAGNOSIS: Gastric inverted hyperplastic polyp
+
+CASE: M088
+REASONING: A 5-year-old has recurrent focal seizures with blurred vision as an aura, ictal nystagmus and retained awareness, so the seizures start in the occipital/posterior cortex. EEG showed right occipital and temporo-parietal epileptiform activity. MRI shows a cortical lesion with an expanded ("bulging") gyrus in the right parieto-occipital lobe, T1 isointense and slightly hyperintense on T2/FLAIR, with surrounding edema. The radiologic differential was DNET versus diffuse glioma. A cortex-based, gyrus-expanding T2/FLAIR-hyperintense lesion causing early-onset epilepsy fits a pediatric-type diffuse low-grade glioma. Of these, angiocentric glioma is the one most typically tied to seizures. The final diagnosis is not in the case, so this is my best inference. The main alternatives are DNET and ganglioglioma.
+FINAL DIAGNOSIS: Angiocentric glioma (pediatric-type diffuse low-grade glioma) of the right parieto-occipital lobe

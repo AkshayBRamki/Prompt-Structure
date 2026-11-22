@@ -1,0 +1,469 @@
+CASE: M041
+
+KEY FINDINGS:
+
+Prosthetic mitral valve and rheumatic heart disease: Major predisposing risk factors for native and prosthetic valve infective endocarditis.
+
+Four-week intermittent high-grade fever, anorexia, weight loss, and elevated ESR: Subacute systemic inflammatory/infectious process.
+
+Diastolic murmur in the aortic area and Roth’s spots: Clinical stigmata of aortic valve regurgitation and immune-complex vasculitis characteristic of infective endocarditis.
+
+TTE/TEE showing 9x9 mm vegetations on both the aortic and prosthetic mitral valves, with three positive blood cultures: Meets definitive diagnostic criteria for infective endocarditis.
+
+Acute right-sided hemiparesis with multifocal CT brain findings (intraparenchymal hemorrhage, subarachnoid hemorrhage, left internal capsule hemorrhagic focus, and right corona radiata/chronic lacunar infarcts) despite normal carotid angiography: Indicates cardioembolic strokes and hemorrhagic complications (such as hemorrhagic transformation or ruptured mycotic aneurysm) rather than large-vessel carotid atherosclerosis.
+
+Marked improvement with 4 weeks of IV Penicillin G plus Gentamicin and aortic valve replacement: Confirms bacterial etiology responsive to standard endocarditis therapy.
+
+DIFFERENTIAL:
+
+Infective endocarditis (aortic and prosthetic mitral valve) complicated by septic cerebral emboli and intracranial hemorrhage
+
+Nonbacterial thrombotic (marantic) endocarditis with cardioembolic stroke
+
+Prosthetic valve thrombosis with thromboembolic stroke
+
+Primary atherosclerotic/hypertensive cerebrovascular accident (ischemic and hemorrhagic stroke)
+
+EVIDENCE FOR AND AGAINST:
+
+Infective endocarditis complicated by septic cerebral emboli and intracranial hemorrhage:
+
+For: High-grade prolonged fever, weight loss, elevated ESR, rheumatic heart disease with prosthetic mitral valve, new/present aortic diastolic murmur, Roth’s spots, positive blood cultures from three sites, 9x9 mm vegetations on both aortic and prosthetic mitral valves on TTE/TEE, multifocal ischemic and hemorrhagic brain lesions, and clinical resolution with IV Penicillin G, Gentamicin, and valve replacement.
+
+Against: Earlier negative blood cultures at a previous hospital visit (which can occur with fastidious organisms or prior antibiotic exposure, and is superseded by three positive cultures here).
+
+Nonbacterial thrombotic (marantic) endocarditis:
+
+For: Valvular vegetations on echocardiography and multifocal cardioembolic brain lesions.
+
+Against: Prolonged high-grade fever, Roth’s spots, three positive blood cultures, lack of underlying malignancy or hypercoagulable state, and marked response to IV antibiotics.
+
+Prosthetic valve thrombosis:
+
+For: History of mitral valve replacement and acute cardioembolic neurological deficit.
+
+Against: Does not explain the 4-week high-grade fever, elevated ESR, Roth’s spots, three positive blood cultures, or simultaneous involvement of the native aortic valve with vegetations.
+
+Primary atherosclerotic/hypertensive cerebrovascular accident:
+
+For: Diabetes mellitus, acute right-sided hemiparesis, chronic lacunar infarcts, and intracranial hemorrhage on CT.
+
+Against: Normal carotid angiography, simultaneous multifocal ischemic and hemorrhagic lesions in multiple vascular territories, prolonged fever, Roth’s spots, positive blood cultures, and large valvular vegetations.
+
+EXCLUSIONS AND COMMITMENT:
+Nonbacterial thrombotic endocarditis and prosthetic valve thrombosis are excluded by the three positive blood cultures, high-grade fever, Roth’s spots, native aortic valve vegetation, and definitive clinical response to IV antibiotics. Primary atherosclerotic/hypertensive stroke is excluded by normal carotid angiography and the clear cardioembolic infectious source on TEE. I commit to infective endocarditis involving the native aortic and prosthetic mitral valves complicated by cerebrovascular septic emboli and intracranial hemorrhage.
+
+FINAL DIAGNOSIS: Infective endocarditis (aortic and prosthetic mitral valves) complicated by septic cerebral emboli and intracranial hemorrhage
+
+CASE: M042
+
+KEY FINDINGS:
+
+Progressive frontal headache, unsteadiness, and mild left-sided hemiparesis over 2 months: Indicative of a slowly expanding right-sided supratentorial mass causing mass effect and corticospinal tract compression.
+
+CT and MRI showing an intensely enhancing, well-localized mass in the right trigone of the lateral ventricle with vasogenic edema, midline shift to the left, and loculated enlargement of the occipital horn: Classic location and obstructive mass-effect profile of an intraventricular tumor (specifically the trigone/atrium, the most common site for intraventricular meningiomas).
+
+MRI signal and diffusion characteristics (inhomogeneous T1 hypointensity, T2 isointensity, FLAIR hyperintensity, restricted diffusion with ADC 0.8 × 10⁻³ mm²/s): Consistent with a cellular, fibrous intraventricular neoplasm.
+
+MR Spectroscopy showing elevated choline with decreased NAA and creatine: Reflects high membrane turnover and absence of normal neuronal tissue, supporting a non-neuronal extra-axial/intraventricular tumor such as meningioma.
+
+Pathology revealing fibroblastic meningioma components: Histopathological confirmation of the diagnosis.
+
+DIFFERENTIAL:
+
+Intraventricular fibroblastic meningioma
+
+Choroid plexus papilloma or carcinoma
+
+Intraventricular ependymoma
+
+Central neurocytoma
+
+Intraventricular metastasis
+
+EVIDENCE FOR AND AGAINST:
+
+Intraventricular fibroblastic meningioma:
+
+For: Middle-aged female (classic demographic), classic location in the trigone of the lateral ventricle, intense homogeneous/avid contrast enhancement, peritumoral edema with trapped/loculated occipital horn, MRS profile (high choline, low NAA and creatine), and definitive pathology showing fibroblastic meningioma components.
+
+Against: None; all clinical, radiological, and pathological findings align.
+
+Choroid plexus papilloma or carcinoma:
+
+For: Intraventricular location in the lateral ventricle trigone, intense contrast enhancement, and potential for ventricular trapping/hydrocephalus.
+
+Against: Much more common in children than in middle-aged adults, and definitively excluded by histopathology showing fibroblastic meningioma.
+
+Intraventricular ependymoma:
+
+For: Intraventricular mass with peritumoral edema and mass effect.
+
+Against: Typically arises in the fourth ventricle or periventricular parenchyma rather than purely within the lateral ventricular trigone in an adult, and excluded by histopathology.
+
+Central neurocytoma:
+
+For: Intraventricular mass in a young-to-middle-aged adult.
+
+Against: Classically located in the anterior lateral ventricle near the foramen of Monro/septum pellucidum rather than the trigone, typically shows a "bubbly" cystic appearance, and is excluded by pathology.
+
+Intraventricular metastasis:
+
+For: Adult patient, intense enhancement, and prominent peritumoral vasogenic edema.
+
+Against: No history of primary malignancy, and definitively excluded by histopathology showing fibroblastic meningioma.
+
+EXCLUSIONS AND COMMITMENT:
+Choroid plexus tumors, ependymoma, central neurocytoma, and intraventricular metastasis are all excluded by the histopathological confirmation of fibroblastic meningioma components, supported by the classic trigonal location and MRS findings. I commit to intraventricular fibroblastic meningioma.
+
+FINAL DIAGNOSIS: Intraventricular fibroblastic meningioma
+
+CASE: M043
+
+KEY FINDINGS:
+
+2-month atraumatic proximal right tibial pain with localized anterior tenderness: Presentation of an insufficiency/stress fracture rather than an acute traumatic fracture.
+
+15 years of bisphosphonate therapy (risedronate and IV ibandronate) followed by denosumab, with prior atypical fractures of the contralateral femur and ipsilateral tibia: Strongest risk profile for antiresorptive-induced severely suppressed bone turnover and recurrent atypical insufficiency fractures.
+
+Radiographs showing cortical thickening and a horizontal fracture line in the proximal right tibia, confirmed with surrounding marrow edema on MRI: Hallmark radiographic features of an atypical fracture (localized cortical beaking/thickening and transverse/horizontal fracture orientation).
+
+Normal calcium, phosphate, PTH, vitamin D, and thyroid function with significantly reduced osteocalcin (4.82 ng/mL): Excludes metabolic osteomalacia or hyperparathyroidism while directly demonstrating severely suppressed bone formation/turnover.
+
+DIFFERENTIAL:
+
+Atypical proximal tibial fracture secondary to long-term antiresorptive therapy (bisphosphonates and denosumab)
+
+Osteomalacia / Looser zone (pseudofracture)
+
+Pathologic fracture secondary to bone metastasis or multiple myeloma
+
+Typical osteoporotic fragility fracture
+
+EVIDENCE FOR AND AGAINST:
+
+Atypical proximal tibial fracture secondary to long-term antiresorptive therapy:
+
+For: 15-year bisphosphonate exposure plus denosumab, history of prior atypical fractures in the contralateral femur and ipsilateral tibia, atraumatic onset, classic radiographic cortical thickening with a horizontal fracture line, MRI confirmation, normal calcium/PTH/vitamin D, and markedly suppressed osteocalcin indicating oversuppressed bone turnover.
+
+Against: Tibial location is less common than subtrochanteric/diaphyseal femur, though well-recognized in patients with prolonged antiresorptive exposure and prior atypical fractures.
+
+Osteomalacia / Looser zone (pseudofracture):
+
+For: Atraumatic horizontal radiolucent line in a weight-bearing long bone.
+
+Against: Normal serum calcium, phosphate, vitamin D, and PTH effectively exclude osteomalacia.
+
+Pathologic fracture secondary to malignancy:
+
+For: Elderly patient with atraumatic bone pain and fracture.
+
+Against: Radiographs show localized cortical thickening and a clean horizontal fracture line without lytic/blastic destructive lesions or soft-tissue mass on MRI, and there is a clear history of recurrent antiresorptive-associated atypical fractures.
+
+Typical osteoporotic fragility fracture:
+
+For: 76-year-old female with chronic osteoporosis.
+
+Against: Typical osteoporotic fractures occur in trabecular-rich regions (hip, spine, distal radius) after low-energy trauma without localized cortical thickening or transverse cortical fracture lines, and do not explain the markedly suppressed osteocalcin and prior atypical fractures.
+
+EXCLUSIONS AND COMMITMENT:
+Osteomalacia is excluded by normal calcium, phosphate, vitamin D, and PTH levels. Malignancy-related pathologic fracture is excluded by the absence of destructive osseous lesions or mass on radiographs and MRI. A typical osteoporotic fragility fracture is excluded by the cortical thickening, horizontal fracture morphology, atraumatic onset, prior atypical fractures, and suppressed bone turnover (low osteocalcin). I commit to an atypical proximal tibial fracture secondary to long-term antiresorptive therapy.
+
+FINAL DIAGNOSIS: Atypical proximal tibial fracture secondary to long-term antiresorptive therapy (bisphosphonates and denosumab)
+
+CASE: M044
+
+KEY FINDINGS:
+
+Postoperative triad of microangiopathic hemolytic anemia (Hb 9.7 g/dL, elevated LDH 714, fragmented RBCs on peripheral smear), thrombocytopenia (114,000), and acute kidney injury (creatinine 7.4 mg/dL): Diagnostic of a thrombotic microangiopathy (TMA).
+
+Normal ADAMTS13 activity (greater than 50%): Definitively excludes thrombotic thrombocytopenic purpura (TTP).
+
+Negative Shiga toxin PCR: Excludes Shiga toxin-producing E. coli hemolytic uremic syndrome (STEC-HUS).
+
+Onset following orthopedic surgery for myositis ossificans and a concurrent septic episode, with hematologic and renal recovery following antibiotics and supportive interventions: Identifies surgery and sepsis as the triggers for secondary TMA / atypical hemolytic uremic syndrome (aHUS).
+
+DIFFERENTIAL:
+
+Atypical hemolytic uremic syndrome (aHUS) / secondary thrombotic microangiopathy (triggered by surgery and sepsis)
+
+Thrombotic thrombocytopenic purpura (TTP)
+
+Shiga toxin-producing E. coli hemolytic uremic syndrome (STEC-HUS)
+
+Disseminated intravascular coagulation (DIC) secondary to sepsis
+
+Acute tubular necrosis (ATN) secondary to sepsis/surgery
+
+EVIDENCE FOR AND AGAINST:
+
+Atypical hemolytic uremic syndrome (aHUS) / secondary thrombotic microangiopathy:
+
+For: Classic TMA triad (MAHA with fragmented RBCs and elevated LDH, thrombocytopenia, and severe AKI with Cr 7.4 mg/dL, proteinuria, and hematuria), normal ADAMTS13 (greater than 50%), negative Shiga toxin PCR, identifiable triggers (surgery and sepsis), and resolution with treatment of the underlying trigger/interventions.
+
+Against: Complement genetic testing is not reported, though aHUS/secondary TMA is a clinical diagnosis of exclusion once TTP and STEC-HUS are ruled out.
+
+Thrombotic thrombocytopenic purpura (TTP):
+
+For: MAHA with schistocytes, elevated LDH, thrombocytopenia, and acute organ dysfunction.
+
+Against: Normal ADAMTS13 activity (greater than 50%) definitively excludes TTP; additionally, severe renal failure (Cr 7.4 mg/dL) is more characteristic of HUS than TTP.
+
+Shiga toxin-producing E. coli hemolytic uremic syndrome (STEC-HUS):
+
+For: MAHA, thrombocytopenia, and severe AKI.
+
+Against: Negative Shiga toxin PCR and absence of antecedent diarrheal illness.
+
+Disseminated intravascular coagulation (DIC) secondary to sepsis:
+
+For: Postoperative septic episode, thrombocytopenia, fragmented RBCs, and AKI.
+
+Against: No coagulopathy (prolonged PT/aPTT, hypofibrinogenemia, or bleeding diathesis) is described, whereas the presentation is specifically characterized by isolated TMA with severe renal failure, hematuria, and proteinuria.
+
+Acute tubular necrosis (ATN) secondary to sepsis/surgery:
+
+For: Postoperative and septic setting with acute creatinine elevation to 7.4 mg/dL.
+
+Against: Cannot explain microangiopathic hemolytic anemia (fragmented RBCs, LDH 714) and thrombocytopenia.
+
+EXCLUSIONS AND COMMITMENT:
+TTP is definitively excluded by normal ADAMTS13 activity (greater than 50%). STEC-HUS is excluded by negative Shiga toxin PCR. Isolated ATN cannot account for the MAHA and thrombocytopenia, and DIC lacks supporting coagulation abnormalities. Given the classic TMA triad with severe AKI triggered by surgery and sepsis after excluding TTP and STEC-HUS, I commit to atypical hemolytic uremic syndrome (aHUS) / secondary thrombotic microangiopathy.
+
+FINAL DIAGNOSIS: Atypical hemolytic uremic syndrome (aHUS) / secondary thrombotic microangiopathy (triggered by surgery and sepsis)
+
+CASE: M045
+
+KEY FINDINGS:
+
+4-year-old female with 6 months of chronic hemorrhagic diarrhea, malnutrition (BMI 15.3 kg/m²), iron-refractory microcytic anemia, hypoalbuminemia, markedly elevated fecal calprotectin (1338 µg/g), and elevated CRP/ESR: Classic presentation of severe, chronic, very early-onset inflammatory bowel disease (VEO-IBD).
+
+Family history of a maternal perianal fistula and patient’s own anal fissure: Strong clinical and genetic pointer toward Crohn’s disease.
+
+Ultrasound showing bowel thickening, mesenteric lymphadenopathy, and creeping fat: "Creeping fat" (mesenteric fat wrapping) is a hallmark transmural sign of Crohn’s disease.
+
+Endoscopy showing focal active pangastritis, terminal ileal ulcerations, and colonic aphthous lesions: Discontinuous, patchy involvement spanning from the upper GI tract to the terminal ileum, colon, and perianal region—characteristic of Crohn’s disease.
+
+Histology showing non-caseating granulomas (Langhans-type giant cells), crypt distortion, cryptitis, crypt abscesses, Paneth cell metaplasia, and gastric Schaumann bodies: Confirms chronic granulomatous inflammatory bowel disease.
+
+Negative TB workup (QuantiFERON, sputum culture), negative sarcoidosis workup (normal ACE, urinary calcium, chitotriosidase, normal chest imaging, no skin/ocular disease), negative stool cultures, and negative celiac/schistosomiasis testing: Systematically rules out infectious and systemic granulomatous mimics.
+
+DIFFERENTIAL:
+
+Very early-onset Crohn’s disease (pediatric Crohn’s disease)
+
+Intestinal tuberculosis
+
+Gastrointestinal sarcoidosis
+
+Ulcerative colitis
+
+Infectious colitis (bacterial/parasitic, e.g., schistosomiasis)
+
+EVIDENCE FOR AND AGAINST:
+
+Very early-onset Crohn’s disease:
+
+For: Chronic hemorrhagic diarrhea, malnutrition, iron-refractory anemia, very high fecal calprotectin, family history of perianal fistula, anal fissure, creeping fat on ultrasound, patchy pan-enteric involvement (focal active pangastritis, terminal ileal ulcers, colonic aphthous lesions), and histology showing granulomas with Langhans giant cells, chronic architectural distortion, Paneth cell metaplasia, and gastric Schaumann bodies.
+
+Against: Schaumann bodies are classically associated with sarcoidosis, though they are a well-documented histological finding in Crohn’s disease granulomas; ANA positivity (1:320) is non-specific and can occur in IBD.
+
+Intestinal tuberculosis:
+
+For: Terminal ileal ulcerations, mesenteric lymphadenopathy, chronic diarrhea, weight loss, and granulomas with Langhans-type giant cells.
+
+Against: Negative QuantiFERON-TB Gold, negative sputum culture, normal chest X-ray and CT, and presence of creeping fat and perianal disease.
+
+Gastrointestinal sarcoidosis:
+
+For: Non-caseating granulomas with Langhans giant cells and Schaumann bodies in the gastric mucosa.
+
+Against: Normal serum ACE, urinary calcium, and chitotriosidase; normal chest X-ray and CT; no skin or ocular involvement; and prominent lower GI features (terminal ileal ulcers, creeping fat, crypt abscesses, anal fissure) typical of Crohn’s disease.
+
+Ulcerative colitis:
+
+For: Chronic bloody diarrhea, elevated fecal calprotectin, crypt distortion, cryptitis, and crypt abscesses.
+
+Against: Does not explain terminal ileal ulcerations, focal active pangastritis, patchy colonic aphthous lesions, anal fissure, creeping fat, or granulomas.
+
+Infectious colitis / schistosomiasis:
+
+For: Chronic hemorrhagic diarrhea and partial improvement with antibiotics.
+
+Against: Negative stool cultures, negative schistosomiasis testing, chronicity (6 months), creeping fat, and chronic mucosal architectural changes (crypt distortion, Paneth cell metaplasia).
+
+EXCLUSIONS AND COMMITMENT:
+Intestinal tuberculosis is excluded by negative QuantiFERON-TB Gold, negative sputum culture, and normal chest imaging. Sarcoidosis is excluded by normal ACE, urinary calcium, chitotriosidase, normal chest imaging, and absence of extraintestinal manifestations. Ulcerative colitis is excluded by transmural signs (creeping fat), patchy pan-enteric involvement including the stomach and terminal ileum, anal fissure, and granulomas. Infectious causes and celiac disease are excluded by negative microbiologic and serologic testing. I commit to very early-onset Crohn’s disease.
+
+FINAL DIAGNOSIS: Very early-onset Crohn’s disease (pediatric Crohn’s disease)
+
+CASE: M046
+
+KEY FINDINGS:
+
+75-year-old female with rapidly progressive dysphagia (4 weeks), predominantly for solids, and rapid weight loss (7 kg in 4 weeks): Classic red-flag features ("short duration, advanced age, rapid weight loss") that distinguish malignant pseudoachalasia from primary idiopathic achalasia.
+
+Past medical history of left tibial osteosarcoma 1 year prior: High pretest probability for distant metastatic disease (e.g., mediastinal metastasis).
+
+Barium swallow ("rat-tail" appearance) and high-resolution manometry (raised LES pressure, impaired relaxation, elevated IRP): Mimics the physiological and radiographic pattern of achalasia.
+
+EGD showing luminal narrowing at 34 cm with resistance across the GEJ, and CT showing a 64×84 mm mediastinal mass with patchy enhancement and esophageal involvement: Identifies an extrinsic/infiltrating neoplastic mass causing secondary obstruction at the distal esophagus/GEJ.
+
+Endosonography and biopsy confirming malignant spindle- and round-shaped tumor cells and malignant signet cell tumor cells: Histopathological confirmation of malignancy causing esophageal infiltration and obstruction.
+
+DIFFERENTIAL:
+
+Pseudoachalasia (secondary achalasia) due to esophageal/mediastinal malignancy (metastatic osteosarcoma or primary/metastatic signet-ring cell carcinoma)
+
+Primary idiopathic achalasia
+
+Primary esophageal squamous cell carcinoma or adenocarcinoma without pseudoachalasia physiology
+
+Benign peptic esophageal stricture
+
+EVIDENCE FOR AND AGAINST:
+
+Pseudoachalasia (secondary achalasia) due to esophageal/mediastinal malignancy:
+
+For: Older age (75 years), very short symptom duration (4 weeks), rapid weight loss (7 kg), classic achalasia-like barium swallow ("rat-tail") and high-resolution manometry (elevated IRP, impaired LES relaxation), resistance on EGD at the GEJ, large 64×84 mm mediastinal mass invading the esophagus on CT, and biopsy confirming malignant cells.
+
+Against: None; the combination of manometric/radiographic achalasia with a biopsy-proven malignant mass invading the esophagus is the exact definition of malignant pseudoachalasia.
+
+Primary idiopathic achalasia:
+
+For: Dysphagia, "rat-tail" appearance on barium swallow, and manometric criteria (elevated LES pressure, impaired relaxation, elevated IRP).
+
+Against: Age 75 with rapid progression over only 4 weeks and 7 kg weight loss is atypical for primary achalasia, and the diagnosis is definitively excluded by the 64×84 mm mediastinal mass on CT and malignant cells on biopsy.
+
+Primary esophageal carcinoma without pseudoachalasia physiology:
+
+For: Older age, dysphagia predominantly for solids, rapid weight loss, luminal narrowing on EGD, and malignant biopsy.
+
+Against: Fails to capture the documented manometric and radiographic achalasia pattern (elevated IRP, impaired LES relaxation, "rat-tail" narrowing) driven by the large 64×84 mm mediastinal mass infiltrating the distal esophagus.
+
+Benign peptic esophageal stricture:
+
+For: Dysphagia predominantly for solids and luminal narrowing at 34 cm.
+
+Against: Rapid weight loss, absence of reflux history, large mediastinal mass on CT, and biopsy confirming malignant tumor cells.
+
+EXCLUSIONS AND COMMITMENT:
+Primary idiopathic achalasia and benign peptic stricture are definitively excluded by the 64×84 mm mediastinal mass involving the esophagus on CT and the biopsy confirming malignant tumor cells. Because the patient meets manometric and radiographic criteria for achalasia directly caused by a biopsy-proven malignant mediastinal/esophageal tumor (with features of malignant spindle/round and signet-ring cells in the setting of prior osteosarcoma), I commit to pseudoachalasia (secondary achalasia) due to esophageal/mediastinal malignancy.
+
+FINAL DIAGNOSIS: Pseudoachalasia (secondary achalasia) due to malignant mediastinal/esophageal tumor
+
+CASE: M047
+
+KEY FINDINGS:
+
+4-month progressive symmetrical proximal muscle weakness (3/5) and oropharyngeal dysphagia (confirmed on modified barium swallow): Classic clinical presentation of an inflammatory myopathy involving skeletal and bulbar musculature.
+
+Pathognomonic cutaneous findings (Gottron’s papules on bilateral dorsal joints and hyperpigmented rash in a shawl sign distribution on sun-exposed areas): Clinically diagnostic of dermatomyositis.
+
+Elevated muscle-associated enzymes (AST, ALT, LDH, aldolase) with normal CK and myoglobin: Recognizable pattern in certain dermatomyositis subsets (notably anti-MDA5 and anti-SAE1) where CK can be normal despite active myositis, while aldolase and transaminases are elevated.
+
+EMG (acute inflammatory myopathy), MRI (diffuse muscle edema/enhancement), and muscle biopsy (severe inflammatory myopathy with perifascicular pathology): Perifascicular pathology on biopsy is the histological hallmark of dermatomyositis.
+
+Positive myositis-specific antibodies (anti-SAE1 and anti-MDA5) and ANA (1:320 nuclear speckled): Serologically confirms dermatomyositis; anti-SAE1 is classically associated with severe skin disease and dysphagia.
+
+Normal chest CT: Rules out concomitant interstitial lung disease (ILD) at presentation, which is critical to screen for given anti-MDA5 positivity.
+
+DIFFERENTIAL:
+
+Dermatomyositis (anti-SAE1 and anti-MDA5 positive)
+
+Polymyositis / immune-mediated necrotizing myopathy (IMNM)
+
+Systemic lupus erythematosus (SLE) with secondary myositis
+
+Inclusion body myositis (IBM)
+
+Myasthenia gravis
+
+EVIDENCE FOR AND AGAINST:
+
+Dermatomyositis (anti-SAE1 and anti-MDA5 positive):
+
+For: Symmetrical proximal weakness, dysphagia, pathognomonic Gottron’s papules and shawl sign, elevated aldolase/LDH/AST/ALT, EMG and MRI showing inflammatory myopathy, muscle biopsy showing perifascicular pathology, and positive myositis-specific antibodies (anti-SAE1 and anti-MDA5).
+
+Against: Normal CK and myoglobin (a known pitfall in dermatomyositis, especially anti-MDA5/anti-SAE1 subsets, and outweighed by elevated aldolase, MRI edema, EMG, and biopsy).
+
+Polymyositis / immune-mediated necrotizing myopathy:
+
+For: Symmetrical proximal muscle weakness, dysphagia, and inflammatory myopathy on EMG and MRI.
+
+Against: Neither explains the pathognomonic dermatomyositis skin lesions (Gottron’s papules, shawl sign), perifascicular pathology on biopsy, or anti-SAE1/anti-MDA5 antibodies; IMNM typically features markedly elevated CK.
+
+Systemic lupus erythematosus (SLE) with secondary myositis:
+
+For: Young Hispanic female, photosensitive rash, positive ANA (1:320 speckled), and muscle weakness.
+
+Against: Gottron’s papules, perifascicular pathology on muscle biopsy, and positive dermatomyositis-specific antibodies (anti-SAE1, anti-MDA5) establish primary dermatomyositis rather than SLE.
+
+Inclusion body myositis (IBM):
+
+For: Muscle weakness with dysphagia and normal or mildly elevated CK.
+
+Against: Typically affects older adults (over 50) with asymmetric distal (finger flexor) and quadriceps weakness, lacks Gottron’s papules/shawl sign and anti-SAE1/anti-MDA5 antibodies, and shows rimmed vacuoles rather than perifascicular pathology.
+
+Myasthenia gravis:
+
+For: Proximal weakness and oropharyngeal dysphagia with normal CK.
+
+Against: Cannot explain Gottron’s papules, shawl sign, elevated aldolase/LDH/transaminases, MRI muscle edema, myopathic EMG, or perifascicular inflammatory myopathy on biopsy.
+
+EXCLUSIONS AND COMMITMENT:
+Polymyositis/IMNM, SLE, IBM, and myasthenia gravis are excluded by the pathognomonic cutaneous findings (Gottron’s papules and shawl sign), perifascicular pathology on muscle biopsy, and positive dermatomyositis-specific autoantibodies (anti-SAE1 and anti-MDA5). I commit to dermatomyositis (anti-SAE1 and anti-MDA5 positive).
+
+FINAL DIAGNOSIS: Dermatomyositis (anti-SAE1 and anti-MDA5 positive)
+
+CASE: M048
+
+KEY FINDINGS:
+
+58-year-old smoker with a 4 cm ulcerative right tongue/gingival lesion, firm level Ib lymphadenopathy, biopsy-proven p16-negative squamous cell carcinoma (CPS greater than 50), and initial PET/CT staging of cT4aN2cM0: Establishes advanced, aggressive locoregional oral squamous cell carcinoma.
+
+Right ventricular mass on echocardiography unresponsive to anticoagulation: Argues strongly against a benign bland thrombus.
+
+Follow-up 18F-FDG PET/CT demonstrating hypermetabolic activity within the right ventricular mass alongside progression of the primary oral tumor and metastatic lymph nodes: Confirms malignant metabolic activity in the right ventricle consistent with hematogenous cardiac metastasis.
+
+DIFFERENTIAL:
+
+Cardiac (right ventricular) metastasis from oral squamous cell carcinoma
+
+Right ventricular thrombus
+
+Primary cardiac tumor (e.g., cardiac myxoma or angiosarcoma)
+
+Infective endocarditis vegetation
+
+EVIDENCE FOR AND AGAINST:
+
+Cardiac (right ventricular) metastasis from oral squamous cell carcinoma:
+
+For: Known advanced, rapidly progressing p16-negative oral squamous cell carcinoma (cT4aN2cM0) with high-burden nodal disease, failure of the right ventricular mass to resolve with anticoagulation, and hypermetabolic FDG uptake on follow-up PET/CT paralleling progression of the primary tumor and nodal metastases.
+
+Against: Cardiac metastasis from head and neck squamous cell carcinoma is rare, and direct histological biopsy of the cardiac mass is not reported (though PET/CT hypermetabolism with failed anticoagulation in the setting of progressing cancer is diagnostic).
+
+Right ventricular thrombus:
+
+For: Common intracardiac mass in cancer patients due to malignancy-associated hypercoagulability, and initially suspected on echocardiography.
+
+Against: Unresponsive to anticoagulation and demonstrates avid hypermetabolic FDG uptake on follow-up PET/CT, which is inconsistent with a bland thrombus.
+
+Primary cardiac tumor (e.g., myxoma or sarcoma):
+
+For: Intracardiac mass unresponsive to anticoagulation; cardiac sarcomas can be FDG-avid and occur in the right heart.
+
+Against: Far less likely than metastasis in a patient with simultaneously progressing advanced cT4aN2c oral squamous cell carcinoma and absence of the mass on the initial staging PET/CT (which staged the tumor as M0).
+
+Infective endocarditis vegetation:
+
+For: Right-sided intracardiac mass unresponsive to anticoagulation.
+
+Against: No fever, bacteremia, or infectious stigmata reported; mass is located in the right ventricle rather than on a valve leaflet and parallels progression of known metastatic cancer on PET/CT.
+
+EXCLUSIONS AND COMMITMENT:
+Right ventricular thrombus is excluded by its lack of response to anticoagulation and its hypermetabolic activity on 18F-FDG PET/CT. Infective endocarditis is excluded by the absence of clinical or microbiological signs of infection and the non-valvular ventricular mass appearance. A primary cardiac tumor is excluded as far less plausible given the initial M0 staging PET/CT and synchronous progression of the primary oral SCC and nodal metastases. I commit to right ventricular (cardiac) metastasis from oral squamous cell carcinoma.
+
+FINAL DIAGNOSIS: Cardiac metastasis (right ventricular metastasis) from oral squamous cell carcinoma

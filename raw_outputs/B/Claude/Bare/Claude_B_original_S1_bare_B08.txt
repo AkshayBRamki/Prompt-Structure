@@ -1,0 +1,23 @@
+CASE: M057
+FINAL DIAGNOSIS: Benign Sertoli cell tumor of the right testis, with testicular microlithiasis; the left epididymal mass is a spermatocele
+
+CASE: M058
+FINAL DIAGNOSIS: Large pericardial effusion with negative cytology, compressing the esophagus and causing dysphagia, in a patient with Waldenström macroglobulinemia
+
+CASE: M059
+FINAL DIAGNOSIS: Orbital leiomyoma in the right medial orbit, extraconal extending to intraconal
+
+CASE: M060
+FINAL DIAGNOSIS: Brain abscess caused by Paraclostridium tenue, with hemorrhage into the abscess, in a patient on warfarin
+
+CASE: M061
+FINAL DIAGNOSIS: Bilateral nursemaid's elbow (radial head subluxation in both elbows)
+
+CASE: M062
+FINAL DIAGNOSIS: Left femoral neck fracture missed on first imaging and found alongside the left pubic symphysis fracture, treated with left hemiarthroplasty
+
+CASE: M063
+FINAL DIAGNOSIS: Cystic fibrosis with meconium ileus, suggested by echogenic fetal bowel and progressive bowel dilation (TORCH and aneuploidy screens negative)
+
+CASE: M064
+FINAL DIAGNOSIS: Classic (HIV-negative) Kaposi sarcoma, nodular stage, on the left forearm (HHV-8 positive)

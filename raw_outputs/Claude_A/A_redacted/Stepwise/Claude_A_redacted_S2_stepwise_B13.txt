@@ -1,0 +1,31 @@
+CASE: M097
+REASONING: An elderly woman has a progressive dementia first labelled Lewy body dementia. It later grew to include parkinsonism, psychosis, mood and sleep disturbance, akathisia and unusual late-onset somatic dyskinesia of the diaphragm and abdomen. Normal HTT CAG repeats exclude Huntington's disease. CT shows marked atrophy and only slight pallidal calcification, which does not explain the picture. The striking finding is microbiome sequencing dominated by Treponema (90% of Spirochaetes): T. medium, T. denticola and other Treponema species. These are oral spirochetes implicated in spirochetal and Alzheimer-type neurodegeneration. This suggests a chronic spirochetal (oral Treponema) infection driving the neurodegenerative syndrome rather than a primary Lewy body or Huntington process.
+FINAL DIAGNOSIS: Neurodegenerative dementia associated with chronic oral Treponema (spirochetal) infection (spirochetosis-related Alzheimer-type dementia with parkinsonism and late-onset dyskinesia)
+
+CASE: M098
+REASONING: A young woman has long-standing Hurley stage III hidradenitis suppurativa (the redacted term) that failed antibiotics and adalimumab. She now has systemic features: fevers, weight loss, malaise, and jaw/parotid swelling with sialadenitis. Labs show marked polyclonal hypergammaglobulinemia with raised IgG4, hypercalcemia and neutrophilic leukocytosis. Parotid and lymph node biopsy shows fibrosis and chronic sialadenitis, but fewer than 5% of IgG-positive cells are IgG4-positive, which excludes IgG4-related disease. The infectious workup is unrevealing apart from a nonspecific monospot. PET/CT links the inflammation to the cutaneous disease flares. The raised IgG/IgG4 and systemic inflammation are therefore best explained as a consequence of severe active hidradenitis suppurativa, mimicking IgG4-RD.
+FINAL DIAGNOSIS: Severe (Hurley III) hidradenitis suppurativa flare with systemic inflammation and secondary IgG4 elevation, mimicking IgG4-related disease
+
+CASE: M099
+REASONING: The patient has been on long-term statins and developed subacute, severe, symmetric proximal weakness with myalgia. CK is massively elevated, about 45 times the upper limit of normal. EMG shows an irritable necrotizing myopathy, and biopsy shows necrotic and regenerating fibers with scarce inflammation. Anti-HMGCR antibodies are strongly positive, while anti-SRP is negative. Thyroid and renal function are normal, and colonoscopy is unremarkable, so there is no clear malignancy association. Symptoms persisting after the statin change point to an autoimmune process rather than toxic statin myopathy.
+FINAL DIAGNOSIS: Statin-associated anti-HMGCR immune-mediated necrotizing myopathy
+
+CASE: M100
+REASONING: A previously normal child had prolonged unilateral (left-sided) focal seizures at age 2. These were immediately followed by persistent spastic left hemiparesis and then developmental regression. MRI shows atrophy of the contralateral (right) hemisphere with ipsilateral ventricular dilatation and gliosis. The family history is noncontributory. This sequence of prolonged hemiclonic seizures, then hemiplegia, then unilateral hemispheric atrophy is characteristic.
+FINAL DIAGNOSIS: Hemiconvulsion-hemiplegia syndrome (HH syndrome, with Dyke-Davidoff-Masson-type cerebral hemiatrophy)
+
+CASE: M101
+REASONING: A 13-year-old has two weeks of raised intracranial pressure symptoms (headache worse on straining, vomiting) plus ataxia and vertigo. Imaging shows a large, heterogeneously enhancing midline vermian mass at the roof of the fourth ventricle causing obstructive hydrocephalus. The lesion has restricted diffusion with low ADC, indicating high cellularity, and SWI blooming from hemorrhage or calcification. A midline vermian origin with strong diffusion restriction in a child is most typical of medulloblastoma. Ependymoma (floor of the fourth ventricle, often calcified) and pilocytic astrocytoma (cystic, no restriction) fit less well. The craniovertebral junction anomalies (atlanto-occipital assimilation, basilar invagination) are incidental.
+FINAL DIAGNOSIS: Medulloblastoma of the cerebellar vermis/fourth ventricle roof with obstructive hydrocephalus (with incidental craniovertebral junction anomalies)
+
+CASE: M102
+REASONING: A previously healthy child had a febrile viral prodrome that progressed rapidly to cardiogenic shock. Findings include gallop, muffled heart sounds, pulmonary edema and effusions, markedly raised troponin, CK-MB and BNP, and conduction abnormalities (wide QRS, RBBB, PVCs). Ejection fraction is severely reduced at 28% without ventricular dilatation or hypertrophy, which argues against a chronic cardiomyopathy. Blood cultures are negative, and human rhinovirus A66 was identified by mNGS and PCR.
+FINAL DIAGNOSIS: Acute fulminant viral myocarditis due to human rhinovirus A66 with cardiogenic shock
+
+CASE: M103
+REASONING: A young woman had recent significant abdominal trauma with a lumbar fracture and now has a large peritoneal cystic mass. On MRI the mass is T1/T2 hyperintense, consistent with blood products, with a dark hemosiderin/fibrous peripheral rim. The ovaries are normal and tumor markers are normal. Histology shows a fibrous hyalinized wall without epithelial lining, with necrotic-hemorrhagic contents, inflammation and clot, and no neoplasm. The lack of epithelial lining excludes true cysts such as mesothelial or lymphatic cysts, and the absence of granulomas makes tuberculosis unlikely.
+FINAL DIAGNOSIS: Post-traumatic peritoneal pseudocyst, i.e. a chronic expanding (encapsulated) hematoma
+
+CASE: M104
+REASONING: A previously normal school-age boy has progressive visual loss and strabismus, cognitive decline, hearing impairment, spastic quadriparesis and seizures. MRI shows parieto-occipital-predominant white matter disease with a Loes score of 22. He also has mucocutaneous hyperpigmentation with ACTH five times normal, indicating primary adrenal insufficiency. VLCFA levels and ratios (C24, C26, C24/C22, C26/C22) are elevated. Krabbe disease and mitochondrial disease were excluded.
+FINAL DIAGNOSIS: Childhood cerebral X-linked adrenoleukodystrophy with primary adrenal insufficiency (Addison disease)

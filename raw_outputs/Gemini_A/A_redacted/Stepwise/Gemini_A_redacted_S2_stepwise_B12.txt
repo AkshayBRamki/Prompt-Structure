@@ -1,0 +1,31 @@
+CASE: M089
+REASONING: The patient presents with sharp lower abdominal pain and vaginal bleeding in early pregnancy with a markedly elevated β-hCG (142,946 mIU/mL). Ultrasound demonstrates the simultaneous presence of both a live intrauterine pregnancy (7 weeks, FHR 132 bpm) and a live right adnexal ectopic pregnancy (6 weeks 4 days, FHR 112 bpm), along with a subchorionic hemorrhage and a 7 cm right paratubal cyst. Pathology subsequently confirmed the ectopic pregnancy and paratubal cyst. The coexistence of an intrauterine and an extrauterine (ectopic) pregnancy defines a heterotopic pregnancy.
+FINAL DIAGNOSIS: Heterotopic pregnancy (with a right paratubal cyst)
+
+CASE: M090
+REASONING: The 27-month-old male with known mosaic trisomy 21 (Down syndrome mosaicism) presented with delayed motor milestones followed by motor regression (loss of high kneeling at 20 months), symmetrical hypotonia, weakened deep tendon reflexes, reduced strength, and hand tremors—classic lower motor neuron findings. His younger sibling was also diagnosed with spinal muscular atrophy (SMA) type 2. Genetic testing at 27 months confirmed a homozygous deletion of exons 7 and 8 of the SMN1 gene (with heterozygous duplication of exons 7 and 8 of SMN2), establishing the diagnosis of SMA type 2 coexisting with mosaic trisomy 21.
+FINAL DIAGNOSIS: Spinal muscular atrophy (SMA) type 2 (coexisting with mosaic Down syndrome / mosaic trisomy 21)
+
+CASE: M091
+REASONING: The 71-year-old female smoker presented with right upper quadrant discomfort, epigastric pain, and hepatomegaly. Imaging revealed multiple liver masses, pancreatic infiltration, and a hyperperfused nodule adherent to the bladder (28×44 mm). Liver biopsy showed poorly differentiated carcinoma that was CK20-positive and focally CK7-positive, while negative for TTF-1 (arguing against lung/thyroid), Pax-8 (arguing against renal/gynecologic), and Hep-Par 1 (arguing against hepatocellular carcinoma), with normal CA-125, CEA, AFP, and CA19-9. Cystoscopy and biopsy confirmed the urinary bladder as the primary site of the metastatic poorly differentiated carcinoma.
+FINAL DIAGNOSIS: Metastatic poorly differentiated bladder carcinoma (urothelial carcinoma of the urinary bladder)
+
+CASE: M092
+REASONING: The 61-year-old male has an 8-year history of chronic pancreatitis, a major risk factor for pancreatic malignancy. Follow-up imaging showed classic concerning changes—diminished/disappearing pancreatic calcifications, an enlarged pancreas with heterogeneous soft tissue, and a hypoechoic mass with malignant-appearing lymph nodes on EUS. Combined with a markedly elevated CA19-9 (1846 U/mL) and gastrointestinal bleeding, the presentation and confirmatory biopsy point directly to pancreatic ductal adenocarcinoma arising in the setting of chronic pancreatitis.
+FINAL DIAGNOSIS: Pancreatic ductal adenocarcinoma
+
+CASE: M093
+REASONING: The 57-year-old male presented with a 3-year ulcero-proliferative, polypoidal growth on the floor of the mouth. Histopathology demonstrated sheets and fascicles of large polygonal and spindle cells with granular cytoplasm and multiple malignant features matching the Fanburg-Smith criteria (vesicular nuclei with prominent nucleoli, pleomorphism, necrosis, and atypical mitoses up to 4/10 HPF). Immunohistochemistry ruled out epithelial/squamous malignancies (negative for Pan-CK, CK5/6, P40) and conventional neural granular cell tumor or melanoma (negative for S100), while positivity for vimentin, NSE, and CD10 is characteristic of an S100-negative (non-neural) malignant granular cell tumor.
+FINAL DIAGNOSIS: Malignant non-neural (S100-negative) granular cell tumor of the floor of the mouth
+
+CASE: M094
+REASONING: The 28-year-old male presented with acute epigastric and left upper quadrant pain, vomiting, and obstipation (inability to pass stool or flatus) two years after blunt left chest trauma with rib fractures from a road traffic accident. Physical exam revealed absent breath sounds and audible bowel sounds in the left lower hemithorax. Chest X-ray and CT confirmed a 4 cm left diaphragmatic defect with herniation of intra-abdominal bowel loops into the left hemithorax, basal lung atelectasis, and jejunal dilatation with air-fluid levels, establishing a delayed traumatic diaphragmatic hernia complicated by bowel obstruction.
+FINAL DIAGNOSIS: Delayed traumatic diaphragmatic hernia (with small bowel obstruction)
+
+CASE: M095
+REASONING: The 82-year-old female non-smoker with recurrent hormone receptor–positive, HER2-negative breast cancer on long-term abemaciclib (3 years) developed subacute cough, malaise, and hypoxemia (SpO2 92%). HRCT showed subpleural ground-glass opacities and consolidations with bronchiectatic changes typical of organizing pneumonia, PFTs showed a restrictive defect with reduced diffusion, and BAL revealed marked lymphocytosis (89%) without infection or malignancy. Transbronchial lung cryobiopsy confirmed fibrosing organizing pneumonia, and autoimmune and infectious etiologies were excluded. Although the drug lymphocyte stimulation test was negative (which does not exclude drug-induced lung injury due to limited sensitivity), the clinical, radiographic, and histologic picture in a patient on abemaciclib is diagnostic of abemaciclib-induced interstitial lung disease (fibrosing organizing pneumonia).
+FINAL DIAGNOSIS: Abemaciclib-induced interstitial lung disease (drug-induced fibrosing organizing pneumonia)
+
+CASE: M096
+REASONING: The 37-year-old female developed fever, leukocytosis, progressive skin necrosis, induration, and wound dehiscence starting on postoperative day 6 following bilateral mastectomies. Despite mimicking a severe necrotizing surgical site infection, bacterial, fungal, and mycobacterial cultures were negative, and both antibiotics and surgical debridement failed to resolve the lesions (a hallmark of pathergy). Combined with a family history of the same condition in her daughter after breast reduction surgery and confirmatory skin punch biopsy findings, this presentation is classic for postoperative pyoderma gangrenosum.
+FINAL DIAGNOSIS: Postoperative pyoderma gangrenosum

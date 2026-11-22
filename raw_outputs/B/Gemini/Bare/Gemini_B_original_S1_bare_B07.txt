@@ -1,0 +1,23 @@
+CASE: M049
+FINAL DIAGNOSIS: Synovial spindle cell hemangioma of the right knee
+
+CASE: M050
+FINAL DIAGNOSIS: Double superior vena cava (DSVC)
+
+CASE: M051
+FINAL DIAGNOSIS: Metastatic poorly differentiated pancreatic neuroendocrine carcinoma (small cell type)
+
+CASE: M052
+FINAL DIAGNOSIS: Type IVA choledochal cyst
+
+CASE: M053
+FINAL DIAGNOSIS: Isochromosome mosaic Turner syndrome (IMTS) with multiple intracranial meningiomas and hypopituitarism
+
+CASE: M054
+FINAL DIAGNOSIS: Isolated posterior malleolus fracture
+
+CASE: M055
+FINAL DIAGNOSIS: Extrahepatic cholangiocarcinoma (poorly differentiated adenosquamous carcinoma) associated with Type 1A choledochal cyst and pancreaticobiliary maljunction
+
+CASE: M056
+FINAL DIAGNOSIS: Intrauterine fetal death due to umbilical cord ulceration (UCU) hemorrhage associated with congenital jejunal atresia

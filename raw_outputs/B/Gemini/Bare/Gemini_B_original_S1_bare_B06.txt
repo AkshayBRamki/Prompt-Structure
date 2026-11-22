@@ -1,0 +1,23 @@
+CASE: M041
+FINAL DIAGNOSIS: Abiotrophia defectiva infective endocarditis
+
+CASE: M042
+FINAL DIAGNOSIS: Intraventricular fibroblastic meningioma
+
+CASE: M043
+FINAL DIAGNOSIS: Atypical proximal tibial fracture (associated with long-term bisphosphonate/denosumab therapy)
+
+CASE: M044
+FINAL DIAGNOSIS: Atypical hemolytic uremic syndrome (aHUS)
+
+CASE: M045
+FINAL DIAGNOSIS: Very early-onset Crohn's disease
+
+CASE: M046
+FINAL DIAGNOSIS: Pseudoachalasia secondary to metastatic osteosarcoma
+
+CASE: M047
+FINAL DIAGNOSIS: Dermatomyositis (anti-SAE1 and anti-MDA5 positive)
+
+CASE: M048
+FINAL DIAGNOSIS: Cardiac (right ventricular) metastasis from oral squamous cell carcinoma

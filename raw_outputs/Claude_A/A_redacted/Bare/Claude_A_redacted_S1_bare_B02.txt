@@ -1,0 +1,23 @@
+CASE: M009
+FINAL DIAGNOSIS: Solitary buccal bony exostosis (hyperostosis) of the right maxillary alveolar ridge
+
+CASE: M010
+FINAL DIAGNOSIS: Acquired uterine arteriovenous malformation after D&C, supplied by the left uterine artery
+
+CASE: M011
+FINAL DIAGNOSIS: Intestinal (ileocecal) tuberculosis with cecal perforation and peritonitis, with concurrent pulmonary TB, in a patient with newly diagnosed HIV infection
+
+CASE: M012
+FINAL DIAGNOSIS: Atraumatic (spontaneous) splenic rupture with hemoperitoneum, due to a small subcapsular splenic hemangioma
+
+CASE: M013
+FINAL DIAGNOSIS: Angle Class I malocclusion (Dewey Type 2) on a Class I skeletal base, with proclined and spaced maxillary incisors, lower anterior crowding, and increased overjet and overbite
+
+CASE: M014
+FINAL DIAGNOSIS: Tethered cord syndrome caused by a sacral spinal lipoma (occult spinal dysraphism), with L4-L5 isthmic spondylolisthesis
+
+CASE: M015
+FINAL DIAGNOSIS: Autosomal recessive hereditary cerebellar ataxia (pure cerebellar ataxia syndrome)
+
+CASE: M016
+FINAL DIAGNOSIS: Lymphomatosis cerebri (diffuse primary CNS diffuse large B-cell lymphoma), with superimposed focal lymphoma in the caudate and hippocampus

@@ -1,0 +1,491 @@
+CASE: M033
+
+KEY FINDINGS:
+
+Severe acute neuropathic pain (stabbing, shock-like, burning) in the proximal and intermediate right arm developing approximately 21 days after dengue virus infection, confirmed by positive dengue IgM serology — classic post-infectious immune-mediated latency.
+
+Rapidly ensuing proximal upper-limb amyotrophy, hypotonia, grade 2/3 paresis of the deltoid, infraspinatus, and biceps brachii (C5–C6 / upper brachial plexus distribution), deep hypoesthesia, areflexia, and sensory hypersensitivity (allodynia, thermal hyperesthesia) — localizes to a patchy, predominantly motor-and-sensory brachial plexopathy.
+
+ENMG showing acute peripheral nerve denervation, prolonged action potentials, and increased latency — confirms acute axonal injury.
+
+Brachial plexus MRI showing subtle signal changes in the upper and middle primary trunks with normal cranial nerves and unremarkable workup for other inflammatory, infectious, or autoimmune causes — directly confirms brachial plexus involvement.
+
+DIFFERENTIAL:
+
+Dengue-associated Parsonage-Turner syndrome (neuralgic amyotrophy / post-infectious brachial plexitis)
+
+Cervical radiculopathy (C5–C6)
+
+Complex regional pain syndrome (CRPS)
+
+Focal/pharyngeal-cervical-brachial variant of Guillain-Barré syndrome (GBS)
+
+Neoplastic or compressive brachial plexopathy
+
+EVIDENCE FOR AND AGAINST:
+
+Dengue-associated Parsonage-Turner syndrome (neuralgic amyotrophy):
+
+For: Classic biphasic pattern of severe acute proximal shoulder/arm neuropathic pain followed by patchy weakness and rapid amyotrophy in upper/middle trunk muscles (deltoid, infraspinatus, biceps); clear post-infectious trigger (~21 days post-dengue with positive IgM); acute denervation on ENMG; MRI signal abnormality localized to the upper and middle primary trunks; normal workup for other etiologies.
+
+Against: Livedo and marked allodynia/thermal hyperesthesia are less typical than pure motor-predominant presentations, though autonomic and sensory fiber involvement can occur.
+
+Cervical radiculopathy (C5–C6):
+
+For: Pain, weakness in deltoid/infraspinatus/biceps, sensory loss, and reduced/absent reflexes in a C5–C6 distribution.
+
+Against: MRI demonstrates signal changes in the brachial plexus trunks rather than cervical root compression; severe burning/shock-like pain with rapid amyotrophy and livedo 3 weeks post-dengue strongly favors immune-mediated plexitis over structural radiculopathy.
+
+Complex regional pain syndrome (CRPS):
+
+For: Severe burning pain, allodynia, thermal hyperesthesia, and skin discoloration (livedo) with functional impairment.
+
+Against: CRPS does not explain acute axonal denervation on ENMG, MRI signal changes in the upper and middle brachial plexus trunks, or selective proximal myotomal paresis and amyotrophy; there is also no preceding limb trauma.
+
+Guillain-Barré syndrome (focal/brachial variant):
+
+For: Post-infectious onset (~3 weeks after dengue virus infection), acute weakness, hypotonia, and areflexia.
+
+Against: Strictly unilateral focal involvement of one brachial plexus with severe localized neuropathic pain, rapid amyotrophy, normal cranial nerves, and MRI signal changes confined to the right upper/middle trunks argue strongly against GBS, which is typically symmetric and polyradiculoneuropathic.
+
+Neoplastic or compressive brachial plexopathy:
+
+For: Unilateral brachial plexus pain, weakness, sensory deficits, and denervation on ENMG.
+
+Against: No mass lesion on brachial plexus MRI, acute post-dengue onset, and preferential involvement of the upper/middle trunks (neoplastic plexopathy more often affects the lower trunk, as in Pancoast tumors).
+
+EXCLUSIONS AND COMMITMENT:
+
+Cervical radiculopathy and compressive/neoplastic plexopathy are excluded by the absence of a compressive or mass lesion and the direct localization of signal changes to the upper and middle primary trunks on MRI. CRPS is excluded because it cannot account for objective acute denervation on ENMG and brachial plexus MRI abnormalities. GBS is excluded by the strictly unilateral, painful, trunk-localized plexopathy with normal cranial nerves. By direct temporal association with confirmed dengue infection, classic severe neuropathic pain followed by proximal amyotrophy, ENMG evidence of acute denervation, and MRI confirmation of upper and middle trunk involvement, the diagnosis commits to dengue-associated Parsonage-Turner syndrome (neuralgic amyotrophy).
+
+FINAL DIAGNOSIS: Dengue-associated Parsonage-Turner syndrome (post-infectious neuralgic amyotrophy / brachial plexitis)
+
+CASE: M034
+
+KEY FINDINGS:
+
+Case 1 (65-year-old female): Slowly progressive (1 year) right lower motor neuron (LMN) facial palsy (inability to wrinkle forehead and close eye) accompanied by ipsilateral sensorineural hearing loss (SNHL), impaired right corneal reflex, and giddiness — localizes to the right cerebellopontine angle (CPA) affecting CN VII, VIII, and V. MRI shows a 2.1 × 1.2 × 0.9 cm cerebrospinal fluid (CSF) intensity lesion at the right CPA abutting CN VII, VIII, and the anterior inferior cerebellar artery (AICA).
+
+Case 2 (60-year-old male): Recurrent right LMN facial nerve palsy initially misdiagnosed as idiopathic Bell's palsy, with residual orbicularis oculi weakness. MRI/MRA/MRV directly demonstrates a vascular loop of the AICA compressing the right CN VII and VIII at the CPA.
+
+Case 3 (72-year-old male): Subacute intermittent fever (3 weeks), dysphagia (1 week), bilateral facial nerve palsy, and multiple lower cranial neuropathies (CN VII, IX, X: left-deviated uvula, nasal voice, absent gag reflex) without limb weakness. Confirmed by positive IgM ELISA and Western blot despite no recalled tick exposure.
+
+DIFFERENTIAL:
+
+Secondary (non-idiopathic) facial nerve palsies: CPA arachnoid cyst (Case 1), AICA neurovascular compression (Case 2), and Lyme neuroborreliosis (Case 3)
+
+Vestibular schwannoma / CPA epidermoid cyst (for Case 1)
+
+Idiopathic Bell's palsy (for Cases 1 and 2)
+
+Neurosarcoidosis (for Case 3)
+
+Guillain-Barré syndrome or tuberculous/carcinomatous meningitis (for Case 3)
+
+EVIDENCE FOR AND AGAINST:
+
+CPA arachnoid cyst (Case 1), AICA vascular loop compression (Case 2), and Lyme neuroborreliosis (Case 3):
+
+For: Case 1 has a well-circumscribed CSF-intensity CPA lesion compressing CN VII/VIII causing progressive facial palsy and SNHL. Case 2 has recurrent unilateral facial palsy with direct MRA/MRV visualization of an AICA loop compressing CN VII/VIII. Case 3 has the classic triad/syndrome of bilateral facial palsy, multiple cranial neuropathies (CN VII, IX, X), fever, and confirmatory two-tier serology (IgM ELISA and Western blot), with absence of recalled tick bite being common in Lyme disease.
+
+Against: Case 1 lacks explicit diffusion-weighted imaging details to contrast with epidermoid cyst; Case 3 lacks recalled tick exposure (though this does not rule out Lyme disease).
+
+Vestibular schwannoma / CPA epidermoid cyst (Case 1):
+
+For: Slowly progressive unilateral SNHL, facial weakness, giddiness, and impaired corneal reflex from a CPA mass.
+
+Against: Vestibular schwannomas are solid, enhancing tumors rather than CSF-intensity lesions; while epidermoid cysts can mimic CSF on basic T1/T2, the lesion is explicitly described simply as a CSF-intensity area abutting the nerves and AICA, characteristic of a CPA arachnoid cyst.
+
+Idiopathic Bell's palsy (Cases 1 and 2):
+
+For: Peripheral (LMN) unilateral facial weakness with normal external ear exam.
+
+Against: Bell's palsy is acute, self-limited, isolated to CN VII, and a diagnosis of exclusion; Case 1's 1-year progression with SNHL/corneal reflex loss and Case 2's recurrence with an identified AICA vascular loop on MRA/MRV rule out idiopathic Bell's palsy.
+
+Neurosarcoidosis (Case 3):
+
+For: Bilateral facial nerve palsy and multiple cranial neuropathies (CN VII, IX, X) prompted evaluation of serum ACE levels.
+
+Against: Infectious serology (IgM ELISA and Western blot) established a specific infectious etiology.
+
+Guillain-Barré syndrome / basilar meningitis (Case 3):
+
+For: Bilateral facial palsy and bulbar cranial neuropathies (CN IX, X).
+
+Against: No limb weakness, flexor plantar reflexes, prolonged 3-week intermittent fever, and confirmatory positive IgM ELISA and Western blot point directly to Lyme neuroborreliosis rather than GBS.
+
+EXCLUSIONS AND COMMITMENT:
+
+Idiopathic Bell's palsy is excluded in Cases 1 and 2 by chronic progression with vestibulocochlear/trigeminal involvement and recurrent palsy with structural/vascular CPA lesions on MRI/MRA. Vestibular schwannoma is excluded in Case 1 by the purely CSF-intensity appearance of the CPA lesion, committing Case 1 to a right CPA arachnoid cyst. Case 2 is directly committed by MRA/MRV to neurovascular compression of CN VII/VIII by an AICA vascular loop. In Case 3, neurosarcoidosis and GBS are excluded by preserved limb strength, febrile course, and confirmatory two-tier serology (IgM ELISA and Western blot), committing Case 3 to Lyme neuroborreliosis.
+
+FINAL DIAGNOSIS: Secondary facial nerve palsies — Case 1: Right cerebellopontine angle (CPA) arachnoid cyst; Case 2: Neurovascular compression of cranial nerves VII and VIII by an anterior inferior cerebellar artery (AICA) vascular loop; Case 3: Lyme neuroborreliosis (Lyme disease)
+
+CASE: M035
+
+KEY FINDINGS:
+
+Progressive hip, lower back, and right shoulder pain with functional limitation in a man in his 50s.
+
+Personal history of high sexual activity and pyuria, paired with positive Chlamydia trachomatis IgA and IgG antibodies — establishes a recent/active genitourinary C. trachomatis trigger.
+
+Elevated inflammatory markers (WBC 10,340/μL, CRP 6.45 mg/dL) and negative HLA-B27.
+
+Pelvic MRI demonstrating widespread enthesitis (inflammation of tendon attachments at spinous processes, ischial/sciatic tuberosity, and greater and lesser trochanters) without sacroiliitis, and shoulder MRI showing rotator cuff adhesions, myositis, bone marrow edema of the greater tuberosity, and peritendinitis — hallmark inflammatory enthesopathy of spondyloarthritis.
+
+DIFFERENTIAL:
+
+Chlamydia trachomatis-induced reactive arthritis (HLA-B27 negative)
+
+Ankylosing spondylitis / axial spondyloarthritis
+
+Polymyalgia rheumatica (PMR)
+
+Septic arthritis / disseminated gonococcal infection
+
+Psoriatic arthritis / undifferentiated spondyloarthritis
+
+EVIDENCE FOR AND AGAINST:
+
+Chlamydia trachomatis-induced reactive arthritis:
+
+For: Classic genitourinary prodrome (high sexual activity, pyuria), positive C. trachomatis IgA (indicating recent/active mucosal infection) and IgG antibodies, elevated CRP/WBC, and prominent multifocal enthesitis on pelvic and shoulder MRI.
+
+Against: HLA-B27 is negative (though reactive arthritis occurs in HLA-B27–negative patients, often with a less classic or sacroiliitis-sparing course), and typical extra-articular features (conjunctivitis, mucocutaneous lesions) are not reported.
+
+Ankylosing spondylitis / axial spondyloarthritis:
+
+For: Axial/pelvic pain and widespread enthesitis at spinous processes and trochanters.
+
+Against: Absence of sacroiliitis on pelvic MRI, negative HLA-B27, onset in the 50s (atypically late), and clear evidence of an infectious C. trachomatis trigger.
+
+Polymyalgia rheumatica (PMR):
+
+For: Male over 50 with shoulder and hip/pelvic girdle pain and elevated CRP.
+
+Against: PMR does not explain pyuria, positive C. trachomatis IgA/IgG, or extensive axial spinous process and ischial enthesitis with greater tuberosity bone marrow edema.
+
+Septic arthritis / disseminated gonococcal infection:
+
+For: High sexual activity, pyuria, elevated WBC and CRP.
+
+Against: MRI demonstrates sterile inflammatory enthesitis and peritendinitis across multiple symmetric/axial tendon insertions rather than purulent intra-articular joint effusion/destruction, and serology specifically identifies C. trachomatis.
+
+Psoriatic arthritis / undifferentiated spondyloarthritis:
+
+For: HLA-B27–negative enthesitis without sacroiliitis.
+
+Against: No personal or family history of psoriasis, and the presence of pyuria with positive C. trachomatis IgA/IgG identifies a specific reactive infectious etiology.
+
+EXCLUSIONS AND COMMITMENT:
+
+Ankylosing spondylitis is excluded by the absence of sacroiliitis on MRI, negative HLA-B27, age of onset, and the infectious trigger. PMR and undifferentiated/psoriatic spondyloarthritis are excluded because they do not account for pyuria and positive C. trachomatis IgA/IgG serology. Septic arthritis is excluded by the multifocal enthesitic pattern on MRI rather than localized joint space destruction. The combination of genitourinary symptoms, positive C. trachomatis IgA/IgG antibodies, systemic inflammation, and MRI-confirmed multifocal enthesitis commits the diagnosis to Chlamydia trachomatis-induced reactive arthritis.
+
+FINAL DIAGNOSIS: Chlamydia trachomatis-induced reactive arthritis (HLA-B27 negative)
+
+CASE: M036
+
+KEY FINDINGS:
+
+25-year-old nulliparous woman with a large (9.4 × 8.5 × 6.8 cm) left adnexal mass on CT and subacute lower abdominal/back pain, nausea, and fever.
+
+Markedly elevated serum AFP (greater than 60,500 ng/mL) alongside elevated LDH (548 U/L) and mildly elevated CA-125 (48.3 U/L) — extreme AFP elevation in a young woman with an ovarian mass is virtually pathognomonic for a yolk sac tumor.
+
+Histopathology demonstrating microcystic and endodermal sinus patterns with Schiller–Duval bodies and positive AFP immunohistochemistry — definitive histologic confirmation.
+
+FIGO stage Ia (confined to one ovary, intact capsule, no peritoneal spread).
+
+DIFFERENTIAL:
+
+Ovarian yolk sac tumor (endodermal sinus tumor), FIGO stage Ia
+
+Mixed malignant ovarian germ cell tumor (with yolk sac component)
+
+Ovarian immature teratoma
+
+Ovarian clear cell carcinoma (arising from endometriosis)
+
+Ovarian dysgerminoma
+
+EVIDENCE FOR AND AGAINST:
+
+Ovarian yolk sac tumor (endodermal sinus tumor):
+
+For: Young reproductive-age female; rapid/large unilateral adnexal mass; extreme serum AFP elevation (greater than 60,500 ng/mL); pathognomonic Schiller–Duval bodies, microcystic/endodermal sinus architecture, and AFP-positive immunohistochemistry.
+
+Against: None; the mild CA-125 elevation is easily explained by peritoneal irritation or her history of endometriosis, and LDH is non-specifically elevated in rapidly proliferating germ cell tumors.
+
+Mixed malignant ovarian germ cell tumor:
+
+For: Young woman with elevated AFP and LDH.
+
+Against: Histopathology reports only microcystic and endodermal sinus patterns with Schiller–Duval bodies and AFP positivity, with no mention of dysgerminoma, embryonal carcinoma, choriocarcinoma, or teratomatous elements.
+
+Ovarian immature teratoma:
+
+For: Young female with a unilateral adnexal mass; can occasionally cause mild-to-moderate AFP elevation.
+
+Against: AFP levels greater than 60,500 ng/mL are far higher than seen in pure immature teratoma, and histology shows classic endodermal sinus patterns and Schiller–Duval bodies rather than immature neuroectodermal tissue.
+
+Ovarian clear cell carcinoma:
+
+For: History of bilateral ovarian endometriomas (a known precursor) and mildly elevated CA-125.
+
+Against: Typically occurs in older women, does not produce massive AFP elevation, and lacks Schiller–Duval bodies (instead showing hobnail cells and clear cytoplasm).
+
+Ovarian dysgerminoma:
+
+For: Young woman with a solid/large ovarian mass and elevated LDH.
+
+Against: Pure dysgerminoma does not elevate AFP and lacks Schiller–Duval bodies and endodermal sinus histology.
+
+EXCLUSIONS AND COMMITMENT:
+
+Dysgerminoma and clear cell carcinoma are excluded by the massive serum AFP elevation and characteristic germ cell histopathology. Immature teratoma and mixed germ cell tumor are excluded by the pure microcystic/endodermal sinus histology with Schiller–Duval bodies and diffuse AFP immunohistochemical positivity. These pathognomonic biochemical and histologic findings definitively commit the diagnosis to FIGO stage Ia ovarian yolk sac tumor.
+
+FINAL DIAGNOSIS: Ovarian yolk sac tumor (endodermal sinus tumor), FIGO stage Ia
+
+CASE: M037
+
+KEY FINDINGS:
+
+71-year-old woman residing in Brazil (an endemic region) presenting with a 5-month subacute wasting illness (20 kg weight loss in 3 months), acute icteric syndrome (jaundice), diarrhea, vomiting, and generalized non-neoplastic lymphadenopathy (cervical, submental, inguinal, axillary).
+
+Abdominal CT/MRC showing hepatic hilar and retroperitoneal adenomegaly (explaining obstructive jaundice), gallbladder wall thickening, and adrenal gland nodules mimicking metastases, with normal lungs.
+
+Histopathology of the resected cecal appendix showing acute appendicitis with fungal spores, alongside negative tuberculosis testing and a liver biopsy negative for malignancy.
+
+E. coli bacteremia — represents secondary enteric translocation/sepsis from acute appendicitis/biliary obstruction rather than the underlying systemic disease.
+
+DIFFERENTIAL:
+
+Disseminated paracoccidioidomycosis (Paracoccidioides brasiliensis)
+
+Disseminated histoplasmosis (Histoplasma capsulatum)
+
+Disseminated tuberculosis
+
+Lymphoma or metastatic hepatobiliary/gastrointestinal malignancy
+
+Visceral leishmaniasis
+
+EVIDENCE FOR AND AGAINST:
+
+Disseminated paracoccidioidomycosis (Paracoccidioides brasiliensis):
+
+For: Resident of Brazil (classic endemic area); severe weight loss, generalized lymphadenopathy, hepatic hilar/retroperitoneal adenomegaly causing obstructive jaundice, and adrenal nodules (classic target organs of disseminated/acute-subacute paracoccidioidomycosis); normal lungs (characteristic of the acute/subacute lymphatic-abdominal form); fungal spores directly identified in the cecal appendix causing acute appendicitis; malignancy and TB ruled out.
+
+Against: The acute/subacute (juvenile-like) lymphatic-abdominal form is less common in a 71-year-old than the chronic pulmonary/mucocutaneous adult form, though it is well-recognized in older or immunocompromised hosts.
+
+Disseminated histoplasmosis (Histoplasma capsulatum):
+
+For: Endemic in Brazil; can cause generalized lymphadenopathy, adrenal involvement, gastrointestinal/appendiceal lesions, weight loss, and fungal elements on histopathology.
+
+Against: Disseminated histoplasmosis with severe abdominal/adrenal involvement predominantly occurs in severely immunocompromised hosts (e.g., advanced HIV/AIDS, which is not reported here), whereas paracoccidioidomycosis is the quintessential endemic Brazilian mycosis associated with hepatic hilar adenomegaly causing obstructive jaundice and adrenal nodules in immunocompetent/elderly residents.
+
+Disseminated tuberculosis:
+
+For: Weight loss, generalized and retroperitoneal/hilar lymphadenopathy, adrenal involvement, and gastrointestinal disease.
+
+Against: Explicitly ruled out by negative tuberculosis testing and the identification of fungal spores in the appendix.
+
+Lymphoma or metastatic malignancy:
+
+For: 71-year-old with 20 kg weight loss, jaundice, generalized lymphadenopathy, and adrenal nodules mimicking metastases.
+
+Against: Explicitly ruled out by non-neoplastic lymph nodes, cancer-negative liver biopsy, and fungal spores on appendiceal histopathology.
+
+Visceral leishmaniasis:
+
+For: Endemic in Brazil, causes weight loss, lymphadenopathy, and hepatobiliary dysfunction.
+
+Against: Caused by a protozoan parasite rather than fungal spores, and does not produce acute fungal appendicitis or metastatic-appearing adrenal nodules.
+
+EXCLUSIONS AND COMMITMENT:
+
+Malignancy and tuberculosis are directly excluded by negative liver biopsy, non-neoplastic lymph nodes, and negative TB testing. Visceral leishmaniasis is excluded by the presence of fungal spores on appendiceal histopathology. Between endemic mycoses, disseminated histoplasmosis is less likely without documented severe immunosuppression, whereas the classic Brazilian geographic origin, obstructive jaundice from hepatic hilar adenomegaly, generalized lymphadenopathy, adrenal nodules, normal lungs, and fungal spores in the appendix commit the diagnosis to disseminated paracoccidioidomycosis.
+
+FINAL DIAGNOSIS: Disseminated paracoccidioidomycosis (Paracoccidioides brasiliensis) presenting with acute fungal appendicitis and obstructive jaundice
+
+CASE: M038
+
+KEY FINDINGS:
+
+44-year-old female with previously diagnosed Schimmelpenning syndrome (linear nevus sebaceus / epidermal nevus syndrome), manifested by congenital large hairless brown plaques on the scalp/face (nevus sebaceus) and left-sided brown verrucous plaques.
+
+Progressive headache and dizziness with MRI revealing a large (6.5 × 3 × 3 cm) irregular intra-axial mass with cystic components in the left frontal lobe causing significant mass effect and brain displacement (ipsilateral to her left-sided cutaneous lesions).
+
+Molecular analysis identifying an HRAS c.37G-to-C, p.(G13R) mutation at 31% allele frequency — the canonical postzygotic mosaic RASopathy mutation underlying Schimmelpenning syndrome, here driving MAPK-pathway tumorigenesis in the CNS.
+
+DIFFERENTIAL:
+
+Pilocytic astrocytoma (HRAS-mutant / Schimmelpenning syndrome–associated)
+
+Ganglioglioma
+
+Glioblastoma (IDH-wildtype, high-grade glioma)
+
+Pleomorphic xanthoastrocytoma (PXA)
+
+Cystic meningioma
+
+EVIDENCE FOR AND AGAINST:
+
+Pilocytic astrocytoma:
+
+For: Prototypical MAPK/RAS-pathway–driven glioma seen in neurocutaneous RASopathies (including Schimmelpenning syndrome); characteristically presents with prominent cystic components and mass effect; driven by the identified HRAS p.(G13R) hotspot mutation (31% allele frequency) without mention of high-grade co-mutations.
+
+Against: Less common in a 44-year-old adult than in pediatric patients, and described as an "irregular" mass (which can also resemble higher-grade gliomas on imaging).
+
+Ganglioglioma:
+
+For: Commonly has cystic components, occurs in the cerebral hemispheres, and is frequently driven by MAPK pathway alterations.
+
+Against: Typically presents with chronic intractable epilepsy (not reported here) and favors the temporal lobe rather than a large 6.5 cm irregular frontal lobe mass causing severe displacement.
+
+Glioblastoma (high-grade glioma):
+
+For: Adult age (44 years), large (6.5 cm) irregular intra-axial frontal lobe mass with cystic/necrotic components and significant brain displacement causing progressive headaches and dizziness.
+
+Against: Isolated HRAS p.(G13R) is a classic RASopathy low-grade glioma driver rather than a typical adult glioblastoma driver (which typically harbors TERT promoter, EGFR, PTEN, or TP53 alterations).
+
+Pleomorphic xanthoastrocytoma (PXA):
+
+For: Superficial cerebral hemisphere tumor with cystic components, MAPK pathway activation, and occurrence in young-to-middle-aged adults.
+
+Against: Strongly favors the temporal lobe and typically presents with seizures; far less classically linked to mosaic HRAS p.(G13R) Schimmelpenning syndrome than pilocytic astrocytoma.
+
+Cystic meningioma:
+
+For: Occurs in middle-aged women and can cause frontal mass effect with cystic components.
+
+Against: Extra-axial dural-based tumor rather than an irregular intra-axial mass in the left frontal lobe, and not characteristically driven by HRAS p.(G13R).
+
+EXCLUSIONS AND COMMITMENT:
+
+Cystic meningioma is excluded by the intra-axial left frontal location and HRAS p.(G13R) molecular profile. Ganglioglioma and PXA are less favored given the absence of seizures, frontal rather than temporal location, and large irregular size. While glioblastoma is considered for a large irregular frontal mass in a 44-year-old, the sole identified driver mutation is the canonical Schimmelpenning mosaic HRAS c.37G-to-C p.(G13R) mutation, which activates the RAS–MAPK pathway and classically produces cystic low-grade gliomas—most notably pilocytic astrocytoma—ipsilateral to the epidermal nevus. Thus, the reasoning commits to a Schimmelpenning syndrome–associated HRAS-mutant pilocytic astrocytoma.
+
+FINAL DIAGNOSIS: Pilocytic astrocytoma (HRAS-mutant, associated with Schimmelpenning syndrome)
+
+CASE: M039
+
+KEY FINDINGS:
+
+16-year-old non-smoking male presenting with hemoptysis, 2 months of dry cough, and exertional dyspnea.
+
+Imaging showing a calcified left upper lung mass extending to the pleura with widespread hematogenous metastases (contralateral right lung, T6/T12/S1 vertebrae, and pelvic bone), and bronchoscopy revealing a polypoid intraluminal mass in the left main bronchus.
+
+Biopsy showing malignant spindle cells.
+
+Immunohistochemistry positive for cytokeratin (CK), vimentin, and TTF-1 — co-expression of epithelial (CK) and mesenchymal (vimentin) markers in malignant spindle cells confirms sarcomatoid differentiation, while TTF-1 confirms primary pulmonary epithelial origin.
+
+DIFFERENTIAL:
+
+Pulmonary sarcomatoid carcinoma (specifically spindle cell carcinoma of the lung)
+
+Primary pulmonary synovial sarcoma
+
+Pulmonary blastoma
+
+Inflammatory myofibroblastic tumor (IMT)
+
+Spindle cell carcinoid tumor
+
+EVIDENCE FOR AND AGAINST:
+
+Pulmonary sarcomatoid carcinoma (spindle cell carcinoma of the lung):
+
+For: Biopsy composed of malignant spindle cells with dual epithelial/mesenchymal immunophenotype (CK+ and vimentin+) and confirmed primary lung origin (TTF-1+); aggressive clinical behavior with polypoid endobronchial growth, rapid progression, and widespread pulmonary and osseous metastases.
+
+Against: Extremely rare in a 16-year-old non-smoker (typically affects older male smokers), though pediatric/adolescent cases are documented.
+
+Primary pulmonary synovial sarcoma:
+
+For: Occurs in adolescents/young adults, presents with malignant spindle cells, and can co-express CK (focally) and vimentin with aggressive metastatic potential.
+
+Against: Synovial sarcoma is TTF-1 negative; TTF-1 positivity definitively establishes primary pulmonary epithelial lineage rather than a mesenchymal sarcoma.
+
+Pulmonary blastoma:
+
+For: Can occur in younger patients, presents as a large aggressive lung mass, and can express TTF-1, CK, and vimentin.
+
+Against: Classic biphasic pulmonary blastoma contains malignant embryonal glandular/epithelial tubules alongside primitive mesenchymal stroma, whereas this biopsy shows malignant spindle cells without biphasic fetal-type glandular components.
+
+Inflammatory myofibroblastic tumor (IMT):
+
+For: Common endobronchial/pulmonary spindle cell lesion in adolescents and non-smokers, frequently vimentin-positive and sometimes calcified.
+
+Against: IMT is a low-to-intermediate-grade myofibroblastic neoplasm (rarely metastasizing widely to vertebrae, pelvis, and contralateral lung), shows bland myofibroblasts with an inflammatory infiltrate rather than overtly malignant spindle cells, and is TTF-1 negative.
+
+Spindle cell carcinoid tumor:
+
+For: Occurs in young non-smokers as a polypoid endobronchial mass causing hemoptysis and cough, and can show spindle cell morphology and TTF-1 positivity.
+
+Against: Carcinoid tumors are low-grade neuroendocrine neoplasms without overtly malignant spindle cells, do not typically present with extensive osteolytic/vertebral and contralateral lung metastases, and are defined by neuroendocrine markers (synaptophysin, chromogranin) rather than CK/vimentin sarcomatoid co-expression.
+
+EXCLUSIONS AND COMMITMENT:
+
+Primary pulmonary synovial sarcoma and IMT are excluded by positive TTF-1 staining (and IMT is further excluded by overt cytologic malignancy and widespread bony/pulmonary metastases). Spindle cell carcinoid is excluded by malignant spindle cell histology and aggressive metastatic dissemination. Pulmonary blastoma is excluded by the absence of a biphasic fetal-type glandular component. The definitive triad of malignant spindle cells with positive CK, vimentin, and TTF-1 immunohistochemistry commits the diagnosis to pulmonary sarcomatoid carcinoma (spindle cell carcinoma of the lung).
+
+FINAL DIAGNOSIS: Pulmonary sarcomatoid carcinoma (spindle cell carcinoma of the lung)
+
+CASE: M040
+
+KEY FINDINGS:
+
+17-year-old healthy male presenting with acute/subacute (1-week) right hemiparesis, right-sided hypertonia and hyperreflexia, and dysarthria (left cerebral upper motor neuron syndrome) with normal laboratory and coagulation studies.
+
+Brain CT showing an ischemic stroke in the superficial and deep left sylvian (middle cerebral artery) territory.
+
+Contrast vascular imaging showing defective opacification of the left M1/M2 segments, rarefaction of M3/M4 cortical branches, and hypoplasia of the left internal carotid artery (ICA).
+
+Bone window CT demonstrating a markedly narrowed left bony carotid canal (3 mm vs. 7 mm on the right) — the decisive pathognomonic sign proving a congenital developmental anomaly rather than an acquired vascular stenosis.
+
+DIFFERENTIAL:
+
+Congenital hypoplasia of the left internal carotid artery (complicated by left MCA territory ischemic stroke)
+
+Internal carotid artery dissection
+
+Moyamoya disease
+
+Fibromuscular dysplasia (FMD)
+
+Primary CNS vasculitis or cardioembolic stroke
+
+EVIDENCE FOR AND AGAINST:
+
+Congenital hypoplasia of the left internal carotid artery:
+
+For: Young male with left MCA territory ischemic stroke and hypoplastic left ICA situated within a congenitally narrowed bony carotid canal (3 mm vs. 7 mm on the right); because the bony carotid canal forms around the embryonic ICA, canal hypoplasia definitively establishes congenital ICA hypoplasia; normal coagulation and cardiopulmonary exams.
+
+Against: Many cases remain asymptomatic due to collateral circulation via the circle of Willis, though hemodynamic insufficiency or thromboembolism can precipitate ischemic stroke in young adulthood.
+
+Internal carotid artery dissection:
+
+For: Leading cause of ischemic stroke in adolescents and young adults; causes luminal narrowing of the ICA and distal MCA occlusion/embolism.
+
+Against: Acquired dissection occurs in a normal-sized bony carotid canal and typically features neck/head pain, Horner syndrome, or an intimal flap/intramural hematoma—none of which are present.
+
+Moyamoya disease:
+
+For: Causes ischemic stroke in adolescents/young adults with steno-occlusion of the distal ICA and proximal MCA (M1/M2).
+
+Against: Typically bilateral with prominent basal collateral ("puff of smoke") vessels, and does not cause a congenitally narrowed bony carotid canal.
+
+Fibromuscular dysplasia (FMD):
+
+For: Non-atherosclerotic arteriopathy capable of causing ICA narrowing and ischemic stroke in younger patients.
+
+Against: Acquired arteriopathy with a normal bony carotid canal, classic "string-of-beads" appearance, and strong female predominance.
+
+Primary CNS vasculitis or cardioembolic stroke:
+
+For: Can cause MCA territory ischemic stroke in a 17-year-old.
+
+Against: Cardiopulmonary exam and labs are normal, and neither explains left ICA hypoplasia inside a narrowed 3 mm bony carotid canal.
+
+EXCLUSIONS AND COMMITMENT:
+
+All acquired arteriopathies—including ICA dissection, Moyamoya disease, fibromuscular dysplasia, and CNS vasculitis—as well as cardioembolic stroke are decisively excluded by the bone window CT demonstrating a narrowed left carotid canal (3 mm vs. 7 mm on the right), which proves that the left ICA failed to develop normally in utero. Together with the left sylvian territory infarction and M1–M4 hypoperfusion/occlusion, the findings commit the diagnosis to congenital hypoplasia of the left internal carotid artery complicated by left middle cerebral artery ischemic stroke.
+
+FINAL DIAGNOSIS: Congenital hypoplasia of the left internal carotid artery complicated by left middle cerebral artery (sylvian) territory ischemic stroke

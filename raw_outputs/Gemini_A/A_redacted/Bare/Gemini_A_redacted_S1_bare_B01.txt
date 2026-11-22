@@ -1,0 +1,23 @@
+CASE: M001
+FINAL DIAGNOSIS: Schwannomatosis
+
+CASE: M002
+FINAL DIAGNOSIS: Primary lung adenocarcinoma with bilateral breast metastases
+
+CASE: M003
+FINAL DIAGNOSIS: Abdominoscrotal cystic lymphangioma
+
+CASE: M004
+FINAL DIAGNOSIS: Primary mucinous cystadenocarcinoma of the breast
+
+CASE: M005
+FINAL DIAGNOSIS: Herpes simplex virus esophagitis
+
+CASE: M006
+FINAL DIAGNOSIS: Gastric schwannoma
+
+CASE: M007
+FINAL DIAGNOSIS: Unruptured left tubal ectopic pregnancy
+
+CASE: M008
+FINAL DIAGNOSIS: Acute mesenteric ischemia secondary to small bowel neuroendocrine tumor

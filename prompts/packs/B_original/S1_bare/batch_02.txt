@@ -1,0 +1,126 @@
+You will be given 8 clinical cases. Use only the information in each case. Do not search the web or use any tools. Answer all 8 cases, in order, and use exactly the output format below for every case.
+
+Give the most likely final diagnosis for each case.
+
+Output format for every case:
+CASE: <case id>
+FINAL DIAGNOSIS: <diagnosis>
+
+=== CASE M009 ===
+- **Patient Information:** 13-year-old boy
+- **Chief Complaint:** Painless enlargement in the upper maxillary region.
+- **History of Present Illness:** The precise time of onset and growth rate of the lesion were unknown. No reported trauma, teeth grinding, or jaw clenching. Difficulty brushing teeth was noted.
+- **Past Medical History:** None.
+- **Personal History:** No significant dental or general health issues.
+- **Family History:** No relevant medical conditions, including no family history of syndromic conditions such as Gardner syndrome.
+- **Physical Examination:** A clearly demarcated, spherical, bony-hard enlargement on the buccal aspect of the right maxillary alveolar ridge, extending from the mesial surface of the first premolar to the mesial surface of the first molar. Overlying mucosa was tense and paler but intact, with no signs of ulceration or trauma. Adjacent teeth were healthy and had normal pulp vitality.
+- **Ancillary Tests:** 
+  - Panoramic radiograph showed no abnormal findings.
+  - CBCT revealed an exophytic, mushroom-like, radiodense lesion with continuity to the cortical and trabecular bone.
+  - Histopathological analysis demonstrated bony trabeculae separated by connective tissue, consistent with a benign exostosis/hyperostosis.
+
+=== CASE M010 ===
+- Patient Information: A 34-year-old woman, gravida 1, para 0, with a history of uterine trauma (D&C).
+- Chief Complaint: Abnormal uterine bleeding 2 months after D&C for a missed abortion.
+- History of Present Illness: Irregular bleeding, severe cramping, menorrhagia with clots, fatigue, confusion, presyncope, and abdominal pain. Prior ultrasound suggested retained products of conception.
+- Past Medical History: Missed abortion and D&C at 15 weeks gestation with an uneventful recovery.
+- Personal History: None provided.
+- Family History: None provided.
+- Physical Examination: Not explicitly detailed; symptoms consistent with hemodynamic instability during ED presentation.
+- Ancillary Tests: 
+  - TVUS: Echogenic mass with increased blood flow, raising differential of RPOC vs uterine AVM.
+  - MRI: Mixed endometrial mass, serpiginous vessel signals, and solid enhancement suggestive of both conditions.
+  - CTA: Cluster of vessels with early venous filling confirmed uterine AVM.
+  - Selective angiography: Identified the left uterine artery as supplying the AVM.
+
+=== CASE M011 ===
+- Patient Information: 33-year-old male.
+- Chief Complaint: Severe abdominal pain for five days.
+- History of Present Illness: Severe abdominal pain initially in the epigastric region, then localizing to the right lower quadrant (RLQ); fever, loss of appetite, recent weight loss; no nausea or vomiting.
+- Past Medical History: None.
+- Personal History: History of intravenous drug use, regular alcohol and tobacco use; identified as homosexual.
+- Family History: None.
+- Physical Examination: RLQ tenderness without rebound or guarding; fever of 38.4°C.
+- Ancillary Tests: 
+  - Lab results: Elevated inflammatory markers (ESR 70 mm/h, CRP 54 mg/L), leukocytosis (12,400/mm3 with 70% neutrophils), anemia (Hb 10.5 g/dL), thrombocytopenia (101,000/mm³). 
+  - Imaging: Ultrasound suggested acute appendicitis; chest X-ray showed right upper lobe consolidation; chest CT indicated bronchiolitis (tree-in-bud pattern); abdominal X-ray showed no abnormalities.
+  - Surgical findings: Perforated cecal mass with diffuse white lesions across the small intestine, resulting in peritonitis.
+  - Histopathology: Necrotizing granulomatous colitis and granulomatous lymphadenitis.
+  - PCR: Positive for Mycobacterium tuberculosis (MTB).
+  - Infectious Screening: HIV diagnosed during hospitalization.
+
+---
+
+=== CASE M012 ===
+- **Patient Information:** 84-year-old male
+- **Chief Complaint:** Sudden abdominal pain on the ninth day of hospitalization
+- **History of Present Illness:** Hospitalized for right lower lobe pneumonia, treated with intravenous antibiotics and supportive care
+- **Past Medical History:** Cardiac failure secondary to hypertension, renal failure due to diabetic nephropathy, oxygen-dependent respiratory failure
+- **Personal History:** None provided
+- **Family History:** None provided
+- **Physical Examination:** Sudden severe diffuse abdominal pain, hypotension, and tachycardia
+- **Ancillary Tests:**
+  - Initial CT scan: Confirmed pneumonia (right lower lobe)
+  - Laboratory findings: Hemoglobin drop from 13.1 g/dL to 8.8 g/dL in 24 hours
+  - Abdominal CTA: Active bleeding and hemoperitoneum consistent with splenic rupture
+  - Postsplenectomy histopathology: Splenic hamartoma (1 cm subcapsular nodule), no malignancy or infectious organisms
+
+=== CASE M013 ===
+- **Patient Information:** 22-year-old male.
+- **Chief Complaint:** Spacing in the upper front region of the jaw and forwardly placed upper front teeth.
+- **History of Present Illness:** None.
+- **Past Medical History:** None.
+- **Personal History:** Childhood thumb-sucking habit contributing to the upper anterior spacing.
+- **Family History:** None.
+- **Physical Examination:** 
+    - Extraoral: Mesocephalic head form, mesoprosopic face form, increased overjet and overbite, acute nasolabial angle, deep mentolabial sulcus, convex facial profile, lip incompetency with a lower lip trap, and normal temporomandibular joint.
+    - Intraoral: Proper Class I posterior buccal occlusion with generalized spacing in the upper anterior and crowding in the lower anterior. Midline alignment maintained. High labial frenal attachment noted. 
+- **Ancillary Tests:** 
+    - Radiographs: Orthopantomogram and cephalometric analysis showed Class I skeletal relationship and Dewey’s modification type 2 malocclusion (spacing).
+    - Cephalometric findings: Documented pre- and post-treatment comparisons confirming initial malocclusion and treatment outcomes.
+
+=== CASE M014 ===
+- **Patient Information:** 24-year-old female
+- **Chief Complaint:** Chronic urinary symptoms (dysuria and pollakiuria) and lower back pain (lumbago) that worsened over the past year.
+- **History of Present Illness:** Chronic urinary issues since puberty and progressively intensifying lower back pain over the last year. No radiation of pain to the lower extremities.
+- **Past Medical History:** None
+- **Personal History:** None
+- **Family History:** Unremarkable, no known hereditary or neurological disorders.
+- **Physical Examination:** Normal
+- **Ancillary Tests:**  
+  - Laboratory findings: 
+    - White blood cell count: 7600 cells/µL (normal)
+    - Hemoglobin: 12.1 g/dL (normal)
+    - Creatinine: 0.9 mg/dL (normal)
+    - Urinalysis: No infection or abnormalities
+  - Renovesical ultrasound: No structural abnormalities
+  - Lumbar MRI: Key findings included a low-lying conus medullaris at the S1-S2 level tethered to a sacral spinal canal lipoma. No spinal cord signal abnormalities. Associated findings: hypoplastic sacral vertebrae, scalloping of anterior vertebral bodies, and L4-L5 spondylolisthesis with bilateral isthmic lysis.
+
+---
+
+=== CASE M015 ===
+Please provide a detailed medical history of the patient, including chief complaint, history of present illness, past medical history, family history, physical examination, results of ancillary tests, and other necessary information for the final diagnosis in the following format.
+
+- Patient Information: 41-year-old male.
+- Chief Complaint: Progressive gait imbalance for 2 years, headache, and abnormal speech for 1 year.
+- History of Present Illness: Insidious onset of walking imbalance gradually worsening over two years, interfering with daily activities. Headache was nonthrobbing, primarily occipital, and there was no associated dizziness, vertigo, or other systemic symptoms.
+- Past Medical History: None.
+- Personal History: No history of smoking, alcoholism, toxin exposure, or long-term drug use.
+- Family History: Family history of similar gait issues in two siblings. Parents and one sister’s children were unaffected.
+- Physical Examination: No systemic abnormalities; intact higher mental functions, hypotonic limbs with power 5/5 in all limbs, scanning speech, jerky horizontal nystagmus, dysmetria, dyssynergia, dysdiadochokinesia, positive rebound test, broad-based gait, and pendular reflexes. Sensation (touch, pain, vibration, proprioception) was intact.
+- Ancillary Tests: CT scan showed marked cerebellar atrophy.
+
+=== CASE M016 ===
+- **Patient Information:** 66-year-old woman.
+- **Chief Complaint:** Subacute cognitive decline and weakness.
+- **History of Present Illness:** Progressive weakness, falls, and brain fog for two weeks; recurrent hospitalizations due to worsening confusion, weakness, hallucinations, and aphasia over a span of four months. CSF showed pleocytosis and IL-10 elevation. Declined despite treatment and succumbed to disease.
+- **Past Medical History:** Unremarkable.
+- **Personal History:** None noted.
+- **Family History:** None noted.
+- **Physical Examination:** Initial mild bilateral lower extremity weakness and hyporeflexia. Progressed to worsening somnolence, expressive aphasia, and intermittent febrile states with progressive weakness.
+- **Ancillary Tests:**
+  - Lab results included leukocytosis, persistent hyponatremia (due to SIADH), and elevated IL-10 in CSF. Broad autoimmune, infectious, metabolic, and paraneoplastic workups were unremarkable.
+  - Initial imaging: Non-contrast CT showed hypodensities; MRI showed diffuse, non-enhancing T2/FLAIR hyperintensities without mass effect or restricted diffusion.
+  - Follow-up imaging: New asymmetric diffusion restriction and hyperperfusion in caudate nucleus and hippocampus.
+  - MR spectroscopy: Elevated choline:creatine ratio and decreased NAA peaks, indicating hypercellular process.
+  - Autopsy: Diffuse cerebral lymphomatosis confirmed (CD20-positive B cells), with superimposed foci of primary CNS lymphoma in the caudate and hippocampus.

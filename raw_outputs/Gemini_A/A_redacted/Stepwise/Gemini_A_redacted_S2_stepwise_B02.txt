@@ -1,0 +1,95 @@
+CASE: M009
+REASONING:
+
+A 13-year-old boy presents with a painless, clearly demarcated, spherical, bony-hard swelling on the buccal aspect of the right maxillary alveolar ridge, with intact overlying mucosa and vital adjacent teeth.
+
+The absence of a family history of Gardner syndrome helps lower suspicion for syndromic multiple osteomas.
+
+CBCT demonstrates an exophytic, mushroom-like radiodense lesion continuous with both the cortical and trabecular bone, which is characteristic of a bony exostosis.
+
+Histopathology confirms bony trabeculae separated by connective tissue without a cartilaginous cap (ruling out osteochondroma), explicitly consistent with a benign exostosis/hyperostosis.
+
+Given the anatomic site (buccal aspect of the maxillary alveolar ridge) and benign clinicopathologic features, the most likely diagnosis is a maxillary buccal exostosis.
+FINAL DIAGNOSIS: Maxillary buccal exostosis
+
+CASE: M010
+REASONING:
+
+A 34-year-old woman presents with severe abnormal uterine bleeding, menorrhagia with clots, and signs of hemodynamic instability 2 months after a D&C for a missed abortion. Uterine instrumentation (D&C) is a major risk factor for acquired uterine vascular malformations.
+
+Initial TVUS and MRI show an echogenic/mixed endometrial mass with increased vascularity and serpiginous vessel signals, narrowing the differential to retained products of conception (RPOC) versus a uterine arteriovenous malformation (AVM).
+
+CTA demonstrates a cluster of vessels with early venous filling, which is the hallmark diagnostic feature of an arteriovenous shunt/malformation rather than simple RPOC.
+
+Selective angiography confirms the diagnosis by identifying the left uterine artery as the feeding vessel supplying the vascular malformation.
+FINAL DIAGNOSIS: Acquired uterine arteriovenous malformation (AVM)
+
+CASE: M011
+REASONING:
+
+A 33-year-old male with risk factors for HIV (newly diagnosed during admission) presents with fever, weight loss, anorexia, and 5 days of abdominal pain localizing to the right lower quadrant, initially mimicking acute appendicitis.
+
+Chest imaging reveals right upper lobe consolidation and a tree-in-bud pattern of bronchiolitis on CT, classic radiographic signs of active pulmonary tuberculosis.
+
+Intraoperatively, he is found to have a perforated cecal mass with diffuse white lesions along the small intestine and peritonitis. The ileocecal region is the most common site of gastrointestinal tuberculosis.
+
+Histopathology shows necrotizing granulomatous colitis and granulomatous lymphadenitis, and PCR is positive for Mycobacterium tuberculosis, confirming the diagnosis of intestinal (and disseminated) tuberculosis in an immunocompromised (HIV-positive) host.
+FINAL DIAGNOSIS: Intestinal tuberculosis with cecal perforation (in the setting of disseminated tuberculosis and newly diagnosed HIV)
+
+CASE: M012
+REASONING:
+
+An 84-year-old hospitalized male with right lower lobe pneumonia develops sudden, severe diffuse abdominal pain, hypotension, tachycardia, and a rapid drop in hemoglobin (13.1 to 8.8 g/dL in 24 hours), indicating acute intra-abdominal hemorrhage.
+
+Abdominal CTA shows active bleeding and hemoperitoneum, and the patient undergoes splenectomy, pointing directly to spontaneous (atraumatic) splenic rupture—likely precipitated by increased intra-abdominal pressure (e.g., coughing from pneumonia) acting on an underlying splenic lesion.
+
+Postsplenectomy histopathology reveals a 1 cm subcapsular nodule with no malignancy or infectious organisms. Among benign, non-infectious, subcapsular splenic nodules capable of causing spontaneous rupture, splenic hemangioma is the most common and classic etiology.
+FINAL DIAGNOSIS: Spontaneous splenic rupture secondary to a splenic hemangioma
+
+CASE: M013
+REASONING:
+
+A 22-year-old male presents with upper anterior spacing and forwardly placed upper front teeth, with a history of childhood thumb-sucking—a classic etiological factor for maxillary incisor proclination, anterior spacing, and increased overjet.
+
+Intraoral exam and cephalometric radiographs confirm a Class I skeletal relationship and a Class I posterior buccal (molar) occlusion, establishing an Angle's Class I malocclusion.
+
+Extraoral findings (convex facial profile, acute nasolabial angle, deep mentolabial sulcus, lip incompetency with a lower lip trap) combined with increased overjet, upper anterior spacing, and lower anterior crowding are characteristic of Angle's Class I malocclusion with proclined maxillary incisors (Dewey's Type 2 modification, with concurrent lower anterior crowding).
+FINAL DIAGNOSIS: Angle's Class I malocclusion with maxillary anterior proclination and spacing (Dewey's Type 2)
+
+CASE: M014
+REASONING:
+
+A 24-year-old female presents with chronic lower urinary tract symptoms (dysuria, pollakiuria) since puberty and progressively worsening lower back pain without radiculopathy.
+
+Normal urinalysis, normal renal function, and a normal renovesical ultrasound rule out urinary tract infection and primary urological structural pathology, pointing toward a neurogenic bladder etiology.
+
+Lumbar MRI directly identifies the underlying cause: a low-lying conus medullaris at the S1–S2 level (normally terminating at L1–L2) tethered to a sacral spinal canal lipoma, accompanied by sacral hypoplasia and vertebral body scalloping.
+
+The combination of progressive lumbago, neurogenic urinary dysfunction, and a low-lying conus tethered to a sacral lipoma in adulthood confirms adult tethered cord syndrome.
+FINAL DIAGNOSIS: Tethered cord syndrome secondary to a sacral spinal lipoma
+
+CASE: M015
+REASONING:
+
+A 41-year-old male presents with a 2-year history of insidiously progressive gait imbalance and a 1-year history of abnormal speech and occipital headache, with no history of alcohol use, toxin exposure, or offending medications.
+
+Neurological examination demonstrates a pure cerebellar syndrome: broad-based ataxic gait, scanning speech, jerky horizontal nystagmus, dysmetria, dyssynergia, dysdiadochokinesia, positive rebound phenomenon, hypotonia, and pendular reflexes, with completely preserved motor strength, cognition, and sensation (arguing against spinocerebellar tracts/posterior column involvement such as Friedreich ataxia).
+
+Brain CT confirms marked cerebellar atrophy.
+
+Family history reveals two affected siblings with unaffected parents and unaffected offspring of a sibling, indicating a horizontal inheritance pattern consistent with autosomal recessive transmission.
+FINAL DIAGNOSIS: Autosomal recessive hereditary cerebellar ataxia
+
+CASE: M016
+REASONING:
+
+A 66-year-old woman presents with subacute, rapidly progressive cognitive decline, weakness, falls, aphasia, hallucinations, and SIADH, proving fatal within four months despite unremarkable infectious, autoimmune, metabolic, and paraneoplastic workups.
+
+CSF analysis shows pleocytosis and elevated IL-10, a highly specific biomarker for primary CNS B-cell lymphoma.
+
+Initial MRI reveals diffuse, non-enhancing T2/FLAIR hyperintensities without mass effect or restricted diffusion, which is the classic radiological signature of lymphomatosis cerebri—a rare, diffusely infiltrating variant of primary CNS lymphoma (PCNSL).
+
+MR spectroscopy confirms a hypercellular neoplastic process (elevated choline:creatine ratio, decreased NAA), and follow-up MRI shows new diffusion restriction and hyperperfusion in the caudate and hippocampus (consistent with superimposed focal lymphoma progression or ischemia).
+
+Autopsy confirmation of CD20-positive B cells establishes the diagnosis of lymphomatosis cerebri (primary CNS diffuse large B-cell lymphoma).
+FINAL DIAGNOSIS: Lymphomatosis cerebri (diffuse variant of primary central nervous system diffuse large B-cell lymphoma)

@@ -1,0 +1,122 @@
+You will be given 8 clinical cases. Use only the information in each case. Do not search the web or use any tools. Answer all 8 cases, in order, and use exactly the output format below for every case.
+
+Give the most likely final diagnosis for each case.
+
+Output format for every case:
+CASE: <case id>
+FINAL DIAGNOSIS: <diagnosis>
+
+=== CASE M089 ===
+- **Patient Information:** 37-year-old G3P1011 female.
+- **Chief Complaint:** Sharp lower abdominal pain and vaginal bleeding.
+- **History of Present Illness:** Pain and bleeding started four days prior. Passing small amounts of dark blood. No prior symptoms, fever, chills, nausea, or vomiting.
+- **Past Medical History:** None significant; prior vaginal delivery, no known surgical history but Pfannenstiel abdominal scar noted.
+- **Personal History:** None relevant to the diagnosis.
+- **Family History:** None relevant to the diagnosis.
+- **Physical Examination:** Stable vitals; unremarkable physical exam.
+- **Ancillary Tests:**  
+  - Transabdominal and transvaginal ultrasound:
+    - Intrauterine pregnancy (7 weeks with fetal heart rate of 132 bpm) and a right adnexal ectopic pregnancy (6 weeks 4 days with fetal heart rate of 112 bpm).
+    - Subchorionic hemorrhage and a right paratubal cyst (7 cm).
+  - β-hCG: Elevated at 142,946 mIU/mL.
+  - Pathology confirmed ectopic pregnancy and a paratubal cyst.
+
+=== CASE M090 ===
+- **Patient Information:** A 27-month-old male from first pregnancy, delivered vaginally at 37 weeks, birth weight 3,650g, Apgar 10. The mother was 30 years old with no family history of genetic or neuromuscular diseases.
+- **Chief Complaint:** Reduced muscle tone and delayed/regressing motor development.
+- **History of Present Illness:** Motor development milestones delayed and atypical. At 20 months, loss of previously achieved high kneeling and signs of symmetrical reduction in muscle tone, reflex weakening, and reduced strength prompted further investigation.
+- **Past Medical History:** Genetic diagnosis at 3 weeks showed mosaic trisomy 21 (Down Syndrome mosaicism). 
+- **Personal History:** None reported.
+- **Family History:** Younger sibling also diagnosed with SMA Type 2.
+- **Physical Examination:** Symmetrically reduced muscle tone, weakened knee and ankle reflexes, and hand tremors.
+- **Ancillary Tests:** Karyotype showed mosaic 47, XY+21 [22]/46, XY. Genetic testing at 27 months confirmed SMA Type 2 (homozygous deletion of exons 7 and 8 of the SMN1 gene; heterozygous duplication of exons 7 and 8 of the SMN2 gene).
+
+=== CASE M091 ===
+- **Patient Information:** 71-year-old female.
+- **Chief Complaint:** Right upper quadrant discomfort and epigastric pain.
+- **History of Present Illness:** None.
+- **Past Medical History:** Type 2 diabetes (treated), rheumatoid arthritis (treated).
+- **Personal History:** Smoker.
+- **Family History:** A son with diffuse lymphoma.
+- **Physical Examination:** Pallor, right upper quadrant tenderness, and palpable hepatomegaly.
+- **Ancillary Tests:**
+  - *Imaging Findings:*
+    - Abdominal ultrasound: Two hypoechoic liver masses (60×75 mm, 60×55 mm).
+    - CT: Hepatomegaly, liver masses, pancreatic infiltration, hyperperfused nodule adherent to bladder (28×44 mm).
+  - *Pathology:*
+    - Liver biopsy: Poorly differentiated carcinoma.
+    - Immunohistochemistry: CK20-positive, CK7 positive (focal), GATA3, TTF-1, Pax-8, and Hep-Par 1-negative.
+  - *Cystoscopy/Biopsy:* Confirmed urachal adenocarcinoma as primary site.
+  - *Laboratory Workup:* Normal tumor markers (CA-125, CEA, AFP, CA19-9).
+  - *Genetic panel:* EGFR wild type and PD-L1 negative.
+
+---
+
+=== CASE M092 ===
+- Patient Information: 61-year-old male
+- Chief Complaint: None
+- History of Present Illness: Diagnosed 8 years prior with chronic pancreatitis; presented later with gastrointestinal bleeding and findings indicative of pancreatic tumor development.
+- Past Medical History: Hypertension, insulin-dependent type 2 diabetes, mild untreated chronic hepatitis C, end-stage renal disease on dialysis, chronic pancreatitis.
+- Personal History: Remote history of smoking, intravenous drug use, and alcohol dependence.
+- Family History: None stated.
+- Physical Examination: None explicitly mentioned.
+- Ancillary Tests:
+  - Initial CT scans (8 years prior): Numerous calcifications in atrophic pancreas indicative of chronic pancreatitis, with no discrete mass.
+  - Follow-up imaging (8 years later): Diminished pancreatic calcifications, pancreatic atrophy, cystic lesions in body/tail, and enlarged pancreas with heterogeneous soft tissue concerning for an underlying mass.
+  - Pathology: Biopsy confirmed invasive pancreatic ductal adenocarcinoma (PDAC) arising from an IPMN with high-grade dysplasia.
+  - Elevated CA19-9 (1846 U/mL).
+  - EUS findings: Hypoechoic mass with malignant-appearing lymph nodes.
+
+=== CASE M093 ===
+- **Patient Information:** 57-year-old male
+- **Chief Complaint:** Ulcero-proliferative growth on the floor of the mouth for three years.
+- **History of Present Illness:** Long-standing polypoidal growth for three years with minimal symptoms.
+- **Past Medical History:** None indicated.
+- **Personal History:** None indicated.
+- **Family History:** None indicated.
+- **Physical Examination:** Findings not mentioned.
+- **Ancillary Tests:** 
+  - Histopathology: Tumor arranged in solid sheets and fascicles, large polygonal and spindle cells with vesicular nuclei, prominent nucleoli, pleomorphism, granular cytoplasm, necrosis, atypical mitosis (0–4/10 HPF), and apoptotic bodies.
+  - Immunohistochemistry (IHC): Positive for vimentin, NSE (nonspecific enolase), and CD10; negative for S100, P40, CK5/6, and Pan-CK.
+
+=== CASE M094 ===
+- **Patient Information:** 28-year-old male.
+- **Chief Complaint:** Acute epigastric and left hypochondrium pain for 3 days, inability to pass stool and flatus.
+- **History of Present Illness:** Multiple episodes of non-bilious, non-projectile vomiting. No abdominal distension, fever, or shortness of breath.
+- **Past Medical History:** Road traffic accident 2 years ago with left chest impact and rib fractures requiring thoracostomy tube placement (documentation unavailable).
+- **Personal History:** None.
+- **Family History:** None.
+- **Physical Examination:** Tachypnea (respiratory rate: 22 cycles/min). Tenderness in left hypochondrium and epigastric region. Absence of breath sounds in the lower chest with audible bowel sounds. Abdomen soft and non-distended.
+- **Ancillary Tests:** 
+  - Routine bloodwork: Normal.
+  - Chest X-ray: Bowel loops herniated into the left hemithorax with lower lung collapse.
+  - CT: 4 cm diaphragmatic defect with protrusion of intra-abdominal content into the left hemidiaphragm, basal atelectasis of the left lung, and mild jejunal dilatation with air-fluid levels, no transition point.
+
+=== CASE M095 ===
+- **Patient Information:** 82-year-old female 
+- **Chief Complaint:** Persistent cough and body malaise
+- **History of Present Illness:** Symptoms onset one week prior to hospital admission, presenting with cough and malaise.
+- **Past Medical History:** Breast cancer (estrogen receptor–positive, progesterone receptor–positive, human epidermal growth factor receptor 2–negative) diagnosed 25 years ago. Treated with hormonal therapies. On abemaciclib for 3 years due to recurrent breast cancer with dose adjustments for neutropenia. No prior history of interstitial lung disease or smoking.
+- **Personal History:** Non-smoker; no pertinent personal history noted.
+- **Family History:** None provided.
+- **Physical Examination:** Oxygen saturation of 92% (baseline 96%). Breath sounds were normal. Eastern Cooperative Oncology Group Performance Status (ECOG PS) was 0 before symptom onset.
+- **Ancillary Tests:** 
+  - Chest radiograph: Bilateral lower lung field opacities.
+  - High-resolution CT: Ground-glass opacities and consolidations in subpleural regions, with bronchiectatic changes indicative of organizing pneumonia.
+  - Pulmonary function tests: Restrictive pattern with reduced gas diffusion.
+  - Bronchoalveolar lavage: Lymphocytic predominance (89%), no infections or malignancy detected.
+  - Histopathology (via TBLC): Fibrosing organizing pneumonia (OP)—features included diffuse lymphocytic infiltration, polypoid intra-alveolar fibrosis, intraluminal hyalinized granulation tissue plugs, alveolar septal fibrosis, and obliterative fibrotic processes in alveolar ducts. 
+  - Negative for autoimmune markers and infections.
+  - Drug Lymphocyte Stimulation Test for abemaciclib was negative.
+
+---
+
+=== CASE M096 ===
+- **Patient Information**: 37-year-old female
+- **Chief Complaint**: Postsurgical wound complications after bilateral mastectomies.
+- **History of Present Illness**: The patient, diagnosed with stage 3A, triple-negative invasive ductal carcinoma of the right breast, underwent neoadjuvant chemotherapy (carboplatin, paclitaxel) and immunotherapy (pembrolizumab). She subsequently elected to have bilateral skin-sparing mastectomies with axillary nodal staging and delayed breast reconstruction. Postoperative complications arose on postoperative day (POD) 6, including fever, turbulent fluid in surgical drains, and later, progressive skin necrosis and wound breakdown. Initial antibiotics and debridement surgery failed to resolve symptoms.
+- **Past Medical History**: Breast cancer treated with neoadjuvant chemotherapy and immunotherapy.
+- **Personal History**: None.
+- **Family History**: Daughter with a history of postsurgical pyoderma gangrenosum (PSPG) following breast reduction surgery, suggesting a potential familial component.
+- **Physical Examination**: Incisional changes, febrile episodes, leukocytosis, persistent skin necrosis, wound dehiscence, and progressive induration.
+- **Ancillary Tests**: Negative cultures (bacterial, fungal, mycobacterial). Skin punch biopsy revealed histopathological findings consistent with pyoderma gangrenosum.

@@ -1,0 +1,124 @@
+You will be given 8 clinical cases. Use only the information in each case. Do not search the web or use any tools. Answer all 8 cases, in order, and use exactly the output format below for every case.
+
+Give the most likely final diagnosis for each case.
+
+Output format for every case:
+CASE: <case id>
+FINAL DIAGNOSIS: <diagnosis>
+
+=== CASE M073 ===
+- **Patient Information:** 48-year-old male  
+- **Chief Complaint:** Confusion, stupor, language and balance disturbances, urinary incontinence  
+- **History of Present Illness:** Progressive symptoms of confusion, stupor, inability to manipulate objects, balance disturbances, and urinary incontinence evolving over 10 days  
+- **Past Medical History:** Chronic alcoholism for 25 years, escalated to 2 liters of red wine per day over the past 4 months; severe malnutrition for the past year  
+- **Personal History:** None  
+- **Family History:** None  
+- **Physical Examination:** Cachectic and apathetic appearance, dysarthria, comprehension difficulties, astasia-abasia, spastic hypertonia with hyperreflexia in all limbs, gestural perseveration, bilateral grasp reflex  
+- **Ancillary Tests:** 
+  - **Brain CT:** Hypodensity of the splenium of the corpus callosum  
+  - **Brain MRI:** Symmetrical hyperintensity on T2/FLAIR and DWI throughout the corpus callosum, relatively low ADC values, and hyperintensity in the bilateral frontal cortex (T2/FLAIR)  
+  - **Arterial MR angiography:** Normal findings  
+  - **Laboratory Studies:** Elevated liver enzymes, macrocytosis, decreased serum Vitamin B9
+
+=== CASE M074 ===
+- **Patient Information:** 39-year-old female
+- **Chief Complaint:** Left lumbar pain for 4 days (initial presentation), discovery of left renal area mass during physical examination 15 years later.
+- **History of Present Illness:** No hematuria, urinary symptoms, or systemic symptoms such as fever, chills, night sweats, fatigue, headache, dizziness, or nausea.
+- **Past Medical History:** None mentioned; patient underwent left radical nephrectomy 15 years earlier for a mass identified as papillary renal cell carcinoma.
+- **Personal History:** None provided.
+- **Family History:** None provided.
+- **Physical Examination:** No palpable masses or tenderness at either presentation.
+- **Ancillary Tests:** Initial CT showed a 4.7 cm × 4.3 cm left renal mass, treated with radical nephrectomy. Pathology initially defined it as papillary renal cell carcinoma, but immunohistochemistry was not done at that time. Fifteen years later, CT revealed retroperitoneal soft tissue masses with mild enhancement and some cystic changes. Immunohistochemistry this time confirmed [REDACTED].
+
+=== CASE M075 ===
+- **Patient Information:** Female in her 30s.
+- **Chief Complaint:** Acute dry cough in bouts for one week.
+- **History of Present Illness:** Ongoing muscle weakness for eight years, previously diagnosed with myasthenia gravis (MG), currently on steroids and rituximab for treatment.
+- **Past Medical History:** Diagnosed with myasthenia gravis (MG), treated with intravenous rituximab cycles a month prior.
+- **Personal History:** Obese (BMI 30.2 kg/m²), history of employment in a woodcarving factory, and reported lifelong allergic diathesis (episodic sneezing and rhinorrhea).
+- **Family History:** None mentioned.
+- **Physical Examination:** Vital signs normal, oxygen saturation at 97%. Respiratory system exam showed normal vesicular breath sounds, no adventitious sounds. No abnormalities on systemic exam.
+- **Ancillary Tests:**
+  - Chest X-ray: Normal.
+  - Complete blood count and eosinophil count: Normal.
+  - Spirometry: Normal (FEV1/FVC 84.5%, FEV1% predicted 82 L, FVC% predicted 80 L).
+  - High-resolution chest CT: Normal, no pleuro-parenchymal abnormality.
+  - Transthoracic echocardiography: Normal, ejection fraction preserved.
+  - Six-minute walk test: Could not be completed due to excessive coughing.
+
+=== CASE M076 ===
+- Patient Information: Female, in her 50s.
+- Chief Complaint: None.
+- History of Present Illness: A month of parenteral nutrition due to intestinal obstruction. Developed dizziness, ocular movement disorders, bilateral pinpoint pupils, diplopia, photophobia, refractory hiccups, and unsteady gait.
+- Past Medical History: None specified.
+- Personal History: None.
+- Family History: No similar pupil abnormalities reported.
+- Physical Examination: Limited convergence reflex, adduction, abduction, upward and downward gaze of both eyes; normal light reflex; positive Romberg sign; decreased tendon reflexes; dull speech comprehension and reaction; rest of the physical examination normal.
+- Ancillary Tests: 
+  - Initial MRI and EMG (March 8): Normal.
+  - Lumbar puncture: No protein-cell separation.
+  - Vitamin B1 levels: Low (41.5 mmol/L; normal 70–180 mmol/L).
+  - Aquaporin-4 (AQP-4) antibody: Normal.
+  - Repeat MRI (March 15): Hyper signal lesions in bilateral thalamus and aqueduct of midbrain.
+  - MRI (March 25): Improved lesions.
+
+=== CASE M077 ===
+- **Patient Information:** 25-year-old woman.
+- **Chief Complaint:** Double vision (10 days), worsening vision and hearing loss, difficulty ambulating (5 days).
+- **History of Present Illness:** Acute onset neurological symptoms including binocular diplopia, hearing loss, vision loss progressing to light perception, tinnitus, difficulty ambulating, and bilateral lower extremity numbness. A four-month history of multiple hospitalizations for nausea, vomiting, swallowing difficulties, abdominal pain, and significant weight loss (60 pounds). Diagnosed with esophagitis, nonalcoholic steatohepatitis, and gallstone pancreatitis during prior hospitalizations. Denies alcohol or substance abuse, eating disorders, or family history of similar symptoms.
+- **Past Medical History:** None relevant other than recent diagnoses of esophagitis, nonalcoholic steatohepatitis, and gallstone pancreatitis.
+- **Personal History:** No substance abuse or alcohol use.
+- **Family History:** None relevant to current symptoms.
+- **Physical Examination:** Bilateral light perception-only vision; esotropia and horizontal nystagmus; bilateral hearing loss; normal limb strength; absent reflexes; ataxic and wide-based gait.
+- **Ancillary Tests:** Thiamine deficiency (level <7 pg/mL), along with deficiencies in vitamins K, A, folate, and D. Brain MRI reported increased T2 signal in bilateral medial thalami and periaqueductal areas consistent with [REDACTED].
+
+=== CASE M078 ===
+- **Patient Information:** 8-year-old male
+- **Chief Complaint:** Progressive pain in the left leg for several weeks
+- **History of Present Illness:** Intermittent pain in the left leg, worsened with physical activity, and causing difficulty walking; no history of trauma. 
+- **Past Medical History:** None
+- **Personal History:** None
+- **Family History:** Multiple hereditary exostoses in paternal relatives (uncle and cousin). No history of malignant transformation in family members.
+- **Physical Examination:** General condition good. Palpable irregular bony deformation in the left leg causing discomfort without overlying erythema or infection. Restricted range of motion in the left knee due to pain. Neurological examination normal.
+- **Ancillary Tests:**
+  - Bloodwork: Hb (11.8 g/dL), WBC count (6.5 × 10^9/L), Platelet count (250 × 10^9/L), CRP (2 mg/L), Calcium (2.45 mmol/L), Phosphorus (1.35 mmol/L); all results normal.
+  - Radiograph: Multiple sessile bone formations, especially in the right fibula with heterogeneous characteristics.
+  - CT Scan: Exostoses in the pelvic bones and lower limbs; concerning features in the right fibula, including irregular borders, thickened cartilaginous cap, and heterogeneous bone.
+  - MRI: Cartilaginous cap of 6 mm in the right fibula observed with gadolinium enhancement; heterogeneous T2 signal and soft tissue infiltration. [REDACTED].
+  - Bone Biopsy: Histology confirmed mesenchymal tumor proliferation with moderate cytonuclear atypia and spindle cells with irregular nuclei. Diagnosis consistent with malignancy.
+
+=== CASE M079 ===
+- **Patient Information:** 23-year-old male, rural dairy farmer, Honduras.
+- **Chief Complaint:** Recurrent right upper quadrant pain, worsened recently with increased intensity.
+- **History of Present Illness:** Recurrent intermittent right upper quadrant pain since age 13, sporadically treated with oral analgesics and antispasmodics. Recently persistent pain prompted evaluation.
+- **Past Medical History:** None mentioned.
+- **Personal History:** Rural lifestyle as a dairy farmer.
+- **Family History:** Not provided.
+- **Physical Examination:** No hepatomegaly, jaundice, or fever; no other remarkable findings on examination.
+- **Ancillary Tests:** 
+  - Laboratory findings: Normal bilirubin (total 0.8 mg/dL, direct 0.1 mg/dL), ALT 16 U/L, AST 19 U/L, alkaline phosphatase 124 U/L, normal complete blood count.
+  - Abdominal ultrasound: Saccular dilations of intrahepatic bile ducts with hyperechoic foci (indicative of biliary stones), no gallbladder stones identified, extrahepatic bile ducts not well visualized.
+  - Magnetic resonance cholangiography (MRCP): Multifocal saccular and fusiform dilations of intrahepatic bile ducts (0.5–2.8 cm), multiple intrahepatic stones (4–16.2 mm), slight dilation of the extrahepatic bile duct, pathognomonic "central dot sign."
+
+=== CASE M080 ===
+- **Patient Information**: 13-year-old boy  
+- **Chief Complaint**: Abdominal pain in the right iliac fossa, vomiting, loss of appetite, burning micturition, and diarrhea.  
+- **History of Present Illness**: 6-month history of palpitations with exercise; no previous cardiac disease.
+- **Past Medical History**: None.  
+- **Personal History**: None provided.  
+- **Family History**: None provided.  
+- **Physical Examination**:
+  - Bradycardia (45-52 beats/min) without murmurs.  
+  - Tenderness in the right iliac fossa without rebound tenderness or rigidity. 
+- **Ancillary Tests**:  
+  - **ECG**: Mobitz type II heart block.  
+  - **Ultrasound**: 5-mm appendix without free fluid.  
+  - **Lab results**:
+    - Antistreptolysin O titer: 1,450 IU/mL.
+    - ESR: 70 mm/h.  
+    - CRP: 20.2 mg/dL.  
+    - WBC: 10.28 × 10³/μL.  
+    - Hemoglobin: 10.8 g/dL.  
+    - RBC, platelet count, and metabolic profile were normal.  
+    - Negative blood and urine cultures.  
+  - **Echocardiography**: Mild to moderate aortic/mitral regurgitation, trivial tricuspid regurgitation, mild decrease in left ventricular function.

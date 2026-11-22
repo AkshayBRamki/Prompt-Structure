@@ -1,0 +1,46 @@
+CASE: M089
+REASONING: The patient is 37 and multiparous, with lower abdominal pain and vaginal bleeding. Ultrasound shows two simultaneous pregnancies, each with cardiac activity: a 7-week intrauterine pregnancy and a right adnexal ectopic pregnancy of about 6.5 weeks. The β-hCG is very high (142,946 mIU/mL), consistent with two concurrent gestations. Pathology confirmed the ectopic pregnancy. Coexisting intrauterine and extrauterine gestations define a heterotopic pregnancy. The subchorionic hemorrhage explains the bleeding, and the 7 cm paratubal cyst is an incidental finding.
+FINAL DIAGNOSIS: Heterotopic pregnancy (viable intrauterine pregnancy plus right tubal/adnexal ectopic pregnancy), with subchorionic hemorrhage and a right paratubal cyst.
+
+CASE: M090
+REASONING: The child has mosaic trisomy 21, which can explain hypotonia and delayed milestones. However, at 20 months he lost a skill he had achieved (high kneeling), with symmetric weakness, reduced reflexes and hand tremor. These are features of lower motor neuron disease, not of Down syndrome hypotonia. Homozygous deletion of SMN1 exons 7–8 confirms spinal muscular atrophy. Onset after he could sit, without ever walking, fits Type 2. The extra SMN2 copies are consistent with this intermediate phenotype. His younger sibling's SMA Type 2 supports the diagnosis.
+FINAL DIAGNOSIS: Spinal muscular atrophy Type 2 (homozygous SMN1 exon 7–8 deletion) coexisting with mosaic Down syndrome (47,XY,+21/46,XY).
+
+CASE: M091
+REASONING: The patient has multiple liver masses with pancreatic infiltration, and a liver biopsy showing poorly differentiated carcinoma. The immunoprofile (CK20+, focal CK7+) points away from several possible primaries:
+
+Lung (TTF-1 negative)
+Kidney/Müllerian (PAX-8 negative)
+Liver (HepPar-1 negative)
+The normal tumor markers also argue against common GI and ovarian primaries. A hyperperfused nodule adherent to the bladder was biopsied at cystoscopy and confirmed as the primary site. Urothelial carcinoma is CK7/CK20 positive and can lose GATA3 when poorly differentiated. Smoking is a major risk factor.
+FINAL DIAGNOSIS: Poorly differentiated urothelial carcinoma of the bladder, metastatic to the liver with pancreatic involvement.
+
+CASE: M092
+REASONING: The patient has long-standing calcific chronic pancreatitis, a known risk factor for pancreatic cancer, plus a history of alcohol and smoking. Eight years later, follow-up imaging shows an enlarged pancreas with heterogeneous soft tissue and cystic lesions. Other findings support malignancy:
+
+EUS shows a hypoechoic mass with malignant-appearing lymph nodes.
+CA19-9 is markedly elevated (1846 U/mL).
+GI bleeding is consistent with a locally invasive tumor.
+Fading calcifications can occur as a tumor replaces the parenchyma.
+FINAL DIAGNOSIS: Pancreatic ductal adenocarcinoma arising in the setting of chronic calcific pancreatitis.
+
+CASE: M093
+REASONING: The tumor is a slow-growing, polypoid lesion of the oral cavity, present for 3 years. It is composed of polygonal and spindle cells with abundant granular cytoplasm. The immunoprofile narrows the options:
+
+Keratins, P40 and CK5/6 are negative, which excludes squamous cell carcinoma.
+S100 is negative, which excludes a conventional (Schwann-cell) granular cell tumor and melanoma.
+Vimentin, NSE and CD10 are positive. This is the characteristic profile of the S100-negative "primitive polypoid" non-neural granular cell tumor.
+Features favor a malignant form: marked pleomorphism, prominent nucleoli, necrosis and atypical mitoses.
+FINAL DIAGNOSIS: Malignant non-neural (S100-negative, primitive polypoid) granular cell tumor of the floor of the mouth.
+
+CASE: M094
+REASONING: Two years earlier, he had left-sided blunt chest trauma with rib fractures and a chest tube. He now has epigastric and left upper quadrant pain, vomiting and obstipation. Absent lower chest breath sounds with audible bowel sounds suggest bowel in the chest. Chest X-ray shows bowel loops in the left hemithorax. CT confirms a 4 cm diaphragmatic defect with abdominal contents herniating into the chest, left basal atelectasis, and jejunal dilatation with air-fluid levels.
+FINAL DIAGNOSIS: Delayed post-traumatic left diaphragmatic hernia with herniated bowel causing small bowel obstruction.
+
+CASE: M095
+REASONING: The patient has been on long-term abemaciclib (a CDK4/6 inhibitor), which is known to cause interstitial lung disease. She developed subacute cough, malaise and hypoxemia. Imaging shows subpleural ground-glass opacities and consolidations with traction bronchiectasis, and lung function shows a restrictive defect with low diffusion capacity. BAL is lymphocytic with no infection or malignancy. Transbronchial cryobiopsy shows fibrosing organizing pneumonia. Autoimmune and infectious causes are excluded, and she has no prior ILD. A negative drug lymphocyte stimulation test does not exclude drug-induced lung disease, because it has low sensitivity.
+FINAL DIAGNOSIS: Abemaciclib-induced interstitial lung disease (fibrosing organizing pneumonia pattern).
+
+CASE: M096
+REASONING: After surgery she developed fever and leukocytosis, followed by rapidly progressive skin necrosis and wound breakdown. All cultures were negative, and antibiotics and debridement failed; debridement often worsens this condition (pathergy). Her daughter had a similar reaction after breast reduction surgery, suggesting a familial predisposition. A biopsy consistent with a neutrophilic dermatosis fits this picture. Breast surgery is a classic trigger.
+FINAL DIAGNOSIS: Postsurgical pyoderma gangrenosum.

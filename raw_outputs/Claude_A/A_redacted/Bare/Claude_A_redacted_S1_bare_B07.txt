@@ -1,0 +1,23 @@
+CASE: M049
+FINAL DIAGNOSIS: Intra-articular (synovial) spindle cell haemangioma of the right knee with secondary haemophilia-like arthropathy
+
+CASE: M050
+FINAL DIAGNOSIS: Pulmonary embolism
+
+CASE: M051
+FINAL DIAGNOSIS: Metastatic small cell carcinoma (high-grade neuroendocrine carcinoma, Ki-67 95%) involving the pancreas, with obstructive jaundice and widespread metastases
+
+CASE: M052
+FINAL DIAGNOSIS: Choledochal cyst, Todani type IVA
+
+CASE: M053
+FINAL DIAGNOSIS: Mosaic Turner syndrome (46,X,i(X)(q10)/45,X) with suprasellar and cerebellopontine angle meningiomas causing hypopituitarism
+
+CASE: M054
+FINAL DIAGNOSIS: Isolated posterior malleolus fracture of the right ankle
+
+CASE: M055
+FINAL DIAGNOSIS: Pancreaticobiliary maljunction with type I choledochal cyst complicated by cholangiocarcinoma (poorly differentiated adenosquamous carcinoma arising from an intraductal tubulopapillary neoplasm)
+
+CASE: M056
+FINAL DIAGNOSIS: Umbilical cord ulcer associated with congenital small bowel (jejunal) atresia, causing fetal hemorrhage and intrauterine fetal death

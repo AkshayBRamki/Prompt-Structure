@@ -1,0 +1,355 @@
+Continue with the SAME rubric and SAME output format (`item_id: score`, one line per item, no explanations). Rate each response independently. Do not reward length or formatting. CASES (part 7 of 10):
+
+===== CASE =====
+- **Patient Information**: A 30-year-old female from a rural area with a history of contact with dogs.
+- **Chief Complaint**: Right hypochondrium pain and fever.
+- **History of Present Illness**: Symptoms present for 24 hours, including a fever of 39°C and guarding in the right upper quadrant.
+- **Past Medical History**: None provided.
+- **Personal History**: Contact with animals, including dogs.
+- **Family History**: None provided.
+- **Physical Examination**: Febrile (39°C) with right upper quadrant guarding and palpable gallbladder.
+- **Ancillary Tests**: 
+  - Ultrasound: [REDACTED], two multilocular cystic formations in liver segments IVb and VII suggestive of [REDACTED].
+  - CT: Intravesicular gas with close contact with the segment IV [REDACTED], suggesting a [REDACTED]. Gallbladder was distended (10 x 5 cm) with a thickened wall (8 mm).
+  - Intraoperative Cholangiography: No evidence of cholecysto-[REDACTED] fistula; segment IV [REDACTED] revealed a cysto-biliary communication.
+
+---
+
+REFERENCE DIAGNOSIS: Acute cholecystitis with liver hydatid cysts.
+REFERENCE REASONING (clinician): 1. **Initial List of Diagnoses**:
+   - Cholecysto-hydatid cyst fistula: Suggested by intravesicular gas (Mercedes Benz sign) on CT imaging.
+   - Acute cholecystitis: Supported by clinical presentation (fever, right hypochondrium pain, palpable gallbladder) and imaging findings.
+   - Isolated liver hydatid cyst complications: Presence of multilocular cysts in liver segments IVb and VII.
+
+2. **Stepwise Evaluation**:
+   - Cholecysto-hydatid cyst fistula: Initially suspected based on gas in the gallbladder and segment IV hydatid cyst proximity to the biliary tree. However, intraoperative cholangiography revealed no fistula, effectively ruling out this diagnosis.
+   - Acute cholecystitis: Confirmed intraoperatively by thickened, distended gallbladder. This diagnosis aligns with the patient's fever, localized guarding, and imaging findings.
+   - Liver hydatid cysts: Confirmed by ultrasound, CT, and intraoperative findings. Segment IV liver hydatid cyst was found to have cysto-biliary communication, further supporting this component of the diagnosis.
+
+3. **Rationale for Exclusions/Inclusions**:
+   - The initial radiologic suspicion of a cholecysto-hydatid fistula (Mercedes Benz sign) was refuted by surgical exploration and cholangiography.
+   - All other findings confirmed acute cholecystitis and liver hydatid cysts with cysto-biliary communication as the actual pathology.
+
+---
+
+--- RESPONSE R047 ---
+Rural woman with dog contact and multilocular hepatic cysts in segments IVb and VII. This strongly indicates cystic echinococcosis (hydatid disease).
+Fever of 39°C, RUQ guarding, and a palpable, distended gallbladder (10 × 5 cm) with a thickened wall (8 mm) indicate acute cholecystitis.
+Intravesicular gas in the gallbladder, in close contact with the segment IV cyst, raised concern for a fistula.
+Intraoperative cholangiography showed no cholecysto-cystic fistula, but did show a cysto-biliary communication from the segment IV cyst.
+Hepatic hydatid cyst with cysto-biliary communication, complicated by acute (emphysematous) cholecystitis
+Hydatid cyst with cholecysto-cystic fistula
+Calculous acute cholecystitis with incidental hydatid cysts
+Infected hydatid cyst / pyogenic liver abscess
+Emphysematous cholecystitis of non-parasitic origin
+Hydatid cyst with cysto-biliary communication and cholecystitis
+For: epidemiology, multilocular cysts, proven cysto-biliary communication, acute cholecystitis features.
+Against: none decisive.
+Cholecysto-cystic fistula
+For: gas in the gallbladder next to the cyst on CT.
+Against: cholangiography showed no such fistula.
+Calculous cholecystitis with incidental cysts
+For: classic cholecystitis signs.
+Against: stones not described, and a proven biliary link to the cyst offers a better explanation.
+Infected cyst / liver abscess
+For: fever.
+Against: imaging points to gallbladder pathology, and the cysts are typical of hydatid.
+Non-parasitic emphysematous cholecystitis
+For: gas in the gallbladder wall or lumen.
+Against: hydatid communication is present, and the patient is not diabetic or elderly.
+Cholecysto-cystic fistula is excluded by cholangiography.
+Abscess is excluded by the imaging pattern.
+Isolated calculous cholecystitis does not explain the cysto-biliary communication.
+I commit to complicated cystic echinococcosis with cysto-biliary communication and secondary acute cholecystitis.
+Final diagnosis: Hepatic hydatid cysts (Echinococcus granulosus, segments IVb and VII), with the segment IV cyst having a cysto-biliary communication, complicated by acute (emphysematous) cholecystitis
+
+--- RESPONSE R063 ---
+30-year-old woman from a rural area with dog contact: classic epidemiological risk factor for Echinococcus granulosus (hydatid) infection.
+Acute right upper quadrant pain, high fever (39°C), RUQ guarding, and palpable gallbladder (24 hours): classic clinical presentation of acute complicated cholecystitis.
+Ultrasound showing two multilocular cystic formations in liver segments IVb and VII: characteristic morphology of hepatic hydatid cysts.
+CT showing intravesicular gas (gas within the gallbladder), distended gallbladder (10 × 5 cm), and thickened wall (8 mm) in close contact with the segment IV cyst: diagnostic of emphysematous cholecystitis and raises concern for fistulization.
+Intraoperative cholangiography showing no cholecysto-cystic fistula, but demonstrating a cysto-biliary communication in segment IV: excludes direct rupture into the gallbladder while confirming communication between the hepatic hydatid cyst and the biliary tree.
+Acute emphysematous cholecystitis complicating hepatic hydatid disease (echinococcosis) with cysto-biliary communication
+Acute calculous cholecystitis with incidental hepatic hydatid cysts
+Ruptured hepatic hydatid cyst with cholecysto-hydatid fistula
+Pyogenic liver abscess with secondary acute cholecystitis
+Acute emphysematous cholecystitis complicating hepatic hydatid disease with cysto-biliary communication:
+For: Rural background and dog exposure; multilocular hepatic cysts in segments IVb and VII; acute RUQ pain, fever of 39°C, guarding, distended gallbladder with 8 mm wall thickness, and intravesicular gas on CT; intraoperative cholangiography directly confirms cysto-biliary communication from the segment IV cyst.
+Against: Emphysematous cholecystitis typically affects older diabetic men, making this young woman an atypical demographic unless driven by an underlying biliary/hydatid complication.
+Acute calculous cholecystitis with incidental hepatic hydatid cysts:
+For: Acute RUQ pain, fever, guarding, palpable distended gallbladder with thickened wall.
+Against: No gallstones are reported, and it does not explain the intravesicular gas or the proven cysto-biliary communication from the segment IV cyst.
+Ruptured hepatic hydatid cyst with cholecysto-hydatid fistula:
+For: Close contact between the segment IV cyst and the gallbladder on CT, plus intravesicular gas.
+Against: Directly excluded by intraoperative cholangiography, which showed no evidence of a cholecysto-hydatid fistula.
+Pyogenic liver abscess with secondary acute cholecystitis:
+For: High fever (39°C), RUQ pain, and hepatic cystic lesions.
+Against: Multilocular cystic formations in a rural patient with dog exposure and a proven cysto-biliary communication are classic for hepatic hydatid cysts rather than primary pyogenic abscesses.
+Cholecysto-hydatid fistula is definitively excluded by intraoperative cholangiography.
+Simple calculous cholecystitis and primary pyogenic liver abscess are excluded by the absence of gallstones, the presence of intravesicular gas, the multilocular cystic appearance with epidemiological exposure to dogs, and the confirmed cysto-biliary communication.
+Committing to acute emphysematous cholecystitis complicating hepatic hydatid disease (with cysto-biliary communication), which accounts for both the gas-forming gallbladder infection and the underlying parasitic liver pathology.
+Final diagnosis: Acute emphysematous cholecystitis secondary to hepatic hydatid disease (echinococcosis) with cysto-biliary communication
+
+--- RESPONSE R136 ---
+A woman from a rural area with dog contact has multilocular cystic liver lesions in segments IVb and VII, which points to hepatic hydatid (Echinococcus granulosus) cysts. She has acute fever, right upper quadrant guarding and a palpable, distended gallbladder with a thickened wall, which is acute cholecystitis. Gas inside the gallbladder lumen indicates emphysematous cholecystitis. Cholangiography excluded a fistula between the cyst and the gallbladder but showed the segment IV cyst communicating with the bile ducts.
+Final diagnosis: Acute emphysematous cholecystitis associated with hepatic hydatid cysts (cystic echinococcosis) with cysto-biliary communication.
+
+--- RESPONSE R155 ---
+A 30-year-old woman from a rural area with dog contact presents with acute right upper quadrant pain, high fever (39°C), guarding, and a palpable gallbladder, consistent with acute cholecystitis. Ultrasound reveals two multilocular hepatic cysts in segments IVb and VII, which—combined with her rural residence and dog exposure—are classic for hepatic hydatid cysts (Echinococcus granulosus). CT confirms a distended, thick-walled gallbladder (8 mm) with intravesicular gas adjacent to the segment IV cyst, initially raising suspicion for a cholecysto-hydatid fistula or emphysematous cholecystitis. However, intraoperative cholangiography rules out a direct cholecysto-hydatid fistula and instead identifies a cysto-biliary communication from the segment IV hydatid cyst, explaining the biliary tract involvement and secondary acute cholecystitis.
+Final diagnosis: Acute cholecystitis secondary to hepatic hydatid cyst with cysto-biliary communication
+
+===== CASE =====
+- **Patient Information**: 50-year-old female
+- **Chief Complaint**: Right ankle pain and inability to bear weight after a fall.
+- **History of Present Illness**: Fell backward on stairs, leading to severe right ankle pain and inability to bear weight.
+- **Past Medical History**: None reported.
+- **Personal History**: None reported.
+- **Family History**: None reported.
+- **Physical Examination**: Swelling and tenderness over the posterior aspect of medial malleolus; pain elicited with passive dorsiflexion; normal neurovascular exam with normal motor and sensory function and no Maisonneuve-related tenderness over the fibular head.
+- **Ancillary Tests**: 
+  - **X-rays**: Obliquely oriented, minimally displaced posterior malleolus fracture.
+  - **CT Scan**: Fracture involving 40% of the tibiotalar articular surface with no associated tibia or fibula fractures.
+- **Surgical Procedure**: Open reduction and internal fixation (ORIF) via posterolateral approach with two posteroanterior cannulated screws.
+- **Post-Operative Outcome**: Full recovery with no pain, pre-injury activity level restored after six months.
+
+REFERENCE DIAGNOSIS: Isolated posterior malleolus fracture.
+REFERENCE REASONING (clinician): 1. **Posterior Malleolus Fracture**: Considered based on clinical findings of pain with dorsiflexion, tenderness, and X-ray/CT scan confirmation of a posterior malleolus injury. This was confirmed by the high involvement (40%) of the tibiotalar articular surface on imaging, leading to surgical fixation.
+2. **Maisonneuve Fracture**: Excluded based on a normal fibular head examination and absence of associated tibia or fibula fractures on imaging.
+3. **Ankle Sprain**: Excluded given the clear fracture findings on imaging and the severity of the symptoms (inability to bear weight).
+4. **Trimalleolar or Bimalleolar Fracture**: Excluded due to the isolated posterior malleolus fracture findings, with no evidence of lateral or medial malleolus involvement on imaging.
+
+--- RESPONSE R010 ---
+CT scan of the right ankle: Posterior malleolus fracture involving 40% of the tibiotalar articular surface with no associated tibial shaft or fibular fractures, confirming an isolated intra-articular posterior malleolar injury.
+X-rays: Obliquely oriented, minimally displaced posterior malleolus fracture.
+Physical examination: Swelling and tenderness localized over the posterior aspect of the medial malleolus, pain with passive dorsiflexion, intact neurovascular exam, and absence of proximal fibular head tenderness (ruling out a Maisonneuve injury).
+Mechanism & management: Backward fall on stairs causing inability to bear weight; articular involvement >25% (40%) warranted ORIF via a posterolateral approach with two posteroanterior cannulated screws, resulting in full recovery.
+Isolated posterior malleolus fracture (Volkmann fracture)
+Maisonneuve fracture (proximal fibular fracture with syndesmotic injury and posterior malleolus fracture)
+Trimalleolar or bimalleolar ankle fracture
+Tibial pilon (plafond) fracture
+Isolated medial malleolus fracture
+Isolated posterior malleolus fracture:
+For: Confirmed directly by both X-ray (obliquely oriented, minimally displaced posterior malleolus fracture) and CT (involving 40% of the tibiotalar articular surface with no associated tibia or fibula fractures); no fibular head tenderness; successfully treated with isolated posterolateral ORIF using two PA cannulated screws.
+Against: None; imaging and surgical findings are definitive.
+Maisonneuve fracture:
+For: Can present with an apparent isolated posterior malleolus fracture on ankle X-rays if the proximal fibula is overlooked.
+Against: Physical exam specifically confirmed no tenderness over the fibular head, and CT confirmed no associated fibula fracture.
+Trimalleolar or bimalleolar ankle fracture:
+For: Common ankle fracture pattern involving the posterior malleolus after a fall on stairs with inability to bear weight.
+Against: CT scan explicitly excluded any associated medial malleolar, tibial, or fibular fractures.
+Tibial pilon (plafond) fracture:
+For: Involves the weight-bearing tibiotalar articular surface after axial loading/fall.
+Against: Typically high-energy with comminution and metaphyseal extension; here, X-ray and CT show a clean, obliquely oriented isolated posterior malleolus fracture without tibial shaft/metaphyseal comminution.
+Isolated medial malleolus fracture:
+For: Physical exam noted swelling and tenderness over the posterior aspect of the medial malleolus.
+Against: X-ray and CT confirmed the fracture is in the posterior malleolus with no medial malleolar fracture.
+Bimalleolar, trimalleolar, and isolated medial malleolus fractures are excluded by CT confirming no other tibial or fibular fractures. Maisonneuve fracture is excluded by the absence of fibular head tenderness and lack of fibular fracture. A pilon fracture is excluded by the simple oblique posterior malleolar morphology. I commit to an isolated posterior malleolus fracture involving 40% of the tibiotalar articular surface.
+Final diagnosis: Isolated posterior malleolus fracture
+
+--- RESPONSE R159 ---
+The patient is a 50-year-old female presenting with severe right ankle pain and inability to bear weight after falling backward on stairs.
+Physical exam reveals tenderness and swelling over the posterior aspect of the medial malleolus with pain on passive dorsiflexion, an intact neurovascular exam, and no proximal fibular tenderness (excluding a Maisonneuve fracture).
+X-rays and CT scan confirm an obliquely oriented, minimally displaced fracture of the posterior malleolus involving 40% of the tibiotalar articular surface, with no other associated tibial or fibular fractures.
+The fracture required open reduction and internal fixation due to the large articular surface involvement (>25%).
+Final diagnosis: Isolated posterior malleolus fracture of the right ankle
+
+--- RESPONSE R110 ---
+The patient fell backward on stairs and now cannot bear weight.
+She has tenderness behind the medial malleolus, and passive dorsiflexion is painful.
+X-ray and CT show a posterior malleolus fracture involving 40% of the tibiotalar joint surface. There is no fracture of the fibula or the rest of the tibia.
+There is no tenderness at the fibular head, which excludes a Maisonneuve injury.
+She was treated with ORIF through a posterolateral approach.
+Final diagnosis: Isolated posterior malleolus fracture of the right ankle.
+
+--- RESPONSE R048 ---
+Tenderness over the posteromedial malleolus with pain on passive dorsiflexion points to a posterior tibial plafond injury.
+Imaging shows an oblique, minimally displaced posterior malleolar fragment involving 40% of the articular surface. That is a large fragment that threatens joint stability and needs fixation.
+There is no fibular or medial malleolar fracture and no proximal fibular tenderness, which excludes Maisonneuve and bimalleolar or trimalleolar patterns.
+Isolated posterior malleolus fracture
+Trimalleolar fracture or equivalent
+Maisonneuve injury
+Posterior pilon fracture
+Posterior talar process fracture or Achilles rupture
+Isolated posterior malleolus fracture
+For: X-ray and CT show only a posterior malleolar fracture.
+Against: none.
+Trimalleolar fracture
+For: posterior malleolar involvement.
+Against: no fibular or medial malleolar fracture on CT.
+Maisonneuve injury
+For: posterior malleolar fractures can accompany it.
+Against: no proximal fibular tenderness and no fibular fracture.
+Posterior pilon fracture
+For: a large articular fragment.
+Against: low-energy mechanism, a single oblique fragment, and no comminution or impaction.
+Talar fracture or Achilles rupture
+For: posterior ankle pain.
+Against: imaging localises the injury to the tibia.
+CT and examination exclude associated fractures and Maisonneuve injury. I commit to an isolated posterior malleolus fracture, which was treated successfully with ORIF.
+Final diagnosis: Isolated posterior malleolus fracture of the right ankle (about 40% of the articular surface)
+
+===== CASE =====
+- **Patient Information:** 55-year-old male.
+- **Chief Complaint:** Scrotal pain and palpable mass.
+- **History of Present Illness:** Patient reported left scrotal subsiding pain and palpable, painful testicular mass. No urinary tract symptoms, history of infertility, undescended testis, or prior testicular trauma.
+- **Past Medical History:** Ischemic heart disease.
+- **Personal History:** Not specified.
+- **Family History:** Not specified.
+- **Physical Examination:** No gynecomastia or lymphadenopathy. Palpable, painful para-testicular mass (10 × 5 mm) in the tail of the left epididymis; no pathological findings in the left testis. Palpable, hard, painful mass (10 × 10 mm) in the lower pole of the right testis.
+- **Ancillary Tests:**  
+  - Serum tumor markers: AFP and B-HCG normal; LDH slightly elevated at 209 U/L.  
+  - Scrotal ultrasound: Hypoechoic 9 × 5 mm mass in the left epididymis suggestive of spermatocele; hyperechoic, well-demarcated 9 × 11 mm mass in the right testis with testicular microlithiasis.  
+  - Histopathology and immunohistochemistry (postoperative findings): Tumor positive for vimentin and calretinin; weak CD99; negative for SALL4, D2-40, OCT4, inhibin, and AFP. [REDACTED] confirmed.
+
+---
+
+REFERENCE DIAGNOSIS: Benign Sertoli cell tumor
+REFERENCE REASONING (clinician): 1. **Initial Differential Diagnosis:**  
+   The painful mass and elevated LDH prompted suspicion of testicular neoplasms, including germ cell tumors (GCTs) and sex cord-stromal tumors (e.g., Sertoli cell tumor, Leydig cell tumor).  
+   - Normal AFP and B-HCG helped exclude certain GCTs like non-seminomatous germ cell tumors.  
+   - Spermatocele was confidently identified as a benign cystic lesion of the left epididymis based on ultrasound, ruling it out as a primary testicular tumor.
+
+2. **Stepwise Exclusion Through Histopathological Features:**  
+   - Absence of malignancy features (e.g., size >5 cm, necrosis, atypia, mitotic index, vascular invasion) excluded malignant sex cord-stromal tumors.  
+   - Immunohistochemical pattern (positive vimentin, calretinin; negative SALL4, etc.) ruled out germ cell tumors and confirmed a Sertoli cell tumor.  
+   - A second pathology review verified the benign nature of the tumor, solidifying the diagnosis of a benign Sertoli cell tumor.
+
+3. **Rationale for Testis-Sparing Surgery:**  
+   - Decision was guided by the tumor's small size, well-demarcated nature, and benign histopathological characteristics. This approach preserved testicular function without compromising oncological safety.
+
+---
+
+--- RESPONSE R089 ---
+A 55-year-old man has a hard, painful, well-demarcated hyperechoic mass in the right lower testicular pole, with microlithiasis on ultrasound. Normal AFP and β-hCG with negative SALL4 and OCT4 argue against a germ cell tumor. Positive vimentin and calretinin with weak CD99 point to a sex cord–stromal tumor. Negative inhibin makes a Leydig cell tumor less likely, and Sertoli cell tumors are often inhibin-negative or variable. Negative D2-40 argues against an adenomatoid tumor or mesothelioma. The hyperechoic, calcified-appearing lesion fits a Sertoli-lineage tumor. The small left epididymal tail lesion was consistent with a benign spermatocele.
+Final diagnosis: Sertoli cell tumor of the right testis (with an incidental benign left epididymal spermatocele).
+
+--- RESPONSE R133 ---
+A 55-year-old male presents with a hard, painful, well-demarcated hyperechoic right testicular mass (9 × 11 mm) with testicular microlithiasis and normal serum AFP and β-hCG levels (with only mildly elevated LDH).
+Negative immunohistochemistry for SALL4, OCT4, AFP, and D2-40 effectively rules out germ cell tumors (such as seminoma, embryonal carcinoma, and yolk sac tumor) as well as mesothelial/adenomatoid tumors (typically D2-40 positive).
+Positivity for vimentin, calretinin, and weak CD99 supports a sex cord-stromal tumor of the testis.
+Among testicular sex cord-stromal tumors, Leydig cell tumors are almost universally positive for inhibin, whereas Sertoli cell tumors are frequently inhibin-negative while staining positive for vimentin, calretinin, and CD99.
+Final diagnosis: Testicular Sertoli cell tumor
+
+--- RESPONSE R113 ---
+The right testis has a hard, painful 10 × 10 mm mass in the lower pole that is hyperechoic and well demarcated, with microlithiasis, so this is an intratesticular solid lesion. AFP and β-hCG are normal and LDH is only slightly raised, which makes a germ cell tumor less likely. On immunohistochemistry the tumor is vimentin+, calretinin+ and weakly CD99+, which points to a sex cord-stromal tumor. It is SALL4−, OCT4− and AFP−, which argues against seminoma, embryonal carcinoma and yolk sac tumor. It is inhibin−, which argues against Leydig cell tumor, and D2-40−, which argues against adenomatoid tumor and against mesothelial or germ cell origin. The 9 × 5 mm hypoechoic lesion in the left epididymal tail is a separate, benign-appearing finding consistent with a spermatocele. There is no gynecomastia, so no endocrine-active tumor is suggested.
+(1) Sertoli cell tumor; (2) Leydig cell tumor; (3) seminoma or other germ cell tumor; (4) adenomatoid tumor; (5) testicular lymphoma.
+Sertoli cell tumor. For: the profile is vimentin+, calretinin+ and weakly CD99+, and Sertoli tumors are often inhibin-negative. The germ cell markers and serum markers are negative, and the mass is small and well circumscribed. Against: it is uncommon at age 55, but this is not exclusionary.
+Leydig cell tumor. For: it is calretinin+ and vimentin+, and it is the commonest sex cord-stromal tumor in adults. Against: inhibin is negative, whereas Leydig tumors are typically strongly inhibin+. There is also no gynecomastia.
+Seminoma or other germ cell tumor. For: the patient is male with a testicular mass, microlithiasis and slightly raised LDH. Against: SALL4 and OCT4 are negative, AFP and β-hCG are normal, and the age is atypical.
+Adenomatoid tumor. For: it is calretinin+. Against: it is D2-40 negative, and the lesion is intratesticular rather than paratesticular.
+Lymphoma. For: the age is consistent. Against: the vimentin/calretinin/CD99 profile fits, it is a small solitary lesion, and there is no lymphadenopathy.
+I exclude germ cell tumors on the negative SALL4/OCT4/AFP staining and normal serum markers. I exclude Leydig cell tumor because it is inhibin-negative, and adenomatoid tumor because it is D2-40 negative. Lymphoma is unsupported. That leaves a sex cord-stromal tumor of Sertoli type, and I commit to it.
+Final diagnosis: Sertoli cell tumor of the right testis, with an incidental left epididymal spermatocele.
+
+--- RESPONSE R032 ---
+55-year-old male with a hard, painful 10 × 10 mm right testicular mass: Raises primary concern for a testicular neoplasm; the concurrent left epididymal mass (9 × 5 mm, hypoechoic) is an incidental spermatocele.
+Scrotal ultrasound showing a well-demarcated, hyperechoic 9 × 11 mm right intratesticular mass with testicular microlithiasis: Well-demarcated intratesticular lesion; hyperechogenicity is atypical for classic seminoma and can be seen in sex cord-stromal tumors.
+Normal AFP and β-hCG with mildly elevated LDH (209 U/L): Argues against non-seminomatous germ cell tumors (yolk sac tumor, choriocarcinoma) and is non-specific.
+Immunohistochemistry positive for vimentin and calretinin, weakly positive for CD99, and negative for SALL4, OCT4, D2-40, inhibin, and AFP: Decisively excludes germ cell tumors (SALL4-, OCT4-, AFP-, D2-40-) and mesothelial lesions (D2-40-), while supporting a sex cord-stromal tumor—specifically one that frequently lacks inhibin expression.
+Testicular Sertoli cell tumor (not otherwise specified)
+Testicular Leydig cell tumor
+Testicular germ cell tumor (e.g., seminoma)
+Adenomatoid tumor of the testis
+Testicular Sertoli cell tumor:
+For: Occurs in middle-aged men; well-demarcated intratesticular mass with normal AFP and β-hCG; IHC profile showing positivity for vimentin, calretinin, and CD99 with negative germ cell markers (SALL4, OCT4, AFP, D2-40); unlike Leydig cell tumors, Sertoli cell tumors are inhibin-negative in roughly half of cases.
+Against: Rare tumor (less than 1% of testicular neoplasms); slightly elevated LDH and testicular microlithiasis are non-specific.
+Testicular Leydig cell tumor:
+For: Most common sex cord-stromal tumor in adults; well-demarcated mass with normal AFP/β-hCG; typically positive for vimentin, calretinin, and CD99.
+Against: Negative inhibin strongly argues against Leydig cell tumor (which is inhibin-positive in >95% of cases); absence of gynecomastia or hormonal manifestations; typically hypoechoic rather than hyperechoic on ultrasound.
+Testicular germ cell tumor (e.g., seminoma):
+For: Most common solid testicular tumor; associated with testicular microlithiasis and mildly elevated LDH; normal AFP and β-hCG can occur in pure seminoma.
+Against: Completely excluded by negative SALL4, OCT4, D2-40, and AFP; positive calretinin and vimentin are inconsistent with germ cell origin; older age (55) and hyperechoic ultrasound appearance are less typical for seminoma.
+Adenomatoid tumor of the testis:
+For: Benign lesion that is strongly positive for calretinin and vimentin; normal serum tumor markers.
+Against: Typically paratesticular (epididymal) rather than strictly intratesticular; negative D2-40 argues strongly against mesothelial origin (adenomatoid tumors are characteristically D2-40 positive).
+Germ cell tumors are excluded by the negative SALL4, OCT4, D2-40, and AFP staining. Adenomatoid tumor (and malignant mesothelioma) is excluded by negative D2-40 and intratesticular location. Leydig cell tumor is excluded primarily by negative inhibin staining alongside the lack of endocrine signs. Committing to testicular Sertoli cell tumor, as it is the sex cord-stromal neoplasm that best accounts for the vimentin+, calretinin+, weak CD99+, inhibin-negative immunophenotype in a well-demarcated intratesticular mass.
+Final diagnosis: Testicular Sertoli cell tumor
+
+===== CASE =====
+- **Patient Information:** 3-year-old girl, second child of healthy, nonconsanguineous parents. No significant antenatal issues, normal developmental milestones prior to the event.
+- **Chief Complaint:** Persistent weakness in the left upper and lower limbs following prolonged seizures at age 2.
+- **History of Present Illness:** At age 2, prolonged focal seizures affecting the left side. Post-seizure, spastic left hemiparesis developed and persisted. Subsequent psychomotor retardation was noted.
+- **Past Medical History:** None reported.
+- **Personal History:** None significant.
+- **Family History:** No significant family history of neurological or genetic conditions.
+- **Physical Examination:** Spastic left hemiparesis and delayed motor milestones. Normal weight and height. Unremarkable systemic examination.
+- **Ancillary Tests:** Brain MRI showed generalized atrophy of the right cerebral hemisphere, homolateral ventricular dilatation, and subcortical white matter gliosis consistent with [REDACTED]. EEG findings were not explicitly detailed in this case.
+
+REFERENCE DIAGNOSIS: Chronic phase of Hemiconvulsion-Hemiplegia-Epilepsy syndrome.
+REFERENCE REASONING (clinician): 1. **Initial Considerations:**
+   - The initial clinical presentation of prolonged unilateral seizures and subsequent hemiparesis raised suspicion for HHE syndrome, a rare neurological disorder. 
+
+2. **Differential Diagnosis:**
+   - **Stroke:** Ruled out as imaging did not show vascular distribution abnormalities or acute ischemia.
+   - **Dyke-Davidoff-Masson Syndrome:** Excluded as there was no evidence of calvarial thickening or hyper-pneumatization of paranasal sinuses on MRI.
+   - **Sturge-Weber Syndrome:** Excluded due to the absence of parieto-occipital involvement, prominent leptomeningeal enhancement, or choroid plexus enlargement.
+   - **Rasmussen Encephalitis:** Ruled out due to the absence of initial caudate nucleus atrophy and clinical progression consistent with Rasmussen encephalitis.
+
+3. **Confirmation of HHE Syndrome:**
+   - Combination of clinical history (prolonged status epilepticus followed by persistent hemiplegia), imaging findings (right cerebral hemisphere atrophy, gliosis), and the onset of epilepsy (underlying partial epilepsy controlled with sodium valproate) firmly supported the diagnosis of chronic HHE syndrome.
+
+--- RESPONSE R132 ---
+Previously developmentally normal 3-year-old girl who experienced prolonged focal seizures affecting the left side at age 2: Classic age of onset (early childhood, under age 4) and precipitating prolonged unilateral seizure event (hemiconvulsion).
+Immediate post-seizure onset of persistent spastic left hemiparesis followed by subsequent psychomotor retardation: Demonstrates permanent unilateral hemispheric injury directly following the prolonged focal seizure.
+Brain MRI showing generalized atrophy of the right cerebral hemisphere, homolateral (ipsilateral) ventricular dilatation, and subcortical white matter gliosis: Characteristic chronic neuroimaging sequela of unilateral cytotoxic hemispheric injury corresponding to the contralateral (left) hemiparesis.
+Hemiconvulsion-Hemiplegia-Epilepsy (HHE) syndrome (or Hemiconvulsion-Hemiplegia syndrome)
+Dyke-Davidoff-Masson syndrome (DDMS)
+Rasmussen encephalitis
+Perinatal/childhood arterial ischemic stroke
+Sturge-Weber syndrome
+Hemiconvulsion-Hemiplegia-Epilepsy (HHE) syndrome:
+For: Classic triad/sequence of prolonged unilateral focal seizures in a previously healthy 2-year-old, immediately followed by persistent contralateral spastic hemiparesis, subsequent psychomotor delay, and MRI showing diffuse unilateral cerebral hemiatrophy, ipsilateral ventricular dilatation, and subcortical white matter gliosis.
+Against: EEG findings and subsequent recurrent epilepsy status are not explicitly detailed, though the initial presentation and MRI are classic for HHE/HH syndrome.
+Dyke-Davidoff-Masson syndrome (DDMS):
+For: Childhood unilateral cerebral hemiatrophy, ipsilateral ventricular dilatation, contralateral spastic hemiparesis, seizures, and developmental delay.
+Against: DDMS is specifically defined radiologically by compensatory osseous changes (calvarial thickening/hyperostosis, elevation of the petrous ridge, and hyperpneumatization of the ipsilateral frontal/mastoid sinuses), none of which are described on this patient's MRI.
+Rasmussen encephalitis:
+For: Childhood-onset focal seizures, progressive unilateral hemispheric atrophy, and contralateral hemiparesis.
+Against: Typically presents in slightly older children (peak 6 years) with insidious, relentlessly progressive epilepsia partialis continua and gradual neurological decline, rather than an acute, permanent hemiparesis immediately following a single prolonged seizure event at age 2.
+Childhood arterial ischemic stroke:
+For: Acute onset of unilateral hemiparesis, seizures, and subsequent unilateral gliosis/encephalomalacia.
+Against: Stroke typically produces focal/territorial encephalomalacia restricted to a specific vascular distribution (e.g., MCA territory), whereas this MRI shows generalized atrophy of the entire right cerebral hemisphere with diffuse subcortical white matter gliosis following prolonged focal seizures.
+Sturge-Weber syndrome:
+For: Childhood focal seizures, contralateral hemiparesis, developmental delay, and unilateral hemispheric atrophy.
+Against: No facial port-wine stain (normal systemic exam) and no leptomeningeal angiomatosis or tram-track cortical calcifications on MRI.
+Sturge-Weber syndrome is excluded by the absence of cutaneous or leptomeningeal vascular malformations. Arterial ischemic stroke is less likely because the MRI demonstrates generalized whole-hemisphere atrophy rather than a territorial infarct. Rasmussen encephalitis is excluded by the acute post-ictal onset of permanent hemiparesis at age 2 rather than a subacute progressive inflammatory course. Dyke-Davidoff-Masson syndrome is excluded by the absence of characteristic ipsilateral calvarial thickening and sinus hyperpneumatization. The classic clinical sequence of prolonged unilateral seizures at age 2 causing immediate, permanent contralateral spastic hemiparesis, psychomotor retardation, and diffuse contralateral cerebral hemiatrophy with ipsilateral ventricular dilatation and white matter gliosis commits the diagnosis to Hemiconvulsion-Hemiplegia-Epilepsy (HHE) syndrome.
+Final diagnosis: Hemiconvulsion-Hemiplegia-Epilepsy (HHE) syndrome
+
+--- RESPONSE R123 ---
+A previously normal toddler with prolonged unilateral (left-sided) focal seizures at age 2.
+Persistent spastic left hemiparesis after the seizures, followed by developmental regression.
+MRI shows right hemispheric atrophy, ipsilateral ventricular dilatation and white matter gliosis.
+Hemiconvulsion–hemiplegia(–epilepsy) syndrome (HH/HHE)
+Dyke–Davidoff–Masson syndrome
+Rasmussen encephalitis
+Sturge–Weber syndrome
+Perinatal or arterial ischemic stroke
+HH(E).
+For: the classic sequence of prolonged unilateral seizure at under 4 years, followed by lasting hemiplegia and hemiatrophy.
+Against: later epilepsy is not yet documented.
+Dyke–Davidoff–Masson.
+For: cerebral hemiatrophy.
+Against: no calvarial thickening or sinus hyperpneumatization is described. It is also a largely radiological label for the same end state.
+Rasmussen encephalitis.
+For: unilateral atrophy and focal seizures.
+Against: no epilepsia partialis continua and no ongoing progressive seizures; onset was a single acute prolonged event.
+Sturge–Weber.
+For: hemiatrophy.
+Against: no port-wine stain or leptomeningeal enhancement.
+Stroke.
+For: hemiparesis.
+Against: normal development before the seizures, and diffuse hemispheric atrophy rather than a vascular-territory infarct.
+Sturge–Weber and stroke are excluded on the features above.
+Rasmussen encephalitis does not fit the temporal pattern.
+Dyke–Davidoff–Masson describes the imaging consequence but lacks its skull signs.
+I commit to HH syndrome.
+Final diagnosis: Hemiconvulsion–hemiplegia(–epilepsy) syndrome with right cerebral hemiatrophy.
+
+--- RESPONSE R108 ---
+The patient is a 3-year-old girl with normal early development who experienced prolonged focal seizures affecting the left side at age 2, immediately followed by persistent contralateral spastic left hemiparesis and subsequent psychomotor delay. Brain MRI reveals generalized atrophy of the right cerebral hemisphere with ipsilateral (homolateral) ventricular dilatation and subcortical white matter gliosis. This classic triad of prolonged unilateral seizures in early childhood, permanent contralateral hemiparesis, and unilateral cerebral hemiatrophy is characteristic of hemiconvulsion-hemiplegia-epilepsy (HHE) syndrome.
+Final diagnosis: Hemiconvulsion-hemiplegia-epilepsy (HHE) syndrome
+
+--- RESPONSE R067 ---
+A previously normal child had prolonged unilateral (left-sided) focal seizures at age 2. These were immediately followed by persistent spastic left hemiparesis and then developmental regression. MRI shows atrophy of the contralateral (right) hemisphere with ipsilateral ventricular dilatation and gliosis. The family history is noncontributory. This sequence of prolonged hemiclonic seizures, then hemiplegia, then unilateral hemispheric atrophy is characteristic.
+Final diagnosis: Hemiconvulsion-hemiplegia syndrome (HH syndrome, with Dyke-Davidoff-Masson-type cerebral hemiatrophy)
+

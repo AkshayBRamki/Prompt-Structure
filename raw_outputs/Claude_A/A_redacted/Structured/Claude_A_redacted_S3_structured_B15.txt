@@ -1,0 +1,279 @@
+CASE: M113
+
+KEY FINDINGS:
+Six months of cough and dyspnea with only partial response to steroids and antibiotics. This is a chronic, non-infectious-appearing course.
+Milky white BAL fluid, which is the classic sign of alveolar lipoproteinaceous material.
+Crazy-paving pattern on CT: diffuse ground-glass opacities with septal thickening.
+Restrictive defect with reduced DLCO, hypoxemia, and a raised A-a gradient. These reflect impaired gas exchange from filled alveoli.
+Biopsy showing granular eosinophilic, PAS-positive material filling the alveoli. This is pathognomonic for pulmonary alveolar proteinosis (PAP).
+Raised LDH, CEA, and Cyfra21-1. These are typical PAP serum markers, released from surfactant-laden alveoli.
+GM-CSF autoantibody 4.5 μg/mL, above the 4 μg/mL threshold. This supports the autoimmune form.
+Positive bacterial culture, indicating a superimposed infection. Macrophage dysfunction in PAP predisposes to opportunists such as Nocardia and mycobacteria.
+DIFFERENTIAL:
+Autoimmune PAP with secondary infection
+Secondary PAP (infection-, malignancy-, or dust-related)
+Invasive mucinous adenocarcinoma / lepidic lung cancer
+Interstitial lung disease related to connective tissue disease (ANA-positive)
+Pneumocystis or other infectious pneumonia
+EVIDENCE FOR AND AGAINST:
+Autoimmune PAP.
+For: milky BAL, crazy-paving, PAS-positive alveolar filling, high LDH/CEA/Cyfra21-1, GM-CSF antibody above threshold, typical age.
+Against: the antibody level is only borderline.
+Secondary PAP.
+For: a positive culture.
+Against: no hematologic malignancy, dust exposure, or immunosuppressive disease. The infection is better explained as a complication of PAP.
+Mucinous adenocarcinoma.
+For: high CEA and Cyfra21-1; ground-glass opacities.
+Against: biopsy showed acellular proteinaceous material without tumor; milky BAL.
+CTD-ILD.
+For: ANA 1:80; restrictive physiology.
+Against: a low-titer ANA is nonspecific, there are no systemic CTD features, and the histology is not an ILD pattern.
+Pneumocystis / infectious pneumonia.
+For: ground-glass opacities.
+Against: six-month afebrile course, negative pathogen screening, and the specific PAP histology.
+EXCLUSIONS AND COMMITMENT:
+I exclude malignancy and CTD-ILD on the histology.
+I exclude primary infection because of the chronicity and because the histology explains the picture; the culture represents superinfection.
+I exclude secondary PAP because no underlying cause is present.
+I commit to autoimmune PAP complicated by infection.
+FINAL DIAGNOSIS: Pulmonary alveolar proteinosis (autoimmune, GM-CSF antibody positive) with superimposed bacterial infection (likely an opportunist such as Nocardia).
+
+CASE: M114
+
+KEY FINDINGS:
+A small right hemithorax with cardiac dextroposition and ipsilateral tracheal shift. This means the right lung is congenitally small, not that the heart is primarily misplaced.
+Hypoplastic right lung with a hypoplastic right pulmonary artery.
+Anomalous right pulmonary venous drainage into the infradiaphragmatic IVC. This is the "scimitar" vein.
+Systemic arterial supply from the abdominal aorta to the right lower lobe.
+A hyparterial bilobed right bronchus, i.e., left-sided bronchial isomerism of the right lung.
+DIFFERENTIAL:
+Scimitar syndrome (congenital pulmonary venolobar / hypogenetic lung syndrome)
+Isolated partial anomalous pulmonary venous return
+Pulmonary sequestration
+Unilateral pulmonary hypoplasia/agenesis of another cause
+Acquired right lung volume loss (collapse, fibrosis, post-infectious)
+EVIDENCE FOR AND AGAINST:
+Scimitar syndrome.
+For: the full constellation is present (anomalous venous return to the IVC, right lung hypoplasia, PA hypoplasia, systemic arterial supply, bronchial anomaly, dextroposition).
+Against: none.
+Isolated PAPVR.
+For: the anomalous vein.
+Against: does not explain the hypoplasia or the systemic arterial supply.
+Sequestration.
+For: aortic arterial supply.
+Against: the lobe connects to the bronchial tree, and there is a whole-lung developmental anomaly with anomalous venous drainage.
+Other hypoplasia.
+For: small lung.
+Against: the specific vascular anomalies are not explained.
+Acquired volume loss.
+For: restrictive picture.
+Against: no tuberculosis, smoking, or exposure history; the vascular and bronchial anomalies are congenital.
+EXCLUSIONS AND COMMITMENT: Only scimitar syndrome unifies all the vascular, bronchial, and parenchymal anomalies. The other candidates each explain only part of the picture, so I commit to scimitar syndrome.
+FINAL DIAGNOSIS: Scimitar syndrome (hypogenetic right lung / congenital pulmonary venolobar syndrome).
+
+CASE: M115
+
+KEY FINDINGS:
+New LV systolic dysfunction (EF 41%, fractional shortening 19%) at the end of pregnancy and peripartum. EF below 45% in this window is a defining criterion.
+Pulmonary edema, cardiomegaly, and markedly raised BNP, indicating heart failure.
+Risk factors: pre-eclampsia (sFlt-1/PlGF 77) and twin gestation. Both are strong risk factors through an anti-angiogenic mechanism.
+Only a mild troponin rise, with sinus rhythm and PE excluded. This argues against ischemia and PE.
+DIFFERENTIAL:
+Peripartum cardiomyopathy (PPCM)
+Pre-eclampsia-related pulmonary edema / hypertensive heart failure without cardiomyopathy
+Iatrogenic fluid overload
+Myocarditis or pregnancy-associated MI/SCAD
+Pre-existing undiagnosed cardiomyopathy
+EVIDENCE FOR AND AGAINST:
+PPCM.
+For: timing, EF 41%, heart failure, pre-eclampsia, twins.
+Against: none decisive. Recovery and follow-up will confirm.
+Pre-eclampsia pulmonary edema.
+For: pre-eclampsia, diastolic dysfunction.
+Against: the reduced systolic EF goes beyond what pre-eclampsia alone typically causes.
+Fluid overload.
+For: peri-operative state.
+Against: does not reduce EF.
+Myocarditis / MI / SCAD.
+For: troponin rise.
+Against: the rise is only mild, ECG shows sinus rhythm, and there are no symptoms.
+Pre-existing cardiomyopathy.
+For: possible in principle.
+Against: no prior history in a young woman with three pregnancies.
+EXCLUSIONS AND COMMITMENT:
+PE is excluded by CTPA.
+Ischemia is unlikely.
+Fluid overload and pre-eclampsia alone do not explain the systolic dysfunction.
+I commit to PPCM.
+FINAL DIAGNOSIS: Peripartum cardiomyopathy (associated with pre-eclampsia and twin pregnancy).
+
+CASE: M116
+
+KEY FINDINGS:
+Documented hypoglycemia below 60 mg/dL with symptoms that resolve with treatment (Whipple's triad), in both fasting and postprandial states on CGM.
+Normal insulin, proinsulin, and C-peptide with appropriate ketogenesis during hypoglycemia. This excludes hyperinsulinemic causes such as insulinoma, sulfonylurea use, and insulin autoimmunity.
+Normal cortisol and imaging. This excludes adrenal insufficiency and tumors.
+hEDS (Beighton 9/9) with POTS, dysautonomia, and small fiber neuropathy. Autonomic dysfunction disrupts the counter-regulatory response and gut motility/absorption.
+Non-epileptic seizures on video EEG. The "seizures" are symptomatic or functional, not epilepsy.
+DIFFERENTIAL:
+Hypoglycemia associated with hEDS/dysautonomia (non-insulin-mediated reactive and fasting hypoglycemia)
+Insulinoma / endogenous hyperinsulinism (including NIPHS)
+Adrenal insufficiency or other counter-regulatory hormone deficiency
+Factitious hypoglycemia
+Glycogen storage / fatty-acid oxidation disorder
+EVIDENCE FOR AND AGAINST:
+hEDS/dysautonomia-associated hypoglycemia.
+For: lifelong course, triggers (exertion, heat, meals, fasting), extensive dysautonomia, negative endocrine work-up.
+Against: this is a diagnosis of exclusion.
+Insulinoma / NIPHS.
+For: postprandial and fasting hypoglycemia.
+Against: normal β-cell peptides during hypoglycemia and normal CT.
+Adrenal insufficiency.
+For: orthostatic hypotension, fatigue.
+Against: normal cortisol.
+Factitious hypoglycemia.
+For: recurrent unexplained episodes.
+Against: suppressed insulin and C-peptide pattern, and many years of objectively documented episodes.
+Inborn metabolic error.
+For: fasting hypoglycemia.
+Against: appropriate ketogenesis, onset in adolescence, normal hepatic imaging.
+EXCLUSIONS AND COMMITMENT:
+Hyperinsulinism, adrenal insufficiency, and factitious causes are excluded biochemically.
+Metabolic disorders are excluded by the normal ketogenesis and the clinical course.
+I commit to hypoglycemia secondary to hEDS-related autonomic dysfunction.
+FINAL DIAGNOSIS: Recurrent non-insulin-mediated (reactive and fasting) hypoglycemia associated with hypermobile Ehlers-Danlos syndrome and dysautonomia; episodes are non-epileptic.
+
+CASE: M117
+
+KEY FINDINGS:
+Abrupt, bilateral, rapidly progressive vision loss over one year in a young adult, with nyctalopia, photopsia, and field constriction. This suggests acquired photoreceptor injury.
+Electronegative ERG with loss of outer retinal layers and photoreceptor segments on OCT. This means widespread photoreceptor/inner retinal dysfunction.
+Attenuated vessels and disc pallor with no bone spicules, and pinpoint leakage with perivascular staining on angiography. These point to an inflammatory (vasculitic) retinopathy rather than a classic dystrophy.
+Negative serology, failure of antivirals, and a normal PET. Infection and paraneoplastic disease are ruled out.
+Consanguinity raises the possibility of an inherited retinal dystrophy.
+DIFFERENTIAL:
+Non-paraneoplastic autoimmune retinopathy (npAIR)
+Inherited retinal dystrophy (retinitis pigmentosa sine pigmento, cone-rod dystrophy)
+Paraneoplastic retinopathy (CAR/MAR)
+Infectious retinitis (syphilis, viral)
+Birdshot chorioretinopathy / other posterior uveitis
+EVIDENCE FOR AND AGAINST:
+npAIR.
+For: abrupt, rapid bilateral loss, photopsia, electronegative ERG, vascular leakage, no tumor, no infection.
+Against: autoantibodies were not demonstrated (anti-retinal antibody testing is often unavailable or negative), and response to steroids was poor.
+Inherited dystrophy.
+For: consanguinity, nyctalopia, attenuated vessels.
+Against: abrupt onset at 30, no family history, no bone spicules, inflammatory leakage.
+Paraneoplastic retinopathy.
+For: similar phenotype.
+Against: normal PET.
+Infectious retinitis.
+For: perivascular staining.
+Against: negative serology, no antiviral response.
+Birdshot / uveitis.
+For: leakage, disc staining, electronegative ERG.
+Against: no characteristic lesions and no vitritis described.
+EXCLUSIONS AND COMMITMENT: Infection and malignancy are excluded. An inherited dystrophy fits poorly with the acute onset and inflammatory signs. I commit to npAIR.
+FINAL DIAGNOSIS: Non-paraneoplastic autoimmune retinopathy.
+
+CASE: M118
+
+KEY FINDINGS:
+Painful skull-base extramedullary mass with facial numbness and dysgeusia, i.e., cranial nerve (trigeminal) involvement.
+Multiple lytic, PET-avid marrow lesions, IgG-κ M-band, raised κ free light chain, and κ/λ ratio of 9.2. These indicate a plasma cell neoplasm with end-organ (bone) damage.
+Clonal plasma cells in the marrow, and a skull mass clonally distinct from the CLL. The mass belongs to the plasma cell process, not to Richter transformation.
+A coexisting CD5+/CD23+ small B-cell clone in the marrow with normal blood counts: concurrent CLL/SLL (or MBL).
+High-risk genetics (TP53/ATM gains, NF1) and a strong family history of lymphoid and other malignancy.
+DIFFERENTIAL:
+Multiple myeloma (IgG-κ) with extramedullary skull-base plasmacytoma, coexisting with CLL/SLL
+Richter transformation (DLBCL) of CLL
+Solitary plasmacytoma of bone
+Metastatic carcinoma to the skull base
+Lymphoplasmacytic lymphoma
+EVIDENCE FOR AND AGAINST:
+Myeloma with plasmacytoma + CLL.
+For: lytic lesions, M-protein, light chains, marrow plasma cell clone, mass distinct from the CLL clone.
+Against: none major.
+Richter transformation.
+For: CLL is present, a hypermetabolic mass, family DLBCL history.
+Against: the mass is clonally distinct from the CLL, and there are no CLL deletions in the blood.
+Solitary plasmacytoma.
+For: an isolated skull-base mass.
+Against: multiple lytic lesions and marrow involvement.
+Metastatic carcinoma.
+For: lytic lesions, kidney cancer in the family.
+Against: biopsy findings and the M-protein.
+Lymphoplasmacytic lymphoma.
+For: a B-cell process with an M-band.
+Against: the paraprotein is IgG rather than IgM, and lytic lesions are present.
+EXCLUSIONS AND COMMITMENT:
+Richter transformation is excluded by clonality.
+Solitary plasmacytoma is excluded by the multifocal disease.
+Carcinoma and lymphoplasmacytic lymphoma are excluded by histology and the immunoglobulin isotype.
+I commit to myeloma with an extramedullary plasmacytoma, concurrent with CLL.
+FINAL DIAGNOSIS: IgG-κ multiple myeloma with extramedullary skull-base plasmacytoma, coexisting with CLL/SLL (two clonally distinct neoplasms).
+
+CASE: M119
+
+KEY FINDINGS:
+Maternal syphilis that was inadequately treated: a major risk for vertical transmission.
+Infant RPR titer of 1:128. Whether this is at least four times the maternal titer would need comparison, but a titer this high favors true infection.
+Long-bone films show transverse radiolucent metaphyseal bands with sclerotic lines and irregular distal radius/ulna margins, i.e., osteochondritis/metaphysitis.
+A proximal femoral metaphyseal osteolytic lesion, a destructive metaphysitis (a Wimberger-type lesion pattern).
+Asymptomatic presentation, which is common in early congenital syphilis.
+DIFFERENTIAL:
+Early congenital syphilis with osteochondritis/metaphysitis
+Passive transfer of maternal antibodies without infection
+Other congenital infections (rubella, CMV "celery-stalk" metaphyses)
+Osteomyelitis (bacterial)
+Metabolic bone disease of prematurity / rickets
+EVIDENCE FOR AND AGAINST:
+Congenital syphilis.
+For: maternal history, high RPR, classic bilateral metaphyseal changes, osteolytic metaphyseal lesion.
+Against: none.
+Passive antibody transfer.
+For: an asymptomatic infant.
+Against: the bone lesions prove infection.
+Rubella/CMV.
+For: metaphyseal lucencies.
+Against: maternal syphilis and a reactive RPR; no other TORCH stigmata.
+Bacterial osteomyelitis.
+For: a lytic lesion.
+Against: lesions are multifocal and symmetric, and the infant is well.
+Metabolic bone disease / rickets.
+For: prematurity.
+Against: the sclerotic bands and focal lytic lesion, and the age is too young for this pattern.
+EXCLUSIONS AND COMMITMENT: The radiographic bone disease establishes true infection rather than passive antibody. The alternatives fail to explain the serology and history. I commit to congenital syphilis.
+FINAL DIAGNOSIS: Early congenital syphilis with skeletal involvement (osteochondritis/metaphysitis).
+
+CASE: M120
+
+KEY FINDINGS:
+Acute severe abdominal pain, vomiting, and a palpable mass in a multiparous-age woman. Laxity of the splenic ligaments, which is linked to multiparity, predisposes to wandering spleen.
+CT shows no spleen in the left upper quadrant, an ectopic mass, and a whirlpool sign of twisted splenic vessels. These are diagnostic of torsion.
+The mass is hypodense and nonenhancing, indicating infarction.
+At surgery, the ectopic spleen was found in the mid-abdomen/right iliac fossa with a 720° pedicle torsion, and splenectomy was performed.
+DIFFERENTIAL:
+Torsion of a wandering spleen with splenic infarction
+Appendiceal abscess
+Ovarian torsion / adnexal mass
+Mesenteric cyst or tumor
+Splenosis / accessory spleen torsion
+EVIDENCE FOR AND AGAINST:
+Wandering spleen torsion.
+For: absent orthotopic spleen, whirlpool sign, nonenhancing ectopic mass, surgical confirmation.
+Against: none.
+Appendiceal abscess.
+For: right iliac fossa complex mass on ultrasound.
+Against: CT shows splenic vessels and an absent spleen.
+Ovarian torsion.
+For: acute pain, a mass, a whirlpool sign.
+Against: the twisted vessels are splenic.
+Mesenteric mass.
+For: a mid-abdominal mass.
+Against: the vascular torsion and the absent spleen.
+Accessory spleen torsion.
+For: ectopic splenic tissue.
+Against: there is no normal spleen; the whole organ is displaced.
+EXCLUSIONS AND COMMITMENT: Imaging and surgery exclude abscess, adnexal, and mesenteric causes. The absence of an orthotopic spleen excludes accessory spleen. I commit to torsion of a wandering spleen.
+FINAL DIAGNOSIS: Wandering (ectopic) spleen with 720° pedicle torsion and splenic infarction.

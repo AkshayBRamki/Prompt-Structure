@@ -1,0 +1,23 @@
+CASE: M081
+FINAL DIAGNOSIS: Fahr's disease
+
+CASE: M082
+FINAL DIAGNOSIS: Granulomatosis with polyangiitis (GPA)
+
+CASE: M083
+FINAL DIAGNOSIS: Human metapneumovirus (hMPV) bronchiolitis
+
+CASE: M084
+FINAL DIAGNOSIS: Partial agenesis of the septum pellucidum
+
+CASE: M085
+FINAL DIAGNOSIS: Primary hepatic dedifferentiated leiomyosarcoma
+
+CASE: M086
+FINAL DIAGNOSIS: Primary ovarian leiomyosarcoma arising from a mature cystic teratoma
+
+CASE: M087
+FINAL DIAGNOSIS: Gastric inverted hyperplastic polyp
+
+CASE: M088
+FINAL DIAGNOSIS: Dysembryoplastic neuroepithelial tumor (DNET)

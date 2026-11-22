@@ -1,0 +1,83 @@
+CASE: M049
+REASONING:
+
+The patient is a 17-year-old with recurrent, non-traumatic pain, swelling and loss of function in the right knee, plus muscle wasting in the same leg.
+He had a biopsy-proven synovial haemangioma of the right ankle 11 years ago, so he has a known tendency to form intra-articular vascular lesions.
+The X-ray shows a pattern resembling haemophilic arthropathy: low bone density, epiphyseal overgrowth, a widened intercondylar notch, subchondral sclerosis and joint-space narrowing. These changes come from repeated bleeding into the joint and chronic hyperaemia.
+The MRI shows lobulated, coalescent lesions in the suprapatellar and Hoffa's fat pads. They are bright on fat-saturated proton density, intermediate on T1 and enhance strongly with contrast. They are fed by branches of the popliteal artery. These features describe a vascular synovial tumour.
+The biopsy confirms spindle cell haemangioma.
+Taken together, this is an intra-articular vascular tumour with recurrent bleeding into the joint, causing secondary degenerative arthropathy.
+FINAL DIAGNOSIS: Synovial (spindle cell) haemangioma of the right knee with secondary haemophilic-like arthropathy.
+
+CASE: M050
+REASONING:
+
+An 86-year-old woman presents with sudden sleepiness, and her brain CT is normal.
+She has several risk factors for clotting and cardiopulmonary failure: atrial fibrillation, severe cardiomyopathy (ejection fraction 25%), pulmonary hypertension (pulmonary artery systolic pressure 81 mmHg), prior cancer and advanced age.
+Her blood gas shows hypoxaemia (PaO2 58 mmHg) with mild hypercapnia. She also has bilateral pleural effusions and an acute respiratory deterioration.
+A contrast chest CT was ordered and identified the key lesion. The most likely finding to explain sudden deterioration in this setting is pulmonary thromboembolism.
+The other findings fit her background rather than the acute event: the alkalosis and hyponatraemia are consistent with diuretics and kidney disease, and the wheezing may reflect cardiac asthma.
+The redacted finding leaves real uncertainty about the final answer.
+FINAL DIAGNOSIS: Acute pulmonary embolism, in the setting of decompensated heart failure with atrial fibrillation and CKD. This carries low-to-moderate confidence.
+
+CASE: M051
+REASONING:
+
+An elderly man has weight loss, a pancreatic mass causing bile duct obstruction, and widespread metastases to the liver, bone, spleen, adrenals, peritoneum and lymph nodes.
+On immunohistochemistry, the tumour is positive for cytokeratins (AE1/AE3, CAM5.2, CK7) and for neuroendocrine markers (synaptophysin, chromogranin A).
+It is also TTF-1 positive and has a Ki-67 of 95%. This pattern is typical of a high-grade, small cell neuroendocrine carcinoma.
+CA19-9 is normal, which argues against pancreatic ductal adenocarcinoma.
+The primary is most likely the pancreas, although a lung primary with mediastinal and hilar spread is also possible.
+FINAL DIAGNOSIS: Metastatic poorly differentiated small cell neuroendocrine carcinoma (most likely extrapulmonary/pancreatic primary).
+
+CASE: M052
+REASONING:
+
+A 16-year-old girl has had obstructive (conjugated) jaundice for a year, with dark urine, upper abdominal pain and a palpable mass. This is the classic triad.
+Her direct bilirubin is high and her transaminases are raised.
+Imaging (MSCT, ultrasound and MRCP) shows fusiform cystic dilatation of both the intrahepatic and extrahepatic bile ducts.
+Under the Todani classification, cysts involving both intra- and extrahepatic ducts are type IVA.
+The enlarged liver and spleen with splenic vein dilatation suggest early portal hypertension.
+FINAL DIAGNOSIS: Choledochal cyst, Todani type IVA.
+
+CASE: M053
+REASONING:
+
+The patient has short stature, a short neck, a low posterior hairline, a broad chest, primary amenorrhoea, a hypoplastic uterus and no visible ovaries. These are features of Turner syndrome.
+The karyotype is a mosaic, 46,X,i(X)(q10)/45,X, which confirms Turner syndrome with an isochromosome Xq.
+Hypothyroidism, a common Turner association, is absent: TSH and free T4 are normal.
+She also has meningiomas in the suprasellar region and the cerebellopontine angle.
+The suprasellar meningioma has caused hypopituitarism, with central adrenal insufficiency (low cortisol and ACTH), low growth hormone and low gonadotropins. This explains her hyponatraemia, hypoglycaemia and reduced responsiveness.
+Her cataracts, optic atrophy and sensorineural hearing loss are additional findings.
+FINAL DIAGNOSIS: Mosaic Turner syndrome (46,X,i(Xq)/45,X), complicated by suprasellar meningioma causing hypopituitarism with secondary adrenal insufficiency.
+
+CASE: M054
+REASONING:
+
+The patient fell backward on stairs and now cannot bear weight.
+She has tenderness behind the medial malleolus, and passive dorsiflexion is painful.
+X-ray and CT show a posterior malleolus fracture involving 40% of the tibiotalar joint surface. There is no fracture of the fibula or the rest of the tibia.
+There is no tenderness at the fibular head, which excludes a Maisonneuve injury.
+She was treated with ORIF through a posterolateral approach.
+FINAL DIAGNOSIS: Isolated posterior malleolus fracture of the right ankle.
+
+CASE: M055
+REASONING:
+
+A 45-year-old man has painless obstructive jaundice, with raised alkaline phosphatase and bilirubin.
+Imaging shows a long common pancreaticobiliary channel of about 15 mm. This is pancreaticobiliary maljunction.
+The common bile duct shows fusiform dilatation to 50 mm, which is a type I choledochal cyst.
+There is also a mass in the common hepatic duct.
+Biopsy and the resected specimen show poorly differentiated adenosquamous carcinoma arising from an intraductal tubulopapillary neoplasm, with perineural invasion and no lymph node spread.
+Malignancy is a known complication of pancreaticobiliary maljunction with a choledochal cyst.
+FINAL DIAGNOSIS: Cholangiocarcinoma (adenosquamous type) of the extrahepatic bile duct arising in a type I choledochal cyst with pancreaticobiliary maljunction.
+
+CASE: M056
+REASONING:
+
+The fetus had suspected small bowel atresia, with dilatation of the stomach and jejunum.
+MRI showed a teardrop-shaped haematoma next to the umbilical cord.
+The fetus later died in utero, and delivery revealed heavily blood-stained amniotic fluid (1300 mL) and a pale fetus.
+The cord showed ulceration, loss of Wharton's jelly and haemorrhagic vessels.
+Umbilical cord ulcer is a rare condition strongly linked to upper intestinal atresia. It is thought to result from bile or duodenal contents in the amniotic fluid damaging the cord, which can lead to sudden fetal haemorrhage and death.
+FINAL DIAGNOSIS: Umbilical cord ulcer associated with congenital intestinal (jejunal) atresia, causing fetal haemorrhage and intrauterine fetal death.

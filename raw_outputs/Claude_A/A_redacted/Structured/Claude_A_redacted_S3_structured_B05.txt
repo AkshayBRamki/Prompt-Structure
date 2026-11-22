@@ -1,0 +1,310 @@
+CASE: M033
+
+KEY FINDINGS:
+Severe neuropathic pain (stabbing, shock-like, burning) starting about 21 days after dengue. This latency points to a post-infectious, immune-mediated process.
+Proximal-predominant amyotrophy and paresis of the right arm (deltoid, infraspinatus, biceps). This matches upper and middle trunk (C5–C7) territory.
+The right upper limb shows allodynia, thermal hyperesthesia, deep hypoesthesia, absent reflexes and hypotonia. This is a lower motor neuron and sensory pattern confined to one limb.
+ENMG shows acute denervation with increased latency, which means peripheral nerve or plexus injury.
+MRI shows signal change in the upper and middle trunks of the brachial plexus. This localizes the lesion to the plexus.
+Dengue IgM is positive and other inflammatory, infectious and immune work-up is normal, which supports dengue as the trigger.
+DIFFERENTIAL:
+Neuralgic amyotrophy (Parsonage-Turner syndrome) triggered by dengue
+Guillain-Barré syndrome after dengue
+Cervical radiculopathy (C5–C6)
+Complex regional pain syndrome
+Dengue-associated myositis
+EVIDENCE FOR AND AGAINST:
+Parsonage-Turner syndrome:
+For: severe pain followed by weakness and atrophy, post-viral latency, one limb, proximal muscles, plexus changes on MRI, denervation on ENMG.
+Against: nothing significant.
+Guillain-Barré syndrome:
+For: post-infectious timing, areflexia.
+Against: only one limb is affected, there is no ascending or symmetric weakness, and severe focal pain is atypical.
+Cervical radiculopathy:
+For: C5–C6 distribution.
+Against: lesion is in the plexus trunks on MRI, onset was acute after infection, and no spinal cause is described.
+CRPS:
+For: allodynia, livedo, burning pain.
+Against: objective denervation, areflexia and plexus lesion show true nerve injury.
+Myositis:
+For: post-viral weakness.
+Against: neuropathic pain, sensory loss, areflexia and an ENMG pattern of denervation rather than myopathy.
+EXCLUSIONS AND COMMITMENT:
+GBS is excluded because the deficit is unilateral and focal.
+Radiculopathy is excluded because MRI localizes to the plexus.
+CRPS and myositis are excluded because of the objective neurogenic findings.
+I commit to dengue-triggered neuralgic amyotrophy.
+FINAL DIAGNOSIS: Parsonage-Turner syndrome (neuralgic amyotrophy / acute brachial plexus neuritis) of the right upper and middle trunks after dengue infection.
+
+CASE: M034
+
+KEY FINDINGS:
+Case 1:
+Right facial palsy of the lower motor neuron type (forehead involved), progressing slowly over one year.
+Right sensorineural hearing loss and impaired corneal reflex, indicating involvement of cranial nerves V, VII and VIII at the cerebellopontine (CP) angle.
+MRI shows a lesion with CSF signal at the right CP angle abutting cranial nerves VII and VIII and the AICA.
+Case 2:
+Recurrent "Bell's palsy" with residual weakness, which is a red flag for a structural cause.
+MRI shows an AICA vascular loop compressing cranial nerves VII and VIII.
+Case 3:
+Bilateral facial palsy with involvement of cranial nerves IX and X, plus fever.
+IgM ELISA and western blot were positive, which is the two-tier serology for Borrelia.
+DIFFERENTIAL:
+Case 1:
+Arachnoid cyst of the CP angle
+Epidermoid cyst
+Vestibular schwannoma
+Facial schwannoma
+Case 2:
+Neurovascular compression by an AICA loop
+Recurrent idiopathic Bell's palsy
+CP angle tumor
+Case 3:
+Lyme neuroborreliosis
+Neurosarcoidosis
+Guillain-Barré syndrome variant
+Carcinomatous or lymphomatous meningitis
+EVIDENCE FOR AND AGAINST:
+Case 1:
+Arachnoid cyst:
+For: signal identical to CSF, slow progression, displaces rather than invades nerves.
+Against: none.
+Epidermoid:
+For: CP angle location, near-CSF signal.
+Against: it is typically lobulated and encases nerves and vessels; no diffusion restriction is described.
+Schwannomas:
+For: involvement of cranial nerves VII and VIII.
+Against: they are solid enhancing lesions, not CSF-intensity.
+Case 2:
+AICA loop:
+For: directly shown compressing cranial nerves VII and VIII, recurrent palsy.
+Against: none.
+Idiopathic Bell's palsy:
+For: abrupt onset.
+Against: recurrence, incomplete recovery and a compressive lesion seen on imaging.
+Tumor:
+Against: no mass seen.
+Case 3:
+Lyme disease:
+For: bilateral facial palsy, multiple cranial nerves, fever, positive IgM ELISA confirmed by western blot.
+Against: no tick exposure was recalled, but this is often absent.
+Sarcoidosis:
+For: bilateral facial palsy.
+Against: serum ACE work-up did not confirm it and serology is positive for Borrelia.
+GBS:
+For: cranial neuropathies.
+Against: no limb weakness, fever is present, and serology is positive.
+Malignant meningitis:
+Against: serology explains the picture.
+EXCLUSIONS AND COMMITMENT:
+Case 1: schwannomas are excluded because the lesion has CSF signal, and an epidermoid is less likely given the morphology. I commit to arachnoid cyst.
+Case 2: the vascular loop is the demonstrated cause.
+Case 3: two-tier serology confirms Lyme disease. Sarcoidosis and GBS are excluded.
+FINAL DIAGNOSIS:
+Case 1: right CP angle arachnoid cyst causing facial palsy.
+Case 2: AICA vascular loop compression causing recurrent facial palsy.
+Case 3: Lyme neuroborreliosis with bilateral facial and multiple cranial neuropathies.
+Overall theme: secondary, non-idiopathic causes of facial nerve palsy.
+
+CASE: M035
+
+KEY FINDINGS:
+Enthesitis at several sites on MRI (spinous processes, ischial tuberosity, trochanters, greater tuberosity of the humerus). This is the hallmark of a spondyloarthritis-type process.
+No sacroiliitis, and HLA-B27 is negative.
+Positive Chlamydia trachomatis IgA and IgG, together with pyuria and high sexual activity. This indicates a recent or ongoing genitourinary infection.
+Raised WBC and CRP, indicating systemic inflammation.
+DIFFERENTIAL:
+Reactive arthritis/enthesitis associated with Chlamydia
+Axial spondyloarthritis or ankylosing spondylitis
+Polymyalgia rheumatica
+DISH or mechanical enthesopathy
+Septic arthritis or gonococcal infection
+EVIDENCE FOR AND AGAINST:
+Reactive arthritis:
+For: urogenital infection with positive Chlamydia IgA, inflammatory enthesitis at several sites, raised CRP.
+Against: HLA-B27 negative, but this does not exclude it.
+Axial SpA:
+For: enthesitis, back pain.
+Against: no sacroiliitis, HLA-B27 negative, and there is a clear infectious trigger.
+PMR:
+For: shoulder and hip girdle pain, raised CRP.
+Against: age in the 50s is borderline, and the pattern is enthesitis with bone marrow edema rather than bursitis alone.
+DISH or mechanical enthesopathy:
+Against: inflammation on MRI and raised markers.
+Septic arthritis or gonococcal infection:
+Against: no joint effusion described, and the process involves several sites with tendon insertions rather than a purulent joint.
+EXCLUSIONS AND COMMITMENT:
+Axial SpA is excluded because there is no sacroiliitis and there is a clear trigger.
+PMR, DISH and septic causes are excluded on the imaging pattern.
+I commit to Chlamydia-induced reactive arthritis presenting mainly as enthesitis.
+FINAL DIAGNOSIS: Reactive arthritis/enthesitis (HLA-B27-negative) after Chlamydia trachomatis urogenital infection.
+
+CASE: M036
+
+KEY FINDINGS:
+Young nulliparous woman with a large unilateral adnexal mass (9.4 cm).
+AFP is markedly raised (>60,500 ng/mL), which is the marker of yolk sac elements. LDH is also raised.
+CA-125 is only mildly raised, which is nonspecific and possibly related to her endometriosis.
+Histology shows microcystic and endodermal sinus patterns with Schiller-Duval bodies, and AFP immunohistochemistry is positive. These findings are diagnostic.
+She has a history of endometriosis, which is a confounder.
+DIFFERENTIAL:
+Ovarian yolk sac tumor (endodermal sinus tumor)
+Mixed malignant germ cell tumor
+Endometriosis-associated clear cell or endometrioid carcinoma (including somatically derived yolk sac differentiation)
+Immature teratoma
+Endometrioma, possibly infected
+EVIDENCE FOR AND AGAINST:
+Yolk sac tumor:
+For: age, very high AFP, Schiller-Duval bodies, AFP-positive staining, typical histologic patterns.
+Against: none.
+Mixed germ cell tumor:
+For: possible in this age group.
+Against: no other germ cell components are described.
+Clear cell or endometrioid carcinoma:
+For: background endometriosis, CA-125.
+Against: age, AFP level and pure yolk sac morphology.
+Immature teratoma:
+Against: no neuroepithelium, and AFP is far too high.
+Endometrioma:
+Against: solid malignant histology and tumor markers.
+EXCLUSIONS AND COMMITMENT:
+Histology and AFP exclude the epithelial and benign options.
+There is no evidence of other germ cell elements.
+I commit to a pure yolk sac tumor.
+FINAL DIAGNOSIS: Ovarian yolk sac tumor (endodermal sinus tumor) of the left ovary, FIGO stage IA.
+
+CASE: M037
+
+KEY FINDINGS:
+Elderly woman living in an endemic area of Brazil.
+Fungal spores in the appendix with acute appendicitis.
+Generalized lymphadenopathy, plus nodes at the hepatic hilum and in the retroperitoneum causing obstructive jaundice.
+Adrenal nodules (adrenal glands are a classic target).
+Weight loss of 20 kg.
+Lungs are normal, TB test is negative, and liver biopsy is negative for cancer.
+E. coli bacteremia, which is secondary to gut and biliary involvement.
+DIFFERENTIAL:
+Disseminated paracoccidioidomycosis (acute/subacute "juvenile-type" lymphoabdominal form)
+Disseminated histoplasmosis
+Abdominal tuberculosis
+Lymphoma
+Metastatic carcinoma (e.g., gallbladder)
+EVIDENCE FOR AND AGAINST:
+Paracoccidioidomycosis:
+For: endemic in Brazil, fungal elements in the appendix, lymphoabdominal and lymph node pattern, adrenal involvement, wasting.
+Against: her age and normal lungs are atypical for the chronic adult form, but they fit the acute/subacute form.
+Histoplasmosis:
+For: dissemination, adrenal involvement, lymphadenopathy.
+Against: the endemic context and the fungal morphology attributed to the redacted organism.
+Tuberculosis:
+For: abdominal nodes, adrenal involvement, weight loss.
+Against: negative TB test, and fungi were identified.
+Lymphoma:
+For: widespread lymphadenopathy, weight loss.
+Against: no neoplastic pattern in the nodes.
+Metastatic carcinoma:
+For: gallbladder thickening, adrenal nodules.
+Against: liver biopsy negative, and a fungal cause was demonstrated.
+EXCLUSIONS AND COMMITMENT:
+Malignancy is excluded by the negative biopsies and node findings.
+TB is excluded by the negative test.
+Histoplasmosis is less consistent with the endemic setting and histology.
+I commit to paracoccidioidomycosis.
+FINAL DIAGNOSIS: Disseminated paracoccidioidomycosis (Paracoccidioides brasiliensis) with appendiceal, lymph node, biliary and adrenal involvement, presenting as appendicitis.
+
+CASE: M038
+
+KEY FINDINGS:
+Schimmelpenning syndrome, a mosaic RASopathy (HRAS/KRAS) with an epidermal and sebaceous nevus.
+Progressive headache and dizziness, indicating raised intracranial pressure.
+A large irregular left frontal mass (6.5 cm) with cystic components and marked mass effect.
+HRAS p.G13R mutation at a 31% allele fraction. This is a RAS-pathway driver shared with the mosaic disorder, linking the tumor to the syndrome.
+DIFFERENTIAL:
+High-grade glioma (glioblastoma)
+Lower-grade glioma (astrocytoma or pleomorphic xanthoastrocytoma)
+Ganglioglioma or other glioneuronal tumor
+Brain metastasis or abscess
+EVIDENCE FOR AND AGAINST:
+Glioblastoma:
+For: age, large irregular cystic or necrotic mass with major mass effect, progressive symptoms, RAS-pathway activation.
+Against: none of the specific histologic grading features are given.
+Lower-grade glioma or PXA:
+For: cystic component, MAPK-pathway mutation.
+Against: irregular and aggressive features in a 44-year-old.
+Ganglioglioma:
+For: cystic, MAPK-driven.
+Against: age, size, no seizure history.
+Metastasis or abscess:
+Against: no primary cancer or infection, and the mutation is shared with the patient's mosaic syndrome.
+EXCLUSIONS AND COMMITMENT:
+Metastasis and abscess are excluded.
+The imaging behavior favors a high-grade glial tumor.
+I commit to a high-grade glioma carrying the mosaic HRAS mutation. This is moderately confident, since histologic grading is not given.
+FINAL DIAGNOSIS: Glioblastoma (high-grade glioma) of the left frontal lobe, HRAS G13R-mutated, associated with Schimmelpenning syndrome.
+
+CASE: M039
+
+KEY FINDINGS:
+Adolescent non-smoker with hemoptysis, cough and dyspnea.
+A polypoid tumor inside the left main bronchus, with a calcified left upper lobe mass.
+Widespread metastases (right lung, spine, pelvis), meaning a malignant disease.
+Malignant spindle cells that are cytokeratin+, vimentin+ and TTF-1+. These indicate a pulmonary epithelial origin with sarcomatoid (mesenchymal-like) differentiation.
+DIFFERENTIAL:
+Pulmonary blastoma / pulmonary sarcomatoid carcinoma
+Synovial sarcoma (primary pulmonary or metastatic)
+Inflammatory myofibroblastic tumor
+Pleuropulmonary blastoma
+Carcinoid tumor
+EVIDENCE FOR AND AGAINST:
+Pulmonary blastoma / sarcomatoid carcinoma:
+For: CK+/TTF-1+ spindle cells, vimentin co-expression, endobronchial mass, aggressive metastatic behavior, can occur in young non-smokers.
+Against: rare in adolescents.
+Synovial sarcoma:
+For: young age, CK+/vimentin+ spindle cells.
+Against: TTF-1 positivity favors a lung epithelial origin, and no translocation was tested.
+Inflammatory myofibroblastic tumor:
+For: common endobronchial tumor in adolescents.
+Against: widespread metastases, TTF-1+, overtly malignant cells.
+Pleuropulmonary blastoma:
+Against: occurs in children under 6, is cytokeratin-negative, and is often cystic.
+Carcinoid:
+For: endobronchial, young patient, hemoptysis.
+Against: spindle-cell malignancy, and vimentin expression with sarcomatoid features.
+EXCLUSIONS AND COMMITMENT:
+Inflammatory myofibroblastic tumor, pleuropulmonary blastoma and carcinoid are excluded on age, behavior and immunoprofile.
+Synovial sarcoma is less likely given TTF-1.
+I commit to a primary lung sarcomatoid carcinoma of the blastoma type.
+FINAL DIAGNOSIS: Pulmonary blastoma (pulmonary sarcomatoid carcinoma), metastatic to the right lung, vertebrae and pelvis.
+
+CASE: M040
+
+KEY FINDINGS:
+Teenager with an ischemic stroke in the left middle cerebral artery (MCA) territory and no vascular risk factors. Normal labs and coagulation studies argue against a clotting disorder.
+Narrow left carotid canal (3 mm vs 7 mm) on bone CT. A small bony canal shows the artery was small from development, not narrowed later.
+Hypoplastic left internal carotid artery (ICA) with poor filling of M1 and M2 and sparse cortical branches.
+DIFFERENTIAL:
+Congenital hypoplasia of the left ICA causing hemodynamic or embolic stroke
+Moyamoya disease
+Carotid dissection
+Focal cerebral arteriopathy or vasculitis
+Cardioembolic stroke
+EVIDENCE FOR AND AGAINST:
+ICA hypoplasia:
+For: one small ICA within a small bony canal, a downstream MCA with poor filling.
+Against: none.
+Moyamoya:
+For: steno-occlusive arteriopathy in a young patient.
+Against: no basal collateral network is described, and the narrow bony canal shows a developmental, not progressive, cause.
+Dissection:
+For: young stroke.
+Against: a dissection does not reshape bone, and no flap or hematoma is described.
+Focal arteriopathy or vasculitis:
+For: pediatric MCA stroke.
+Against: the bony canal is abnormal, and inflammatory and other labs are normal.
+Cardioembolism:
+Against: normal cardiopulmonary exam and a structural carotid anomaly that explains the stroke.
+EXCLUSIONS AND COMMITMENT:
+The narrow carotid canal is the deciding finding, and it excludes acquired narrowing (moyamoya, dissection, vasculitis).
+Cardioembolism is unsupported.
+I commit to congenital ICA hypoplasia.
+FINAL DIAGNOSIS: Congenital hypoplasia of the left internal carotid artery with ischemic stroke in the left MCA territory.

@@ -1,0 +1,23 @@
+CASE: M065
+FINAL DIAGNOSIS: Infected urachal cyst (urachal abscess)
+
+CASE: M066
+FINAL DIAGNOSIS: Acute emphysematous cholecystitis secondary to hepatic hydatid cyst
+
+CASE: M067
+FINAL DIAGNOSIS: Myotonia congenita
+
+CASE: M068
+FINAL DIAGNOSIS: Hereditary spherocytosis
+
+CASE: M069
+FINAL DIAGNOSIS: Hodgkin lymphoma (with paraneoplastic acanthosis nigricans)
+
+CASE: M070
+FINAL DIAGNOSIS: Secondary chondrosarcoma
+
+CASE: M071
+FINAL DIAGNOSIS: Vanishing white matter disease (leukoencephalopathy with vanishing white matter)
+
+CASE: M072
+FINAL DIAGNOSIS: Extramedullary plasmacytoma (port-site metastatic plasmacytoma secondary to multiple myeloma)

@@ -1,0 +1,284 @@
+CASE: M009
+
+KEY FINDINGS:
+A 13-year-old with a painless, well-demarcated, bony-hard swelling on the buccal right maxillary alveolar ridge (premolar–first molar). This points to a slow, benign bony process.
+The overlying mucosa is intact, adjacent teeth are vital, and there is no trauma or parafunction history. This argues against odontogenic, inflammatory or reactive-traumatic causes.
+CBCT shows an exophytic, mushroom-shaped radiodense mass continuous with both the cortical and trabecular bone. This is the hallmark of an exostosis or osteochondroma-type outgrowth rather than a separate tumour.
+Histology shows bony trabeculae with intervening connective tissue, consistent with benign exostosis/hyperostosis.
+There is no family history of Gardner syndrome, and the lesion is single. This makes a syndromic osteoma less likely.
+DIFFERENTIAL:
+Solitary buccal exostosis of the maxilla
+Peripheral osteoma
+Osteochondroma
+Ossifying fibroma / fibrous dysplasia
+Torus-like hyperostosis (atypical location)
+EVIDENCE FOR AND AGAINST:
+Buccal exostosis.
+For: buccal alveolar site, bony-hard, well-demarcated, continuity with cortex and medulla, benign trabecular histology.
+Against: unusual at age 13 (more typical in adults) and no parafunction history.
+Peripheral osteoma.
+For: a radiodense, pedunculated/mushroom shape.
+Against: osteomas are typically compact or cancellous bone tumours, and alveolar ridge involvement is less typical. Histology was reported as exostosis/hyperostosis, and there is no Gardner context.
+Osteochondroma.
+For: a mushroom-shaped lesion with cortico-medullary continuity.
+Against: no cartilaginous cap was described on histology, and it is rare in the maxillary alveolus.
+Ossifying fibroma / fibrous dysplasia.
+For: young age and maxillary expansion.
+Against: no ground-glass or mixed density, an exophytic rather than expansile intraosseous shape, and the histology is not fibro-osseous.
+Torus.
+For: a benign hyperostosis.
+Against: tori occur at the palatal midline or lingual mandible, not the buccal maxillary ridge.
+EXCLUSIONS AND COMMITMENT:
+Fibro-osseous lesions are excluded on imaging and histology.
+Torus is excluded by location.
+Osteochondroma is excluded by the absence of cartilage.
+Osteoma is less likely given the histology and location.
+I commit to a benign buccal exostosis.
+FINAL DIAGNOSIS: Solitary buccal exostosis (benign hyperostosis) of the right maxillary alveolar ridge.
+
+CASE: M010
+
+KEY FINDINGS:
+Prior D&C (uterine instrumentation) after a 15-week missed abortion. This is a classic risk factor for acquired vascular lesions.
+Two months later: heavy bleeding with clots, presyncope, confusion and hemodynamic instability. This indicates a high-flow bleeding source.
+TVUS shows an echogenic mass with increased flow, MRI shows serpiginous flow voids with enhancement, and CTA shows a vessel cluster with early venous filling (arteriovenous shunting).
+Selective angiography identifies a feeding left uterine artery.
+DIFFERENTIAL:
+Acquired uterine arteriovenous malformation (AVM)
+Retained products of conception (RPOC) with enhanced myometrial vascularity
+Gestational trophoblastic disease (GTD)
+Uterine artery pseudoaneurysm
+Placental polyp
+EVIDENCE FOR AND AGAINST:
+Acquired AVM.
+For: post-D&C timing, a hypervascular mass, serpiginous vessels, early venous filling on CTA, and a uterine artery feeder on angiography.
+Against: overlapping ultrasound appearance with RPOC.
+RPOC with enhanced vascularity.
+For: an echogenic endometrial mass, the earlier ultrasound suggesting RPOC, and a recent pregnancy.
+Against: RPOC does not cause arteriovenous shunting with early venous filling.
+GTD.
+For: post-pregnancy bleeding and a vascular mass.
+Against: no β-hCG elevation or invasive mass was described, and the angiographic picture is of shunting rather than a tumour.
+Pseudoaneurysm.
+For: post-instrumentation timing and the bleeding pattern.
+Against: imaging shows a vessel cluster rather than a single saccular outpouching.
+Placental polyp.
+For: an echogenic retained mass.
+Against: no AV shunting.
+EXCLUSIONS AND COMMITMENT:
+Early venous filling with a discrete arterial feeder is diagnostic of arteriovenous communication. This excludes isolated RPOC and placental polyp.
+GTD and pseudoaneurysm do not fit the morphology.
+I commit to an acquired AVM. Coexisting retained tissue is possible but is not the primary bleeding source.
+FINAL DIAGNOSIS: Acquired uterine arteriovenous malformation (post-D&C), supplied by the left uterine artery.
+
+CASE: M011
+
+KEY FINDINGS:
+Subacute right lower quadrant (RLQ) pain, fever, weight loss and anemia, with a raised ESR and CRP. This suggests a chronic infectious or inflammatory ileocecal process rather than simple appendicitis.
+Risk factors: IV drug use, alcohol, and an HIV diagnosis during admission. These indicate immunosuppression and TB risk.
+Right upper lobe consolidation with tree-in-bud on CT is typical of active pulmonary TB with endobronchial spread.
+Surgery found a perforated cecal mass with diffuse white small-bowel lesions and peritonitis.
+Histology showed necrotizing (caseating) granulomatous colitis and lymphadenitis.
+MTB PCR was positive.
+DIFFERENTIAL:
+Intestinal (ileocecal) tuberculosis with perforation and peritonitis, with pulmonary TB, in HIV
+Crohn's disease
+Acute appendicitis
+Intestinal lymphoma (HIV-associated)
+Mycobacterium avium complex or CMV enterocolitis
+EVIDENCE FOR AND AGAINST:
+Intestinal TB.
+For: ileocecal location, necrotizing granulomas, positive MTB PCR, concurrent pulmonary TB, and HIV.
+Against: none significant.
+Crohn's disease.
+For: RLQ mass, granulomas and weight loss.
+Against: Crohn's granulomas are non-necrotizing, the PCR is positive, and there is lung involvement.
+Appendicitis.
+For: migrating pain and the ultrasound appearance.
+Against: five days of fever with weight loss, and surgery found a cecal mass rather than an inflamed appendix.
+Lymphoma.
+For: HIV, a mass, B symptoms and cytopenias.
+Against: histology shows granulomas, not lymphoma.
+MAC/CMV.
+For: advanced HIV.
+Against: the PCR is specific for MTB, and the necrotizing granulomas fit MTB.
+EXCLUSIONS AND COMMITMENT:
+Histology combined with PCR excludes Crohn's disease, lymphoma and simple appendicitis.
+I commit to disseminated (pulmonary and intestinal) TB in newly diagnosed HIV.
+FINAL DIAGNOSIS: Ileocecal (intestinal) tuberculosis complicated by cecal perforation and peritonitis, with concurrent pulmonary TB, in newly diagnosed HIV infection.
+
+CASE: M012
+
+KEY FINDINGS:
+An 84-year-old inpatient with sudden diffuse abdominal pain, hypotension and tachycardia. These indicate acute intra-abdominal hemorrhage.
+Hemoglobin fell from 13.1 to 8.8 g/dL in 24 hours.
+CTA showed active bleeding with hemoperitoneum, and splenectomy was performed, so the bleeding was splenic.
+No trauma was reported.
+Histology showed a 1 cm subcapsular nodule with no malignancy or infection. This is a benign intrinsic splenic lesion acting as the rupture point.
+Comorbidities: renal failure (uremic platelet dysfunction), likely anticoagulant or antithrombotic exposure during admission, and pneumonia with coughing.
+DIFFERENTIAL:
+Atraumatic (spontaneous) splenic rupture secondary to a benign subcapsular lesion (e.g., splenic hemangioma or hamartoma)
+Atraumatic splenic rupture due to infection
+Atraumatic splenic rupture due to a malignant infiltrate
+Splenic artery aneurysm rupture
+Rupture of another solid organ or retroperitoneal hemorrhage
+EVIDENCE FOR AND AGAINST:
+Benign-lesion rupture.
+For: hemoperitoneum from the spleen, a subcapsular nodule, and no malignancy or organisms.
+Against: the lesion is small. Coagulopathy or uremia probably contributed.
+Infectious rupture.
+For: an inpatient with pneumonia.
+Against: no organisms on histology.
+Malignant rupture.
+For: age.
+Against: no malignancy on histology.
+Splenic artery aneurysm.
+For: hemoperitoneum.
+Against: CTA and pathology localized the bleeding to the parenchyma and nodule.
+Other organ.
+Against: CTA and splenectomy confirmed a splenic source.
+EXCLUSIONS AND COMMITMENT:
+Pathology excludes infectious and neoplastic causes.
+The imaging and surgical source excludes aneurysm and other organs.
+I commit to atraumatic splenic rupture arising from a small benign subcapsular lesion. The exact histotype is redacted; a hemangioma or hamartoma is most likely.
+FINAL DIAGNOSIS: Spontaneous (atraumatic) splenic rupture with hemoperitoneum, secondary to a benign subcapsular splenic lesion (most likely a hemangioma or hamartoma).
+
+CASE: M013
+
+KEY FINDINGS:
+Class I molar relationship with a Class I skeletal base. The problem is dentoalveolar, not skeletal.
+Upper anterior spacing with proclined, forwardly placed upper incisors, increased overjet and overbite, and a history of thumb-sucking. These point to proclined, spaced maxillary incisors.
+Lower anterior crowding.
+Convex profile, acute nasolabial angle, deep mentolabial sulcus, lip incompetence and a lower lip trap. These indicate dentoalveolar protrusion with soft-tissue consequences.
+A high labial frenum, which contributes to spacing.
+DIFFERENTIAL:
+Angle Class I malocclusion, Dewey type 2 (proclined, spaced maxillary incisors) with lower crowding, on a Class I skeletal base
+Bimaxillary dentoalveolar protrusion (Class I)
+Class II division 1 malocclusion
+Simple midline diastema from the frenum alone
+EVIDENCE FOR AND AGAINST:
+Class I, type 2.
+For: Class I molars and skeletal base, upper spacing and proclination, increased overjet, and the thumb-sucking history.
+Against: none major.
+Bimaxillary protrusion.
+For: convex profile, acute nasolabial angle and lip incompetence.
+Against: lower crowding and a deep mentolabial sulcus suggest the protrusion is mainly maxillary.
+Class II division 1.
+For: increased overjet and lip trap.
+Against: Class I molars and a Class I skeletal base.
+Frenal diastema.
+For: a high frenum.
+Against: the spacing is generalized and accompanied by proclination.
+EXCLUSIONS AND COMMITMENT:
+Class II is excluded by the molar and skeletal relationships.
+Isolated frenal diastema is excluded because the spacing is generalized.
+I commit to Class I type 2 with maxillary dentoalveolar proclination.
+FINAL DIAGNOSIS: Angle Class I malocclusion (Dewey type 2) on a Class I skeletal base, with proclined, spaced maxillary incisors (maxillary dentoalveolar protrusion), lower anterior crowding, increased overjet and overbite, and lip incompetence.
+
+CASE: M014
+
+KEY FINDINGS:
+Dysuria and frequency since puberty, with a normal urinalysis and ultrasound. This suggests a neurogenic bladder rather than infection or a structural urological cause.
+Progressive low back pain over the past year.
+MRI shows a low-lying conus at S1–S2 tethered to a sacral lipoma, with hypoplastic sacrum and vertebral scalloping. This is occult spinal dysraphism with a tethered cord.
+L4–L5 isthmic spondylolisthesis is a coexisting source of back pain.
+The neurological exam is normal.
+DIFFERENTIAL:
+Tethered cord syndrome due to a sacral (filar or intradural) lipoma
+Isthmic spondylolisthesis alone as the cause of the back pain
+Interstitial cystitis or bladder pain syndrome
+Recurrent or chronic UTI
+Caudal regression or sacral agenesis spectrum
+EVIDENCE FOR AND AGAINST:
+Tethered cord syndrome.
+For: a low conus with lipoma, bladder symptoms beginning in the growth spurt, progressive pain and associated dysraphic changes.
+Against: a normal neurological exam, though this is common in adult presentations.
+Spondylolisthesis alone.
+For: it explains the back pain.
+Against: it does not explain the long-standing bladder symptoms.
+Interstitial cystitis.
+For: dysuria and frequency with a negative urinalysis.
+Against: an explanatory neural lesion is present.
+UTI.
+Against: a normal urinalysis and WBC count.
+Caudal regression.
+For: a hypoplastic sacrum.
+Against: the conus is low rather than blunted and high, and there are no major agenesis or systemic features.
+EXCLUSIONS AND COMMITMENT:
+UTI is excluded by laboratory findings.
+Interstitial cystitis and spondylolisthesis alone do not explain the whole picture.
+I commit to tethered cord syndrome, with spondylolisthesis as a contributing comorbidity.
+FINAL DIAGNOSIS: Adult-presenting tethered cord syndrome secondary to a sacral spinal lipoma (occult spinal dysraphism), with associated L4–L5 isthmic spondylolisthesis.
+
+CASE: M015
+
+KEY FINDINGS:
+Slowly progressive, adult-onset ataxia over two years, with scanning speech, nystagmus, dysmetria, dysdiadochokinesia, rebound, broad-based gait, hypotonia and pendular reflexes. This is a pure pancerebellar syndrome.
+Sensation and strength are intact and cognition is normal. There is no sensory neuropathy or pyramidal involvement.
+Two affected siblings with unaffected parents and an unaffected next generation suggest autosomal recessive inheritance.
+No toxic, alcoholic or drug exposure.
+CT shows marked cerebellar atrophy.
+DIFFERENTIAL:
+Hereditary autosomal recessive cerebellar ataxia (pure cerebellar type, e.g., ARCA1/SYNE1)
+Friedreich ataxia (late-onset)
+Autosomal dominant spinocerebellar ataxia (SCA) with reduced penetrance
+Ataxia with oculomotor apraxia or ataxia with vitamin E deficiency
+Acquired ataxia (alcohol, paraneoplastic, MSA-C)
+EVIDENCE FOR AND AGAINST:
+AR pure cerebellar ataxia.
+For: sibling recurrence, unaffected parents, pure cerebellar signs, intact sensation and marked atrophy.
+Against: genetic confirmation is unavailable.
+Friedreich ataxia.
+For: recessive inheritance.
+Against: proprioception and reflexes are preserved, and there is prominent cerebellar atrophy (cerebellar atrophy is minimal in Friedreich ataxia).
+AD SCA.
+For: adult onset and cerebellar atrophy.
+Against: unaffected parents.
+AOA/AVED.
+For: recessive inheritance.
+Against: onset is late, and there is no neuropathy, oculomotor apraxia or proprioceptive loss.
+Acquired causes.
+Against: no exposures, a familial pattern and no autonomic features.
+EXCLUSIONS AND COMMITMENT:
+Acquired causes are excluded by the history and family history.
+Friedreich ataxia and AVED are excluded by intact sensation and reflexes.
+Dominant SCA is less likely given the pedigree.
+I commit to hereditary AR cerebellar ataxia. Genetic testing is needed to name the gene.
+FINAL DIAGNOSIS: Hereditary (likely autosomal recessive) pure cerebellar ataxia with marked cerebellar atrophy.
+
+CASE: M016
+
+KEY FINDINGS:
+A 66-year-old with subacute, rapidly progressive encephalopathy, aphasia, hallucinations and weakness over months, ending in death. This indicates an aggressive diffuse CNS process.
+MRI shows diffuse non-enhancing T2/FLAIR white-matter hyperintensities without mass effect, a picture of infiltrative disease that can mimic leukoencephalopathy.
+Elevated CSF IL-10 with pleocytosis is a strong marker of B-cell CNS lymphoma.
+Autoimmune, infectious and paraneoplastic workups were negative.
+Later imaging showed new diffusion restriction and hyperperfusion in the caudate and hippocampus, with high choline and low NAA on spectroscopy. These are hypercellular tumour foci.
+Autopsy found CD20-positive B cells diffusely, with superimposed focal lesions.
+DIFFERENTIAL:
+Lymphomatosis cerebri (diffuse infiltrative primary CNS DLBCL) with superimposed focal primary CNS lymphoma
+Intravascular large B-cell lymphoma
+Gliomatosis cerebri / diffuse glioma
+Creutzfeldt–Jakob disease
+Autoimmune or paraneoplastic encephalitis, or PML
+EVIDENCE FOR AND AGAINST:
+Lymphomatosis cerebri.
+For: diffuse non-enhancing lesions, raised IL-10, CD20-positive infiltrate, and later focal hypercellular lesions.
+Against: none decisive.
+Intravascular lymphoma.
+For: B-cell, subacute course.
+Against: the infiltrate is parenchymal rather than confined to vessels, and there was no multifocal infarct pattern.
+Gliomatosis.
+For: diffuse non-enhancing T2 change and high choline.
+Against: the cells were CD20-positive B cells.
+CJD.
+For: rapid decline and caudate/hippocampal diffusion restriction.
+Against: hyperperfusion, high choline, pleocytosis, raised IL-10 and the autopsy findings.
+Autoimmune encephalitis / PML.
+For: subacute encephalopathy with hippocampal involvement.
+Against: negative workups and the lymphoma histology.
+EXCLUSIONS AND COMMITMENT:
+Autopsy, CD20 positivity and IL-10 exclude glioma, CJD and autoimmune encephalitis.
+The parenchymal pattern disfavors intravascular lymphoma.
+I commit to lymphomatosis cerebri.
+FINAL DIAGNOSIS: Lymphomatosis cerebri (diffuse infiltrative primary CNS diffuse large B-cell lymphoma) with superimposed focal primary CNS lymphoma in the caudate and hippocampus.

@@ -1,0 +1,491 @@
+CASE: M025
+
+KEY FINDINGS:
+
+Elevated CSF opening pressure (27.2 cm H₂O) with normal CSF composition and normal MRI/MRV: Confirms intracranial hypertension in the absence of a mass lesion, hydrocephalus, meningitis, or cerebral venous sinus thrombosis.
+
+Absence of papilledema (no disc swelling on fundus photography; normal peripapillary RNFL on OCT): Rules out classic papilledema while still permitting intracranial hypertension; high myopic disc changes (tilted disc, peripapillary atrophy) can also obscure or alter disc appearance.
+
+Typical IIH phenotype and symptoms: 39-year-old woman with obesity (BMI 30.14 kg/m²), morning headaches, pulsatile tinnitus, intermittent periocular pain, and progressive peripheral visual field constriction.
+
+Elevated IOP (23 mmHg right, 25 mmHg left) with normal RNFL and normal ERG: Demonstrates ocular hypertension without structural glaucomatous RNFL thinning or retinal dystrophy.
+
+DIFFERENTIAL:
+
+Idiopathic intracranial hypertension without papilledema (IIHWOP)
+
+Primary open-angle glaucoma (POAG) / ocular hypertension with high myopia
+
+Cerebral venous sinus thrombosis (CVST)
+
+Chronic migraine with visual aura / functional visual field loss
+
+Retinal dystrophy (e.g., retinitis pigmentosa)
+
+EVIDENCE FOR AND AGAINST:
+
+Idiopathic intracranial hypertension without papilledema (IIHWOP):
+
+For: Classic demographic (reproductive-age female, BMI 30.14 kg/m²), morning headaches, pulsatile tinnitus, recent worsening of visual field constriction, elevated CSF opening pressure (27.2 cm H₂O) with normal CSF studies, normal MRI/MRV, and no disc swelling on fundus exam or OCT.
+
+Against: 20-year history of baseline visual field constriction is long, though the acute 2-month worsening aligns with active IIHWOP; elevated IOP is an independent finding rather than a direct feature of IIHWOP.
+
+Primary open-angle glaucoma (POAG) / ocular hypertension with high myopia:
+
+For: Long-standing high myopia, elevated IOP (23 and 25 mmHg), tilted discs with peripapillary atrophy, and peripheral visual field constriction.
+
+Against: Normal peripapillary RNFL thickness on OCT argues against glaucomatous optic neuropathy as the cause of severe visual field loss; does not explain morning headaches, pulsatile tinnitus, or elevated CSF opening pressure.
+
+Cerebral venous sinus thrombosis (CVST):
+
+For: Causes elevated intracranial pressure, headache, pulsatile tinnitus, and visual field defects.
+
+Against: Excluded by normal MRI and magnetic resonance venography (MRV).
+
+Chronic migraine with visual aura / functional visual field loss:
+
+For: History of chronic migraine, headaches, and constricted visual fields with normal RNFL/ERG.
+
+Against: Does not explain objectively elevated CSF opening pressure (27.2 cm H₂O) or pulsatile tinnitus.
+
+Retinal dystrophy (e.g., retinitis pigmentosa):
+
+For: Long-standing bilateral peripheral visual field constriction.
+
+Against: Excluded by normal electroretinography (ERG) and normal macular structures.
+
+EXCLUSIONS AND COMMITMENT:
+
+Excluded: CVST is ruled out by normal MRI/MRV. Retinal dystrophy is ruled out by normal ERG and OCT macula. POAG fails to explain the normal RNFL, morning headaches, pulsatile tinnitus, and elevated CSF opening pressure (the elevated IOP represents coexisting ocular hypertension/myopic risk rather than the primary driver of the syndrome). Chronic migraine cannot account for the confirmed intracranial hypertension.
+
+Commitment: The combination of classic symptoms (morning headaches, pulsatile tinnitus, worsening visual field constriction), female sex with BMI above 30 kg/m², confirmed elevated CSF opening pressure (27.2 cm H₂O) with normal CSF and normal MRI/MRV, and absent optic disc edema commits to idiopathic intracranial hypertension without papilledema (IIHWOP).
+
+FINAL DIAGNOSIS: Idiopathic intracranial hypertension without papilledema (IIHWOP)
+
+CASE: M026
+
+KEY FINDINGS:
+
+Characteristic imaging discordance across modalities: Homogenous, hypodense, non-enhancing lesion on CT (Bosniak 1) that appears hyperechoic on ultrasound and demonstrates internal nodular enhancement on MRI (Bosniak 4). This triad (hyperechoic on US due to multiple microscopic acoustic interfaces, cyst-like/low-attenuation on CT, and enhancing/complex on MRI) is classic for tubulocystic renal cell carcinoma.
+
+Histopathology: Multicystic architecture surrounded by fibrotic hypocellular stroma, with MEST, AMLEC, ACD-RCC, and oncocytoma explicitly excluded.
+
+Patient demographics: 35-year-old male without prior renal disease or dialysis history (strong male predominance is typical).
+
+DIFFERENTIAL:
+
+Tubulocystic renal cell carcinoma (TC-RCC)
+
+Multilocular cystic renal neoplasm of low malignant potential (MCRNLMP)
+
+Simple renal cyst / hemorrhagic Bosniak cyst
+
+Cystic clear cell renal cell carcinoma
+
+Mixed epithelial and stromal tumor (MEST) / adult cystic nephroma
+
+EVIDENCE FOR AND AGAINST:
+
+Tubulocystic renal cell carcinoma (TC-RCC):
+
+For: Classic CT-US-MRI discordance (Bosniak 1 hypodense on CT, hyperechoic on US, Bosniak 4 with internal nodular enhancement on MRI); male patient; hallmark histopathology of multicystic architecture separated by fibrotic hypocellular stroma; exact histologic differential (MEST, AMLEC, ACD-RCC, oncocytoma) matches TC-RCC work-up.
+
+Against: Relatively rare renal neoplasm and younger age (35 years), though well documented across adult ages.
+
+Multilocular cystic renal neoplasm of low malignant potential (MCRNLMP):
+
+For: Multicystic architecture with fibrous septa and Bosniak III/IV appearance on MRI.
+
+Against: Typically appears as a clearly multilocular cystic mass on ultrasound and CT rather than a hyperechoic solid-appearing lesion on US and Bosniak 1 on CT; histologic differential does not typically center on oncocytoma or ACD-RCC.
+
+Simple renal cyst / hemorrhagic Bosniak cyst:
+
+For: Initial CT appearance as a homogenous, hypodense Bosniak 1 lesion.
+
+Against: Internal nodular enhancement on MRI (Bosniak 4) and neoplastic multicystic histopathology exclude a benign simple or hemorrhagic cyst.
+
+Cystic clear cell renal cell carcinoma:
+
+For: Bosniak 4 lesion with internal nodular enhancement on MRI.
+
+Against: Usually shows clear enhancement on CT and lacks the classic multicystic architecture embedded in fibrotic hypocellular stroma with an oncocytoma/ACD-RCC differential.
+
+Mixed epithelial and stromal tumor (MEST) / adult cystic nephroma:
+
+For: Multicystic renal mass with stromal component.
+
+Against: Explicitly excluded on histopathology; also overwhelmingly occurs in perimenopausal women with ovarian-type stroma rather than hypocellular fibrotic stroma in a young male.
+
+EXCLUSIONS AND COMMITMENT:
+
+Excluded: Simple/hemorrhagic cyst is excluded by MRI nodular enhancement and histology. MEST (along with AMLEC, ACD-RCC, and oncocytoma) is explicitly excluded on histopathology. MCRNLMP and cystic clear cell RCC do not account for the classic hyperechoic ultrasound / Bosniak 1 CT / Bosniak 4 MRI discordance or the specific fibrotic hypocellular stromal architecture with an eosinophilic/oncocytic differential.
+
+Commitment: The signature tri-modality imaging discordance combined with multicystic architecture in a fibrotic hypocellular stroma in a 35-year-old male commits to tubulocystic renal cell carcinoma (TC-RCC).
+
+FINAL DIAGNOSIS: Tubulocystic renal cell carcinoma (TC-RCC)
+
+CASE: M027
+
+KEY FINDINGS:
+
+Severe obstructive LUTS in a young male without risk factors: 25-year-old male with 6 months of progressive voiding difficulty, severely reduced Qmax (4 mL/s), failed 6Fr catheterization, and no history of STIs, urethral trauma, or instrumentation.
+
+Imaging and endoscopic findings: Retrograde urethrocystography shows a stenotic bulbar urethral segment; urethrocystoscopy confirms an annular stenosis in the bulbar urethra with a discrete polypoid lesion immediately behind the stenosis.
+
+Complete resolution after resection: Post-resection Qmax normalized to 28 mL/s, confirming a benign, localized obstructive lesion.
+
+DIFFERENTIAL:
+
+Fibroepithelial polyp of the urethra (urethral fibroepithelial polyp)
+
+Inflammatory urethral polyp (polypoid urethritis)
+
+Prostatic-type urethral polyp
+
+Condyloma acuminatum (urethral HPV lesion)
+
+Inverted urothelial papilloma / urothelial carcinoma
+
+EVIDENCE FOR AND AGAINST:
+
+Fibroepithelial polyp of the urethra:
+
+For: Benign polypoid lesion causing progressive obstructive LUTS in a young male with no history of trauma or STI; can arise in the bulbar urethra (often alongside congenital/idiopathic annular stenosis) and is cured completely by endoscopic resection (Qmax 4 to 28 mL/s).
+
+Against: More frequently reported in the posterior/prostatic urethra in children, though well recognized in the anterior/bulbar urethra in young adults.
+
+Inflammatory urethral polyp (polypoid urethritis):
+
+For: Can develop secondary to chronic irritation or turbulent flow behind a urethral stricture/stenosis and resolves after resection.
+
+Against: Typically associated with prior catheterization, instrumentation, infection, or chronic inflammation, none of which are present in this patient's history.
+
+Prostatic-type urethral polyp:
+
+For: Benign urethral polyp occurring in young adult males.
+
+Against: Almost exclusively located in the prostatic urethra (near the verumontanum) and typically presents with gross hematuria or hemospermia rather than isolated severe bulbar obstruction.
+
+Condyloma acuminatum:
+
+For: Can present as a polypoid lesion in the anterior urethra of a young male.
+
+Against: No history of STIs, normal external genitalia without warts, and typically multifocal/papillary rather than a solitary polypoid mass behind an annular bulbar stenosis.
+
+Inverted urothelial papilloma / urothelial carcinoma:
+
+For: Presents as an obstructing polypoid urethral mass.
+
+Against: Rare in a 25-year-old without risk factors; urothelial carcinoma usually presents in older patients with hematuria and prior stricture/inflammation.
+
+EXCLUSIONS AND COMMITMENT:
+
+Excluded: Condyloma acuminatum is unlikely given the absence of STI history or external lesions. Prostatic-type polyp is excluded by the bulbar urethral location and absence of hematuria. Urothelial malignancy/inverted papilloma is unlikely in a 25-year-old without risk factors. Inflammatory polyp is less favored in the absence of prior trauma, infection, or instrumentation.
+
+Commitment: In a 25-year-old male without trauma or STI presenting with progressive severe voiding obstruction, an annular bulbar stenosis with a solitary benign polypoid lesion cured by resection commits to fibroepithelial polyp of the urethra.
+
+FINAL DIAGNOSIS: Fibroepithelial polyp of the urethra
+
+CASE: M028
+
+KEY FINDINGS:
+
+Discordance between conventional pathology and molecular clonality: Initial histopathology staged the case as synchronous stage IIIB ovarian endometrioid adenocarcinoma (20 cm adnexal mass, appendiceal involvement, ascites, omental induration) and stage IA endometrial endometrioid adenocarcinoma (superficial myometrial invasion).
+
+Decisive NGS/molecular findings: Shared clonal mutations (including an MSH6 hotspot mutation and MSI-H status) with higher tumor mutational burden in the ovarian tumor compared to the uterus prove clonal relatedness, establishing the ovarian tumor as a metastasis from the endometrial primary.
+
+Somatic rather than germline MMR deficiency: Negative germline MMR testing rules out Lynch syndrome, confirming somatic MSH6-mutated MSI-H disease.
+
+Markedly elevated tumor markers: CA-125 of 5,240 U/mL and CA 19-9 of 2,426 U/mL reflect extensive peritoneal/adnexal tumor burden.
+
+DIFFERENTIAL:
+
+Metastatic endometrial endometrioid adenocarcinoma (with clonal ovarian and appendiceal/peritoneal metastases, somatic MSI-H / MSH6-mutated)
+
+Synchronous independent primary endometrial and ovarian endometrioid adenocarcinomas
+
+Primary ovarian endometrioid adenocarcinoma with metastasis to the endometrium
+
+Lynch syndrome–associated endometrial and ovarian carcinoma
+
+EVIDENCE FOR AND AGAINST:
+
+Metastatic endometrial endometrioid adenocarcinoma (somatic MSI-H / MSH6-mutated):
+
+For: Directly confirmed by NGS demonstrating shared clonal mutations (MSH6 hotspot mutation, MSI-H) and directional clonal evolution (higher TMB in the ovarian lesion than in the uterine primary), establishing the endometrium as the primary site despite superficial myometrial invasion; negative germline testing confirms somatic origin.
+
+Against: Conventional pathologic criteria (superficial myometrial invasion with a massive 20 cm ovarian tumor) initially mimicked synchronous primaries, which is a known pitfall overridden by molecular clonality.
+
+Synchronous independent primary endometrial and ovarian endometrioid adenocarcinomas:
+
+For: Conventional pathology showed stage IA superficial endometrial disease alongside a large 20 cm ovarian endometrioid mass.
+
+Against: Refuted by NGS demonstrating shared clonal MSH6 hotspot mutations between both sites.
+
+Primary ovarian endometrioid adenocarcinoma with metastasis to the endometrium:
+
+For: Much larger ovarian mass (20 cm) with appendiceal and peritoneal spread and high CA-125.
+
+Against: Molecular clonality analysis specifically identified the ovarian tumor as metastatic from the endometrial primary (with higher acquired TMB in the ovarian metastasis).
+
+Lynch syndrome–associated endometrial and ovarian carcinoma:
+
+For: Premenopausal woman (age 48) with MSI-H, MSH6-mutated endometrioid carcinoma involving both uterus and ovary.
+
+Against: Excluded by negative germline MMR mutation testing.
+
+EXCLUSIONS AND COMMITMENT:
+
+Excluded: Lynch syndrome is ruled out by negative germline MMR testing. Independent synchronous primaries are excluded by shared clonal mutations on NGS. Primary ovarian carcinoma metastasizing to the uterus is excluded by the molecular clonality results identifying the endometrial tumor as the primary origin.
+
+Commitment: The molecular clonality findings override traditional clinicopathologic staging and commit to metastatic endometrial endometrioid adenocarcinoma (with ovarian and appendiceal metastases, somatic MSI-H / MSH6-mutated).
+
+FINAL DIAGNOSIS: Metastatic endometrial endometrioid adenocarcinoma (with ovarian and appendiceal metastases, somatic MSI-H / MSH6-mutated)
+
+CASE: M029
+
+KEY FINDINGS:
+
+Post-HSCT EBV-driven lymphoproliferative progression: History of EBV-HLH treated with haploidentical HSCT (complete donor chimerism, prior acute GVHD), followed by two distinct EBV-driven post-transplant complications.
+
+Episode 1 (11 months post-HSCT): Spinal cord swelling on MRI with EBV DNA positivity in plasma, PBMCs, and CSF, achieving remission after a Rituximab-based regimen—classic for CNS EBV-positive B-cell post-transplant lymphoproliferative disorder (PTLD).
+
+Episode 2 (17 and 21 months post-HSCT): Subcutaneous extremity masses with widespread PET/CT hypermetabolism; biopsy confirmed EBV-positive NK/T cells, achieving complete remission with L-GDP (L-asparaginase, gemcitabine, dexamethasone, cisplatin) plus a PD-1 inhibitor—the signature regimen for extranodal NK/T-cell lymphoma / monomorphic NK/T-cell PTLD.
+
+DIFFERENTIAL:
+
+EBV-positive NK/T-cell post-transplant lymphoproliferative disorder (monomorphic NK/T-cell PTLD / extranodal NK/T-cell lymphoma) following CNS EBV-PTLD
+
+Relapsed EBV-associated hemophagocytic lymphohistiocytosis (EBV-HLH)
+
+Chronic active EBV disease (CAEBV)
+
+Cutaneous graft-versus-host disease (GVHD) or infectious panniculitis
+
+Monomorphic B-cell PTLD (relapsed)
+
+EVIDENCE FOR AND AGAINST:
+
+EBV-positive NK/T-cell PTLD (monomorphic NK/T-cell PTLD / extranodal NK/T-cell lymphoma):
+
+For: Arises post-allogeneic HSCT with prior EBV-PTLD (CNS involvement at 11 months responding to Rituximab); subcutaneous masses with widespread PET/CT uptake; definitive biopsy showing EBV-positive NK/T cells; complete response to L-GDP plus PD-1 inhibitor.
+
+Against: T/NK-cell PTLD is much rarer than B-cell PTLD and typically presents later post-transplant (consistent with 17–21 months here).
+
+Relapsed EBV-HLH:
+
+For: Prior history of EBV-HLH and persistent/recurrent EBV reactivation.
+
+Against: Presents with discrete PET-avid subcutaneous masses composed of EBV-positive NK/T cells rather than a primary hyperinflammatory hemophagocytic syndrome (no recurrent cytopenias, hypofibrinogenemia, or marrow hemophagocytosis reported at 17–21 months).
+
+Chronic active EBV disease (CAEBV):
+
+For: EBV-positive NK/T-cell proliferation with prior EBV-HLH.
+
+Against: Patient achieved complete donor chimerism after haploidentical HSCT; discrete PET-avid malignant subcutaneous masses occurring 17–21 months post-HSCT requiring L-GDP + PD-1 blockade fit post-transplant NK/T-cell lymphoproliferative neoplasm rather than de novo CAEBV.
+
+Cutaneous GVHD or infectious panniculitis:
+
+For: Post-HSCT setting with subcutaneous extremity lesions.
+
+Against: Excluded by biopsy confirming EBV-positive NK/T cells and widespread hypermetabolic disease on PET/CT.
+
+Monomorphic B-cell PTLD (relapsed):
+
+For: Accounts for the earlier 11-month Rituximab-responsive CNS lesion.
+
+Against: Excluded for the 17- and 21-month lesions because biopsy specifically confirmed EBV-positive NK/T cells rather than CD20-positive B cells.
+
+EXCLUSIONS AND COMMITMENT:
+
+Excluded: Cutaneous GVHD and infectious panniculitis are excluded by biopsy. Relapsed B-cell PTLD is excluded by the NK/T-cell immunophenotype on biopsy. Relapsed EBV-HLH and CAEBV do not account for the discrete, PET-avid post-transplant NK/T-cell masses arising after complete donor chimerism and CNS PTLD.
+
+Commitment: The post-HSCT course—initial Rituximab-responsive CNS EBV-PTLD followed by PET-avid subcutaneous masses biopsied as EBV-positive NK/T cells achieving CR with L-GDP plus PD-1 inhibitor—commits to EBV-positive NK/T-cell post-transplant lymphoproliferative disorder (monomorphic NK/T-cell PTLD / extranodal NK/T-cell lymphoma).
+
+FINAL DIAGNOSIS: EBV-positive NK/T-cell post-transplant lymphoproliferative disorder (monomorphic NK/T-cell PTLD / extranodal NK/T-cell lymphoma)
+
+CASE: M030
+
+KEY FINDINGS:
+
+Bacteremia with concordant GI pathogen on FilmArray: Both blood cultures and stool FilmArray GI panel are positive for the same bacterial pathogen in a 71-year-old man with fever (38.5 °C), confusion, marked neutrophilic leukocytosis (WBC 23,900/mm³, 92.1% neutrophils), and elevated CRP (12.6 mg/dL) and procalcitonin (2.04 ng/mL).
+
+Delayed bacteremia following self-limiting diarrhea: A 5-day self-limiting diarrheal illness 2 months earlier with persistent fecal carriage leading to invasive bloodstream infection in an elderly host with advanced metastatic lung cancer.
+
+Negative pleural fluid culture: Rules out empyema or procedural contamination from the pleural drainage 10 days prior.
+
+DIFFERENTIAL:
+
+Non-typhoidal Salmonella (NTS) bacteremia
+
+Campylobacter (C. jejuni / C. coli) bacteremia
+
+Yersinia enterocolitica bacteremia
+
+Plesiomonas shigelloides or Vibrio bacteremia
+
+Procedure-related empyema / nosocomial bacteremia (e.g., Staphylococcus aureus or Pseudomonas)
+
+EVIDENCE FOR AND AGAINST:
+
+Non-typhoidal Salmonella (NTS) bacteremia:
+
+For: Classic pathogen detected on the FilmArray GI panel; uniquely known for causing self-limiting gastroenteritis followed by prolonged asymptomatic stool carriage (weeks to months) and subsequent secondary bacteremia/sepsis in elderly or immunocompromised cancer patients; no travel history required.
+
+Against: None; every clinical, temporal, and microbiologic feature aligns tightly.
+
+Campylobacter (C. jejuni / C. coli) bacteremia:
+
+For: Included on the FilmArray GI panel and can cause bacteremia in immunocompromised hosts.
+
+Against: Bacteremia typically occurs acutely during the diarrheal illness rather than 2 months after a self-limiting episode; C. fetus (the species most prone to bacteremia without acute diarrhea) is not detected by the standard FilmArray GI panel.
+
+Yersinia enterocolitica bacteremia:
+
+For: Included on the FilmArray GI panel and can cause bacteremia in compromised hosts.
+
+Against: Strongly associated with iron overload, hemochromatosis, or cirrhosis rather than advanced lung cancer; prolonged 2-month carrier state leading to delayed sepsis is much less typical than with Salmonella.
+
+Plesiomonas shigelloides or Vibrio bacteremia:
+
+For: Included on the FilmArray GI panel.
+
+Against: Typically associated with seafood/brackish water exposure, travel, or chronic liver disease, and rarely cause delayed bacteremia 2 months after self-limiting diarrhea.
+
+Procedure-related empyema / nosocomial bacteremia:
+
+For: Recent pleural drainage 10 days prior.
+
+Against: Pleural drainage culture was negative, and the bloodstream organism was simultaneously identified on the stool FilmArray GI panel.
+
+EXCLUSIONS AND COMMITMENT:
+
+Excluded: Procedure-related empyema is excluded by negative pleural fluid cultures and the matching stool FilmArray pathogen. Vibrio and Plesiomonas are unlikely without relevant exposure or cirrhosis. Campylobacter and Yersinia are less consistent with delayed bacteremia 2 months after self-limiting diarrhea in an oncology patient without iron overload.
+
+Commitment: The combination of advanced malignancy, self-limiting diarrhea 2 months prior, acute sepsis with marked neutrophilic leukocytosis, and concordant positivity on blood culture and FilmArray GI panel commits to non-typhoidal Salmonella bacteremia.
+
+FINAL DIAGNOSIS: Non-typhoidal Salmonella bacteremia
+
+CASE: M031
+
+KEY FINDINGS:
+
+Locally aggressive peritoneal mass mimicking malignancy: Large necrotic, well-vascularized perigastric/peritoneal mass infiltrating adjacent fat and densely adhering to the stomach, pancreas, and transverse colon, requiring en bloc partial gastrectomy and segmental colectomy.
+
+Nonmalignant pathology with no metastasis or recurrence: Intraoperative and definitive pathology confirmed a nonmalignant lesion, with no evidence of metastasis on CT and no recurrence at 1-year clinical and radiologic follow-up.
+
+Subacute nonspecific symptoms in a healthy 55-year-old woman: 2 weeks of worsening diffuse abdominal pain, nausea, and anorexia without fever, weight loss, or prior surgical history.
+
+DIFFERENTIAL:
+
+Inflammatory myofibroblastic tumor (IMT) / inflammatory pseudotumor
+
+Mesenteric fibromatosis (desmoid tumor)
+
+Solitary fibrous tumor (SFT) of the peritoneum/mesentery
+
+Gastrointestinal stromal tumor (GIST)
+
+Unicentric Castleman disease
+
+EVIDENCE FOR AND AGAINST:
+
+Inflammatory myofibroblastic tumor (IMT) / inflammatory pseudotumor:
+
+For: Classic nonmalignant/intermediate mesenchymal lesion that closely mimics intra-abdominal malignancy on CT; frequently well-vascularized with central necrosis, infiltrates adjacent fat, and densely adheres to stomach, pancreas, and transverse colon requiring multivisceral resection; low recurrence after complete surgical excision.
+
+Against: More frequently seen in children and young adults, though well documented in middle-aged adults.
+
+Mesenteric fibromatosis (desmoid tumor):
+
+For: Nonmalignant, locally infiltrative peritoneal/mesenteric mass adhering to bowel and adjacent organs.
+
+Against: Typically homogenous, hypovascular, and non-necrotic on CT/intraoperative exam (unlike this well-vascularized, necrotic mass), and carries a high local recurrence rate.
+
+Solitary fibrous tumor (SFT) of the peritoneum/mesentery:
+
+For: Can present as a large, well-vascularized, nonmalignant peritoneal mass with areas of necrosis.
+
+Against: Typically well-circumscribed and encapsulated rather than diffusely infiltrating adjacent fat and adhering densely to three separate organs (stomach, pancreas, transverse colon).
+
+Gastrointestinal stromal tumor (GIST):
+
+For: Classic large, hypervascular, necrotic perigastric mass adhering to adjacent organs in a 55-year-old.
+
+Against: Excluded because intraoperative and definitive pathology confirmed a nonmalignant mass.
+
+Unicentric Castleman disease:
+
+For: Benign, hypervascular peritoneal/retroperitoneal mass cured by resection.
+
+Against: Typically well-circumscribed without necrosis or extensive infiltration of adjacent fat and adherence to stomach, pancreas, and colon.
+
+EXCLUSIONS AND COMMITMENT:
+
+Excluded: GIST (and other sarcomas/carcinomas) is excluded by nonmalignant histopathology. Desmoid tumor is less consistent with a well-vascularized, necrotic mass without recurrence. SFT and Castleman disease are typically well-circumscribed rather than infiltrating surrounding fat and densely adhering to stomach, pancreas, and colon.
+
+Commitment: A nonmalignant, well-vascularized, necrotic peritoneal mass infiltrating fat and densely adhering to adjacent organs requiring multivisceral resection, with no metastasis or recurrence at 1 year, commits to inflammatory myofibroblastic tumor (IMT).
+
+FINAL DIAGNOSIS: Inflammatory myofibroblastic tumor (IMT)
+
+CASE: M032
+
+KEY FINDINGS:
+
+Identical procedural antecedent in both patients: Both middle-aged women underwent venous sinus stenting (VSS) for transverse / transverse-sigmoid sinus stenosis (Case 1 for refractory IIH with papilledema and CSF OP 34 cm H₂O; Case 2 for prolonged pulsatile tinnitus with a pressure gradient).
+
+Post-VSS symptom recurrence/new lateralizing symptoms: Case 1 developed new left-sided headaches, tinnitus, and hearing changes post-VSS; Case 2 developed new intermittent right-sided headaches radiating posteriorly after initial symptom resolution.
+
+Decisive angiographic and therapeutic finding: Follow-up cerebral angiography in both patients revealed a vascular lesion directly treated and obliterated with Onyx™ liquid embolic embolization, which is the definitive endovascular therapy for dural arteriovenous fistulas.
+
+DIFFERENTIAL:
+
+Dural arteriovenous fistula (dAVF) (de novo / iatrogenic post-venous sinus stenting)
+
+In-stent venous sinus thrombosis / stent-adjacent stenosis
+
+Cerebral aneurysm / pseudoaneurysm
+
+Recurrent idiopathic intracranial hypertension (IIH) without vascular complication
+
+Carotid-cavernous fistula (CCF)
+
+EVIDENCE FOR AND AGAINST:
+
+Dural arteriovenous fistula (dAVF):
+
+For: Recognized rare complication following venous sinus stenting; presents with new or recurrent ipsilateral headaches, pulsatile tinnitus, and auditory changes; diagnosed on follow-up cerebral angiography; standard definitive treatment is endovascular obliteration with Onyx™ (ethylene vinyl alcohol copolymer).
+
+Against: Rare post-VSS complication, though well-established in neurointerventional literature and uniquely matching both angiographic detection and Onyx™ obliteration.
+
+In-stent venous sinus thrombosis / stent-adjacent stenosis:
+
+For: Most common cause of recurrent headaches and tinnitus after VSS.
+
+Against: Treated with anticoagulation, thrombectomy, or re-stenting—never with Onyx™ embolization.
+
+Cerebral aneurysm / pseudoaneurysm:
+
+For: Vascular lesion visible on angiography that can cause headache.
+
+Against: Not a typical complication of venous sinus stenting (which is venous, not arterial), does not typically cause pulsatile tinnitus, and is treated with coiling/flow diversion rather than Onyx™ obliteration.
+
+Recurrent IIH without vascular complication:
+
+For: Can explain recurrent headaches in Case 1.
+
+Against: Does not explain a discrete angiographic lesion obliterated with Onyx™ embolization in either case.
+
+Carotid-cavernous fistula (CCF):
+
+For: Arteriovenous shunt causing tinnitus and headache, occasionally treated with embolization.
+
+Against: Anatomically remote from transverse-sigmoid sinus stenting and typically presents with orbital/ocular signs (proptosis, chemosis, diplopia), none of which are present.
+
+EXCLUSIONS AND COMMITMENT:
+
+Excluded: In-stent thrombosis/stenosis and recurrent IIH are excluded because neither is treated by Onyx™ embolization. Arterial aneurysms/pseudoaneurysms and CCFs are incompatible with the venous transverse-sigmoid sinus procedural site and clinical presentation.
+
+Commitment: The development of new ipsilateral headaches and tinnitus following transverse-sigmoid venous sinus stenting, confirmed on follow-up cerebral angiography and successfully obliterated with Onyx™ embolization in both patients, commits to dural arteriovenous fistula (dAVF).
+
+FINAL DIAGNOSIS: Dural arteriovenous fistula (dAVF)

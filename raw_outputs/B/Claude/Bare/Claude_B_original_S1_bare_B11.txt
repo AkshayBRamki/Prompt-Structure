@@ -1,0 +1,23 @@
+CASE: M081
+FINAL DIAGNOSIS: Fahr's disease (idiopathic bilateral striatopallidodentate calcinosis, or primary familial brain calcification)
+
+CASE: M082
+FINAL DIAGNOSIS: Cocaine-induced midline destructive lesion (CIMDL) with associated pyoderma gangrenosum, mimicking ANCA-negative granulomatosis with polyangiitis
+
+CASE: M083
+FINAL DIAGNOSIS: Acute bronchiolitis (wheezing lower respiratory tract infection) caused by human bocavirus
+
+CASE: M084
+FINAL DIAGNOSIS: Partial (posterior) agenesis of the septum pellucidum with abnormal fornices, presenting with generalized tonic-clonic seizures (epilepsy)
+
+CASE: M085
+FINAL DIAGNOSIS: Primary hepatic leiomyosarcoma with dedifferentiation
+
+CASE: M086
+FINAL DIAGNOSIS: Leiomyosarcoma arising from malignant transformation of an ovarian mature cystic teratoma, FIGO stage IIIC
+
+CASE: M087
+FINAL DIAGNOSIS: Gastric hamartomatous inverted polyp (GHIP)
+
+CASE: M088
+FINAL DIAGNOSIS: Dysembryoplastic neuroepithelial tumor (DNET) of the right parieto-occipital lobe causing focal epilepsy

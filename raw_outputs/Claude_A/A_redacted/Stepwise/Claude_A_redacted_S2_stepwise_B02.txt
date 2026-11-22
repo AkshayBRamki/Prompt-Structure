@@ -1,0 +1,31 @@
+CASE: M009
+REASONING: A 13-year-old has a painless, well-defined, bony-hard swelling on the buccal side of the right maxillary alveolar ridge. The overlying mucosa is intact and the adjacent teeth are vital, so an odontogenic or inflammatory cause is unlikely. CBCT shows an exophytic, mushroom-shaped radiodense mass that is continuous with the cortical and trabecular bone, which is typical of a reactive bony outgrowth. Histology shows bony trabeculae separated by connective tissue, consistent with benign exostosis/hyperostosis. There is no family history or other sign of Gardner syndrome, which argues against syndromic osteomas.
+FINAL DIAGNOSIS: Buccal exostosis (benign bony exostosis) of the right maxillary alveolar ridge
+
+CASE: M010
+REASONING: The patient had uterine trauma from a D&C for missed abortion and then developed heavy, irregular bleeding with clots and hemodynamic instability. Ultrasound shows an echogenic mass with increased blood flow, so the main question is retained products of conception versus a vascular lesion. MRI shows serpiginous flow voids. CTA shows a cluster of vessels with early venous filling, which means arteriovenous shunting. Selective angiography identifies feeders from the left uterine artery. Together these fit an acquired arteriovenous malformation after instrumentation.
+FINAL DIAGNOSIS: Acquired uterine arteriovenous malformation (post-D&C)
+
+CASE: M011
+REASONING: A young man with risk factors (IV drug use, MSM) has subacute right lower quadrant pain, fever, weight loss and high inflammatory markers. These mimic appendicitis. He also has right upper lobe consolidation with a tree-in-bud pattern, which suggests active pulmonary TB with endobronchial spread. At surgery there was a perforated cecal mass with diffuse small-bowel lesions and peritonitis. Histology shows necrotizing granulomatous colitis and lymphadenitis, PCR is positive for M. tuberculosis, and HIV was newly diagnosed. This is intestinal TB complicated by perforation in the setting of disseminated TB and HIV.
+FINAL DIAGNOSIS: Perforated ileocecal (intestinal) tuberculosis with peritonitis and concurrent pulmonary tuberculosis, in a patient with newly diagnosed HIV infection
+
+CASE: M012
+REASONING: An elderly, multimorbid inpatient being treated for pneumonia suddenly develops diffuse abdominal pain and shock, with hemoglobin falling 4.3 g/dL in 24 hours. CTA shows active bleeding with hemoperitoneum, and there was no trauma, so this is atraumatic splenic rupture. After splenectomy, histology showed a 1 cm subcapsular nodule with no malignancy or infection. A benign vascular lesion such as a hemangioma is the most likely underlying cause.
+FINAL DIAGNOSIS: Atraumatic (spontaneous) splenic rupture with hemoperitoneum secondary to a small subcapsular splenic hemangioma (benign vascular lesion)
+
+CASE: M013
+REASONING: The posterior occlusion is Class I and the skeletal base is Class I. He has upper anterior spacing from a thumb-sucking habit, flared upper incisors with increased overjet, and lower anterior crowding. The convex profile, acute nasolabial angle, incompetent lips with a lower-lip trap and deep mentolabial sulcus point to proclined incisors and dentoalveolar protrusion, likely bimaxillary.
+FINAL DIAGNOSIS: Angle Class I malocclusion (Dewey Type 2) on a Class I skeletal base with bimaxillary dentoalveolar protrusion, maxillary anterior spacing and mandibular anterior crowding
+
+CASE: M014
+REASONING: A young woman has had urinary symptoms since puberty and increasing low back pain. Urinalysis and renal ultrasound are normal, which points to a neurogenic cause. MRI shows a low-lying conus at S1–S2 tethered by a sacral intraspinal lipoma, along with sacral hypoplasia, which is a marker of occult spinal dysraphism. She also has L4–L5 isthmic spondylolisthesis.
+FINAL DIAGNOSIS: Adult-onset tethered cord syndrome due to sacral spinal lipoma (occult spinal dysraphism), with associated L4–L5 isthmic spondylolisthesis
+
+CASE: M015
+REASONING: A 41-year-old has a slowly progressive, pure cerebellar syndrome: scanning speech, nystagmus, dysmetria, dysdiadochokinesia, hypotonia, pendular reflexes and a broad-based gait. Strength, sensation and cognition are normal, and there are no toxic exposures. CT shows marked cerebellar atrophy. Two siblings are affected while the parents are not, which suggests autosomal recessive inheritance. The intact sensation, including proprioception, and the absence of areflexia make Friedreich ataxia less likely. Genetic testing would be needed to confirm the subtype; a dominant spinocerebellar ataxia with an incomplete pedigree is less likely.
+FINAL DIAGNOSIS: Hereditary cerebellar ataxia, most likely an adult-onset autosomal recessive cerebellar ataxia (pure cerebellar, e.g., ARCA1/SYNE1 type)
+
+CASE: M016
+REASONING: An older woman has subacute, rapidly progressive encephalopathy with weakness, hallucinations and aphasia. CSF shows pleocytosis with elevated IL-10, which is a marker of B-cell lymphoma. Extensive autoimmune, infectious and paraneoplastic workups were negative. MRI shows diffuse, non-enhancing T2/FLAIR white-matter hyperintensities without mass effect, and MR spectroscopy shows high choline and low NAA, indicating a hypercellular infiltrate. Later, focal diffusion-restricting, hyperperfused lesions appeared in the caudate and hippocampus. Autopsy showed diffuse infiltration by CD20+ B cells, with superimposed focal lymphoma deposits.
+FINAL DIAGNOSIS: Lymphomatosis cerebri (diffuse infiltrative primary CNS diffuse large B-cell lymphoma) with superimposed focal lymphomatous lesions in the caudate and hippocampus

@@ -1,0 +1,425 @@
+CASE: M081
+
+KEY FINDINGS:
+
+Bilateral symmetrical calcifications in the basal ganglia, thalami, and subcortical white matter on spiral CT: The hallmark radiological finding pointing directly to a primary or secondary basal ganglia calcification disorder.
+
+Progressive neuropsychiatric and extrapyramidal syndrome (agitation, slurred speech, spasticity, chorea, rigidity, generalized tonic-clonic seizures on EEG, cognitive decline with MoCA 22/30): Classic clinical manifestations of basal ganglia and subcortical white matter dysfunction.
+
+Normal copper and calcium metabolism tests: Explicitly rules out Wilson's disease and pseudohypoparathyroidism (and argues against hypoparathyroidism as a secondary cause of calcification).
+
+Absence of family neurological or psychiatric history: Supports a sporadic presentation rather than an overtly familial pedigree, though autosomal dominant inheritance with variable penetrance remains possible.
+
+Elevated TSH (13.92 µIU/ml) with subclinical hypothyroidism, anemia (Hb 10.5 g/dL), and elevated ESR/CRP: Concurrent systemic/inflammatory and endocrine findings that must be weighed as either incidental comorbidities or secondary contributors.
+
+DIFFERENTIAL:
+
+Fahr's disease (Idiopathic basal ganglia calcification / Primary familial brain calcification)
+
+Fahr's syndrome (Secondary basal ganglia calcification due to endocrine/metabolic or infectious etiology)
+
+CNS vasculitis / Neuropsychiatric systemic lupus erythematosus (NPSLE)
+
+Mitochondrial encephalomyopathy (e.g., MELAS or Kearns-Sayre syndrome)
+
+EVIDENCE FOR AND AGAINST:
+
+Fahr's disease (Idiopathic basal ganglia calcification):
+
+For: Classic CT distribution of bilateral calcifications in the basal ganglia, thalami, and subcortical white matter; textbook clinical progression with chorea, rigidity, spasticity, dysarthria, generalized tonic-clonic seizures, neuropsychiatric agitation, and cognitive decline (MoCA 22/30); exclusion of Wilson's disease and calcium metabolism disorders (pseudohypoparathyroidism).
+
+Against: No reported family history of neurological or psychiatric illness (though sporadic cases occur); early adolescent onset (16 years) and initial systemic inflammatory features (fever, red eyes, dark yellow urine, elevated CRP/ESR) are atypical for pure primary Fahr's disease.
+
+Fahr's syndrome (Secondary basal ganglia calcification):
+
+For: Identical neuroimaging and neuropsychiatric/movement disorder phenotype; presence of subclinical hypothyroidism (elevated TSH) and an initial febrile/systemic illness with elevated ESR and CRP.
+
+Against: Calcium metabolism testing ruled out pseudohypoparathyroidism (the classic endocrine cause of Fahr's syndrome), and subclinical hypothyroidism alone rarely accounts for extensive bilateral basal ganglia, thalamic, and subcortical white matter calcifications.
+
+CNS vasculitis / Neuropsychiatric SLE:
+
+For: Initial constitutional/inflammatory prodrome (fever, red eyes, weakness, anemia, elevated ESR 30 mm and CRP 58.9 mg/L) followed by seizures, chorea, agitation, and cognitive decline.
+
+Against: Extensive, symmetrical calcifications in the basal ganglia, thalami, and subcortical white matter are not a primary feature of CNS vasculitis or SLE, and no specific autoimmune serologies or mucocutaneous/renal SLE stigmata are described.
+
+Mitochondrial encephalomyopathy:
+
+For: Adolescent onset, seizures, cognitive decline, headaches, and potential for basal ganglia calcifications on CT.
+
+Against: Lack of stroke-like episodes, myopathy, lactic acidosis, ophthalmoplegia, or maternal family history; the constellation is much more specifically explained by Fahr's disease.
+
+EXCLUSIONS AND COMMITMENT:
+CNS vasculitis/NPSLE and mitochondrial encephalomyopathy are excluded because they do not adequately account for the extensive, symmetrical calcifications across the basal ganglia, thalami, and subcortical white matter in the absence of systemic autoimmune markers or characteristic mitochondrial features. Fahr's syndrome is ranked lower because calcium metabolism disorders (such as pseudohypoparathyroidism) were explicitly ruled out, and subclinical hypothyroidism is insufficient to explain such widespread intracranial calcification. By combining the pathognomonic CT calcification pattern, the classic extrapyramidal/neuropsychiatric/seizure phenotype, and the exclusion of secondary metabolic causes (Wilson's disease and calcium disorders), I commit to Fahr's disease (Idiopathic basal ganglia calcification).
+
+FINAL DIAGNOSIS: Fahr's disease (Idiopathic basal ganglia calcification)
+
+CASE: M082
+
+KEY FINDINGS:
+
+Severe destructive sinonasal and orbital disease (chronic sinusitis, epistaxis, midline septal defect, destruction of the orbital floor and hard palate, proptosis, periocular swelling): Indicates an aggressive necrotizing midline destructive process.
+
+Cavitary lung lesions unresponsive to antibiotics: Strongly favors a systemic necrotizing vasculitis/granulomatous disorder over localized sinonasal pathology or bacterial pneumonia.
+
+Well-demarcated lower extremity ulcers with raised violaceous borders confirmed as pyoderma gangrenosum (PG) on biopsy, flaring after prednisone taper: Steroid-responsive neutrophilic dermatosis (PG) is a recognized cutaneous manifestation of systemic vasculitis (particularly GPA) and argues for an immune-mediated systemic process.
+
+Negative ANCA and autoimmune workup, with nonspecific biopsy findings lacking classic histologic signs: Highlights a diagnostic challenge (ANCA-negative disease vs. cocaine-induced mimic).
+
+History of intranasal cocaine use: Major confounder that can cause midline destructive lesions and mimic systemic vasculitis.
+
+DIFFERENTIAL:
+
+ANCA-negative Granulomatosis with polyangiitis (GPA)
+
+Cocaine-induced midline destructive lesions (CIMDL) with levamisole-associated vasculopathy/PG
+
+Extranodal NK/T-cell lymphoma, nasal type
+
+Invasive fungal rhinosinusitis (e.g., mucormycosis or aspergillosis)
+
+EVIDENCE FOR AND AGAINST:
+
+ANCA-negative Granulomatosis with polyangiitis (GPA):
+
+For: Classic multisystem triad of upper respiratory/sinonasal destruction (chronic sinusitis, epistaxis, septal/palatal/orbital floor destruction, proptosis), lower respiratory tract involvement (antibiotic-refractory cavitary lung lesions), and cutaneous involvement (pyoderma gangrenosum-like/PG ulcerations flaring upon prednisone taper, demonstrating steroid responsiveness); the case specifically notes nonspecific histology lacking classic signs of the redacted entity (granulomatous vasculitis), which is well-documented in limited or partially treated/steroid-exposed GPA.
+
+Against: Negative ANCA serology (seen in a minority of GPA cases), history of intranasal cocaine use, and absence of classic necrotizing granulomatous vasculitis on biopsy.
+
+Cocaine-induced midline destructive lesions (CIMDL):
+
+For: Explicit history of intranasal cocaine use; severe midline destruction involving the nasal septum, hard palate, and orbital floor; negative ANCA; nonspecific histology without classic GPA granulomas; cocaine/levamisole can also trigger cutaneous ulcerations/PG.
+
+Against: Antibiotic-unresponsive cavitary lung lesions are classic for systemic GPA and far less typical of isolated CIMDL, and the cutaneous ulcers specifically flared following a prednisone taper (pointing to a steroid-dependent systemic inflammatory disease).
+
+Extranodal NK/T-cell lymphoma, nasal type:
+
+For: Midline sinonasal, palatal, and orbital destruction with negative ANCA and sterile cultures.
+
+Against: Biopsy showed nonspecific findings and PG rather than angiocentric atypical lymphoid infiltrate; cavitary lung lesions and steroid-taper-triggered lower extremity PG ulcers are atypical.
+
+Invasive fungal rhinosinusitis:
+
+For: Orbital floor and hard palate destruction, proptosis, periocular swelling, and cavitary lung lesions.
+
+Against: Cultures showed neutrophils without infection, no fungal hyphae were seen on histology, and no underlying severe immunocompromise (e.g., DKA, neutropenia) is reported.
+
+EXCLUSIONS AND COMMITMENT:
+Invasive fungal rhinosinusitis is excluded by sterile cultures and absence of fungal elements on histology. Extranodal NK/T-cell lymphoma is excluded by the lack of malignant lymphoid infiltration on biopsy and the presence of steroid-responsive PG ulcers and cavitary pulmonary lesions. While CIMDL is a strong mimic given the cocaine history and negative ANCA, the combination of antibiotic-unresponsive cavitary lung lesions, severe sinonasal/orbital destruction, and biopsy-proven pyoderma gangrenosum flaring after prednisone taper—along with the biopsy explicitly noted as lacking classic histologic signs of the condition—favors ANCA-negative Granulomatosis with polyangiitis (GPA).
+
+FINAL DIAGNOSIS: ANCA-negative Granulomatosis with polyangiitis (GPA)
+
+CASE: M083
+
+KEY FINDINGS:
+
+Acute upper respiratory prodrome (1 day of low-grade fever, cough, cold) progressing to acute lower respiratory distress: Typical timeline of viral lower respiratory tract infection in a toddler.
+
+Tachypnea (RR 62/min), tachycardia (HR 133/min), subcostal retractions, and bilateral wheezing: Classic clinical findings of small-airway obstruction and respiratory distress.
+
+Bilateral hyperinflated lung fields on chest X-ray: Radiographic hallmark of air trapping in acute bronchiolitis.
+
+Positive nasopharyngeal RT-PCR (Ct value 28) with negative RSV and sterile blood culture: Confirms an active non-RSV viral respiratory infection and argues against bacteremia.
+
+Mildly elevated CRP (15.1 mg/L) and microcytic hypochromic anemia: Mild inflammatory response compatible with viral infection (plus incidental nutritional/iron-deficiency anemia).
+
+DIFFERENTIAL:
+
+Acute viral bronchiolitis (non-RSV, e.g., SARS-CoV-2 or Human metapneumovirus)
+
+First episode of viral-induced wheezing / Pediatric asthma exacerbation
+
+Acute bacterial pneumonia
+
+Foreign body aspiration
+
+EVIDENCE FOR AND AGAINST:
+
+Acute viral bronchiolitis (non-RSV, e.g., SARS-CoV-2 / Human metapneumovirus):
+
+For: Toddler age group; classic coryzal prodrome (fever, cough, cold) followed by acute tachypnea, subcostal retractions, and bilateral wheezing; bilateral hyperinflation on CXR; positive nasopharyngeal RT-PCR (Ct 28) with negative RSV and sterile blood cultures.
+
+Against: RSV is the most common cause of bronchiolitis and tested negative, requiring a non-RSV viral pathogen (such as SARS-CoV-2, hMPV, rhinovirus, or parainfluenza) as the specific etiology.
+
+Viral-induced wheezing / Pediatric asthma exacerbation:
+
+For: Bilateral wheezing, tachypnea, retractions, and hyperinflated lungs triggered by a confirmed viral URI.
+
+Against: No prior history of wheezing, atopy, or family history of asthma; in a previously well toddler with a first acute viral episode and fever, acute viral bronchiolitis is the primary diagnosis.
+
+Acute bacterial pneumonia:
+
+For: Fever, tachypnea, respiratory distress, and mildly elevated CRP (15.1 mg/L).
+
+Against: CXR shows bilateral hyperinflation without focal lobar consolidation or effusion; bilateral wheezing predominates; blood culture is sterile; viral RT-PCR is positive.
+
+Foreign body aspiration:
+
+For: Acute onset of breathing difficulty and wheezing in a toddler.
+
+Against: Preceding viral prodrome (fever, cough, cold), bilateral symmetric wheezing and bilateral hyperinflation (rather than unilateral air trapping), and positive nasopharyngeal viral RT-PCR.
+
+EXCLUSIONS AND COMMITMENT:
+Foreign body aspiration is excluded by the febrile viral prodrome, symmetric bilateral findings, and positive viral RT-PCR. Acute bacterial pneumonia is excluded by the absence of radiographic consolidation, sterile blood cultures, and predominance of bilateral wheezing and hyperinflation. Asthma cannot be diagnosed on a first isolated viral-triggered episode without prior history. The clinical picture, radiographic air trapping, and positive non-RSV nasopharyngeal RT-PCR establish Acute viral bronchiolitis (non-RSV, such as SARS-CoV-2 or Human metapneumovirus bronchiolitis).
+
+FINAL DIAGNOSIS: Acute viral bronchiolitis (non-RSV; e.g., SARS-CoV-2 or Human metapneumovirus bronchiolitis)
+
+CASE: M084
+
+KEY FINDINGS:
+
+Brain MRI showing absence of the posterior portion of the septum pellucidum: Direct anatomical diagnosis of partial septal agenesis.
+
+Inferior displacement of the crura of the fornix without commissural formation between crura, plus mild prominence of the lateral ventricles: Classic secondary anatomical configuration resulting from absence of the posterior septum pellucidum and hippocampal commissure.
+
+Normal third and fourth ventricles with no other structural anomalies: Excludes broader midline malformation syndromes (such as holoprosencephaly, corpus callosum agenesis, or septo-optic dysplasia).
+
+20-year history of generalized tonic-clonic seizures without focal neurological deficits: Clinical presentation associated with the underlying congenital midline anomaly.
+
+DIFFERENTIAL:
+
+Isolated partial agenesis (absence) of the septum pellucidum
+
+Septo-optic dysplasia (de Morsier syndrome)
+
+Lobar holoprosencephaly
+
+Agenesis of the corpus callosum (with associated septal absence)
+
+EVIDENCE FOR AND AGAINST:
+
+Isolated partial agenesis (absence) of the septum pellucidum:
+
+For: Directly confirmed on MRI (absent posterior septum pellucidum, inferiorly displaced forniceal crura without commissural formation, mild lateral ventricular prominence, and explicitly no other structural brain anomalies); can present in adulthood with long-standing epilepsy and a normal neurological examination.
+
+Against: Partial/isolated absence is rare and often asymptomatic, though seizures are a recognized clinical presentation.
+
+Septo-optic dysplasia (de Morsier syndrome):
+
+For: Absence of the septum pellucidum and history of seizures.
+
+Against: MRI shows no optic nerve/chiasm hypoplasia and no pituitary/hypothalamic abnormalities ("no other structural anomalies"), and there are no visual or endocrine deficits.
+
+Lobar holoprosencephaly:
+
+For: Absence of the septum pellucidum and seizures.
+
+Against: Absence of frontal lobe fusion, fused frontal horns, or other forebrain cleavage abnormalities; MRI confirms no other structural anomalies and normal third/fourth ventricles.
+
+Agenesis of the corpus callosum:
+
+For: Midline developmental anomaly associated with seizures and lateral ventricular prominence.
+
+Against: MRI explicitly states no other structural anomalies (no colpocephaly, Probst bundles, or absent corpus callosum).
+
+EXCLUSIONS AND COMMITMENT:
+Septo-optic dysplasia, lobar holoprosencephaly, and agenesis of the corpus callosum are all excluded because the brain MRI demonstrates normal third and fourth ventricles and explicitly rules out any other structural anomalies (such as optic nerve hypoplasia, pituitary anomalies, hemispheric fusion, or callosal absence). The imaging findings directly establish Isolated partial agenesis of the septum pellucidum.
+
+FINAL DIAGNOSIS: Isolated partial agenesis of the septum pellucidum
+
+CASE: M085
+
+KEY FINDINGS:
+
+Histopathology showing two distinct tumor components: (1) Differentiated spindle cells positive for desmin, caldesmon, and SMA (definitive smooth muscle differentiation = leiomyosarcoma), and (2) dedifferentiated atypical cells with high mitotic rate, necrosis, and elevated Ki-67.
+
+Large hepatic/hepatogastric mass (6.8 × 4.5 × 5.8 cm) on CT/MRI: Well-defined, heterogeneous mass with gradual portal/equilibrium phase enhancement and T1 hypointensity/T2 slight hyperintensity with areas of necrosis/hemorrhage.
+
+Normal AFP, CEA, and CA 19-9 despite 20-year history of chronic hepatitis B: Argues against typical hepatocellular carcinoma (HCC) or intrahepatic cholangiocarcinoma, making mesenchymal sarcoma more likely even in an HBsAg-positive host.
+
+DIFFERENTIAL:
+
+Primary hepatic dedifferentiated leiomyosarcoma
+
+Sarcomatoid hepatocellular carcinoma (HCC)
+
+Primary hepatic gastrointestinal stromal tumor (GIST)
+
+Primary hepatic dedifferentiated liposarcoma
+
+EVIDENCE FOR AND AGAINST:
+
+Primary hepatic dedifferentiated leiomyosarcoma:
+
+For: Biphasic histology with a well-differentiated smooth muscle spindle-cell component confirmed by positivity for desmin, caldesmon, and SMA, juxtaposed with a high-grade dedifferentiated pleomorphic/atypical component (high mitotic rate, necrosis, elevated Ki-67); large heterogeneous necrotic liver mass with gradual enhancement and normal AFP/CEA/CA 19-9.
+
+Against: Extremely rare primary liver malignancy, especially in a patient with chronic hepatitis B (where HCC is far more common).
+
+Sarcomatoid hepatocellular carcinoma (HCC):
+
+For: Chronic hepatitis B (20 years), 66-year-old male, large necrotic liver mass, and high-grade atypical spindle/pleomorphic cells.
+
+Against: Normal AFP; gradual portal/equilibrium enhancement rather than arterial hyperenhancement with washout; pathology shows true smooth muscle differentiation (desmin+, caldesmon+, SMA+) rather than hepatocellular or epithelial markers.
+
+Primary hepatic GIST:
+
+For: Well-defined, heterogeneous mass in the hepatogastric space/liver with necrosis and spindle cell morphology; normal AFP/CEA/CA 19-9.
+
+Against: Strong diffuse smooth muscle immunoprofile (desmin+, caldesmon+, SMA+) with a distinct dedifferentiated high-grade component is characteristic of dedifferentiated leiomyosarcoma rather than GIST (which is typically CD117/DOG1 positive and desmin negative).
+
+Primary hepatic dedifferentiated liposarcoma:
+
+For: Biphasic differentiated and high-grade dedifferentiated sarcoma morphology in a large abdominal/hepatic mass.
+
+Against: The differentiated component consists of desmin+/caldesmon+/SMA+ smooth muscle spindle cells rather than well-differentiated lipoblasts/adipocytes.
+
+EXCLUSIONS AND COMMITMENT:
+Sarcomatoid HCC is excluded by the absence of typical HCC imaging or hepatocellular differentiation and the presence of a bona fide smooth muscle spindle-cell component. GIST and dedifferentiated liposarcoma are excluded by the definitive smooth muscle immunophenotype (desmin, caldesmon, SMA positive) of the differentiated component. The biphasic histology combining a desmin/caldesmon/SMA-positive differentiated spindle-cell component with a high-grade dedifferentiated component confirms Primary hepatic dedifferentiated leiomyosarcoma.
+
+FINAL DIAGNOSIS: Primary hepatic dedifferentiated leiomyosarcoma
+
+CASE: M086
+
+KEY FINDINGS:
+
+Histopathology demonstrating a high-grade spindle cell sarcoma alongside features of teratoma with malignant transformation: Establishes a sarcoma arising from a pre-existing ovarian teratoma.
+
+Immunohistochemistry: SMA positive and S100 negative: Confirms smooth muscle differentiation (leiomyosarcoma) and rules out neural/melanocytic/schwannian sarcomas (such as MPNST or melanoma).
+
+Large (15 × 12 × 7 cm) solid necrotic ovarian mass with ruptured capsule, FIGO stage IIIC (pT3c pNx), and systemic symptoms (4 months of lower abdominal pain, weight loss, anorexia): Reflects an aggressive, advanced-stage malignant ovarian neoplasm.
+
+Elevated CA 19-9, LDH, and CRP with normal CA-125 and CEA: Elevated CA 19-9 is frequently associated with ovarian mature cystic teratomas (including those with malignant transformation), while elevated LDH reflects high tumor burden/necrosis, and normal CA-125 argues against typical high-grade serous epithelial ovarian carcinoma.
+
+DIFFERENTIAL:
+
+Primary ovarian leiomyosarcoma arising from a mature cystic teratoma (teratoma with malignant transformation)
+
+Ovarian carcinosarcoma (malignant mixed Müllerian tumor)
+
+Malignant peripheral nerve sheath tumor (MPNST) arising in a teratoma
+
+Epithelial ovarian carcinoma (e.g., high-grade serous or mucinous carcinoma)
+
+EVIDENCE FOR AND AGAINST:
+
+Primary ovarian leiomyosarcoma arising from a mature cystic teratoma:
+
+For: Histopathology explicitly identifies a high-grade spindle cell sarcoma with features of teratoma with malignant transformation; SMA positivity and S100 negativity confirm smooth muscle (leiomyosarcomatous) lineage; elevated CA 19-9 with normal CA-125 is classic for teratoma-associated malignancy; large solid necrotic adnexal mass in a postmenopausal woman.
+
+Against: Very rare malignant transformation of a teratoma (squamous cell carcinoma is far more common).
+
+Ovarian carcinosarcoma (MMMT):
+
+For: Postmenopausal female, large aggressive necrotic ovarian mass, advanced FIGO stage IIIC, and high-grade sarcomatous component.
+
+Against: Histology specifically shows teratoma with malignant transformation and pure high-grade spindle cell sarcoma rather than a biphasic malignant epithelial + mesenchymal (carcinomatous + sarcomatous) tumor; CA-125 is normal.
+
+Malignant peripheral nerve sheath tumor (MPNST) arising in a teratoma:
+
+For: High-grade spindle cell sarcoma arising from a teratoma.
+
+Against: S100 is negative and SMA is positive, which rules out MPNST and confirms smooth muscle differentiation.
+
+Epithelial ovarian carcinoma:
+
+For: 66-year-old female with 4 months of abdominal pain, weight loss, large adnexal mass, and FIGO stage IIIC spread.
+
+Against: Normal CA-125, and histopathology confirms a high-grade spindle cell sarcoma (SMA+) arising in a teratoma rather than an epithelial carcinoma.
+
+EXCLUSIONS AND COMMITMENT:
+Epithelial ovarian carcinoma and ovarian carcinosarcoma are excluded by the histopathologic finding of a pure high-grade spindle cell sarcoma arising within a teratoma. MPNST is excluded by S100 negativity and SMA positivity. The combination of high-grade spindle cell sarcoma, SMA positivity, S100 negativity, and background teratoma with malignant transformation confirms Ovarian leiomyosarcoma arising from a mature cystic teratoma.
+
+FINAL DIAGNOSIS: Ovarian leiomyosarcoma arising from a mature cystic teratoma (teratoma with malignant transformation)
+
+CASE: M087
+
+KEY FINDINGS:
+
+Postoperative histopathology showing downward mucosal proliferation into the submucosal layer with hyperplastic crypt epithelium: Pathognomonic histological hallmark of a gastric inverted hyperplastic polyp (IHP).
+
+Submucosal tumor (SMT)-like protruding gastric lesion (26 mm near the EG junction) with high internal echoes on EUS and early enhancement matching the gastric wall on CT: Classic endoscopic and imaging mimic of a submucosal tumor (e.g., GIST or IFP) caused by inverted mucosal glands expanding the submucosa.
+
+History of H. pylori-induced chronic gastritis and prior endoscopic impression of a hyperplastic polyp: Chronic mucosal inflammation/gastritis is a well-recognized background factor for hyperplastic and inverted hyperplastic polyps.
+
+Sparse spindle cells with no eosinophil infiltration on final pathology (despite FNA suggesting IFP) and DOG1/S100 negativity: Rules out inflammatory fibroid polyp (IFP), GIST, and schwannoma.
+
+DIFFERENTIAL:
+
+Gastric inverted hyperplastic polyp (IHP)
+
+Inflammatory fibroid polyp (IFP)
+
+Gastrointestinal stromal tumor (GIST)
+
+Ectopic pancreas / Gastric duplication cyst
+
+EVIDENCE FOR AND AGAINST:
+
+Gastric inverted hyperplastic polyp (IHP):
+
+For: Directly confirmed by postoperative histology showing downward mucosal proliferation into the submucosa with hyperplastic crypt epithelium; classic SMT-like lobulated appearance on gastroscopy/EUS with high internal echoes; CT attenuation similar to the gastric wall; history of chronic H. pylori gastritis and prior hyperplastic polyp diagnosis.
+
+Against: Rare lesion that frequently mimics mesenchymal submucosal tumors on EUS and FNA prior to resection.
+
+Inflammatory fibroid polyp (IFP):
+
+For: Submucosal-appearing protruding gastric lesion; initial FNA showed spindle cells (SMA+, DOG1-, S100-) suggesting IFP.
+
+Against: Final pathology showed only sparse spindle cells with no eosinophil infiltration (eosinophilic infiltrate and onion-skin perivascular fibrosis are hallmarks of IFP) and demonstrated downward hyperplastic mucosal proliferation.
+
+Gastrointestinal stromal tumor (GIST):
+
+For: 26-mm well-defined submucosal-like gastric mass near the EG junction.
+
+Against: DOG1 negative on FNA, high internal echoes on EUS (GISTs are typically hypoechoic), and final pathology shows inverted hyperplastic mucosal epithelium rather than a mesenchymal spindle-cell neoplasm.
+
+Ectopic pancreas / Gastric duplication cyst:
+
+For: Submucosal-appearing gastric lesion near the EG junction.
+
+Against: Final histology shows downward proliferation of hyperplastic gastric crypt epithelium into the submucosa, with no pancreatic acini/ducts or duplicate muscular wall.
+
+EXCLUSIONS AND COMMITMENT:
+GIST is excluded by DOG1 negativity, hyperechoic EUS features, and absence of a neoplastic spindle-cell mass on resection. Inflammatory fibroid polyp is excluded by the absence of eosinophil infiltration and the presence of only sparse spindle cells on final pathology. Ectopic pancreas and duplication cyst are excluded by histology. The definitive postoperative finding of downward proliferation of hyperplastic crypt epithelium into the submucosa confirms Gastric inverted hyperplastic polyp.
+
+FINAL DIAGNOSIS: Gastric inverted hyperplastic polyp
+
+CASE: M088
+
+KEY FINDINGS:
+
+Occipital/parieto-occipital focal seizure semiology: Blurred vision (visual aura) followed by bilateral horizontal nystagmus (ictal/epileptic nystagmus) and brief (15-second) clonic movements of the right extremities with retained consciousness, correlating with right occipital-posterior temporal-parietal epileptiform discharges on EEG.
+
+Brain MRI showing a bulging cortical gyrus lesion in the right parieto-occipital lobe (T1 isointense, slightly T2/FLAIR hyperintense) with perifocal edema: Identifies a structural epileptogenic cortical neoplasm in a 5-year-old boy, specifically raising DNET vs. diffuse glioma.
+
+Preserved neurological exam, normal interictal functioning, and recurrent/persistent focal seizures despite intermittently normal EEGs: Classic clinical profile of a pediatric long-term epilepsy-associated tumor (LEAT).
+
+DIFFERENTIAL:
+
+Dysembryoplastic neuroepithelial tumor (DNET)
+
+Pediatric-type diffuse low-grade glioma (e.g., diffuse astrocytoma)
+
+Ganglioglioma
+
+Focal cortical dysplasia (FCD)
+
+EVIDENCE FOR AND AGAINST:
+
+Dysembryoplastic neuroepithelial tumor (DNET):
+
+For: Classic pediatric age (5 years) presenting with recurrent focal seizures (here, occipital lobe epilepsy with epileptic nystagmus) and a completely normal neurological examination; cortically based "bulging gyrus" morphology on MRI with T2/FLAIR hyperintensity; explicitly favored on MRI interpretation.
+
+Against: Presence of mild cerebral edema on CT and perifocal edema on MRI is atypical for classic DNET (which usually lacks significant mass effect or perilesional edema, though transient peri-ictal edema can occur with frequent seizures); no histopathological confirmation is provided.
+
+Pediatric-type diffuse low-grade glioma:
+
+For: Pediatric cortical/subcortical lesion in the parieto-occipital lobe, T1 isointense and slightly T2/FLAIR hyperintense, presenting with focal seizures; perifocal edema and mild mass effect/bulging gyrus are more commonly seen in diffuse gliomas than in DNET; explicitly listed as an MRI differential.
+
+Against: Often more infiltrative with less sharply defined gyral expansion, and lacks biopsy/molecular confirmation to distinguish it definitively from DNET.
+
+Ganglioglioma:
+
+For: Common pediatric long-term epilepsy-associated tumor (LEAT) causing recurrent focal seizures with a normal neurological exam and T2/FLAIR hyperintense cortical lesion.
+
+Against: Typically shows a cyst with an enhancing mural nodule or calcifications on CT/MRI, neither of which is described here.
+
+Focal cortical dysplasia (FCD):
+
+For: Common cause of drug-resistant/recurrent focal occipital seizures in young children with T2/FLAIR hyperintensity and cortical thickening/bulging gyrus.
+
+Against: Perifocal edema on MRI and mild cerebral edema on CT favor a neoplastic lesion (DNET or glioma) over a pure malformation of cortical development.
+
+EXCLUSIONS AND COMMITMENT:
+Focal cortical dysplasia is excluded as the primary diagnosis because the presence of a bulging mass-like lesion with perifocal edema on MRI and mild cerebral edema on CT points to a neoplasm rather than an isolated cortical malformation. Ganglioglioma is less likely given the absence of typical cystic components, calcifications, or an enhancing mural nodule. Between the two MRI-favored neoplasms (DNET and diffuse glioma), the clinical picture of a 5-year-old with an unremarkable neurological exam, retained consciousness, and recurrent focal occipital seizures (with visual aura and epileptic nystagmus) caused by a cortically based bulging gyrus lesion aligns most closely with Dysembryoplastic neuroepithelial tumor (DNET) (presenting with symptomatic occipital lobe epilepsy), while acknowledging diffuse low-grade glioma as the primary histologic differential pending surgical pathology.
+
+FINAL DIAGNOSIS: Dysembryoplastic neuroepithelial tumor (DNET) (presenting with occipital lobe epilepsy / epileptic nystagmus)

@@ -1,0 +1,23 @@
+CASE: M017
+FINAL DIAGNOSIS: Cecal adenocarcinoma (moderately differentiated, pT3N0M0) presenting as acute appendicitis
+
+CASE: M018
+FINAL DIAGNOSIS: Primary hyperparathyroidism due to an ectopic (retroesophageal/paraesophageal) parathyroid adenoma
+
+CASE: M019
+FINAL DIAGNOSIS: Insulinoma (well-differentiated grade 1 pancreatic neuroendocrine tumor of the uncinate process)
+
+CASE: M020
+FINAL DIAGNOSIS: Mesenteric desmoid-type fibromatosis mimicking GIST recurrence
+
+CASE: M021
+FINAL DIAGNOSIS: Infective endocarditis (culture-negative) of the mitral valve on underlying mitral valve prolapse, with cardioembolic ischemic stroke and post-thrombolysis hemorrhage
+
+CASE: M022
+FINAL DIAGNOSIS: Recurrent virus-triggered rhabdomyolysis associated with variants in an Emery-Dreifuss muscular dystrophy gene (possible EDMD-spectrum myopathy)
+
+CASE: M023
+FINAL DIAGNOSIS: Gastroduodenal artery pseudoaneurysm secondary to peptic ulcer disease, causing recurrent upper GI hemorrhage
+
+CASE: M024
+FINAL DIAGNOSIS: Breast hamartoma (fibroadenolipoma)

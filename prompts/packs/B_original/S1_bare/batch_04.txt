@@ -1,0 +1,140 @@
+You will be given 8 clinical cases. Use only the information in each case. Do not search the web or use any tools. Answer all 8 cases, in order, and use exactly the output format below for every case.
+
+Give the most likely final diagnosis for each case.
+
+Output format for every case:
+CASE: <case id>
+FINAL DIAGNOSIS: <diagnosis>
+
+=== CASE M025 ===
+- **Patient Information:** 39-year-old woman with long-standing high myopia.
+- **Chief Complaint:** Visual field constriction.
+- **History of Present Illness:** Peripheral visual field constriction present for 20 years, worsened in the past two months. Associated with morning headaches, pulsatile tinnitus, and intermittent periocular pain.
+- **Past Medical History:** Well-controlled diabetes mellitus, hyperlipidemia, and chronic migraine.
+- **Personal History:** None.
+- **Family History:** None.
+- **Physical Examination:** Body mass index of 30.14 kg/m², normal blood pressure, and normal cranial nerve function. Ocular examination revealed best-corrected visual acuity reduced to 20/30 (right eye) and 20/50 (left eye) with significant myopic refractive error. Elevated intraocular pressure of 23 mmHg (right) and 25 mmHg (left), and constricted visual fields bilaterally.
+- **Ancillary Tests:** 
+  - Fundus photography showed high myopia features (tilted disc, peripapillary atrophy) but no identifiable disc swelling.
+  - Optical coherence tomography (OCT) showed normal peripapillary retinal nerve fiber layer (RNFL) thickness.
+  - Normal macular structures and electroretinography.
+  - MRI and magnetic resonance venography: no abnormalities in brain or optic nerve.
+  - Cerebrospinal fluid analysis: elevated opening pressure (27.2 cm H₂O), confirming increased intracranial pressure; normal cellular and biochemical CSF findings.
+  - Laboratory tests: normal, including autoimmune serologies and antibody panels.
+
+=== CASE M026 ===
+- Patient Information: 35-year-old male.
+- Chief Complaint: Abdominal pain with no associated urinary symptoms.
+- History of Present Illness: Nonspecific abdominal pain diagnosed via imaging as a renal cyst.
+- Past Medical History: None.
+- Personal History: None.
+- Family History: None.
+- Physical Examination: Abdominal and genital examinations were unremarkable.
+- Ancillary Tests:
+  - **Laboratory Results**: Normal.
+  - **Imaging**:
+    - CT scan: Right kidney lesion appeared homogenous, hypodense without enhancement, classified as Bosniak class 1 (22 × 27 × 18.6 mm).
+    - Ultrasound: Hyperechoic lesion in the left lower pole parenchyma (26 × 18 × 27 mm).
+    - MRI: Parenchymal lesion in the right kidney lower pole (25 × 19.6 × 22 mm) with internal nodular enhancement, classified as Bosniak class 4.
+  - **Histopathology**: Tumor with multicystic architecture surrounded by fibrotic hypocellular stroma. Features of MEST, AMLEC, ACD-RCC, and oncocytoma were excluded based on microscopic architecture and clinical context.
+
+=== CASE M027 ===
+- **Patient Information:** 25-year-old male.
+- **Chief Complaint:** Lower urinary tract symptoms (LUTS), predominantly progressive worsening of voiding symptoms for 6 months.
+- **History of Present Illness:** Progressive urinary obstruction symptoms. No history of sexually transmitted infections (STIs), urethral trauma, or medication use.
+- **Past Medical History:** None.
+- **Personal History:** None relevant provided.
+- **Family History:** None provided.
+- **Physical Examination:** External genitalia examination was unremarkable.
+- **Ancillary Tests:** 
+  - Uroflowmetry: Reduced maximum flow rate of 4 mL/s.
+  - Urethral catheterization: Unsuccessful with a 6Fr catheter.
+  - Retrograde urethrocystography: Revealed stenotic segment in the bulbar urethra.
+  - Urethrocystoscopy: Found an annular stenosis in the bulbar urethra and a polypoid lesion behind the stenotic segment.
+  - Histological examination post-resection: Confirmed fibroepithelial polyp.
+  - Follow-up uroflowmetry after treatment: Maximum flow rate improved to 28 mL/s.
+
+---
+
+=== CASE M028 ===
+- Patient Information: 48-year-old premenopausal woman.
+- Chief Complaint: Abdominal discomfort, dyspareunia, pelvic bloating, pressure, and abnormal uterine bleeding.
+- History of Present Illness: Gastrointestinal workup in August 2023 revealed a large pelvic mass. CT imaging showed a 16.1 x 13.4 cm adnexal mass with mild hydronephrosis, ascites, omental induration, and pelvic sidewall lesions.
+- Past Medical History: None mentioned.
+- Personal History: None mentioned.
+- Family History: No germline mutations in MMR genes (negative for Lynch syndrome).
+- Physical Examination: Palpable large posterior cul-de-sac mass with limited mobility.
+- Ancillary Tests: 
+  - Imaging: CT abdomen/pelvis.
+  - Lab Workup: CA-125 of 5,240 U/mL, CA 19-9 of 2,426 U/mL.
+  - Pathology: Exploratory laparotomy showed right adnexal 20 cm mass, retroperitoneal fibrosis, and appendiceal thickening. Final pathology reported stage IIIB ovarian endometrioid adenocarcinoma with ovarian and appendiceal involvement and synchronous stage IA endometrial endometrioid adenocarcinoma with superficial myometrial invasion.
+  - Molecular Testing: NGS showed shared mutations (e.g., MSH6 hotspot mutation, MSI-H, high tumor mutation burden in ovary compared to uterus). Clonality demonstrated between ovarian and uterine tumors, identifying the ovarian tumor as metastatic from the endometrial primary.
+
+=== CASE M029 ===
+- **Patient Information**: 29-year-old woman.
+- **Chief Complaint**: Prolonged fever (>38.5°C), posterior neck pain, limb numbness, and subcutaneous masses post-transplantation.
+- **History of Present Illness**: 
+  - Initially presented with prolonged fever resistant to antibiotics. Diagnosed with EBV-HLH and treated with DEP chemotherapy. Achieved complete remission (CR).
+  - Underwent haploidentical HSCT from her father in February 2020 with prophylaxis against GVHD. Developed grade II acute GVHD, which resolved with treatment. Maintained complete donor chimerism post-transplant.
+  - At 11 months post-transplantation, developed posterior neck pain and limb numbness. Spine MRI showed spinal cord swelling. EBV DNA was positive in plasma, PBMCs, and CSF, leading to a clinical diagnosis of EBV-positive lymphoid proliferations and lymphomas arising in post-transplantation (B cell lineage). Treated with Rituximab-based regimen and achieved remission.
+  - At 17 and 21 months post-transplantation, presented with subcutaneous masses. Biopsy revealed EBV-positive NK/T cells. Diagnosed with NK/T cell lymphoma arising in post-transplantation. Treated with chemotherapy (L-GDP plus PD-1 inhibitor) and achieved CR.
+- **Past Medical History**: None.
+- **Personal History**: No predisposing genetic factors as per WES.
+- **Family History**: None.
+- **Physical Examination**:
+  - Post-fever: Enlarged bilateral lymph nodes.
+  - Post-spinal involvement: No lymphadenopathy. Positive sensory complaints.
+  - Post-masses: Subcutaneous lumps on extremities.
+- **Ancillary Tests**:
+  - Initial phase: Elevated sCD25, hypertriglyceridemia, hypofibrinogen, EBV DNA positivity in plasma and PBMCs, and bone marrow hemophagocytosis.
+  - Post-transplantation: Positive CSF EBV DNA for spinal involvement. PET/CT showed widespread metabolic activity for masses. Biopsy confirmed EBV-positive NK/T cells in subcutaneous lesions.
+
+=== CASE M030 ===
+- **Patient Information:** 71-year-old male 
+- **Chief Complaint:** Fever, asthenia, and confusion.
+- **History of Present Illness:** Three-day history of fever (up to 38 °C), asthenia, and confusion. Two months prior, the patient experienced a self-limiting five-day episode of diarrhea.
+- **Past Medical History:** Advanced lung cancer with bone and liver metastases, bilateral pleural effusion, hypertension, and benign prostatic hypertrophy. Ten days prior to presentation, the patient had undergone pleural drainage.
+- **Personal History:** Denied recent travel. Was undergoing alectinib therapy for lung cancer.
+- **Family History:** None provided.
+- **Physical Examination:** Febrile (38.5 °C), blood pressure 110/60 mmHg, heart rate 90 bpm, oxygen saturation 98% on room air.
+- **Ancillary Tests:**  
+  - Laboratory findings: WBC count 23,900/mm³ (92.1% neutrophils), hemoglobin 8.9 g/dL, platelets 563,000/mm³, CRP 12.6 mg/dL, procalcitonin 2.04 ng/mL, creatinine 1.17 mg/dL, GGT 225 U/L, AST 21 U/L, ALT 25 U/L.  
+  - Blood cultures positive for Vibrio cholerae (non-O1/non-O139 serogroup).  
+  - Stool samples positive for Vibrio cholerae on a FilmArray gastrointestinal panel.  
+  - Pleural drainage culture was negative.
+
+=== CASE M031 ===
+- **Patient Information:** 55-year-old female  
+- **Chief Complaint:** Chronic abdominal pain  
+- **History of Present Illness:** Diffuse, intermittent abdominal pain, nausea, and anorexia persisting for approximately 2 weeks with progressive worsening.  
+- **Past Medical History:** None reported  
+- **Personal History:** None relevant reported  
+- **Family History:** Not mentioned  
+- **Physical Examination:** Alert, cooperative, normal body weight; 37°C body temperature; abdominal tenderness in the epigastric and periumbilical regions, no palpable masses. Other systems were unremarkable.  
+- **Ancillary Tests:**  
+  - Initial ultrasound revealed a large perigastric mixed echoic mass within the peritoneum.  
+  - Contrast-enhanced CT showed a large necrotic peritoneal mass infiltrating adjacent fat, adhering to the stomach, pancreas, and transverse colon, with no evidence of metastasis.  
+  - Surgery and intraoperative pathological examination revealed a nonmalignant, well-vascularized mass requiring segmental colectomy and partial gastrectomy. Definitive histology confirmed mesenteric inflammatory pseudotumor.  
+  - Follow-up: 1 year post-surgery showed no recurrence clinically or via imaging.
+
+=== CASE M032 ===
+- **Patient Information**: Two female patients (51 and 52 years old) who presented with distinct symptoms.
+- **Chief Complaint**: 
+  - Case 1: Progressive headaches and blurred vision.
+  - Case 2: Prolonged right-sided pulsatile tinnitus.
+- **History of Present Illness**:
+  - Case 1: Symptoms worsened despite medical therapy for IIH; developed new left-sided headaches, tinnitus, and hearing changes post-VSS.
+  - Case 2: Developed intermittent right-sided headaches radiating to the back of the head a week prior, after initial resolution of symptoms post-VSS.
+- **Past Medical History**:
+  - Case 1: Migraines, hypertension, rheumatoid arthritis, prior DVT and PE, nephrolithiasis.
+  - Case 2: Migraines, depression, prediabetes.
+- **Personal History**:
+  - Case 1: Nonsmoker; BMI of 31.
+  - Case 2: No significant personal history.
+- **Family History**: None stated for either case.
+- **Physical Examination**:
+  - Case 1: Neuro-ophthalmic exam revealed optic disc edema (Frisén grade 2); OCT findings consistent with papilledema.
+  - Case 2: Not specifically detailed in the report.
+- **Ancillary Tests**:
+  - Case 1: MRI/MRV showed left transverse sinus stenosis without thrombosis. Elevated CSF opening pressure (34 cm H2O). Post-VSS angiogram displayed a Cognard type 1 DAVF successfully obliterated with Onyx™ embolization.
+  - Case 2: Initial angiogram evidenced right transverse-sigmoid sinus stenosis with a pressure gradient. Follow-up angiogram revealed a Cognard type 1 DAVF that was successfully treated with Onyx™ embolization.

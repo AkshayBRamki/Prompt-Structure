@@ -1,0 +1,31 @@
+CASE: M113
+REASONING: The patient has six months of cough and dyspnea, restrictive physiology with reduced diffusion capacity, and hypoxemia with a widened A-a gradient. The CT shows a classic crazy-paving pattern. BAL fluid was milky white, and biopsy showed granular eosinophilic, PAS-positive material filling the alveoli. Elevated LDH, CEA and Cyfra21-1 are typical surrogate markers of alveolar proteinosis. The borderline-positive anti-GM-CSF antibody supports an autoimmune (or infection-associated secondary) form. A positive bacterial culture from the biopsy in a patient on steroids points to a superimposed opportunistic infection. Nocardia is the classic organism associated with PAP, and it fits the lack of response to the antibiotics used.
+FINAL DIAGNOSIS: Pulmonary alveolar proteinosis (likely autoimmune, GM-CSF antibody–associated) complicated by opportunistic pulmonary infection, most likely Nocardia.
+
+CASE: M114
+REASONING: The right lung is hypoplastic, with volume loss, dextroposition of the heart, a hypoplastic right pulmonary artery and abnormal bronchial branching (bilobed, hyparterial bronchus). The right lung drains through an anomalous vein into the infradiaphragmatic IVC, and the right lower lobe has a systemic arterial supply from the abdominal aorta. This constellation is congenital venolobar syndrome.
+FINAL DIAGNOSIS: Scimitar syndrome (hypogenetic lung / congenital pulmonary venolobar syndrome) with partial anomalous pulmonary venous return to the IVC.
+
+CASE: M115
+REASONING: She is a peripartum woman at 36 weeks with known risk factors: twin pregnancy and pre-eclampsia. After caesarean section she developed new heart failure, with pulmonary edema, cardiomegaly and markedly elevated BNP. Echo shows LV systolic dysfunction with an EF of 41% (below 45%). Pulmonary embolism was excluded, and the mildly elevated troponin and sinus rhythm fit cardiomyopathy rather than an acute coronary syndrome. New LV dysfunction near delivery, with no other cause, meets the definition.
+FINAL DIAGNOSIS: Peripartum cardiomyopathy (with acute pulmonary edema), in the setting of pre-eclampsia and twin pregnancy.
+
+CASE: M116
+REASONING: She has had documented hypoglycemia (under 60 mg/dL) with symptoms since adolescence, in both postprandial and fasting states, triggered by exertion, heat and meals. Fasting studies show appropriately suppressed insulin, proinsulin and C-peptide with appropriate ketogenesis, which excludes insulinoma and other hyperinsulinemic causes. Cortisol is normal, imaging is unremarkable, and there is no malnutrition, celiac disease or prior GI surgery. The seizure-like episodes are nonepileptic. She has hEDS with dysautonomia and POTS, conditions in which autonomic dysregulation of glucose counter-regulation has been described.
+FINAL DIAGNOSIS: Non-insulin-mediated (reactive and fasting) hypoglycemia associated with hypermobile Ehlers-Danlos syndrome and dysautonomia.
+
+CASE: M117
+REASONING: A young woman has bilateral, fairly rapid, painless vision loss with night blindness, photopsia and field constriction over one year. The exam shows attenuated vessels and disc pallor but no bony spicules, which argues against typical retinitis pigmentosa. Angiography shows vasculitic leakage and perivascular staining. OCT shows outer retinal and photoreceptor loss, and the ERG is electronegative. Infectious serology is negative and the PET scan excludes malignancy (no paraneoplastic source). She progressed despite antivirals and steroids. This picture fits a non-paraneoplastic autoimmune retinopathy.
+FINAL DIAGNOSIS: Non-paraneoplastic autoimmune retinopathy.
+
+CASE: M118
+REASONING: He has progressive oral and facial pain with facial numbness and dysgeusia, suggesting cranial nerve involvement from a skull base mass. Imaging shows multiple lytic lesions plus an extramedullary skull base mass. Labs show a monoclonal IgG-kappa protein and an elevated kappa free light chain ratio. The bone marrow shows two processes: a CD5+/CD23+ CLL/SLL and a clonal plasma cell neoplasm with a 13q14 deletion. The skull mass is clonally distinct from the CLL, which supports a plasma cell origin rather than Richter transformation.
+FINAL DIAGNOSIS: Multiple myeloma with extramedullary skull base plasmacytoma, coexisting with chronic lymphocytic leukemia/small lymphocytic lymphoma (synchronous composite neoplasms).
+
+CASE: M119
+REASONING: The baby is a preterm newborn whose mother had inadequately treated gestational syphilis. The infant's RPR titer is high (1:128). Long-bone films show metaphyseal radiolucent transverse bands with sclerotic lines, irregular metaphyseal borders and an osteolytic metaphyseal lesion, which are typical of syphilitic osteochondritis and metaphysitis. These bone changes count as clinical disease even though she has no other symptoms.
+FINAL DIAGNOSIS: Early congenital syphilis with skeletal involvement (syphilitic metaphysitis/osteochondritis).
+
+CASE: M120
+REASONING: She presented with acute abdominal pain and vomiting and had a mobile mid-abdominal/right iliac fossa mass. CT showed no spleen in its normal location, a whirlpool sign of twisted splenic vessels, and a non-enhancing lesion, which indicates infarction. At surgery an ectopic spleen with a 720° pedicle torsion was found and removed.
+FINAL DIAGNOSIS: Wandering (ectopic) spleen with torsion of the vascular pedicle and splenic infarction.

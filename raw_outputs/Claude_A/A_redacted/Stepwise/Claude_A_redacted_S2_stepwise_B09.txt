@@ -1,0 +1,31 @@
+CASE: M065
+REASONING: A young woman has a lower midline abdominal mass that grew over 3 months, with fever, weight loss and leukocytosis, and eventually ruptured and drained pus and blood. Ultrasound shows a semi-solid mass with vascularized edges, which fits an abscess wall. On CT the lesion is connected to the umbilicus and to the anterosuperior (dome) part of the bladder, which is the course of the urachus. The abscess extends into the muscle and subcutis of the abdominal wall, consistent with infection that spontaneously drained. A urachal remnant that becomes infected in adulthood typically presents exactly like this. Urachal carcinoma is the main differential, given the weight loss, but the abscess features favor infection.
+FINAL DIAGNOSIS: Infected urachal cyst (urachal abscess) with extension into the abdominal wall.
+
+CASE: M066
+REASONING: A woman from a rural area with dog contact has multilocular cystic liver lesions in segments IVb and VII, which points to hepatic hydatid (Echinococcus granulosus) cysts. She has acute fever, right upper quadrant guarding and a palpable, distended gallbladder with a thickened wall, which is acute cholecystitis. Gas inside the gallbladder lumen indicates emphysematous cholecystitis. Cholangiography excluded a fistula between the cyst and the gallbladder but showed the segment IV cyst communicating with the bile ducts.
+FINAL DIAGNOSIS: Acute emphysematous cholecystitis associated with hepatic hydatid cysts (cystic echinococcosis) with cysto-biliary communication.
+
+CASE: M067
+REASONING: A young dog has stiffness after startle or when starting to move, generalized muscle hypertrophy, easily induced myotonia, and a warm-up phenomenon (stiffness eases with repeated movement). EMG shows myotonic "wax and wane" discharges. The genetic mutation truncates a chloride channel protein, which means the CLCN1 gene. The heterozygous mother and littermates have no signs, so the inheritance is autosomal recessive.
+FINAL DIAGNOSIS: Myotonia congenita (CLCN1-related chloride channelopathy, autosomal recessive).
+
+CASE: M068
+REASONING: The newborn has jaundice within the first 24 hours and high unconjugated bilirubin. Hemoglobin falls from 142 to 112 g/L and two exchange transfusions were needed, so there is significant hemolysis. Immune causes (Coombs tests, ABO and Rh incompatibility) were negative, as were G6PD deficiency, hemoglobinopathy, unstable hemoglobin (Heinz bodies) and red-cell enzyme defects. That leaves a red-cell membrane defect. A heterozygous nonsense mutation (c.82C>T, which creates a premature stop codon) fits an autosomal dominant membrane disorder.
+FINAL DIAGNOSIS: Hereditary spherocytosis (red-cell membrane defect from a heterozygous mutation, e.g., in SPTB or ANK1) causing severe neonatal hemolytic jaundice.
+
+CASE: M069
+REASONING: A 55-year-old man has fever, weight loss, a large right hilar/mediastinal mass and a lymphocytic exudative pleural effusion. TB was ruled out (AFB and GeneXpert negative, despite the borderline ADA). The skin darkening and thickening suggests a paraneoplastic skin process such as acanthosis nigricans. CD15 positivity points to Reed–Sternberg cells. The CD20 and CD3 staining likely reflect the mixed background of B and T cells, and the high Ki-67 fits lymphoma.
+FINAL DIAGNOSIS: Classical Hodgkin lymphoma (mediastinal/hilar) with pleural effusion and paraneoplastic skin changes.
+
+CASE: M070
+REASONING: The swelling recurred at the site of an enchondroma treated 7 years earlier. X-ray shows a lytic diaphyseal lesion. Histology shows a cellular neoplasm with chondroid matrix, spindle cells, necrosis and mitoses, which are features of malignancy. S-100 is positive, confirming cartilage origin, and Ki-67 is 10%. This represents malignant transformation of the enchondroma.
+FINAL DIAGNOSIS: Secondary chondrosarcoma of the proximal phalanx arising from a previous enchondroma.
+
+CASE: M071
+REASONING: A child of consanguineous parents has slowly progressive spastic ataxia over 3 years, with pyramidal signs and no sensory deficits. MRI shows diffuse, symmetric white matter abnormality above and below the tentorium, with cystic degeneration in the periventricular white matter, no contrast enhancement and no diffusion restriction. This pattern points to a genetic leukoencephalopathy with white matter rarefaction. Diffuse symmetric involvement plus cystic degeneration is characteristic of vanishing white matter disease, which is autosomal recessive (EIF2B genes).
+FINAL DIAGNOSIS: Vanishing white matter disease (childhood ataxia with central hypomyelination, an EIF2B-related leukoencephalopathy).
+
+CASE: M072
+REASONING: A patient with known multiple myeloma has a new hypermetabolic soft tissue mass around his port that was absent on PET a year earlier. New bone lesions show disease progression. The excised mass contains atypical plasma cells with kappa light chain restriction, which is a monoclonal plasma cell tumor outside the bone marrow at the port site.
+FINAL DIAGNOSIS: Extramedullary plasmacytoma at the implanted venous port site (soft-tissue extramedullary spread of progressive multiple myeloma).

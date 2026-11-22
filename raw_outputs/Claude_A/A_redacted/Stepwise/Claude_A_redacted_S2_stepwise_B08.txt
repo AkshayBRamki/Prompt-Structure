@@ -1,0 +1,31 @@
+CASE: M057
+REASONING: A 55-year-old man has a hard, painful, well-demarcated hyperechoic mass in the right lower testicular pole, with microlithiasis on ultrasound. Normal AFP and β-hCG with negative SALL4 and OCT4 argue against a germ cell tumor. Positive vimentin and calretinin with weak CD99 point to a sex cord–stromal tumor. Negative inhibin makes a Leydig cell tumor less likely, and Sertoli cell tumors are often inhibin-negative or variable. Negative D2-40 argues against an adenomatoid tumor or mesothelioma. The hyperechoic, calcified-appearing lesion fits a Sertoli-lineage tumor. The small left epididymal tail lesion was consistent with a benign spermatocele.
+FINAL DIAGNOSIS: Sertoli cell tumor of the right testis (with an incidental benign left epididymal spermatocele).
+
+CASE: M058
+REASONING: An 89-year-old man with Waldenström macroglobulinemia has subacute heart failure symptoms: dyspnea, orthopnea, PND, edema and pulmonary congestion. Imaging shows a moderate-to-large pericardial effusion, bilateral pleural effusions and prominent lymph nodes. There are no clinical or ECG signs of tamponade (no pulsus paradoxus, electrical alternans or low voltage), and the effusion was drained by pericardiocentesis. Fluid cytology was negative, but serosal effusions are a recognized, though uncommon, manifestation of WM through lymphoplasmacytic infiltration or cytokine and paraprotein effects. Cytology often misses this. No infectious, uremic-tamponade or other malignant cause is evident. The serositis plus lymphadenopathy best fits WM involvement.
+FINAL DIAGNOSIS: Large pericardial effusion secondary to Waldenström macroglobulinemia, with polyserositis and heart failure.
+
+CASE: M059
+REASONING: A young man has a very slowly growing, painless, well-circumscribed medial orbital mass. It is extraconal with intraconal extension and displaces the globe down and out. On MRI it is isointense to muscle on T1 and enhances homogeneously. Histology shows a bland spindle-cell tumor with cigar-shaped nuclei and no mitoses or necrosis. SMA and desmin are positive, indicating smooth muscle differentiation. Negative S100 excludes schwannoma and neurofibroma, and negative CD34 excludes solitary fibrous tumor. Bland features favor a benign tumor over leiomyosarcoma.
+FINAL DIAGNOSIS: Orbital leiomyoma.
+
+CASE: M060
+REASONING: A woman on warfarin with a supratherapeutic INR has fever and headache. Imaging shows a ring-enhancing, cystic, hemorrhagic lesion with an air-fluid level, meaning a gas-forming organism. CSF shows pleocytosis, high protein and relatively low glucose, which fits a parenchymal abscess. CRP and WBC are low. No contiguous source (sinusitis, dental) or endocardial source was found. Anaerobic culture suggested Clostridium, and molecular sequencing identified the species. A gas-producing Clostridium causing a hemorrhagic abscess most commonly means C. perfringens.
+FINAL DIAGNOSIS: Gas-forming hemorrhagic brain abscess caused by Clostridium species (most likely Clostridium perfringens).
+
+CASE: M061
+REASONING: A 2-year-old had an unwitnessed event, probably being pulled or lifted by the arms, and now has bilateral flaccid "pseudoparalysis" of the arms. Sensation is intact, there is no bony tenderness or deformity, and all radiographs and CT are negative. Reduction by supination and flexion produced palpable clicks and restored function immediately. That is diagnostic.
+FINAL DIAGNOSIS: Bilateral radial head subluxation (bilateral nursemaid's elbow).
+
+CASE: M062
+REASONING: An elderly woman fell from standing and was first diagnosed with a left pubic symphysis fracture. She had disproportionate, persistent pain four days later. Repeat X-ray and CT then showed a left femoral neck fracture that was missed or occult on the first films. She was treated with hemiarthroplasty. Concomitant pelvic ring and femoral neck fractures can occur in low-energy falls, and the obvious pelvic fracture can distract from an occult hip fracture.
+FINAL DIAGNOSIS: Initially occult (missed) left femoral neck fracture with a concomitant left pubic fracture after a ground-level fall, treated with hemiarthroplasty.
+
+CASE: M063
+REASONING: The fetus has grade 3 echogenic bowel from mid-gestation and progressive bowel dilation reaching 21 mm, suggesting distal intestinal obstruction. Aneuploidy is unlikely given negative first-trimester screening and low-risk NIPT. Congenital infection is unlikely given normal TORCH serology. The cardiac scan is normal. The leading remaining cause of echogenic bowel with obstruction is cystic fibrosis causing meconium ileus.
+FINAL DIAGNOSIS: Cystic fibrosis with meconium ileus (fetal bowel obstruction).
+
+CASE: M064
+REASONING: A middle-aged Mediterranean man has a rapidly growing, painless purple cutaneous nodule. The earlier "pyogenic granuloma" on his finger may have been an early lesion of the same process. He is HIV-negative with normal immune subsets and has no visceral or mucosal disease. Histology shows a vascular tumor with strong HHV-8 and CD31 staining, which is diagnostic of Kaposi sarcoma. HIV-negative status, no immunosuppression and Mediterranean origin indicate the classic type.
+FINAL DIAGNOSIS: Classic (HIV-negative) Kaposi sarcoma, nodular cutaneous type.

@@ -1,0 +1,23 @@
+CASE: M033
+FINAL DIAGNOSIS: Neuralgic amyotrophy (Parsonage-Turner syndrome) secondary to dengue virus infection
+
+CASE: M034
+FINAL DIAGNOSIS: Secondary facial nerve palsy (Case 1: right cerebellopontine angle arachnoid cyst; Case 2: neurovascular compression of CN VII and VIII by an anterior inferior cerebellar artery vascular loop; Case 3: Lyme neuroborreliosis)
+
+CASE: M035
+FINAL DIAGNOSIS: Reactive arthritis secondary to Chlamydia trachomatis infection
+
+CASE: M036
+FINAL DIAGNOSIS: Ovarian yolk sac tumor (endodermal sinus tumor), FIGO stage Ia
+
+CASE: M037
+FINAL DIAGNOSIS: Disseminated paracoccidioidomycosis
+
+CASE: M038
+FINAL DIAGNOSIS: IDH-mutant astrocytoma, WHO grade 3, associated with Schimmelpenning syndrome
+
+CASE: M039
+FINAL DIAGNOSIS: Metastatic classic biphasic pulmonary blastoma
+
+CASE: M040
+FINAL DIAGNOSIS: Left middle cerebral artery territory ischemic stroke secondary to congenital hypoplasia of the left internal carotid artery

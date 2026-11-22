@@ -1,0 +1,23 @@
+CASE: M025
+FINAL DIAGNOSIS: Idiopathic intracranial hypertension without papilledema (IIHWOP), with papilledema masked by high myopia
+
+CASE: M026
+FINAL DIAGNOSIS: Tubulocystic renal cell carcinoma (right kidney, lower pole)
+
+CASE: M027
+FINAL DIAGNOSIS: Fibroepithelial polyp of the bulbar urethra with associated annular bulbar urethral stricture
+
+CASE: M028
+FINAL DIAGNOSIS: Primary endometrial endometrioid adenocarcinoma (MSI-H/MMR-deficient, MSH6-mutated, non-Lynch) with metastasis to the ovary and appendix
+
+CASE: M029
+FINAL DIAGNOSIS: EBV-positive NK/T-cell lymphoma arising post-transplantation (EBV-associated post-transplant lymphoproliferative disorder), following EBV-HLH and prior EBV-positive B-cell PTLD with CNS involvement
+
+CASE: M030
+FINAL DIAGNOSIS: Non-O1/non-O139 Vibrio cholerae bacteremia (sepsis) of gastrointestinal origin in an immunocompromised patient
+
+CASE: M031
+FINAL DIAGNOSIS: Mesenteric inflammatory pseudotumor (inflammatory myofibroblastic tumor)
+
+CASE: M032
+FINAL DIAGNOSIS: Cognard type I dural arteriovenous fistula developing after venous sinus stenting for idiopathic intracranial hypertension

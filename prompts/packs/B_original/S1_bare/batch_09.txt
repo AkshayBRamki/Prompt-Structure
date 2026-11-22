@@ -1,0 +1,120 @@
+You will be given 8 clinical cases. Use only the information in each case. Do not search the web or use any tools. Answer all 8 cases, in order, and use exactly the output format below for every case.
+
+Give the most likely final diagnosis for each case.
+
+Output format for every case:
+CASE: <case id>
+FINAL DIAGNOSIS: <diagnosis>
+
+=== CASE M065 ===
+- **Patient Information**: 27-year-old woman.
+- **Chief Complaint**: Abdominal lump.
+- **History of Present Illness**: Lump in the lower abdomen present for 3 months, initially marble-sized, progressively enlarged to a fist size, with associated fever. The lump eventually ruptured, releasing pus and blood. Associated symptoms included decreased appetite and weight loss (7 kg in 3 months).
+- **Past Medical History**: None significant, except for a caesarean section in 2018.
+- **Personal History**: None provided.
+- **Family History**: None provided.
+- **Physical Examination**: No fever at the time of examination.
+- **Ancillary Tests**:
+  - Laboratory: Leukocytosis (16,880 cells/ml); other blood, urine, and renal parameters were normal.
+  - Ultrasonography: Heterogeneous hypoechoic, well-defined, semi-solid mass (7.35 × 6.21 × 9.24 cm) in the lower abdomen with vascularized edges.
+  - CT Scan: An isodense lesion connected to the umbilicus with a superoanterior bladder lesion. Features suggest an abscess formation extending to the musculus and subcutis of the lower abdominal wall.
+
+=== CASE M066 ===
+- **Patient Information**: A 30-year-old female from a rural area with a history of contact with dogs.
+- **Chief Complaint**: Right hypochondrium pain and fever.
+- **History of Present Illness**: Symptoms present for 24 hours, including a fever of 39°C and guarding in the right upper quadrant.
+- **Past Medical History**: None provided.
+- **Personal History**: Contact with animals, including dogs.
+- **Family History**: None provided.
+- **Physical Examination**: Febrile (39°C) with right upper quadrant guarding and palpable gallbladder.
+- **Ancillary Tests**: 
+  - Ultrasound: Acute cholecystitis, two multilocular cystic formations in liver segments IVb and VII suggestive of hydatid cysts.
+  - CT: Intravesicular gas with close contact with the segment IV hydatid cyst, suggesting a cholecysto-hydatid fistula. Gallbladder was distended (10 x 5 cm) with a thickened wall (8 mm).
+  - Intraoperative Cholangiography: No evidence of cholecysto-hydatid cyst fistula; segment IV hydatid cyst revealed a cysto-biliary communication.
+
+---
+
+=== CASE M067 ===
+- **Patient Information:** 4-month-old male mixed-breed dog  
+- **Chief Complaint:** Stiff gait after a startle response or sudden movement initiation  
+- **History of Present Illness:** Stiffness and transient motor difficulty since the first months of life, normal growth/behavior otherwise  
+- **Past Medical History:** None  
+- **Personal History:** None  
+- **Family History:** The mother and 4 littermates were evaluated. Except for one wild-type littermate, others carried a copy of the mutated gene, but clinical signs were not observed.  
+- **Physical Examination:** Normal general physical parameters and neurological exam; generalized muscle hypertrophy. Myotonia easily induced during physical activity and upper lip manipulation. Warm-up phenomenon observed.  
+- **Ancillary Tests:**  
+  - **Electromyography (EMG):** Confirmed myotonic discharges (“wax and wane” potentials) in various muscles.   
+  - **Blood Tests:** Normal results.  
+  - **Genetic Testing:** Identified complex mutation c.[1636_1639delinsAACGGG] and c.[1644A>T] in exon 15 of the CLCN1 gene, resulting in a premature stop codon and truncated chloride channel protein (~400 amino acids shorter). Genetic testing revealed heterozygosity in the mother and 3 out of 4 littermates.
+
+=== CASE M068 ===
+- **Patient Information:** Newborn (9 hours and 18 minutes old at admission), born at 38 weeks and 6 days gestation.
+- **Chief Complaint:** Yellowing of the skin for 4 hours.
+- **History of Present Illness:** Progressive jaundice since birth. Laboratory results revealed total bilirubin levels of 271 μmol/L and indirect bilirubin levels of 256.9 μmol/L. No lethargy, reduced feeding, or neurological changes were observed.
+- **Past Medical History:** None.
+- **Personal History:** G3P2, uneventful delivery at 38 + 6 weeks of gestation, birth weight 2,600 g, Apgar scores of 10 at 1, 5, and 10 minutes.
+- **Family History:** 3-year-old sister without specific clinical issues.
+- **Physical Examination:** Yellowing observed on the face, neck, and trunk. No hepatosplenomegaly and normal heart, lungs, abdomen, and neurological examination findings. Vital signs were stable.
+- **Ancillary Tests:**
+  - Direct and indirect anti-human globulin tests, ABO and Rh blood group incompatibility, G6PD testing, hemoglobin electrophoresis, Heinz body test, and erythrocyte metabolism screens were negative.
+  - Whole exome sequencing revealed a heterozygous SPTA1 gene mutation (c.82C>T, exon 2).
+  - Decline in hemoglobin from 142 g/L to 112 g/L and progressive increase in bilirubin to 310.8 μmol/L necessitated two rounds of blood exchange therapy, followed by stabilization.
+
+=== CASE M069 ===
+- **Patient Information:** 55-year-old male, non-smoker with no comorbidities.
+- **Chief Complaint:** Darkening and thickening of skin for two months.
+- **History of Present Illness:** Shortness of breath and dry cough for three days, one episode of evening fever, weight loss, and no prior history of tuberculosis exposure or anti-tuberculosis treatment.
+- **Past Medical History:** None.
+- **Personal History:** Non-smoker, no significant addictions.
+- **Family History:** None.
+- **Physical Examination:** 
+  - Pulse: 108 bpm, Respiratory rate: 22 breaths/min, BP: 136/88 mm Hg, Temperature: 98.7°F.
+  - Chest: Diminished breath sounds in the lower zones (right infra-scapular, infra-axillary areas).
+  - Abdomen: No hepatosplenomegaly. 
+  - No palpable lymph nodes; other systems normal.
+- **Ancillary Tests:**
+  - **Chest X-Ray:** Right homogeneous opacity.
+  - **CT Chest:** Right hilar mass (71 x 39 mm), mild displacement of major vessels, right pleural effusion.
+  - **Pleural Fluid Analysis:** Exudative type, lymphocytic predominant (95%), ADA 53 U/L, no malignant cells, negative for AFB and tuberculosis gene-expert.
+  - **Histopathology (biopsy):** Diffuse large B-cell lymphoma (DLBCL). Immunohistochemistry markers positive for CD20, CD3, CD15, CD45, Ki-67 (65-70%).
+
+=== CASE M070 ===
+- Patient Information: A 28-year-old male.
+- Chief Complaint: Swelling on the proximal phalanx of the fourth finger for three months.
+- History of Present Illness: No fever or weight loss; previous treatment for enchondroma in the same phalanx seven years earlier with k-wire fixation and bone grafting.
+- Past Medical History: History of enchondroma in the same location as the current swelling.
+- Personal History: None.
+- Family History: None.
+- Physical Examination: None reported.
+- Ancillary Tests: 
+  - X-ray: Sclerotic margins and a central diaphyseal lytic lesion in the left fourth finger.
+  - Histopathology: Cellular neoplasm with spindle-shaped cells, chondroid material, necrosis, and mitotic figures.
+  - Immunohistochemistry: 80% positivity for S-100 and 10% positivity for Ki-67 markers.
+  - Post-surgical findings: Tumor involvement in metaphysis and diaphysis with no regional lymph node assessment; all surgical margins negative for the tumor.
+
+=== CASE M071 ===
+- **Patient Information:** A 13-year-old Moroccan boy from consanguineous parents with no prior medical history.
+- **Chief Complaint:** Progressive ataxia for 3 years, recurrent falls, and postural instability.
+- **History of Present Illness:** Progressive difficulty in walking and foot dragging over 3 years.
+- **Past Medical History:** None.
+- **Personal History:** First child of consanguineous parents, normal neonatal period, no developmental delays or regressions, vaccinations up-to-date.
+- **Family History:** No family history of neurological disorders or other significant conditions.
+- **Physical Examination:** Normal vital signs; gait is spastic and unsteady; generalized hypotonia; muscle weakness (3/5 strength); spasticity in lower limbs; brisk and polysynaptic deep tendon reflexes; normal cranial nerve function and no sensory deficits. No dysmorphic features or other systemic abnormalities.
+- **Ancillary Tests:** Normal laboratory findings; MRI findings include:
+  - Diffuse, symmetrical T2 and FLAIR hyperintensities in supratentorial and infratentorial white matter.
+  - Cystic degenerations in periventricular white matter.
+  - Corpus callosum and spinal cord atrophy.
+  - Lack of diffusion restriction or contrast enhancement.
+
+=== CASE M072 ===
+- **Patient Information:** 63-year-old man with a known diagnosis of multiple myeloma presenting with new localized symptoms.
+- **Chief Complaint:** Mildly painful, swollen left chest port site.
+- **History of Present Illness:** Patient had difficulty accessing his totally implantable venous access port (TIVAP), placed 2 years prior, along with new discomfort at the port site. He denied fever or other infection-related symptoms. 
+- **Past Medical History:** Multiple myeloma.
+- **Personal History:** None mentioned.
+- **Family History:** None mentioned.
+- **Physical Examination:** Mild swelling at the superior aspect of the left chest port site.
+- **Ancillary Tests:** 
+  - **Past Imaging:** FDG PET/CT performed 1 year prior showed no abnormalities in the port area.
+  - **Recent Imaging:** Whole-body FDG PET/CT revealed a new hypermetabolic soft tissue mass (4.3 × 1.4 × 3.3 cm, SUV max 15.8) surrounding the port, concerning for malignancy, along with multiple hypermetabolic osseous lesions indicating disease progression.
+  - **Pathology:** Surgical excision of the mass during port replacement revealed a dense infiltration of atypical plasma cells with kappa light chain restriction, confirming a metastatic plasmacytoma.

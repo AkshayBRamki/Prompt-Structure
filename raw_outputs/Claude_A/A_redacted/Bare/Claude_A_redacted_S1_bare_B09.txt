@@ -1,0 +1,23 @@
+CASE: M065
+FINAL DIAGNOSIS: Infected urachal cyst (urachal abscess) extending to the abdominal wall and draining at the umbilicus
+
+CASE: M066
+FINAL DIAGNOSIS: Acute (emphysematous) cholecystitis caused by hepatic hydatid cysts (cystic echinococcosis) with a cysto-biliary communication
+
+CASE: M067
+FINAL DIAGNOSIS: Congenital myotonia (autosomal recessive, Becker-type) due to a CLCN1 chloride channel mutation
+
+CASE: M068
+FINAL DIAGNOSIS: Hereditary spherocytosis (likely ANK1 or SPTB mutation) presenting as severe neonatal hemolytic hyperbilirubinemia
+
+CASE: M069
+FINAL DIAGNOSIS: Classical Hodgkin lymphoma with a right hilar/mediastinal mass and pleural effusion
+
+CASE: M070
+FINAL DIAGNOSIS: Secondary chondrosarcoma arising from an enchondroma of the proximal phalanx of the fourth finger
+
+CASE: M071
+FINAL DIAGNOSIS: Vanishing white matter disease (leukoencephalopathy with vanishing white matter, juvenile onset)
+
+CASE: M072
+FINAL DIAGNOSIS: Extramedullary plasmacytoma at the chest port site from progressing multiple myeloma

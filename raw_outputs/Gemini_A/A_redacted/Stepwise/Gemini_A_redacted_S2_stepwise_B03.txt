@@ -1,0 +1,89 @@
+CASE: M017
+REASONING:
+
+A 61-year-old male presents with 3 days of progressive right iliac fossa pain, appetite loss, positive McBurney's sign, rebound tenderness, and leukocytosis, initially mimicking acute appendicitis.
+
+CT imaging reveals a large (13 × 5.2 cm) oval mass arising from the cecum rather than simple uncomplicated appendicitis.
+
+Postoperative pathology demonstrates a moderately differentiated (G2) malignant epithelial neoplasm infiltrating from the muscularis mucosa into the subserosa without reaching the serosa, staged as pT3N0M0.
+
+A malignant, moderately differentiated (G2), pT3N0M0 tumor arising from the cecum is characteristic of cecal adenocarcinoma presenting as acute appendicitis.
+FINAL DIAGNOSIS: Cecal adenocarcinoma
+
+CASE: M018
+REASONING:
+
+A 49-year-old female presents with a 2-year history of fatigue, generalized bone pain, low bone mineral density on DXA, elevated albumin-corrected calcium (11.6 mg/dL), markedly elevated PTH (306 pg/mL), hypophosphatemia (1.6 mg/dL), and elevated urinary calcium excretion, establishing primary hyperparathyroidism.
+
+Initial 99mTc-MIBI SPECT/CT showed uptake in the mid-left thyroid lobe, which was a false positive caused by a concurrent Hurthle cell neoplasm; low PTH washout ruled out an intrathyroidal parathyroid adenoma.
+
+Parathyroid 4D CT localized an enhancing 8 × 6 × 12 mm lesion posterolateral to the esophagus on the left side, an ectopic retroesophageal/paraesophageal location.
+
+Postoperative normalization of serum iPTH (17.2 pg/mL) and calcium (8.7 mg/dL) confirms that this ectopic lesion was the source of excess PTH.
+FINAL DIAGNOSIS: Ectopic parathyroid adenoma (causing primary hyperparathyroidism)
+
+CASE: M019
+REASONING:
+
+A 35-year-old woman presents with classic Whipple's triad: recurrent hypoglycemic symptoms (tremors, diaphoresis, palpitations, confusion) during fasting, resolution with glucose intake, and associated weight gain.
+
+Fasting biochemical testing confirms endogenous hyperinsulinemic hypoglycemia (low glucose with elevated insulin, C-peptide, and pro-insulin, suppressed β-hydroxybutyrate, and negative sulfonylurea screen).
+
+Although conventional imaging and 68Ga-DOTATATE PET/CT were negative, 68Ga-Exendin-4 PET/CT (which targets GLP-1 receptors overexpressed on benign insulinomas) localized a 1.5-cm lesion in the pancreatic uncinate process.
+
+Histopathology confirms a well-differentiated grade 1 pancreatic neuroendocrine tumor (Ki-67 1%) staining positive for synaptophysin and insulin, with rapid normalization of insulin levels after enucleation.
+FINAL DIAGNOSIS: Insulinoma (pancreatic insulinoma)
+
+CASE: M020
+REASONING:
+
+Two male patients with prior surgical resection and adjuvant imatinib therapy for high-risk gastrointestinal stromal tumors (GIST) developed new small bowel mesenteric masses on follow-up imaging, raising suspicion for GIST recurrence.
+
+Immunohistochemistry in both cases is negative for GIST markers (CD117, DOG-1, CD34), ruling out recurrent GIST.
+
+Both lesions show nuclear β-catenin positivity and smooth muscle actin (SMA) positivity with a low Ki-67 index (5%), which is the hallmark immunophenotype of desmoid fibromatosis (DF), a known mimic of GIST recurrence after abdominal surgery.
+FINAL DIAGNOSIS: Desmoid fibromatosis (mesenteric desmoid tumor)
+
+CASE: M021
+REASONING:
+
+A 39-year-old female presents with an acute left-hemispheric ischemic stroke (right hemiparesis, aphasia, left frontal/precentral/perisylvian infarcts on MRI) preceded by a 2-month history of constitutional symptoms (intermittent fever and weight loss).
+
+Normal MR angiography makes primary large-vessel atherosclerosis or vasculopathy unlikely and points toward a cardioembolic source.
+
+Transthoracic and transesophageal echocardiography identify a 6 × 6 mm mitral valve vegetation on an underlying undiagnosed mitral valve prolapse with moderate mitral regurgitation, a classic predisposing structural valve abnormality.
+
+With negative autoimmune, vasculitis, and PET-CT malignancy workups alongside prolonged fever, weight loss, a mitral valve vegetation, and septic embolic stroke, the presentation is most consistent with infective endocarditis (specifically blood culture-negative infective endocarditis).
+FINAL DIAGNOSIS: Infective endocarditis (blood culture-negative infective endocarditis)
+
+CASE: M022
+REASONING:
+
+A 45-year-old male has experienced five discrete episodes of severe rhabdomyolysis (myalgias, dark urine, CK levels 22,000 to >200,000) consistently triggered by viral illnesses, resolving with IV hydration.
+
+Extensive metabolic and neuromuscular workup ruled out fatty acid oxidation disorders, CPT1/2 deficiency, inflammatory myopathy, and structural myopathy (normal EMG and non-specific muscle biopsy).
+
+Genetic testing identified two variants of unknown significance (VUS) in a gene associated with Emery-Dreifuss muscular dystrophy (EDMD), suggesting a possible underlying genetic susceptibility, though without clinical weakness, contractures, or myopathic biopsy/EMG changes to establish classic EDMD.
+
+Therefore, the primary clinical diagnosis is recurrent viral-induced rhabdomyolysis (with possible underlying genetic predisposition).
+FINAL DIAGNOSIS: Recurrent viral-induced rhabdomyolysis
+
+CASE: M023
+REASONING:
+
+A 13-year-old male with untreated peptic ulcer disease presents with severe, recurrent upper gastrointestinal bleeding (hematemesis, melena, anemia, hypovolemic shock) refractory to initial endoscopic management of a Forrest IIB gastric ulcer.
+
+Follow-up CT imaging identified a vascular aneurysm arising from the gastroduodenal artery adjacent to the proximal duodenum.
+
+Digital subtraction angiography confirmed the gastroduodenal artery aneurysm, and transcatheter embolization successfully controlled the hemorrhage.
+FINAL DIAGNOSIS: Gastroduodenal artery aneurysm (or pseudoaneurysm) secondary to peptic ulcer disease
+
+CASE: M024
+REASONING:
+
+A 46-year-old woman presents with a longstanding, painless, soft, mobile mass in the upper outer quadrant of the left breast.
+
+Although mammography and MRI raised high suspicion for malignancy (BI-RADS V) due to an internal spiculated, enhancing area with microcalcifications, the overall lesion was a large (9.5 × 7.5 × 8 cm), circumscribed, predominantly fatty mass.
+
+Core needle biopsy and final surgical excision pathology confirmed a well-circumscribed benign lesion composed of disorganized glandular (ducts and lobules), fibrous, and adipose tissues without atypia or mitotic activity, which is the defining histological appearance of a breast hamartoma (fibroadenolipoma).
+FINAL DIAGNOSIS: Breast hamartoma (fibroadenolipoma)

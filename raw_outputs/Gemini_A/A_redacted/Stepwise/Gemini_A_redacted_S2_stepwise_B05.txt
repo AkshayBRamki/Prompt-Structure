@@ -1,0 +1,93 @@
+CASE: M033
+REASONING:
+
+A 63-year-old female developed acute, severe neuropathic pain (stabbing, shock-like, burning) in the proximal right arm approximately 3 weeks after a confirmed dengue virus infection (positive IgM).
+
+The severe pain was followed by rapid-onset amyotrophy, hypotonia, paresis of proximal shoulder/arm muscles (deltoid, infraspinatus, biceps brachii), sensory abnormalities (allodynia, thermal hyperesthesia, deep hypoesthesia), and absent tendon reflexes in the affected limb.
+
+Electroneuromyography confirms acute peripheral nerve denervation, and brachial plexus MRI demonstrates subtle signal changes in the upper and middle primary trunks, localizing the pathology to the brachial plexus while excluding other inflammatory, infectious, or immune-mediated etiologies.
+
+The classic triad of a preceding viral trigger (dengue), acute severe shoulder/arm neuropathic pain, and subsequent patchy proximal upper limb weakness and amyotrophy is diagnostic of post-infectious neuralgic amyotrophy (Parsonage-Turner syndrome).
+FINAL DIAGNOSIS: Post-dengue Parsonage-Turner syndrome (neuralgic amyotrophy / brachial plexitis)
+
+CASE: M034
+REASONING:
+
+Case 1: A 65-year-old female presents with progressive right lower motor neuron facial nerve palsy (inability to wrinkle forehead or close eye), right sensorineural hearing loss, giddiness, and an impaired corneal reflex, localizing the lesion to the right cerebellopontine angle (CPA) affecting CN VII and VIII (and adjacent CN V). MRI demonstrates a cerebrospinal fluid (CSF)-intensity lesion at the right CPA abutting CN VII, CN VIII, and the AICA, which is characteristic of a cerebellopontine angle arachnoid cyst.
+
+Case 2: A 60-year-old male presents with recurrent right-sided lower motor neuron facial nerve palsy initially treated as idiopathic Bell's palsy. MRI/MRA directly identifies a vascular loop of the anterior inferior cerebellar artery (AICA) compressing the right CN VII and VIII at the CPA, confirming neurovascular compression as the secondary cause.
+
+Case 3: A 72-year-old male presents with intermittent fever, dysphagia, bilateral facial nerve palsy, and lower cranial neuropathies (CN IX and X, evidenced by uvular deviation, nasal voice, and absent gag reflex). Even without recalled tick exposure, bilateral facial nerve palsy and multiple cranial neuropathies confirmed by positive IgM ELISA and Western blot are classic for Lyme neuroborreliosis (Lyme disease).
+FINAL DIAGNOSIS: Secondary facial nerve palsy due to: Case 1 — Right cerebellopontine angle arachnoid cyst; Case 2 — Neurovascular compression of cranial nerves VII and VIII by an AICA vascular loop; Case 3 — Lyme disease (Lyme neuroborreliosis)
+
+CASE: M035
+REASONING:
+
+A male in his 50s presents with progressive hip, lower back, and right shoulder pain with associated functional weakness.
+
+Personal history reveals high sexual activity and pyuria, and serology is positive for Chlamydia trachomatis IgA and IgG antibodies alongside elevated inflammatory markers (leukocytosis and elevated CRP), pointing to a recent or ongoing genitourinary Chlamydia infection.
+
+Pelvic and shoulder MRIs demonstrate widespread enthesitis (inflammation at tendon attachments of the spinous processes, ischial/sciatic tuberosity, greater and lesser trochanters, and shoulder peritendinitis/bone marrow edema) without sacroiliitis.
+
+Although HLA-B27 is negative (which does not exclude the diagnosis), the combination of a preceding C. trachomatis urogenital infection and prominent peripheral/axial enthesitis is diagnostic of Chlamydia-induced reactive arthritis.
+FINAL DIAGNOSIS: Chlamydia trachomatis-induced reactive arthritis
+
+CASE: M036
+REASONING:
+
+A 25-year-old woman presents with a large (9.4 × 8.5 × 6.8 cm) left adnexal mass and lower abdominal/back pain.
+
+Serum tumor markers show a massively elevated alpha-fetoprotein (AFP > 60,500 ng/mL) along with elevated LDH, strongly pointing toward a malignant ovarian germ cell tumor.
+
+Histopathology confirms microcystic and endodermal sinus patterns containing pathognomonic Schiller–Duval bodies, with positive AFP immunohistochemistry, staged at FIGO Ia.
+
+These clinical, biochemical, and histologic findings are definitive for an ovarian yolk sac tumor (endodermal sinus tumor).
+FINAL DIAGNOSIS: Ovarian yolk sac tumor (endodermal sinus tumor), FIGO stage Ia
+
+CASE: M037
+REASONING:
+
+A 71-year-old woman residing in Brazil presents with constitutional symptoms (20 kg weight loss over 3 months), acute icteric syndrome (obstructive jaundice from hepatic hilar adenomegaly), gastrointestinal symptoms, generalized lymphadenopathy, retroperitoneal adenomegaly, and bilateral/adrenal nodules mimicking metastatic malignancy.
+
+Malignancy and tuberculosis are excluded by negative liver biopsy, non-neoplastic lymph nodes, normal lung imaging, and negative TB testing.
+
+Histopathological examination of the resected cecal appendix reveals acute appendicitis containing fungal spores of an organism endemic to Brazil.
+
+In Brazil, disseminated systemic mycosis presenting with generalized lymphadenopathy, hepatic hilar obstruction causing jaundice, adrenal gland involvement, and gastrointestinal/appendiceal invasion is classic for paracoccidioidomycosis caused by Paracoccidioides brasiliensis.
+FINAL DIAGNOSIS: Disseminated paracoccidioidomycosis (Paracoccidioides brasiliensis infection) presenting with acute appendicitis and obstructive jaundice
+
+CASE: M038
+REASONING:
+
+A 44-year-old female with known Schimmelpenning syndrome (epidermal nevus syndrome, characterized by congenital sebaceous/verrucous epidermal nevi) presents with progressive headache and dizziness.
+
+Brain MRI shows a large (6.5 × 3 × 3 cm), irregular intra-axial mass with cystic components in the left frontal lobe causing marked mass effect and brain displacement.
+
+Molecular testing identifies a somatic HRAS c.37G>C p.(G13R) mutation (31% allele frequency), which is the hallmark postzygotic mosaic mutation underlying Schimmelpenning syndrome and drives tumorigenesis in affected neuroectodermal tissues.
+
+An irregular, cystic, rapidly displacing intra-axial frontal lobe mass in an adult carrying a somatic HRAS G13R mutation in the setting of Schimmelpenning syndrome is most consistent with glioblastoma.
+FINAL DIAGNOSIS: Glioblastoma (associated with Schimmelpenning syndrome and somatic HRAS mutation)
+
+CASE: M039
+REASONING:
+
+A 16-year-old non-smoking male presents with hemoptysis, chronic dry cough, and exertional dyspnea.
+
+Imaging and bronchoscopy reveal a calcified left upper lobe mass with a polypoid intraluminal lesion in the left main bronchus and widespread metastases to the contralateral lung, vertebrae, and pelvis.
+
+Biopsy demonstrates malignant spindle cells, and immunohistochemistry is positive for cytokeratin (CK), vimentin, and TTF-1.
+
+The co-expression of epithelial/pulmonary lineage markers (CK and TTF-1) alongside a mesenchymal marker (vimentin) in a tumor composed of malignant spindle cells confirms a primary pulmonary sarcomatoid carcinoma, specifically spindle cell carcinoma of the lung.
+FINAL DIAGNOSIS: Pulmonary spindle cell carcinoma (pulmonary sarcomatoid carcinoma)
+
+CASE: M040
+REASONING:
+
+A 17-year-old male presents with acute-to-subacute right-sided upper motor neuron weakness (hemiparesis, hypertonia, hyperreflexia) and dysarthria, with normal laboratory and coagulation studies.
+
+Brain CT confirms an ischemic stroke in the superficial and deep left middle cerebral artery (sylvian) territory, with contrast imaging showing poor opacification of the M1/M2 segments and rarefaction of cortical M3/M4 branches.
+
+Crucially, bone-window CT demonstrates a markedly narrowed left bony carotid canal (3 mm vs. 7 mm on the right) housing a hypoplastic left internal carotid artery.
+
+Because the bony carotid canal develops around the embryonic internal carotid artery, a narrowed canal distinguishes congenital internal carotid artery hypoplasia from acquired stenosis or dissection, establishing it as the underlying cause of the ischemic stroke.
+FINAL DIAGNOSIS: Left middle cerebral artery ischemic stroke secondary to congenital hypoplasia of the left internal carotid artery

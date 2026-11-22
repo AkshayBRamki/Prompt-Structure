@@ -1,0 +1,77 @@
+CASE: M073
+REASONING:
+
+The patient has long-standing heavy alcohol use and severe malnutrition, with low folate (B9), macrocytosis and elevated liver enzymes.
+He developed confusion, stupor, dysarthria and comprehension problems over 10 days. He also has apraxia, astasia-abasia, frontal release signs (grasp reflex, perseveration), spasticity and incontinence. Together these suggest interhemispheric disconnection plus frontal involvement.
+Imaging shows symmetric T2/FLAIR and DWI hyperintensity of the entire corpus callosum, with low ADC indicating cytotoxic edema. The splenium is hypodense on CT. MR angiography is normal, which argues against a vascular cause.
+The bilateral frontal cortical hyperintensity is consistent with associated cortical laminar necrosis (Morel's laminar sclerosis).
+This pattern in a malnourished alcoholic is classic for demyelination and necrosis of the corpus callosum.
+FINAL DIAGNOSIS: Marchiafava-Bignami disease (acute form, with frontal cortical involvement)
+
+CASE: M074
+REASONING:
+
+A young woman had a 4.7 cm renal tumor called "papillary RCC" on morphology alone, with no immunohistochemistry.
+Fifteen years after nephrectomy, she has retroperitoneal soft-tissue masses with mild enhancement and cystic change.
+Very late recurrence, young age, female sex and papillary-appearing histology misclassified without IHC are characteristic of MiT family translocation RCC. These tumors often look papillary and are known for late metastases to lymph nodes and the retroperitoneum.
+The confirmatory IHC (TFE3) would establish the diagnosis.
+FINAL DIAGNOSIS: Xp11.2 (TFE3) translocation renal cell carcinoma with late retroperitoneal recurrence/metastasis, originally misdiagnosed as papillary RCC
+
+CASE: M075
+REASONING:
+
+She has an acute, paroxysmal dry cough lasting one week. The cough is severe enough to stop her from completing a 6-minute walk, which suggests exertion triggers it.
+Her background points to airway hyperresponsiveness: lifelong atopy (allergic rhinitis) and occupational wood-dust exposure.
+The workup is normal: chest X-ray, HRCT, echocardiogram, blood eosinophils and spirometry. This excludes interstitial lung disease (including rituximab-induced pneumonitis), infection with infiltrates, cardiac causes and classic obstructive asthma.
+She is immunosuppressed with steroids and rituximab, but she is afebrile, her oxygen saturation is normal and her imaging is clean, which makes opportunistic pneumonia unlikely.
+An isolated cough with normal spirometry in an atopic patient exposed to wood dust fits cough-variant asthma. It would be confirmed by bronchial provocation (methacholine) testing. Non-asthmatic eosinophilic bronchitis is the main alternative.
+FINAL DIAGNOSIS: Cough-variant asthma (likely allergic/occupational, wood dust–related)
+
+CASE: M076
+REASONING:
+
+She had a month of parenteral nutrition, presumably without adequate thiamine supplementation.
+She has the classic triad: ophthalmoplegia (multidirectional gaze limitation and diplopia), ataxia (unsteady gait, positive Romberg) and altered mentation (slowed comprehension). She also has hiccups and miosis, consistent with brainstem and periaqueductal involvement.
+Her vitamin B1 level is low.
+MRI shows bilateral thalamic and periaqueductal lesions, which is the classic distribution. Her earlier MRI was normal, and the lesions improved on follow-up, consistent with treatment.
+A normal AQP-4 antibody excludes NMOSD, and the absence of albuminocytologic dissociation argues against Miller Fisher/GBS.
+FINAL DIAGNOSIS: Wernicke encephalopathy due to thiamine deficiency during parenteral nutrition
+
+CASE: M077
+REASONING:
+
+She had four months of recurrent vomiting, dysphagia and a 60-lb weight loss, causing severe malnutrition with multiple vitamin deficiencies. Her thiamine is undetectably low.
+She has ophthalmoplegia (esotropia, nystagmus, diplopia), ataxic wide-based gait and areflexia with numbness (concurrent dry-beriberi neuropathy). She also has severe vision and hearing loss, which are recognized atypical features of severe thiamine deficiency.
+MRI shows T2 hyperintensity in the medial thalami and periaqueductal region, which is the classic finding.
+There is no alcohol use, so this is non-alcoholic Wernicke secondary to GI losses and malnutrition.
+FINAL DIAGNOSIS: Non-alcoholic Wernicke encephalopathy (thiamine deficiency) secondary to prolonged vomiting and malnutrition
+
+CASE: M078
+REASONING:
+
+The child has a family history of hereditary multiple exostoses, and CT shows multiple exostoses in the pelvis and limbs. This establishes HME.
+He has a progressive, activity-related painful lesion with concerning features in the fibula: irregular borders, a thickened and enhancing cartilaginous cap, heterogeneous signal and soft-tissue infiltration.
+The biopsy shows a malignant mesenchymal tumor with atypia.
+Malignant transformation of an osteochondroma in HME is most commonly to a secondary peripheral chondrosarcoma.
+The case is internally inconsistent: the symptoms are in the left leg but the imaging describes the right fibula. This does not change the diagnosis.
+FINAL DIAGNOSIS: Secondary peripheral chondrosarcoma arising from an osteochondroma (malignant transformation) in hereditary multiple exostoses
+
+CASE: M079
+REASONING:
+
+A young man has recurrent RUQ pain since adolescence, with normal liver tests and no cholangitis at presentation.
+Imaging shows multifocal saccular and fusiform dilation of the intrahepatic ducts with intraductal stones and no gallbladder stones.
+MRCP shows the "central dot sign" (portal radicles surrounded by dilated ducts), which is pathognomonic for congenital cystic dilatation of the intrahepatic bile ducts.
+There is no evidence of portal hypertension or hepatic fibrosis, so this is the pure form rather than the syndrome.
+FINAL DIAGNOSIS: Caroli disease with intrahepatic lithiasis (hepatolithiasis)
+
+CASE: M080
+REASONING:
+
+There is evidence of recent streptococcal infection: ASO is markedly elevated at 1,450 IU/mL.
+Inflammatory markers are high: ESR 70 mm/h and CRP 20.2 mg/dL. He also has anemia of inflammation.
+He has carditis: new aortic and mitral regurgitation, mildly reduced LV function, and a conduction disturbance (second-degree AV block with bradycardia and palpitations).
+The right iliac fossa pain mimics appendicitis, but the appendix is normal at 5 mm, consistent with the recognized abdominal pain of rheumatic fever.
+Negative blood and urine cultures argue against endocarditis and pyelonephritis.
+Major (carditis) and minor (elevated ESR/CRP, conduction abnormality) Jones criteria are met, with evidence of prior streptococcal infection.
+FINAL DIAGNOSIS: Acute rheumatic fever with rheumatic carditis (valvulitis and AV conduction block), with abdominal pain mimicking appendicitis

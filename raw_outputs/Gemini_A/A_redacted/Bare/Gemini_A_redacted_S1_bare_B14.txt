@@ -1,0 +1,23 @@
+CASE: M105
+FINAL DIAGNOSIS: Adult-onset neuronal ceroid lipofuscinosis (Kufs disease)
+
+CASE: M106
+FINAL DIAGNOSIS: Thrombosed left common femoral vein aneurysm
+
+CASE: M107
+FINAL DIAGNOSIS: Type I truncus arteriosus with anomalous origin of the left coronary artery from the pulmonary artery (ALCAPA)
+
+CASE: M108
+FINAL DIAGNOSIS: Chronic myeloid leukemia (chronic phase) presenting with digital gangrene
+
+CASE: M109
+FINAL DIAGNOSIS: Herpes simplex virus type 2 (HSV-2)-associated conjunctival phlyctenule and nodular scleritis
+
+CASE: M110
+FINAL DIAGNOSIS: Cannabis-induced sick sinus syndrome (sinus node dysfunction with sinus arrest)
+
+CASE: M111
+FINAL DIAGNOSIS: Cryptococcoid Sweet syndrome (cryptococcoid neutrophilic dermatosis)
+
+CASE: M112
+FINAL DIAGNOSIS: Acute ischemic stroke (hemodynamic cerebral infarction) secondary to severe right internal carotid artery stenosis

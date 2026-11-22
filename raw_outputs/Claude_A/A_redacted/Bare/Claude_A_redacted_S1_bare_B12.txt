@@ -1,0 +1,23 @@
+CASE: M089
+FINAL DIAGNOSIS: Heterotopic pregnancy (a live intrauterine pregnancy plus a live right adnexal/tubal ectopic pregnancy), with a right paratubal cyst and subchorionic hemorrhage
+
+CASE: M090
+FINAL DIAGNOSIS: Spinal muscular atrophy type 2 (homozygous SMN1 exon 7–8 deletion) in a child with mosaic trisomy 21 (mosaic Down syndrome)
+
+CASE: M091
+FINAL DIAGNOSIS: Metastatic poorly differentiated carcinoma of the urinary bladder (urothelial or bladder primary), with liver and pancreatic metastases
+
+CASE: M092
+FINAL DIAGNOSIS: Pancreatic ductal adenocarcinoma arising in long-standing chronic calcific pancreatitis
+
+CASE: M093
+FINAL DIAGNOSIS: Malignant/atypical non-neural (S100-negative) granular cell tumor of the floor of the mouth (primitive polypoid granular cell tumor)
+
+CASE: M094
+FINAL DIAGNOSIS: Delayed post-traumatic left diaphragmatic hernia with herniated bowel causing intestinal obstruction
+
+CASE: M095
+FINAL DIAGNOSIS: Abemaciclib-induced interstitial lung disease (drug-induced fibrosing organizing pneumonia)
+
+CASE: M096
+FINAL DIAGNOSIS: Postsurgical pyoderma gangrenosum after bilateral mastectomies

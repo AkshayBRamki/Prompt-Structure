@@ -1,0 +1,1093 @@
+ANCHOR RATING (Akshay). Same rubric as the judges, pasted below. Rate each response 0/1/2 and write lines like `R017: 2`.
+
+You are an expert clinician rating the SOUNDNESS OF DIAGNOSTIC REASONING written by AI systems. For each case you get the case as the AI saw it, the reference diagnosis, the clinician-written reference reasoning, and several AI responses (labelled with item IDs such as R017). Rate EACH response independently on its own merits, not by comparing it with the other responses.
+
+Score each response 0, 1 or 2:
+2 = SOUND: identifies the findings that actually drive the diagnosis, links them to the diagnosis with valid clinical logic consistent with the reference reasoning, and rules out the main competing alternatives with appropriate evidence (or the case leaves no serious alternative). No material factual or logical error.
+1 = PARTIAL: right direction, but a key step is missing (e.g. pattern-matching without excluding an obvious alternative, or ignoring a decisive finding), or it contains an error that does not drive the conclusion.
+0 = UNSOUND: reasoning is wrong, irrelevant or absent; contains a material factual error; or the conclusion does not follow from the stated evidence.
+
+Rules:
+- Do NOT reward length, formatting, the number of differentials listed, or confident tone. A short response that names the decisive findings and excludes the main alternative can score 2. A long response with a material error scores 0 or 1.
+- A response whose final diagnosis is wrong cannot score 2.
+- Some case details were removed and shown as [REDACTED]. Do not penalise a response for not using information that was redacted.
+- Judge only the reasoning shown; do not assume reasoning that is not written.
+
+
+===== CASE =====
+- **Patient Information**: 16-year-old girl.
+- **Chief Complaint**: Intermittent upper abdominal pain for one year.
+- **History of Present Illness**: 
+  - Complaints of a lump in the upper left abdomen when pressed.
+  - One year of jaundice without fever, frequent nausea, and vomiting.
+  - No significant changes in weight or abnormal bowel/urinary symptoms except dark-colored urine ("tea-colored").
+- **Past Medical History**: None noted.
+- **Personal History**: No significant history, including no tattoos or blood transfusions.
+- **Family History**: None stated.
+- **Physical Examination**: Icteric sclera.
+- **Ancillary Tests**:
+  - Abdominal MSCT scan: Intra- and extrahepatic biliary ectasia with multiple cystic lesions (suggestive of [REDACTED] Type IV), hepatosplenomegaly, and mild splenic vein dilation.
+  - Hepatobiliary ultrasound: Cystic lesions connected to extrahepatic bile duct, intrahepatic biliary ectasia, and splenomegaly; liver and pancreas normal.
+  - MRCP: Bilateral intrahepatic and extrahepatic cystic lesions (fusiform in appearance), consistent with type IVA [REDACTED] per Todani classification.
+  - Laboratory tests: Elevated SGOT, SGPT, and bilirubin levels (total bilirubin 9.458 mg/dL, direct bilirubin 6.635 mg/dL, indirect bilirubin 2.823 mg/dL); decreased urea (16.4 mg/dL).
+
+REFERENCE DIAGNOSIS: Type IVA Choledochal Cyst
+REFERENCE REASONING (clinician): 1. **Choledochal Cyst**:
+   - **Rationale for Inclusion**: Classic imaging findings (intra- and extrahepatic biliary cystic dilations) and clinical presentation (abdominal pain, jaundice, nausea, vomiting, palpable mass).
+   - **Confirmed by**: MRCP, which identified a type IVA choledochal cyst consistent with Todani classification.
+2. **Biliary Obstruction due to Other Causes (e.g., bile duct stones, strictures, or malignancy)**:
+   - **Excluded**: Imaging showed no evidence of stones, strictures, or obstructive masses.
+3. **Biliary Atresia**:
+   - **Excluded**: Typically seen in infants, not adolescents; imaging consistent with cystic dilatation rather than atresia.
+4. **Pancreaticobiliary Anomalies**:
+   - **Partially Considered**: Anomalous pancreaticobiliary junction could coexist with choledochal cysts but is not evident in ancillary test results for this case.
+5. **Infectious or Inflammatory Causes (e.g., cholangitis)**:
+   - **Excluded**: Absence of fever or signs of acute infection.
+
+--- RESPONSE R001 ---
+The patient is a 16-year-old girl presenting with a one-year history of intermittent upper abdominal pain, an upper abdominal mass, painless jaundice, nausea, vomiting, and dark ("tea-colored") urine.
+Labs demonstrate conjugated hyperbilirubinemia and elevated transaminases, consistent with obstructive jaundice.
+Ultrasound, MSCT, and MRCP demonstrate bilateral intrahepatic and extrahepatic fusiform cystic biliary dilations connected to the extrahepatic bile duct.
+According to the Todani classification, multiple cystic dilations involving both the intrahepatic and extrahepatic biliary tree define a Type IVA choledochal cyst.
+Final diagnosis: Choledochal cyst (Todani type IVA)
+
+===== CASE =====
+- **Patient Information:** 57-year-old male.
+- **Chief Complaint:** Rapidly worsening multifactorial anemia with melena of unknown origin.
+- **History of Present Illness:** Acute onset of disseminated hemorrhagic edematous cutaneous lesions with vesiculation and necrosis, primarily on the head, with respiratory failure and fever requiring invasive ventilation.
+- **Past Medical History:** Pauci-immune p-ANCA-associated crescentic glomerulonephritis (on peritoneal dialysis and chronic low-dose prednisone), chronic kidney disease (end-stage), emphysematous chronic obstructive pulmonary disease (COPD), hypertension, chronic gastritis, depression.
+- **Personal History:** None provided beyond medications and treatment status.
+- **Family History:** None mentioned.
+- **Physical Examination:** Disseminated hemorrhagic skin lesions and necrotic changes, erosive mucosal lesions (tongue, oral cavity, nasal mucosa), fever, respiratory distress.
+- **Ancillary Tests:**
+  - Bloodwork: Neutrophilic leukocytosis, elevated C-reactive protein (CRP), low C3 complement levels, positive p-ANCA and MPO.
+  - Skin Biopsy: Dermal neutrophilic infiltrate, pseudocapsulated yeast-like structures resembling Cryptococcus, positive myeloperoxidase (MPO) staining, negative fungal/bacterial staining and cultures.
+  - Infection Workup: Negative blood and skin cultures for bacteria and fungi, negative serology/PCR for various pathogens. Respiratory cultures grew non-specific Candida albicans.
+  - Imaging: Pulmonary consolidation in the right upper lobe, pleural effusion, mediastinal lymphadenopathy.
+
+---
+
+REFERENCE DIAGNOSIS: Cryptococcoid Sweet syndrome (cSS)
+REFERENCE REASONING (clinician): 1. **Infectious Conditions:**
+   - **Considered:** Cutaneous cryptococcosis, disseminated herpes zoster, or bacterial superinfections due to skin necrosis.
+   - **Excluded:** Negative fungal/bacterial cultures and specific pathogen stains (e.g., PAS, Grocott’s) ruled out infections.
+
+2. **Neutrophilic Dermatoses:**
+   - **Considered:** Classical Sweet syndrome (SS), drug-induced SS, or malignancy-associated SS.
+   - **Refined to cSS:** Histology showed Cryptococcus-like basophilic vacuolated features with MPO positivity and negative microbial identification, consistent with Cryptococcoid Sweet syndrome (cSS).
+
+3. **Vasculitis and Autoimmune Disease:**
+   - **Considered:** ANCA-associated vasculitis, given patient history of p-ANCA–associated glomerulonephritis and vascular findings.
+   - **Excluded:** Histological changes were more compatible with a reactive vasculitis secondary to cSS rather than a primary vasculitis, supported by the absence of immune-complex deposition.
+
+4. **Medications/Triggers:**
+   - **Considered:** Possible antibiotic triggers such as piperacillin-tazobactam.
+   - **Excluded:** Temporal association unclear; no definitive causative link established.
+
+Final determination centered on meeting SS diagnostic criteria combined with characteristic histological features unique to cSS.
+
+---
+
+--- RESPONSE R142 ---
+The patient is a 57-year-old male with p-ANCA-associated glomerulonephritis on chronic steroids who developed acute febrile, disseminated hemorrhagic and necrotic cutaneous lesions, mucosal erosions, pulmonary consolidation with respiratory failure, neutrophilic leukocytosis, and elevated CRP.
+Skin biopsy showed a dense dermal neutrophilic infiltrate containing pseudocapsulated yeast-like structures closely mimicking Cryptococcus.
+Crucially, fungal and bacterial stains and cultures were negative, while the yeast-like bodies stained strongly positive for myeloperoxidase (MPO), proving they are degenerating/vacuolated neutrophils rather than true fungal organisms.
+This histopathologic triad (dermal neutrophilic infiltrate, MPO-positive pseudocapsulated Cryptococcus-like bodies, and negative fungal workup) in a febrile patient with hemorrhagic skin lesions and pulmonary involvement is pathognomonic for cryptococcoid Sweet syndrome (an uncommon variant of acute febrile neutrophilic dermatosis).
+Final diagnosis: Cryptococcoid Sweet syndrome
+
+===== CASE =====
+- **Patient Information:** 13-year-old boy
+- **Chief Complaint:** Painless enlargement in the upper maxillary region.
+- **History of Present Illness:** The precise time of onset and growth rate of the lesion were unknown. No reported trauma, teeth grinding, or jaw clenching. Difficulty brushing teeth was noted.
+- **Past Medical History:** None.
+- **Personal History:** No significant dental or general health issues.
+- **Family History:** No relevant medical conditions, including no family history of syndromic conditions such as Gardner syndrome.
+- **Physical Examination:** A clearly demarcated, spherical, bony-hard enlargement on the buccal aspect of the right maxillary alveolar ridge, extending from the mesial surface of the first premolar to the mesial surface of the first molar. Overlying mucosa was tense and paler but intact, with no signs of ulceration or trauma. Adjacent teeth were healthy and had normal pulp vitality.
+- **Ancillary Tests:** 
+  - Panoramic radiograph showed no abnormal findings.
+  - CBCT revealed an exophytic, mushroom-like, radiodense lesion with continuity to the cortical and trabecular bone.
+  - Histopathological analysis demonstrated bony trabeculae separated by connective tissue, consistent with a benign exostosis/hyperostosis.
+
+REFERENCE DIAGNOSIS: Peripheral trabecular osteoma.
+REFERENCE REASONING (clinician): 1. **Peripheral Osteoma:** 
+   - Considered due to the painless, bone-hard, mushroom-like lesion and its slow progression. CBCT findings demonstrated continuity with surrounding bone. Histological examination confirmed normal trabecular bone structure, supporting this diagnosis.
+
+2. **Peripheral Ossifying Fibroma:** 
+   - Rejected due to the lesion’s location, bony-hard consistency, and radiological evidence of bone proliferation.
+   - Peripheral ossifying fibroma typically arises from the gingiva and presents as a soft or firm mass, often with associated gingival changes, none of which were observed.
+
+3. **Osteoid Osteoma/Osteoblastoma:** 
+   - Rejected due to absence of pain (a characteristic symptom) and absence of radiographic features such as a central nidus or evidence of destructive growth.
+
+4. **Osteosarcoma:**
+   - Ruled out based on radiological and histological findings indicative of benign etiology. No destructive or aggressive features were evident, and detailed histopathological analysis did not show malignancy.
+
+5. **Exostoses or Tori:** 
+   - Excluded due to the lesion’s atypical location, unilateral presentation, and growth pattern, which differed from non-pathological bony overgrowths.
+
+--- RESPONSE R079 ---
+A 13-year-old with a painless, well-demarcated, bony-hard swelling on the buccal right maxillary alveolar ridge (premolar–first molar). This points to a slow, benign bony process.
+The overlying mucosa is intact, adjacent teeth are vital, and there is no trauma or parafunction history. This argues against odontogenic, inflammatory or reactive-traumatic causes.
+CBCT shows an exophytic, mushroom-shaped radiodense mass continuous with both the cortical and trabecular bone. This is the hallmark of an exostosis or osteochondroma-type outgrowth rather than a separate tumour.
+Histology shows bony trabeculae with intervening connective tissue, consistent with benign exostosis/hyperostosis.
+There is no family history of Gardner syndrome, and the lesion is single. This makes a syndromic osteoma less likely.
+Solitary buccal exostosis of the maxilla
+Peripheral osteoma
+Osteochondroma
+Ossifying fibroma / fibrous dysplasia
+Torus-like hyperostosis (atypical location)
+Buccal exostosis.
+For: buccal alveolar site, bony-hard, well-demarcated, continuity with cortex and medulla, benign trabecular histology.
+Against: unusual at age 13 (more typical in adults) and no parafunction history.
+Peripheral osteoma.
+For: a radiodense, pedunculated/mushroom shape.
+Against: osteomas are typically compact or cancellous bone tumours, and alveolar ridge involvement is less typical. Histology was reported as exostosis/hyperostosis, and there is no Gardner context.
+Osteochondroma.
+For: a mushroom-shaped lesion with cortico-medullary continuity.
+Against: no cartilaginous cap was described on histology, and it is rare in the maxillary alveolus.
+Ossifying fibroma / fibrous dysplasia.
+For: young age and maxillary expansion.
+Against: no ground-glass or mixed density, an exophytic rather than expansile intraosseous shape, and the histology is not fibro-osseous.
+Torus.
+For: a benign hyperostosis.
+Against: tori occur at the palatal midline or lingual mandible, not the buccal maxillary ridge.
+Fibro-osseous lesions are excluded on imaging and histology.
+Torus is excluded by location.
+Osteochondroma is excluded by the absence of cartilage.
+Osteoma is less likely given the histology and location.
+I commit to a benign buccal exostosis.
+Final diagnosis: Solitary buccal exostosis (benign hyperostosis) of the right maxillary alveolar ridge.
+
+===== CASE =====
+- **Patient Information:** 71-year-old male 
+- **Chief Complaint:** Fever, asthenia, and confusion.
+- **History of Present Illness:** Three-day history of fever (up to 38 °C), asthenia, and confusion. Two months prior, the patient experienced a self-limiting five-day episode of diarrhea.
+- **Past Medical History:** Advanced lung cancer with bone and liver metastases, bilateral pleural effusion, hypertension, and benign prostatic hypertrophy. Ten days prior to presentation, the patient had undergone pleural drainage.
+- **Personal History:** Denied recent travel. Was undergoing alectinib therapy for lung cancer.
+- **Family History:** None provided.
+- **Physical Examination:** Febrile (38.5 °C), blood pressure 110/60 mmHg, heart rate 90 bpm, oxygen saturation 98% on room air.
+- **Ancillary Tests:**  
+  - Laboratory findings: WBC count 23,900/mm³ (92.1% neutrophils), hemoglobin 8.9 g/dL, platelets 563,000/mm³, CRP 12.6 mg/dL, procalcitonin 2.04 ng/mL, creatinine 1.17 mg/dL, GGT 225 U/L, AST 21 U/L, ALT 25 U/L.  
+  - Blood cultures positive for [REDACTED].  
+  - Stool samples positive for [REDACTED] on a FilmArray gastrointestinal panel.  
+  - Pleural drainage culture was negative.
+
+REFERENCE DIAGNOSIS: Non-O1/non-O139 Vibrio cholerae bacteremia.
+REFERENCE REASONING (clinician): 1. **Initial Considerations:** A febrile, immunocompromised patient with underlying advanced lung cancer warranted consideration of bacterial, viral, or fungal systemic infections. The history of diarrhea raised suspicion of gastrointestinal pathogens.
+2. **Exclusion of Common Pathogens:** Gram-negative bacteremia caused by gut translocation was prioritized due to immunosuppression and a prior episode of diarrhea. Pleural drainage culture was sterile, ruling out pleural infection as a source.
+3. **Identification of Vibrio cholerae Strain:** Blood cultures and stool testing confirmed that the bacteria belonged to the non-O1/non-O139 serogroups, excluding cholera-causing strains and suggesting an environmental origin or translocation from intestine to bloodstream.
+4. **Source Determination:** The exact source of NOVC bacteremia remained unclear. Gastrointestinal mucosal disruption due to immunosuppression from advanced cancer and alectinib treatment likely enabled bacterial entry, despite the absence of acute GI symptoms.
+5. **Therapeutic Rationale:** Empirical therapy with piperacillin/tazobactam was initiated, acknowledging broad-spectrum coverage. After pathogen identification, ceftriaxone and ciprofloxacin were prescribed, consistent with treatment recommendations for severe NOVC infections.
+
+--- RESPONSE R076 ---
+Bacteremia with concordant GI pathogen on FilmArray: Both blood cultures and stool FilmArray GI panel are positive for the same bacterial pathogen in a 71-year-old man with fever (38.5 °C), confusion, marked neutrophilic leukocytosis (WBC 23,900/mm³, 92.1% neutrophils), and elevated CRP (12.6 mg/dL) and procalcitonin (2.04 ng/mL).
+Delayed bacteremia following self-limiting diarrhea: A 5-day self-limiting diarrheal illness 2 months earlier with persistent fecal carriage leading to invasive bloodstream infection in an elderly host with advanced metastatic lung cancer.
+Negative pleural fluid culture: Rules out empyema or procedural contamination from the pleural drainage 10 days prior.
+Non-typhoidal Salmonella (NTS) bacteremia
+Campylobacter (C. jejuni / C. coli) bacteremia
+Yersinia enterocolitica bacteremia
+Plesiomonas shigelloides or Vibrio bacteremia
+Procedure-related empyema / nosocomial bacteremia (e.g., Staphylococcus aureus or Pseudomonas)
+Non-typhoidal Salmonella (NTS) bacteremia:
+For: Classic pathogen detected on the FilmArray GI panel; uniquely known for causing self-limiting gastroenteritis followed by prolonged asymptomatic stool carriage (weeks to months) and subsequent secondary bacteremia/sepsis in elderly or immunocompromised cancer patients; no travel history required.
+Against: None; every clinical, temporal, and microbiologic feature aligns tightly.
+Campylobacter (C. jejuni / C. coli) bacteremia:
+For: Included on the FilmArray GI panel and can cause bacteremia in immunocompromised hosts.
+Against: Bacteremia typically occurs acutely during the diarrheal illness rather than 2 months after a self-limiting episode; C. fetus (the species most prone to bacteremia without acute diarrhea) is not detected by the standard FilmArray GI panel.
+Yersinia enterocolitica bacteremia:
+For: Included on the FilmArray GI panel and can cause bacteremia in compromised hosts.
+Against: Strongly associated with iron overload, hemochromatosis, or cirrhosis rather than advanced lung cancer; prolonged 2-month carrier state leading to delayed sepsis is much less typical than with Salmonella.
+Plesiomonas shigelloides or Vibrio bacteremia:
+For: Included on the FilmArray GI panel.
+Against: Typically associated with seafood/brackish water exposure, travel, or chronic liver disease, and rarely cause delayed bacteremia 2 months after self-limiting diarrhea.
+Procedure-related empyema / nosocomial bacteremia:
+For: Recent pleural drainage 10 days prior.
+Against: Pleural drainage culture was negative, and the bloodstream organism was simultaneously identified on the stool FilmArray GI panel.
+Excluded: Procedure-related empyema is excluded by negative pleural fluid cultures and the matching stool FilmArray pathogen. Vibrio and Plesiomonas are unlikely without relevant exposure or cirrhosis. Campylobacter and Yersinia are less consistent with delayed bacteremia 2 months after self-limiting diarrhea in an oncology patient without iron overload.
+Commitment: The combination of advanced malignancy, self-limiting diarrhea 2 months prior, acute sepsis with marked neutrophilic leukocytosis, and concordant positivity on blood culture and FilmArray GI panel commits to non-typhoidal Salmonella bacteremia.
+Final diagnosis: Non-typhoidal Salmonella bacteremia
+
+--- RESPONSE R116 ---
+An elderly, immunocompromised man with metastatic lung cancer presents with fever, confusion and marked neutrophilic leukocytosis. Procalcitonin is elevated. He had a self-limited diarrheal illness two months earlier. The same organism was found in blood cultures and on the FilmArray stool panel, which points to an enteric pathogen that invades the bloodstream. Older, immunocompromised patients are prone to this, and their gastroenteritis may be followed by bacteremia or prolonged carriage. The pleural culture was negative, so the drainage is not the source. Non-typhoidal Salmonella is the most common enteric pathogen causing bacteremia in this setting.
+Final diagnosis: Non-typhoidal Salmonella enterica bacteremia secondary to gastrointestinal carriage/infection in an immunocompromised host
+
+--- RESPONSE R036 ---
+This 71-year-old male with advanced metastatic lung cancer presents with fever, asthenia, confusion, marked neutrophilic leukocytosis, and elevated CRP and procalcitonin, indicating acute bacterial sepsis. A key historical clue is a self-limiting five-day episode of diarrhea two months earlier, with no recent travel and a negative pleural fluid culture. Both blood cultures and a FilmArray gastrointestinal panel on stool tested positive for the same organism. Among the bacterial pathogens detected on the FilmArray GI panel, non-typhoidal Salmonella is uniquely classic for causing self-limiting gastroenteritis followed by prolonged stool carriage and subsequent bacteremia/sepsis in elderly or immunocompromised patients with solid malignancies.
+Final diagnosis: Non-typhoidal Salmonella bacteremia
+
+===== CASE =====
+- **Patient Information:** 19-year-old Hispanic female with no significant past medical history.
+- **Chief Complaint:** Proximal muscle weakness and hyperpigmented rash.
+- **History of Present Illness:** 4-month history of progressive proximal muscle weakness affecting upper/lower extremities and oropharyngeal muscles, causing dysphagia. Associated hyperpigmented rash noted on sun-exposed areas (face, neck, chest).
+- **Past Medical History:** None.
+- **Personal History:** None.
+- **Family History:** None.
+- **Physical Examination:** 
+  - Hyperpigmented rash on forehead, chin, upper chest (shawl sign), and Gottron’s papules on dorsal joints bilaterally.
+  - Symmetrical proximal muscle weakness (3/5).
+  - Decreased reflexes (1+).
+- **Ancillary Tests:**
+  - Elevated inflammatory markers: ESR 39 mm, CRP 8.9 mg/L.
+  - Elevated muscle enzymes: AST 212 U/L, ALT 65 U/L, LDH 622 U/L, aldolase 21.8 U/L. Normal CK and myoglobin levels.
+  - ANA positive: 1:320 titer (nuclear speckled pattern).
+  - EMG: Acute inflammatory myopathy without polyneuropathy.
+  - MRI: Diffuse muscle edema/enhancement consistent with inflammatory myositis.
+  - Muscle biopsy: Severe inflammatory myopathy with perifascicular pathology.
+  - Myositis panel: Positive for anti-SAE1 and anti-MDA5 antibodies.
+  - Modified barium swallow: Delayed oral transit and moderate dysphagia.
+  - CT chest: No lymphadenopathy, nodules, or interstitial pneumonitis.
+
+REFERENCE DIAGNOSIS: Dermatomyositis.
+REFERENCE REASONING (clinician): 1. **Dermatomyositis (DM):** Supported by characteristic skin findings (Gottron's papules, shawl sign), symmetrical proximal muscle weakness, and evidence of myositis on biopsy. Anti-SAE1 and anti-MDA5 antibodies are specific to DM. Normal CK and amyopathic presentation were atypical but did not exclude the diagnosis due to biopsy-confirmed severe muscle inflammation.
+2. **Clinically Amyopathic Dermatomyositis (CADM):** Normally presents with skin findings but without muscle involvement or weakness. This diagnosis was excluded due to the presence of significant muscle weakness, biopsy-proven inflammatory myopathy, and MRI findings.
+3. **Polymyositis:** Considered as a differential; however, specific skin findings (shawl sign, Gottron's papules) and anti-MDA5/anti-SAE1 antibodies are characteristic of DM rather than polymyositis.
+4. **Inclusion-Body Myositis (IBM):** Unlikely, given the young age of presentation (IBM typically affects older adults) and lack of characteristic pathologic findings (inclusion bodies) on biopsy.
+5. **Necrotizing Autoimmune Myopathy:** Excluded due to the presence of skin manifestations specific to DM and lack of immune-mediated necrosis as the dominant feature on biopsy.
+6. **Overlap Syndromes or Connected Tissue Disorders:** Excluded as the patient's presentation aligned predominantly with DM without features suggestive of overlap conditions like scleroderma or lupus.
+   
+Step-by-step testing with muscle biopsy, antibody testing, EMG, and MRI helped confirm the diagnosis, ruling out other conditions despite normal CK levels.
+
+--- RESPONSE R117 ---
+A young woman has subacute symmetric proximal weakness with dysphagia from oropharyngeal involvement. She has a photodistributed rash with a shawl sign and Gottron's papules. Aldolase, LDH and AST are elevated despite a normal CK, which is recognized in MDA5-associated disease. EMG shows an inflammatory myopathy, MRI shows muscle edema, and biopsy shows perifascicular pathology, which is pathognomonic for dermatomyositis. ANA is positive, and she is dual-positive for anti-SAE1 and anti-MDA5. CT shows no interstitial lung disease at present.
+Final diagnosis: Dermatomyositis with dual anti-SAE1/anti-MDA5 antibody positivity (without interstitial lung disease).
+
+===== CASE =====
+- **Patient Information:** 30-year-old primigravida Tanzanian female.
+- **Chief Complaint:** None (asymptomatic presentation during routine antenatal care).
+- **History of Present Illness:** None; presented for routine antenatal booking at 12 weeks of gestation.
+- **Past Medical History:** None; no chronic illnesses, prior gynecological surgeries, or sexually transmitted infections.
+- **Personal History:** No contraceptive use or history of chronic medication.
+- **Family History:** None mentioned.
+- **Physical Examination:** Normal; unremarkable findings with no abdominal tenderness, guarding, or rigidity.
+- **Ancillary Tests:** 
+  - Routine ultrasound revealed gestation near the left uterine horn with an empty endometrial cavity, suspicious for an [REDACTED].
+  - MRI confirmed an [REDACTED] in the left fallopian tube with a live fetus corresponding to 12 weeks of gestation (crown-rump length of 5.8 cm).
+
+---
+
+REFERENCE DIAGNOSIS: Interstitial ectopic pregnancy.
+REFERENCE REASONING (clinician): 1. **Initial Considerations:**
+   - The ultrasound findings suggested possibilities of ectopic pregnancy, uterine abnormality, or angular pregnancy.
+   - Empty endometrial cavity necessitated further imaging for clarification.
+
+2. **Ectopic Pregnancy Subtypes:**
+   - **Cornual Pregnancy:** Ruled out based on MRI findings specifying the interstitial location.
+   - **Ampullary, Isthmic, or Tubal Pregnancy:** Excluded as the gestational sac was confirmed in the interstitial portion of the tube.
+   - **Angular Pregnancy:** Differentiated using MRI, which provided detailed anatomical visualization.
+
+3. **Confirmed Diagnosis:**
+   - MRI confirmed interstitial ectopic pregnancy due to the presence of a gestational sac situated in the interstitial segment of the left fallopian tube, lateral to the uterine cavity.
+
+4. **Further Exclusions:**
+   - Uterine abnormalities (e.g., congenital anomalies) were excluded given the imaging findings and the absence of relevant history.
+
+---
+
+--- RESPONSE R004 ---
+An asymptomatic 30-year-old woman in her first pregnancy was seen at routine 12-week booking. Ultrasound showed the gestation near the left uterine horn with an empty endometrial cavity. MRI confirmed a live 12-week fetus (CRL 5.8 cm) within the left fallopian tube. She has no signs of rupture: no tenderness or peritonism and stable findings. A tubal pregnancy reaching 12 weeks with a live fetus near the cornua suggests a proximal or interstitial tubal location.
+Final diagnosis: Unruptured live left tubal (likely interstitial/proximal) ectopic pregnancy at 12 weeks' gestation
+
+===== CASE =====
+- **Patient Information:** 55-year-old female  
+- **Chief Complaint:** Chronic abdominal pain  
+- **History of Present Illness:** Diffuse, intermittent abdominal pain, nausea, and anorexia persisting for approximately 2 weeks with progressive worsening.  
+- **Past Medical History:** None reported  
+- **Personal History:** None relevant reported  
+- **Family History:** Not mentioned  
+- **Physical Examination:** Alert, cooperative, normal body weight; 37°C body temperature; abdominal tenderness in the epigastric and periumbilical regions, no palpable masses. Other systems were unremarkable.  
+- **Ancillary Tests:**  
+  - Initial ultrasound revealed a large perigastric mixed echoic mass within the peritoneum.  
+  - Contrast-enhanced CT showed a large necrotic peritoneal mass infiltrating adjacent fat, adhering to the stomach, pancreas, and transverse colon, with no evidence of metastasis.  
+  - Surgery and intraoperative pathological examination revealed a nonmalignant, well-vascularized mass requiring segmental colectomy and partial gastrectomy. Definitive histology confirmed [REDACTED].  
+  - Follow-up: 1 year post-surgery showed no recurrence clinically or via imaging.
+
+REFERENCE DIAGNOSIS: Mesenteric inflammatory pseudotumor
+REFERENCE REASONING (clinician): 1. The patient's presentation of abdominal pain with a necrotized mass prompted an investigation into possibilities such as malignancy and benign conditions:  
+   - **Malignant conditions (e.g., sarcoma, metastatic tumor, gastrointestinal stromal tumor):** Considered due to necrosis and adherence to structures but ruled out due to lack of metastasis, intraoperative findings, and histopathological confirmation of benignity.
+   - **Abscess:** Partial overlap due to necrosis but excluded based on the absence of infectious signs like fever, elevated inflammatory markers, and pus on imaging or during surgery.  
+   - **Mesenteric fibromatosis:** Possible differential, but this typically lacks necrosis.  
+   - **Mesenteric inflammatory pseudotumor (IP):** Strongly considered given the histological pattern of proliferative myofibroblasts, spindle cells, and plasma and lymphocytic infiltration. Radiologically, characteristics of central necrosis and absence of metastasis also fit IP.  
+
+2. Histopathology and immunohistochemistry were definitive in confirming IP (benign fibrosis and inflammation with characteristic staining profiles like SMA and ALK positivity).  
+
+3. A mesenteric inflammatory pseudotumor diagnosis was reinforced after surgical resection and follow-up showing no recurrence.
+
+--- RESPONSE R021 ---
+Large, necrotic, infiltrative peritoneal or mesenteric mass adherent to the stomach, pancreas and transverse colon.
+No metastases and no fever.
+Intraoperatively the mass was non-malignant and well vascularized, yet locally aggressive enough to need multivisceral resection.
+No recurrence at one year.
+The behavior is locally aggressive but non-metastasizing, which suggests an intermediate-grade soft-tissue lesion.
+Mesenteric desmoid-type fibromatosis
+Inflammatory myofibroblastic tumor
+Gastrointestinal stromal tumor (GIST)
+Localized (unicentric) Castleman disease
+Sclerosing mesenteritis
+Desmoid fibromatosis
+For: infiltration into adjacent fat and organs, large size, no metastases, benign on frozen section.
+Against: necrosis is unusual, though large tumors can degenerate; recurrence is common, so one year is a short follow-up.
+Inflammatory myofibroblastic tumor
+For: infiltrative mass in a middle-aged adult, benign appearance.
+Against: no fever, anemia or inflammatory syndrome.
+GIST
+For: large necrotic mass next to the stomach.
+Against: intraoperative pathology non-malignant; it is extraluminal and infiltrative rather than arising from the bowel wall.
+Castleman disease
+For: well-vascularized and benign.
+Against: usually well circumscribed, not infiltrative, and rarely necrotic.
+Sclerosing mesenteritis
+For: infiltrates mesenteric fat.
+Against: rarely forms a large necrotic mass needing gastrectomy.
+GIST is unlikely given the non-malignant intraoperative pathology and extramural infiltration.
+Castleman disease and sclerosing mesenteritis do not match the morphology.
+IMT lacks inflammatory features.
+Commitment: desmoid-type fibromatosis, accepting that definitive histology could favor IMT.
+Final diagnosis: Intra-abdominal (mesenteric) desmoid-type fibromatosis.
+
+===== CASE =====
+- **Patient Information:** 3-year-old girl, second child of healthy, nonconsanguineous parents. No significant antenatal issues, normal developmental milestones prior to the event.
+- **Chief Complaint:** Persistent weakness in the left upper and lower limbs following prolonged seizures at age 2.
+- **History of Present Illness:** At age 2, prolonged focal seizures affecting the left side. Post-seizure, spastic left hemiparesis developed and persisted. Subsequent psychomotor retardation was noted.
+- **Past Medical History:** None reported.
+- **Personal History:** None significant.
+- **Family History:** No significant family history of neurological or genetic conditions.
+- **Physical Examination:** Spastic left hemiparesis and delayed motor milestones. Normal weight and height. Unremarkable systemic examination.
+- **Ancillary Tests:** Brain MRI showed generalized atrophy of the right cerebral hemisphere, homolateral ventricular dilatation, and subcortical white matter gliosis consistent with [REDACTED]. EEG findings were not explicitly detailed in this case.
+
+REFERENCE DIAGNOSIS: Chronic phase of Hemiconvulsion-Hemiplegia-Epilepsy syndrome.
+REFERENCE REASONING (clinician): 1. **Initial Considerations:**
+   - The initial clinical presentation of prolonged unilateral seizures and subsequent hemiparesis raised suspicion for HHE syndrome, a rare neurological disorder. 
+
+2. **Differential Diagnosis:**
+   - **Stroke:** Ruled out as imaging did not show vascular distribution abnormalities or acute ischemia.
+   - **Dyke-Davidoff-Masson Syndrome:** Excluded as there was no evidence of calvarial thickening or hyper-pneumatization of paranasal sinuses on MRI.
+   - **Sturge-Weber Syndrome:** Excluded due to the absence of parieto-occipital involvement, prominent leptomeningeal enhancement, or choroid plexus enlargement.
+   - **Rasmussen Encephalitis:** Ruled out due to the absence of initial caudate nucleus atrophy and clinical progression consistent with Rasmussen encephalitis.
+
+3. **Confirmation of HHE Syndrome:**
+   - Combination of clinical history (prolonged status epilepticus followed by persistent hemiplegia), imaging findings (right cerebral hemisphere atrophy, gliosis), and the onset of epilepsy (underlying partial epilepsy controlled with sodium valproate) firmly supported the diagnosis of chronic HHE syndrome.
+
+--- RESPONSE R123 ---
+A previously normal toddler with prolonged unilateral (left-sided) focal seizures at age 2.
+Persistent spastic left hemiparesis after the seizures, followed by developmental regression.
+MRI shows right hemispheric atrophy, ipsilateral ventricular dilatation and white matter gliosis.
+Hemiconvulsion–hemiplegia(–epilepsy) syndrome (HH/HHE)
+Dyke–Davidoff–Masson syndrome
+Rasmussen encephalitis
+Sturge–Weber syndrome
+Perinatal or arterial ischemic stroke
+HH(E).
+For: the classic sequence of prolonged unilateral seizure at under 4 years, followed by lasting hemiplegia and hemiatrophy.
+Against: later epilepsy is not yet documented.
+Dyke–Davidoff–Masson.
+For: cerebral hemiatrophy.
+Against: no calvarial thickening or sinus hyperpneumatization is described. It is also a largely radiological label for the same end state.
+Rasmussen encephalitis.
+For: unilateral atrophy and focal seizures.
+Against: no epilepsia partialis continua and no ongoing progressive seizures; onset was a single acute prolonged event.
+Sturge–Weber.
+For: hemiatrophy.
+Against: no port-wine stain or leptomeningeal enhancement.
+Stroke.
+For: hemiparesis.
+Against: normal development before the seizures, and diffuse hemispheric atrophy rather than a vascular-territory infarct.
+Sturge–Weber and stroke are excluded on the features above.
+Rasmussen encephalitis does not fit the temporal pattern.
+Dyke–Davidoff–Masson describes the imaging consequence but lacks its skull signs.
+I commit to HH syndrome.
+Final diagnosis: Hemiconvulsion–hemiplegia(–epilepsy) syndrome with right cerebral hemiatrophy.
+
+===== CASE =====
+- **Patient Information:** 4-month-old male mixed-breed dog  
+- **Chief Complaint:** Stiff gait after a startle response or sudden movement initiation  
+- **History of Present Illness:** Stiffness and transient motor difficulty since the first months of life, normal growth/behavior otherwise  
+- **Past Medical History:** None  
+- **Personal History:** None  
+- **Family History:** The mother and 4 littermates were evaluated. Except for one wild-type littermate, others carried a copy of the mutated gene, but clinical signs were not observed.  
+- **Physical Examination:** Normal general physical parameters and neurological exam; generalized muscle hypertrophy. Myotonia easily induced during physical activity and upper lip manipulation. Warm-up phenomenon observed.  
+- **Ancillary Tests:**  
+  - **Electromyography (EMG):** Confirmed myotonic discharges (“wax and wane” potentials) in various muscles.   
+  - **Blood Tests:** Normal results.  
+  - **Genetic Testing:** Identified complex mutation c.[1636_1639delinsAACGGG] and c.[1644A>T] in exon 15 of the [REDACTED] gene, resulting in a premature stop codon and truncated chloride channel protein (~400 amino acids shorter). Genetic testing revealed heterozygosity in the mother and 3 out of 4 littermates.
+
+REFERENCE DIAGNOSIS: Hereditary myotonia caused by CLCN1 gene mutation
+REFERENCE REASONING (clinician): 1. **Initial Suspicions Based on Clinical Signs:**  
+   - The hallmark symptoms of stiffness, myotonia (delayed muscle relaxation after contraction), warm-up phenomenon, and absence of muscle weakness strongly indicated hereditary myotonia, specifically related to chloride channelopathy (CLCN1 mutation). This was distinguished from sodium channelopathies, which often present with muscle weakness not seen here.  
+   - Dystrophic myotonia was initially considered but was ruled out due to the absence of muscle weakness and normal ancillary blood tests (e.g., creatine kinase levels) indicating no muscle degeneration.  
+
+2. **Diagnostic Confirmation with EMG:**  
+   - The characteristic myotonic discharges confirmed myotonia, ruling out pseudomyotonia.  
+   - Normal blood tests further excluded secondary causes of myotonia, such as electrolyte imbalances or metabolic disorders.  
+
+3. **Exclusion of Other Neuromuscular Conditions:**  
+   - Other conditions leading to stiffness, such as cramping syndromes or peripheral neuropathies, were excluded based on normal neurological examination and specific EMG findings consistent with hereditary myotonia.  
+
+4. **Genetic Confirmation:**  
+   - The complex mutation in exon 15 of the CLCN1 gene solidified the diagnosis of hereditary myotonia. This mutation resulted in a truncated protein affecting critical structural components of the chloride channel. The hereditary pattern observed (autosomal recessive) matched findings in the dam and littermates.
+
+--- RESPONSE R020 ---
+A young dog has stiffness after startle or when starting to move, generalized muscle hypertrophy, easily induced myotonia, and a warm-up phenomenon (stiffness eases with repeated movement). EMG shows myotonic "wax and wane" discharges. The genetic mutation truncates a chloride channel protein, which means the CLCN1 gene. The heterozygous mother and littermates have no signs, so the inheritance is autosomal recessive.
+Final diagnosis: Myotonia congenita (CLCN1-related chloride channelopathy, autosomal recessive).
+
+--- RESPONSE R005 ---
+Puppy with stiffness after startle or when starting to move, from the first months of life.
+Generalized muscle hypertrophy.
+Myotonia easily induced, including percussion of the lip.
+Warm-up phenomenon: stiffness eases with repeated movement, which is classic for chloride channelopathy.
+EMG shows waxing-and-waning myotonic discharges.
+Truncating mutation in exon 15 of a chloride-channel gene (CLCN1).
+Heterozygous mother and littermates are unaffected, which implies autosomal recessive inheritance with the patient homozygous for the variant.
+Normal blood tests exclude a metabolic or inflammatory myopathy.
+Myotonia congenita (CLCN1, recessive / Becker-type)
+Dominant (Thomsen-type) myotonia congenita
+Sodium channel myotonia / paramyotonia (SCN4A)
+Myotonic dystrophy
+Hypothyroid or other acquired myopathy
+Recessive myotonia congenita
+For: CLCN1 truncation, warm-up phenomenon, hypertrophy, asymptomatic heterozygous carriers.
+Against: none.
+Thomsen-type (dominant)
+For: CLCN1 involvement.
+Against: heterozygous relatives are unaffected.
+SCN4A myotonia / paramyotonia
+For: myotonia.
+Against: warm-up rather than paradoxical worsening, and the chloride-channel gene is mutated.
+Myotonic dystrophy
+For: myotonia.
+Against: hypertrophy rather than wasting, no systemic signs, young age, different gene.
+Acquired myopathy
+Against: normal blood tests and a genetic cause found.
+Dominant forms are excluded by the unaffected heterozygous relatives.
+SCN4A disorders and myotonic dystrophy are excluded by the genotype and phenotype.
+I commit to recessive CLCN1 myotonia congenita.
+Final diagnosis: Myotonia congenita (autosomal recessive, Becker-type) due to a truncating CLCN1 mutation
+
+===== CASE =====
+- Patient Information: 28-year-old primigravida woman.
+- Chief Complaint: None explicitly reported; referred for evaluation of fetal anomaly.
+- History of Present Illness: Fetal echogenic bowel (FEB) identified at 18 weeks/3 days gestational age during an anomaly scan. Persistent bowel dilation noted throughout pregnancy.
+- Past Medical History: None significant.
+- Personal History: None significant.
+- Family History: Not reported.
+- Physical Examination: N/A (prenatal case; no specific maternal physical examination findings reported).
+- Ancillary Tests:
+  - Ultrasound: Anomaly scan identified grade 3 hyperechogenicity of the fetal bowel; bowel dilation progressed, measuring 21 mm by 29 weeks/6 days gestation.
+  - Fetal Echocardiogram: Normal.
+  - Maternal Serum Testing for TORCH Infections: Normal.
+  - Non-Invasive Prenatal Testing (NIPT): Low risk for chromosomal aneuploidies.
+  - First-Trimester Screening: Negative for trisomy 21, 18, and 13.
+
+---
+
+REFERENCE DIAGNOSIS: Jejunal Atresia
+REFERENCE REASONING (clinician): - **Initial Considerations**: Based on the finding of FEB, potential diagnoses included aneuploidy (e.g., trisomy 21, 18, 13), gastrointestinal malformations (bowel obstruction, atresia, perforation), cystic fibrosis, congenital infections (e.g., cytomegalovirus), and other underlying etiologies.
+  
+- **Step 1: Ruling Out Aneuploidy and Infections**:
+  - NIPT testing showed low risk for common chromosomal aneuploidies, effectively ruling out trisomy 21, 18, and 13.
+  - TORCH infection screening was negative, excluding infections such as cytomegalovirus and rubella.
+  
+- **Step 2: Persistence of Bowel Dilation**:
+  - The fetal bowel dilation was noted to worsen (21 mm at 29 weeks/6 days), exceeding the clinical cut-off value of >10 mm for suspected gastrointestinal obstruction or atresia, making a gastrointestinal abnormality the leading diagnosis.
+
+- **Step 3: Postnatal Confirmation**:
+  - Postnatally, jejunal atresia was confirmed during surgical exploration when the newborn presented with symptoms requiring abdominal surgery.
+
+Rationale: The persistent appearance of severe bowel dilation on ultrasounds alongside the exclusion of aneuploidy and infections led to a high suspicion of gastrointestinal obstruction, specifically jejunal atresia, which was confirmed operatively.
+
+---
+
+--- RESPONSE R097 ---
+Grade 3 fetal echogenic bowel was found at 18 weeks, with progressive bowel dilation to 21 mm by 30 weeks, which suggests obstruction. TORCH serology is normal, making CMV and other infections less likely. NIPT and first-trimester screening are low risk, making aneuploidy less likely. Fetal echocardiography is normal, and there are no other structural anomalies. Echogenic bowel combined with dilated bowel is the classic prenatal presentation of meconium ileus.
+(1) cystic fibrosis with meconium ileus; (2) jejunoileal atresia; (3) congenital CMV or other infection; (4) aneuploidy such as trisomy 21; (5) volvulus or meconium peritonitis.
+Cystic fibrosis. For: high-grade echogenicity seen early with later dilation, and other causes screened negative. Against: genetic confirmation is not provided in the case.
+Bowel atresia. For: progressive dilation. Against: echogenic bowel this early favors abnormal meconium.
+Congenital infection. For: echogenic bowel is a recognized sign. Against: normal TORCH, and no other infectious stigmata.
+Aneuploidy. For: echogenic bowel is a soft marker. Against: low-risk NIPT and screening, and a normal heart.
+Meconium peritonitis or volvulus. For: dilation. Against: no calcifications or ascites reported. These are also often complications of CF.
+Serologies and genetic screening exclude infection and aneuploidy. The combination of early hyperechogenic bowel with progressive dilation favors CF-related meconium ileus over primary atresia. I commit to CF, to be confirmed by parental CFTR carrier testing and fetal or postnatal testing.
+Final diagnosis: Cystic fibrosis presenting prenatally as echogenic bowel with meconium ileus.
+
+===== CASE =====
+- **Patient Information:** 64-year-old woman.
+- **Chief Complaint:** Left breast nodule.
+- **History of Present Illness:** Presented with a nodular formation in the upper outer quadrant of her left breast. A biopsy revealed infiltrating ductal carcinoma. Noticed a contralateral lesion in the right breast during preoperative evaluation.
+- **Past Medical History:** None reported.
+- **Personal History:** None reported.
+- **Family History:** Significant history of malignancies, including leukemia in father, lung carcinoma in mother, and breast carcinoma in paternal aunt.
+- **Physical Examination:** Not detailed beyond general good condition and 97% oxygen saturation on room air.
+- **Ancillary Tests:** 
+  - Initial mammography revealed a 7 mm and 8 mm left breast lesion. Biopsy: invasive ductal carcinoma with Ki-67 of 50%, ER/PR/HER2-negative.
+  - Right breast ultrasound: lesion with mixed echogenicity classified as E4b.
+  - Histological exam post-mastectomy revealed poorly differentiated neoplasms: left breast invasive ductal carcinoma pT1c/G3/N0, right breast pT1b/G3/N0.
+  - Post-surgery CT imaging: hypodense nodules, spiculated pulmonary nodule, and adrenal metastasis.
+  - Subcutaneous nodule biopsy: carcinomatous involvement with cytokeratin 7 expression but inconclusive histological findings.
+  - Endoscopic lung biopsy identified carcinoma with features similar to breast neoplasms, confirmed as [REDACTED]. Immunohistochemistry: cytokeratin 7-positive; TTF1, GATA3, napsin A, and P40-negative; wild-type status for ALK, EGFR, ROS1, RET, METex14, NTRK, and BRAF.
+
+REFERENCE DIAGNOSIS: Primary pulmonary carcinoma with metastatic involvement of the breasts and adrenal gland.
+REFERENCE REASONING (clinician): - The initial diagnostic impression was primary breast cancer based on clinical presentation, imaging, and histopathological findings of the left breast (infiltrating ductal carcinoma) and later the right breast.
+- The emergence of contralateral breast lesions, significant family cancer history, and absence of BRCA mutations raised concern for genetic predisposition or metastatic disease.
+- Staging CT revealed pulmonary nodule and adrenal involvement, prompting consideration of synchronous metastatic disease versus two primary tumors.
+- Subcutaneous biopsy findings and inconclusive histopathology necessitated further assessment.
+- Lung cryobiopsy confirmed pulmonary carcinoma, with histopathology and immunohistochemistry aligning with breast lesion findings, strongly suggesting metastatic breast involvement from the lung as the primary cancer.
+
+--- RESPONSE R069 ---
+The patient is a 64-year-old woman diagnosed with bilateral, poorly differentiated, triple-negative (ER-, PR-, HER2-) invasive ductal carcinomas of the breast (left pT1c/G3/N0, right pT1b/G3/N0) with a high Ki-67 index (50%). Postoperative CT revealed a spiculated pulmonary nodule, adrenal metastasis, and subcutaneous nodules. Biopsy of the lung lesion showed carcinoma with histological features similar to her breast neoplasms. Immunohistochemistry of the lung biopsy was CK7-positive and negative for all primary lung lineage markers (TTF-1 and Napsin A for lung adenocarcinoma; p40 for squamous cell carcinoma), and molecular testing was wild-type for all major non-small cell lung cancer oncogenic drivers (ALK, EGFR, ROS1, RET, METex14, NTRK, BRAF). Although GATA3 was negative, loss of GATA3 expression is common in high-grade triple-negative breast carcinomas. Together, the matching histomorphology, CK7-positive/TTF-1-negative/Napsin A-negative/p40-negative immunoprofile, and absence of lung driver mutations confirm pulmonary metastasis from her triple-negative breast cancer.
+Final diagnosis: Metastatic triple-negative breast cancer
+
+--- RESPONSE R100 ---
+Synchronous bilateral breast carcinomas. Both are poorly differentiated (G3), node-negative, triple-negative, with Ki-67 of 50%.
+After surgery there are new lung, adrenal and subcutaneous lesions.
+The lung biopsy is morphologically similar to the breast tumors.
+The lung tumor is CK7-positive and negative for TTF-1, napsin A and p40, which argues against primary lung adenocarcinoma and squamous carcinoma.
+GATA3 is negative. This is a known pitfall, because GATA3 sensitivity is reduced in triple-negative breast cancer.
+The lung tumor has no actionable lung driver alterations.
+There is a strong family history of cancer, including breast cancer in a paternal aunt.
+Metastatic triple-negative breast carcinoma (lung, adrenal, subcutaneous)
+Primary TTF-1-negative lung adenocarcinoma, synchronous with the breast cancers
+Metastatic carcinoma of another primary, such as upper GI or pancreaticobiliary
+Primary lung squamous or large-cell carcinoma
+Metastatic breast carcinoma.
+For: known aggressive bilateral triple-negative disease, the same morphology in the lung, CK7 positivity, a lung marker profile that is negative.
+Against: GATA3 negativity and node-negative primaries. Neither is unusual in triple-negative breast cancer.
+Primary lung adenocarcinoma.
+For: a spiculated lung nodule and a CK7-positive carcinoma.
+Against: TTF-1 and napsin A are negative, there are no driver mutations, and the morphology mirrors the breast tumors.
+Another primary.
+For: CK7-positive carcinoma of unknown origin.
+Against: no GI or pancreatic lesion is described, and the morphology resembles the breast tumors.
+Lung squamous or large-cell carcinoma.
+Against: p40 is negative and the morphology is not consistent.
+Primary lung carcinoma is excluded by the immunoprofile (TTF-1, napsin A and p40 negative) and the absence of driver mutations.
+Another primary is unsupported.
+I commit to metastatic breast origin, based on matching morphology and the known high-grade triple-negative primaries. Germline testing (BRCA1/2 and similar) is warranted given the family history.
+Final diagnosis: Metastatic triple-negative breast carcinoma (from synchronous bilateral invasive ductal carcinoma) to the lung, adrenal gland and subcutaneous tissue.
+
+===== CASE =====
+- Patient Information: 58-year-old male.
+- Chief Complaint: None explicitly noted; major concerns include cutaneous ulcerations, respiratory involvement, and sinus and orbital issues.
+- History of Present Illness: Chronic sinusitis, epistaxis, cavitary lung lesions unresponsive to antibiotics, and subsequent development of painful bilateral lower extremity cutaneous ulcerations following prednisone taper. Later symptoms included sinus pain, proptosis, and periocular swelling.
+- Past Medical History: Intranasal cocaine use, chronic sinusitis, and epistaxis.
+- Personal History: Intranasal cocaine use.
+- Family History: None mentioned.
+- Physical Examination: Well-demarcated ulcers with raised violaceous borders; sinus opacification, midline septal defect, destruction of the orbital floor, and hard palate.
+- Ancillary Tests: Negative autoimmune and ANCA workup, normal serum protein electrophoresis and eosinophil levels, abnormal histologic findings (PG on skin biopsy; nonspecific findings lacking classic signs of [REDACTED]), radiologic findings of lung and sinus involvement, and culture showing neutrophils without infection.
+
+REFERENCE DIAGNOSIS: ANCA-negative Granulomatosis with Polyangiitis (GPA) with Pyoderma Gangrenosum (PG)-like presentations.
+REFERENCE REASONING (clinician): 1. **Multisystem Pyoderma Gangrenosum (PG)**: Initially considered due to the presence of PG-like cutaneous ulcers and negative ANCA. Skin biopsy findings and temporary response to immunosuppressive therapy supported this diagnosis. However, recurrent symptoms, progression of disease (sinus and bone destruction), and multisystem involvement complicated the diagnosis.
+2. **Granulomatosis with Polyangiitis (GPA)**: Despite ANCA negativity, sinus and lung involvement, bone necrosis, and systemic inflammation raised suspicion for ANCA-negative GPA. Renal sparing and absence of definitive histological findings are known in GPA and aligned with the clinical presentation.
+3. **Infectious, Autoimmune, or Malignant Conditions**: Infections were ruled out by culture; autoimmune conditions like inflammatory bowel disease or arthritis were unlikely due to a lack of systemic features; malignancy was ruled out by histopathological assessments.
+
+Through systemic exclusion, ANCA-negative GPA with PG-like ulceration emerged as the robust diagnosis based on multisystem disease and evidence of granulomatous inflammation despite negative lab and biopsy findings.
+
+--- RESPONSE R033 ---
+Severe destructive sinonasal and orbital disease (chronic sinusitis, epistaxis, midline septal defect, destruction of the orbital floor and hard palate, proptosis, periocular swelling): Indicates an aggressive necrotizing midline destructive process.
+Cavitary lung lesions unresponsive to antibiotics: Strongly favors a systemic necrotizing vasculitis/granulomatous disorder over localized sinonasal pathology or bacterial pneumonia.
+Well-demarcated lower extremity ulcers with raised violaceous borders confirmed as pyoderma gangrenosum (PG) on biopsy, flaring after prednisone taper: Steroid-responsive neutrophilic dermatosis (PG) is a recognized cutaneous manifestation of systemic vasculitis (particularly GPA) and argues for an immune-mediated systemic process.
+Negative ANCA and autoimmune workup, with nonspecific biopsy findings lacking classic histologic signs: Highlights a diagnostic challenge (ANCA-negative disease vs. cocaine-induced mimic).
+History of intranasal cocaine use: Major confounder that can cause midline destructive lesions and mimic systemic vasculitis.
+ANCA-negative Granulomatosis with polyangiitis (GPA)
+Cocaine-induced midline destructive lesions (CIMDL) with levamisole-associated vasculopathy/PG
+Extranodal NK/T-cell lymphoma, nasal type
+Invasive fungal rhinosinusitis (e.g., mucormycosis or aspergillosis)
+ANCA-negative Granulomatosis with polyangiitis (GPA):
+For: Classic multisystem triad of upper respiratory/sinonasal destruction (chronic sinusitis, epistaxis, septal/palatal/orbital floor destruction, proptosis), lower respiratory tract involvement (antibiotic-refractory cavitary lung lesions), and cutaneous involvement (pyoderma gangrenosum-like/PG ulcerations flaring upon prednisone taper, demonstrating steroid responsiveness); the case specifically notes nonspecific histology lacking classic signs of the redacted entity (granulomatous vasculitis), which is well-documented in limited or partially treated/steroid-exposed GPA.
+Against: Negative ANCA serology (seen in a minority of GPA cases), history of intranasal cocaine use, and absence of classic necrotizing granulomatous vasculitis on biopsy.
+Cocaine-induced midline destructive lesions (CIMDL):
+For: Explicit history of intranasal cocaine use; severe midline destruction involving the nasal septum, hard palate, and orbital floor; negative ANCA; nonspecific histology without classic GPA granulomas; cocaine/levamisole can also trigger cutaneous ulcerations/PG.
+Against: Antibiotic-unresponsive cavitary lung lesions are classic for systemic GPA and far less typical of isolated CIMDL, and the cutaneous ulcers specifically flared following a prednisone taper (pointing to a steroid-dependent systemic inflammatory disease).
+Extranodal NK/T-cell lymphoma, nasal type:
+For: Midline sinonasal, palatal, and orbital destruction with negative ANCA and sterile cultures.
+Against: Biopsy showed nonspecific findings and PG rather than angiocentric atypical lymphoid infiltrate; cavitary lung lesions and steroid-taper-triggered lower extremity PG ulcers are atypical.
+Invasive fungal rhinosinusitis:
+For: Orbital floor and hard palate destruction, proptosis, periocular swelling, and cavitary lung lesions.
+Against: Cultures showed neutrophils without infection, no fungal hyphae were seen on histology, and no underlying severe immunocompromise (e.g., DKA, neutropenia) is reported.
+Invasive fungal rhinosinusitis is excluded by sterile cultures and absence of fungal elements on histology. Extranodal NK/T-cell lymphoma is excluded by the lack of malignant lymphoid infiltration on biopsy and the presence of steroid-responsive PG ulcers and cavitary pulmonary lesions. While CIMDL is a strong mimic given the cocaine history and negative ANCA, the combination of antibiotic-unresponsive cavitary lung lesions, severe sinonasal/orbital destruction, and biopsy-proven pyoderma gangrenosum flaring after prednisone taper—along with the biopsy explicitly noted as lacking classic histologic signs of the condition—favors ANCA-negative Granulomatosis with polyangiitis (GPA).
+Final diagnosis: ANCA-negative Granulomatosis with polyangiitis (GPA)
+
+===== CASE =====
+- **Patient Information:** 40-year-old female.
+- **Chief Complaint:** Dry cough and exertional dyspnea for 3 months.
+- **History of Present Illness:** No history of tuberculosis, smoking, or exposure to chemicals and organic dust.
+- **Past Medical History:** None.
+- **Personal History:** No history of regular medication or surgeries.
+- **Family History:** None.
+- **Physical Examination:** 
+  - Afebrile and stable vital signs.
+  - Reduced breath sounds, wheezes, and occasional crackles on the right side.
+  - Cardiac pulsations noted on the right side of the chest.
+- **Ancillary Tests:** 
+  1. Chest radiograph:
+     - Right lung volume loss.
+     - Ipsilateral tracheal shift.
+     - Cardiac dextroposition.
+     - Tenting of the right hemidiaphragm.
+  2. CECT of the chest:
+     - Anomalous venous drainage into the infra-diaphragmatic IVC.
+     - Hypoplastic right lung.
+     - Dextroposition of the heart in the small right hemithorax.
+     - Hyparterial bilobed right bronchus.
+     - Hypoplastic right main pulmonary artery.
+     - Anomalous systemic arterial supply from the abdominal aorta to the right lower lobe.
+
+REFERENCE DIAGNOSIS: Scimitar syndrome.
+REFERENCE REASONING (clinician): - Based on the radiographical findings, initial differential diagnoses included:
+  1. **Post-tubercular sequelae:** Excluded due to the absence of history or other supportive features of tuberculosis.
+  2. **Neoplastic processes:** Excluded as imaging did not reveal findings suggestive of malignancy.
+  3. **Mucus plugging/foreign body:** Excluded due to the lack of history or imaging evidence.
+- CECT findings pointed to specific congenital anomalies and confirmed features consistent with **Scimitar syndrome**, such as anomalous pulmonary venous return and lung hypoplasia, leading to its diagnosis.
+
+--- RESPONSE R080 ---
+The right lung is hypoplastic, with volume loss, dextroposition of the heart, a hypoplastic right pulmonary artery and abnormal bronchial branching (bilobed, hyparterial bronchus). The right lung drains through an anomalous vein into the infradiaphragmatic IVC, and the right lower lobe has a systemic arterial supply from the abdominal aorta. This constellation is congenital venolobar syndrome.
+Final diagnosis: Scimitar syndrome (hypogenetic lung / congenital pulmonary venolobar syndrome) with partial anomalous pulmonary venous return to the IVC.
+
+===== CASE =====
+- **Patient Information**: 13-year-old boy  
+- **Chief Complaint**: Abdominal pain in the right iliac fossa, vomiting, loss of appetite, burning micturition, and diarrhea.  
+- **History of Present Illness**: 6-month history of palpitations with exercise; no previous cardiac disease.
+- **Past Medical History**: None.  
+- **Personal History**: None provided.  
+- **Family History**: None provided.  
+- **Physical Examination**:
+  - Bradycardia (45-52 beats/min) without murmurs.  
+  - Tenderness in the right iliac fossa without rebound tenderness or rigidity. 
+- **Ancillary Tests**:  
+  - **ECG**: Mobitz type II heart block.  
+  - **Ultrasound**: 5-mm appendix without free fluid.  
+  - **Lab results**:
+    - Antistreptolysin O titer: 1,450 IU/mL.
+    - ESR: 70 mm/h.  
+    - CRP: 20.2 mg/dL.  
+    - WBC: 10.28 × 10³/μL.  
+    - Hemoglobin: 10.8 g/dL.  
+    - RBC, platelet count, and metabolic profile were normal.  
+    - Negative blood and urine cultures.  
+  - **Echocardiography**: Mild to moderate aortic/mitral regurgitation, trivial tricuspid regurgitation, mild decrease in left ventricular function.
+
+REFERENCE DIAGNOSIS: Acute rheumatic fever with cardiac complications.
+REFERENCE REASONING (clinician): 1. **Acute Appendicitis**:  
+   - Initially suspected based on localized right iliac fossa tenderness.  
+   - Ruled out due to absence of rebound tenderness, rigidity, and supportive imaging evidence.   
+   
+2. **Acute Rheumatic Fever (ARF)**:  
+   - Considered due to Mobitz type II heart block, elevated inflammatory markers (ESR/CRP), and high antistreptolysin O titer indicative of streptococcal infection.
+   - Diagnosis confirmed by the presence of carditis and other minor criteria in accordance with revised Jones criteria.  
+  
+3. **Other Causes of Heart Block**:  
+   - Exclusion of structural heart disease or electrolyte imbalances by normal cardiac imaging and metabolic profile.  
+   - Infective endocarditis unlikely due to absence of bacteremia (negative blood culture).
+
+--- RESPONSE R052 ---
+Strong serologic evidence of recent Group A Streptococcal infection: Markedly elevated antistreptolysin O (ASO) titer of 1,450 IU/mL.
+Active systemic inflammation: Markedly elevated ESR (70 mm/h) and CRP (20.2 mg/dL) with mild anemia (Hb 10.8 g/dL) and negative blood and urine cultures.
+Objective carditis and high-grade conduction block: Echocardiography demonstrates mild-to-moderate aortic and mitral regurgitation with mild left ventricular systolic dysfunction (subclinical/echocardiographic valvulitis and myocarditis), accompanied by bradycardia (45–52 bpm) and Mobitz type II second-degree AV block on ECG.
+Pseudo-appendicitis presentation with normal appendix: Right iliac fossa pain, vomiting, and diarrhea with a normal 5-mm appendix and no free fluid on ultrasound, a recognized atypical abdominal presentation of acute rheumatic fever.
+Acute rheumatic fever (with rheumatic carditis)
+Viral myocarditis
+Infective endocarditis
+Lyme carditis
+Acute appendicitis
+Acute rheumatic fever (with rheumatic carditis):
+For: Pediatric age (13 years); markedly elevated ASO titer (1,450 IU/mL); echocardiographic carditis (mitral and aortic regurgitation with mild LV dysfunction); conduction system involvement (Mobitz type II AV block); markedly elevated ESR (70 mm/h) and CRP (20.2 mg/dL); negative cultures; well-described atypical presentation mimicking acute appendicitis (abdominal pain, vomiting, diarrhea) with a normal appendix on ultrasound.
+Against: Classic murmurs, arthritis, chorea, erythema marginatum, and subcutaneous nodules are absent (subclinical carditis without audible murmurs is explicitly recognized in modern Jones criteria).
+Viral myocarditis:
+For: Can present in adolescents with gastrointestinal prodrome, palpitations, AV block, mild LV dysfunction, and elevated inflammatory markers.
+Against: Does not explain the markedly elevated ASO titer (1,450 IU/mL) or prominent dual left-sided valvulitis (mild-to-moderate aortic and mitral regurgitation).
+Infective endocarditis:
+For: Aortic and mitral regurgitation, conduction block (e.g., from aortic root abscess), anemia, and markedly elevated ESR/CRP.
+Against: Negative blood cultures, no fever or vegetations/abscess reported on echocardiography, and markedly elevated ASO titer pointing to post-streptococcal immune-mediated disease.
+Lyme carditis:
+For: High-grade AV block (Mobitz type II) and bradycardia in an adolescent.
+Against: No tick exposure or rash mentioned; does not cause dual aortic/mitral regurgitation or an ASO titer of 1,450 IU/mL.
+Acute appendicitis:
+For: Right iliac fossa tenderness, vomiting, loss of appetite, and diarrhea.
+Against: Ultrasound shows a normal 5-mm appendix without free fluid, no rebound tenderness or rigidity, and appendicitis cannot explain Mobitz type II heart block, aortic/mitral regurgitation, or an ASO titer of 1,450 IU/mL.
+Acute appendicitis is excluded by the normal 5-mm appendix without free fluid on ultrasound and the presence of severe cardiac and immunologic abnormalities. Infective endocarditis is excluded by negative blood cultures and absence of vegetations on echocardiography. Viral myocarditis and Lyme carditis are excluded because neither accounts for the markedly elevated ASO titer (1,450 IU/mL) combined with combined aortic and mitral valvulitis. The convergence of recent Group A Streptococcal infection (ASO 1,450 IU/mL), echocardiographic mitral and aortic valvulitis with LV dysfunction, high-grade AV block (Mobitz type II), and pronounced systemic inflammation (ESR 70 mm/h, CRP 20.2 mg/dL) commits the diagnosis to acute rheumatic fever.
+Final diagnosis: Acute rheumatic fever
+
+--- RESPONSE R072 ---
+The patient is a 13-year-old boy presenting with right iliac fossa pain and gastrointestinal symptoms (with a normal appendix on ultrasound), bradycardia, and Mobitz type II second-degree AV block on ECG. Laboratory studies reveal strong evidence of a recent Group A Streptococcal infection (markedly elevated antistreptolysin O titer of 1,450 IU/mL) along with markedly elevated inflammatory markers (ESR 70 mm/h, CRP 20.2 mg/dL). Echocardiography confirms carditis/valvulitis with mild-to-moderate aortic and mitral regurgitation and mildly decreased left ventricular function. Meeting the Jones criteria with evidence of antecedent streptococcal infection, echocardiographic carditis, conduction abnormality, and elevated acute-phase reactants establishes the diagnosis of acute rheumatic fever.
+Final diagnosis: Acute rheumatic fever
+
+===== CASE =====
+- **Patient Information:** Female in her 30s.
+- **Chief Complaint:** Acute dry cough in bouts for one week.
+- **History of Present Illness:** Ongoing muscle weakness for eight years, previously diagnosed with myasthenia gravis (MG), currently on steroids and rituximab for treatment.
+- **Past Medical History:** Diagnosed with myasthenia gravis (MG), treated with intravenous rituximab cycles a month prior.
+- **Personal History:** Obese (BMI 30.2 kg/m²), history of employment in a woodcarving factory, and reported lifelong allergic diathesis (episodic sneezing and rhinorrhea).
+- **Family History:** None mentioned.
+- **Physical Examination:** Vital signs normal, oxygen saturation at 97%. Respiratory system exam showed normal vesicular breath sounds, no adventitious sounds. No abnormalities on systemic exam.
+- **Ancillary Tests:**
+  - Chest X-ray: Normal.
+  - Complete blood count and eosinophil count: Normal.
+  - Spirometry: Normal (FEV1/FVC 84.5%, FEV1% predicted 82 L, FVC% predicted 80 L).
+  - High-resolution chest CT: Normal, no pleuro-parenchymal abnormality.
+  - Transthoracic echocardiography: Normal, ejection fraction preserved.
+  - Six-minute walk test: Could not be completed due to excessive coughing.
+
+REFERENCE DIAGNOSIS: Cough-Variant Asthma (CVA).
+REFERENCE REASONING (clinician): 1. Initial suspicion of an infectious etiology (bacterial, fungal, tubercular, or viral) due to immunosuppressed state from steroid and rituximab use. However, normal chest imaging, blood counts, and lung function tests effectively ruled out infection.
+2. Consideration of asthma or its variants, particularly given the allergenic background and expositional history. Spirometry did not indicate obstruction or restriction, suggesting a variant rather than classical asthma.
+3. Cough-Variant Asthma (CVA) was entertained due to the chronic dry cough as the primary symptom and history of allergic diathesis, episodic sneezing, and rhinorrhea since childhood.
+4. The rapid and significant improvement in symptoms observed within 24 hours of initiating inhaled corticosteroids and long-acting beta-agonists supported CVA as the most likely diagnosis while excluding other potential conditions like chronic obstructive pulmonary disease, eosinophilic bronchitis, or gastroesophageal reflux disease.
+
+--- RESPONSE R122 ---
+The patient is a woman in her 30s with myasthenia gravis (on steroids and rituximab) presenting with acute bouts of dry cough for one week that prevented completion of a six-minute walk test. Extensive cardiopulmonary evaluation—including chest X-ray, high-resolution chest CT, transthoracic echocardiography, complete blood count/eosinophils, and baseline spirometry—is completely normal, effectively ruling out rituximab-induced interstitial lung disease, pneumonia, heart failure, and overt fixed airway obstruction. However, she has a strong atopic background (lifelong allergic diathesis with episodic sneezing and rhinorrhea), occupational exposure to wood dust (woodcarving factory), obesity, normal baseline spirometry, and cough triggered by exertion (during the six-minute walk test). This clinical picture is most consistent with cough-variant asthma.
+Final diagnosis: Cough-variant asthma
+
+--- RESPONSE R056 ---
+Paroxysmal dry cough for one week, severe enough to prevent a 6-minute walk test.
+Completely normal exam, oxygen saturation, chest X-ray, HRCT, spirometry, echocardiogram and eosinophil count. This excludes parenchymal, cardiac and fixed obstructive disease.
+Atopic background (lifelong rhinitis) and occupational wood-dust exposure (woodcarving factory). These are risk factors for airway hyperresponsiveness and occupational asthma.
+Myasthenia gravis on steroids and recent rituximab. This means immunosuppression, raising concern for infection or drug toxicity.
+Cough-variant asthma (atopic or occupational, wood-dust related)
+Upper airway cough syndrome (allergic rhinitis/postnasal drip)
+Rituximab-induced lung toxicity (early ILD/pneumonitis)
+Opportunistic or viral respiratory infection (e.g., Pneumocystis, viral bronchitis)
+Non-asthmatic eosinophilic bronchitis or gastroesophageal reflux cough
+Cough-variant asthma
+For: atopy, wood-dust exposure, paroxysmal dry cough, normal imaging. Spirometry is often normal, and diagnosis needs bronchial provocation testing.
+Against: normal eosinophils, and steroid therapy might be expected to suppress it.
+Upper airway cough syndrome
+For: allergic rhinitis history.
+Against: no current nasal symptoms or exam findings are described.
+Rituximab lung toxicity
+For: rituximab one month earlier.
+Against: normal HRCT, normal saturation, no dyspnea or fever.
+Opportunistic or viral infection
+For: immunosuppression.
+Against: afebrile, normal oxygen saturation, normal HRCT (Pneumocystis would usually show ground glass), normal blood count.
+Eosinophilic bronchitis or GERD
+For: chronic-cough mimics.
+Against: normal eosinophils, acute onset, no reflux symptoms or obesity-related symptoms reported.
+Rituximab toxicity and infection are made unlikely by normal HRCT, oxygen saturation and labs.
+Cardiac and parenchymal causes are excluded by echocardiography and imaging.
+Upper airway cough syndrome and GERD lack supporting features.
+I commit to cough-variant asthma. This should be confirmed with a methacholine challenge and FeNO, and by response to inhaled corticosteroid/bronchodilator.
+Final diagnosis: Cough-variant asthma (likely atopic, possibly occupational wood-dust related), pending confirmation by bronchial provocation testing.
+
+===== CASE =====
+- **Patient Information:** 89-year-old male.
+- **Chief Complaint:** Generalized weakness, productive cough, shortness of breath, and dysphagia to solids and liquids.
+- **History of Present Illness:** Symptoms of dyspnea, orthopnea, and paroxysmal nocturnal dyspnea started three weeks prior. Condition initially improved with prescribed levofloxacin for a suspected upper respiratory infection but worsened after one week, leading to dysphagia, intermittent coughing with liquids, and emesis with oral intake.
+- **Past Medical History:** Waldenstrom macroglobulinemia, Charcot-Marie-Tooth syndrome, basal cell carcinoma, and hypertension.
+- **Personal History:** None provided.
+- **Family History:** None provided.
+- **Physical Examination:** Significant for 2+ pitting edema in lower extremities, flank swelling, ecchymosis on upper extremities, irregular cardiovascular rhythm without murmurs or JVD, and no signs of pulsus paradoxus.
+- **Ancillary Tests:**  
+  - **Chest X-ray:** Cardiomegaly, central venous congestion, pulmonary edema, small effusions.  
+  - **CT abdomen/pelvis:** Moderate-to-large pericardial effusion, bilateral pleural effusions, and prominent lymph nodes.  
+  - **EKG:** Atrial flutter with variable AV block, no low-voltage QRS or electrical alternans.  
+  - **Echocardiogram:** Large pericardial effusion, no tamponade initially.  
+  - **Laboratory findings:** Elevated potassium, elevated BUN/Cr, low bicarbonate and albumin, and mild anemia; cytology of pericardial fluid negative for neoplastic cells.
+  - **Post-pericardiocentesis echocardiogram:** Mild residual pericardial effusion.
+
+---
+
+REFERENCE DIAGNOSIS: Pericardial effusion causing dysphagia and subsequent cardiac tamponade.
+REFERENCE REASONING (clinician): 1. **Esophageal Dysphagia Causes:**
+   - Dysphagia can be due to intrinsic mechanical obstruction (e.g., strictures, masses) or motility dysfunction. Excluded via history and imaging (no masses or strictures).
+   - Extrinsic mechanical causes considered, supported by imaging findings of pericardial effusion.
+
+2. **Pericardial Effusion:**
+   - Confirmed by echocardiography and CT. Dysphagia attributed to esophageal compression from a large effusion. Other systemic symptoms like dyspnea, orthopnea, and weakness align with this diagnosis.
+   - Cardiac tamponade ruled out initially but developed later based on hypotension, distant heart sounds, and decreased breath sounds.
+
+3. **Infections and Malignancy:**
+   - Despite the history of Waldenstrom macroglobulinemia, cytology was negative for malignancy, making malignancy-related effusion unlikely.
+   - No confirmatory findings for infection-related causes of pericardial effusion.
+
+4. **Other Possible Causes:**
+   - Autoimmune, uremia, and other causes of pericardial effusion were considered but deprioritized based on clinical and laboratory findings.
+
+---
+
+--- RESPONSE R018 ---
+The patient has known Waldenström macroglobulinemia. Imaging shows a large pericardial effusion together with bilateral pleural effusions and prominent lymph nodes, which suggests a polyserositis-type process. Pericardial fluid cytology was negative. He had heart-failure-type symptoms with atrial flutter but no tamponade physiology. Other findings are hypoalbuminemia, renal dysfunction, hyperkalemia, mild anemia and ecchymoses. Dysphagia with aspiration may be a separate neuromuscular issue given his Charcot-Marie-Tooth syndrome.
+(1) pericardial effusion secondary to Waldenström macroglobulinemia; (2) uremic pericarditis; (3) AL amyloid cardiomyopathy related to WM; (4) viral or post-infectious pericarditis; (5) hypoalbuminemic or congestive heart failure effusion.
+WM-related effusion. For: the underlying WM, multicavity serous effusions and lymphadenopathy. Against: negative cytology, although this is often insensitive for lymphoplasmacytic disease.
+Uremic pericarditis. For: raised BUN/Cr and potassium. Against: the azotemia is modest, and uremia does not explain the pleural effusions or lymph nodes.
+AL amyloidosis. For: WM, edema, low albumin, renal dysfunction, atrial arrhythmia and easy bruising. Against: there is no low voltage and no described wall thickening or restrictive pattern on echo.
+Viral or post-infectious pericarditis. For: a preceding respiratory infection. Against: no pain, no pericarditic EKG changes, and the lymphadenopathy.
+CHF or hypoalbuminemia. For: edema, low albumin and pulmonary congestion. Against: these rarely produce a large pericardial effusion on their own.
+Uremia and transudate alone are inadequate to explain the size of the effusion and its multicavity pattern. There is no echo or EKG support for amyloid, and the viral picture is atypical. The most coherent unifying explanation is serosal involvement by the known lymphoproliferative disorder, and I commit to that.
+Final diagnosis: Large pericardial effusion (with polyserositis) secondary to Waldenström macroglobulinemia.
+
+===== CASE =====
+- **Patient Information:** 55-year-old male.
+- **Chief Complaint:** Scrotal pain and palpable mass.
+- **History of Present Illness:** Patient reported left scrotal subsiding pain and palpable, painful testicular mass. No urinary tract symptoms, history of infertility, undescended testis, or prior testicular trauma.
+- **Past Medical History:** Ischemic heart disease.
+- **Personal History:** Not specified.
+- **Family History:** Not specified.
+- **Physical Examination:** No gynecomastia or lymphadenopathy. Palpable, painful para-testicular mass (10 × 5 mm) in the tail of the left epididymis; no pathological findings in the left testis. Palpable, hard, painful mass (10 × 10 mm) in the lower pole of the right testis.
+- **Ancillary Tests:**  
+  - Serum tumor markers: AFP and B-HCG normal; LDH slightly elevated at 209 U/L.  
+  - Scrotal ultrasound: Hypoechoic 9 × 5 mm mass in the left epididymis suggestive of spermatocele; hyperechoic, well-demarcated 9 × 11 mm mass in the right testis with testicular microlithiasis.  
+  - Histopathology and immunohistochemistry (postoperative findings): Tumor positive for vimentin and calretinin; weak CD99; negative for SALL4, D2-40, OCT4, inhibin, and AFP. [REDACTED] confirmed.
+
+---
+
+REFERENCE DIAGNOSIS: Benign Sertoli cell tumor
+REFERENCE REASONING (clinician): 1. **Initial Differential Diagnosis:**  
+   The painful mass and elevated LDH prompted suspicion of testicular neoplasms, including germ cell tumors (GCTs) and sex cord-stromal tumors (e.g., Sertoli cell tumor, Leydig cell tumor).  
+   - Normal AFP and B-HCG helped exclude certain GCTs like non-seminomatous germ cell tumors.  
+   - Spermatocele was confidently identified as a benign cystic lesion of the left epididymis based on ultrasound, ruling it out as a primary testicular tumor.
+
+2. **Stepwise Exclusion Through Histopathological Features:**  
+   - Absence of malignancy features (e.g., size >5 cm, necrosis, atypia, mitotic index, vascular invasion) excluded malignant sex cord-stromal tumors.  
+   - Immunohistochemical pattern (positive vimentin, calretinin; negative SALL4, etc.) ruled out germ cell tumors and confirmed a Sertoli cell tumor.  
+   - A second pathology review verified the benign nature of the tumor, solidifying the diagnosis of a benign Sertoli cell tumor.
+
+3. **Rationale for Testis-Sparing Surgery:**  
+   - Decision was guided by the tumor's small size, well-demarcated nature, and benign histopathological characteristics. This approach preserved testicular function without compromising oncological safety.
+
+---
+
+--- RESPONSE R089 ---
+A 55-year-old man has a hard, painful, well-demarcated hyperechoic mass in the right lower testicular pole, with microlithiasis on ultrasound. Normal AFP and β-hCG with negative SALL4 and OCT4 argue against a germ cell tumor. Positive vimentin and calretinin with weak CD99 point to a sex cord–stromal tumor. Negative inhibin makes a Leydig cell tumor less likely, and Sertoli cell tumors are often inhibin-negative or variable. Negative D2-40 argues against an adenomatoid tumor or mesothelioma. The hyperechoic, calcified-appearing lesion fits a Sertoli-lineage tumor. The small left epididymal tail lesion was consistent with a benign spermatocele.
+Final diagnosis: Sertoli cell tumor of the right testis (with an incidental benign left epididymal spermatocele).
+
+--- RESPONSE R113 ---
+The right testis has a hard, painful 10 × 10 mm mass in the lower pole that is hyperechoic and well demarcated, with microlithiasis, so this is an intratesticular solid lesion. AFP and β-hCG are normal and LDH is only slightly raised, which makes a germ cell tumor less likely. On immunohistochemistry the tumor is vimentin+, calretinin+ and weakly CD99+, which points to a sex cord-stromal tumor. It is SALL4−, OCT4− and AFP−, which argues against seminoma, embryonal carcinoma and yolk sac tumor. It is inhibin−, which argues against Leydig cell tumor, and D2-40−, which argues against adenomatoid tumor and against mesothelial or germ cell origin. The 9 × 5 mm hypoechoic lesion in the left epididymal tail is a separate, benign-appearing finding consistent with a spermatocele. There is no gynecomastia, so no endocrine-active tumor is suggested.
+(1) Sertoli cell tumor; (2) Leydig cell tumor; (3) seminoma or other germ cell tumor; (4) adenomatoid tumor; (5) testicular lymphoma.
+Sertoli cell tumor. For: the profile is vimentin+, calretinin+ and weakly CD99+, and Sertoli tumors are often inhibin-negative. The germ cell markers and serum markers are negative, and the mass is small and well circumscribed. Against: it is uncommon at age 55, but this is not exclusionary.
+Leydig cell tumor. For: it is calretinin+ and vimentin+, and it is the commonest sex cord-stromal tumor in adults. Against: inhibin is negative, whereas Leydig tumors are typically strongly inhibin+. There is also no gynecomastia.
+Seminoma or other germ cell tumor. For: the patient is male with a testicular mass, microlithiasis and slightly raised LDH. Against: SALL4 and OCT4 are negative, AFP and β-hCG are normal, and the age is atypical.
+Adenomatoid tumor. For: it is calretinin+. Against: it is D2-40 negative, and the lesion is intratesticular rather than paratesticular.
+Lymphoma. For: the age is consistent. Against: the vimentin/calretinin/CD99 profile fits, it is a small solitary lesion, and there is no lymphadenopathy.
+I exclude germ cell tumors on the negative SALL4/OCT4/AFP staining and normal serum markers. I exclude Leydig cell tumor because it is inhibin-negative, and adenomatoid tumor because it is D2-40 negative. Lymphoma is unsupported. That leaves a sex cord-stromal tumor of Sertoli type, and I commit to it.
+Final diagnosis: Sertoli cell tumor of the right testis, with an incidental left epididymal spermatocele.
+
+===== CASE =====
+- **Patient Information:** 58-year-old female.
+- **Chief Complaint:** Intermittent cough and shortness of breath for half a year.
+- **History of Present Illness:** Symptoms persisted for six months. Initial tests including blood tests and sputum pathogen screenings were negative. Partial improvement was achieved with methylprednisolone and antibiotics (Cefoperazone-Sulbactam plus Voriconazole). Bronchoscopy revealed white, milky bronchoalveolar lavage fluid but no improvement in clinical condition.
+- **Past Medical History:** Hypertension and coronary artery disease.
+- **Personal History:** None mentioned.
+- **Family History:** None reported.
+- **Physical Examination:** Afebrile, vital signs within normal limits but showed oxygen saturation of 94% on room air. Crackles and wheezes found bilaterally in lower lung fields.
+- **Ancillary Tests:** 
+  - Blood test results: Elevated inflammatory markers (CRP: 101.87 mg/L, ESR: 74 ml/h), LDH: 541 U/L, elevated LDL-C, tumor markers CEA (30.8 ng/mL) and Cyfra21-1 (14 ng/mL). Positive antinuclear antibody (titer 1:80).
+  - Pulmonary function tests: Restrictively impaired with reduced diffusion capacity.
+  - Arterial blood gas: Lower PaO2 (65 mmHg) and higher alveolar-arterial gradient (41.3 mmHg).
+  - Chest CT: "Crazy-paving" pattern indicating diffuse ground glass opacities with septal thickening.
+  - Biopsy: Percutaneous CT-guided biopsy showed granular eosinophilic material filling alveolar spaces (weakly PAS-positive). Bacterial culture confirmed [REDACTED].
+  - Further testing for GM-CSF antibodies was borderline significant (4.5 μg/mL; normal threshold >4 μg/mL).
+
+REFERENCE DIAGNOSIS: Pulmonary Alveolar Proteinosis (PAP) secondary to Bacillus megaterium infection.
+REFERENCE REASONING (clinician): 1. **Initial Differential Diagnoses:**
+   - **Autoimmune PAP:** Suggested by the “crazy-paving” pattern, milky BALF, PAS-positive histology, marginally elevated GM-CSF antibody level.
+   - **Infectious PAP (secondary to opportunistic infection):**
+     - Supported by bacterial culture identifying Bacillus megaterium and absence of fungal or viral pathogens.
+     - Opportunistic infections like nocardiosis, mycobacteria, or other pathogens.
+   - **Malignancy:** Slightly elevated tumor markers (CEA and Cyfra21-1), but no evidence of malignancy on imaging or histology.
+2. **Analysis and Exclusion:**
+   - **Autoimmune PAP:** GM-CSF antibody was borderline significant but not conclusive. Histologic findings and clinical presentation fit better with an infectious etiology.
+   - **Non-opportunistic infection or typical pathogens:** Ruled out based on negative sputum screens and no significant clinical improvement initially with broad-spectrum antibiotics (Cefoperazone-Sulbactam, Voriconazole).
+   - **Neoplasm:** Excluded due to lack of evidence to support malignancy on imaging and biopsy.
+   - **Infectious PAP secondary to Bacillus megaterium:** Confirmed due to positive biopsy bacterial culture, classic PAP radiologic patterns, histology, and clinical improvement following appropriate antimicrobial treatment (clindamycin and amoxicillin-clavulanate).
+3. **Final Determination:** Infectious PAP secondary to Bacillus megaterium was established as the most likely cause, supported by histologic and microbiologic findings alongside clinical outcomes.
+
+--- RESPONSE R024 ---
+The patient has six months of cough and dyspnea, restrictive physiology with reduced diffusion capacity, and hypoxemia with a widened A-a gradient. The CT shows a classic crazy-paving pattern. BAL fluid was milky white, and biopsy showed granular eosinophilic, PAS-positive material filling the alveoli. Elevated LDH, CEA and Cyfra21-1 are typical surrogate markers of alveolar proteinosis. The borderline-positive anti-GM-CSF antibody supports an autoimmune (or infection-associated secondary) form. A positive bacterial culture from the biopsy in a patient on steroids points to a superimposed opportunistic infection. Nocardia is the classic organism associated with PAP, and it fits the lack of response to the antibiotics used.
+Final diagnosis: Pulmonary alveolar proteinosis (likely autoimmune, GM-CSF antibody–associated) complicated by opportunistic pulmonary infection, most likely Nocardia.
+
+--- RESPONSE R119 ---
+The patient presents with a 6-month history of progressive cough and dyspnea, restrictive ventilatory defect with impaired diffusion capacity, and hypoxemia with a widened A-a gradient. Key diagnostic findings include milky-white bronchoalveolar lavage (BAL) fluid, a classic "crazy-paving" pattern on chest CT (diffuse ground-glass opacities with interlobular septal thickening), elevated LDH and tumor markers (CEA, Cyfra21-1), and lung biopsy showing granular eosinophilic, PAS-positive material filling the alveolar spaces. These features are pathognomonic for pulmonary alveolar proteinosis (PAP). The borderline-elevated anti-GM-CSF antibody level (>4 μg/mL) supports the autoimmune form of PAP. Additionally, the markedly elevated inflammatory markers (CRP, ESR), partial response to antibiotics/voriconazole, and positive bacterial culture on biopsy suggest a superimposed opportunistic pulmonary infection (such as Nocardia), a well-recognized complication of PAP.
+Final diagnosis: Autoimmune pulmonary alveolar proteinosis (complicated by secondary bacterial pneumonia)
+
+===== CASE =====
+- Patient Information: 17-year-old male.
+- Chief Complaint: Progressive pain, swelling, and functional impairment of the right knee, accompanied by ipsilateral muscular atrophy.
+- History of Present Illness: Recurrent symptoms without significant trauma or other relevant medical conditions.
+- Past Medical History: Synovial haemangioma of the right ankle diagnosed 11 years earlier and confirmed by excisional biopsy.
+- Personal History: None mentioned.
+- Family History: None mentioned.
+- Physical Examination: Ipsilateral muscular atrophy in the affected limb (right knee); no further specifics provided.
+- Ancillary Tests:
+  - X-ray: Diminished bone mineralization, epiphyseal overgrowth, intercondylar groove widening, subchondral sclerosis, and joint space reduction with degenerative changes.
+  - MRI: Lobulated nodular coalescent lesions infiltrating the suprapatellar and Hoffa’s fat pads; hyperintense on proton density fat-saturated imaging, intermediate signal intensity on T1-weighted sequence, significant gadolinium enhancement, vascular supply from popliteal arterial branches, evidence of bone remodelling, marginal osteophytosis of the condyles, and chondromalacia.
+  - Histopathology: Spindle cell haemangioma confirmed on excisional biopsy.
+
+REFERENCE DIAGNOSIS: Intermediate-type synovial hemangioma of the right knee.
+REFERENCE REASONING (clinician): - The initial differential diagnosis considered joint tumors, vascular anomalies, and inflammatory or degenerative joint conditions based on the knee swelling, recurrent pain, and imaging findings.
+  - **Synovial Hemangioma**: Strongly supported by the MRI findings (lobulated hyperintense lesions, gadolinium enhancement, vascular supply) and prior history of similar tumor. Histopathology confirmed the diagnosis.
+  - **Pigmented Villonodular Synovitis (PVNS)**: Considered but less likely given the hyperintensity on MRI (PVNS usually shows low signal intensity on T2-weighted sequences). Lack of hemosiderin deposition reduced the likelihood.
+  - **Synovial or Osteochondroma**: Unlikely as imaging and histopathological features did not indicate cartilaginous or bony tumors.
+  - **Inflammatory Arthritis or Osteoarthritis**: Secondary joint deformities (chondromalacia, osteophytosis) were present but were consequences of the hemangioma rather than primary causes.
+  - **Other Vascular Malformations**: Excluded based on anatomical, imaging, and histopathological findings (spindle cell histology is specific to synovial hemangiomas).
+
+--- RESPONSE R157 ---
+The patient is a 17-year-old male with progressive right knee pain, swelling, functional impairment, and ipsilateral muscular atrophy without significant trauma.
+He has a relevant past medical history of a biopsy-confirmed synovial haemangioma of the right ankle 11 years earlier.
+Radiographs show diminished bone mineralization, epiphyseal overgrowth, intercondylar groove widening, subchondral sclerosis, and joint space narrowing—classic features of hemophilia-like arthropathy caused by recurrent intra-articular bleeding (hemarthrosis).
+MRI reveals lobulated, coalescent vascular lesions infiltrating the suprapatellar and Hoffa's fat pads with marked gadolinium enhancement and arterial supply from popliteal branches, along with secondary degenerative changes.
+Excisional biopsy confirms spindle cell haemangioma, establishing a synovial haemangioma of the spindle cell subtype involving the right knee.
+Final diagnosis: Synovial spindle cell haemangioma of the right knee
+
+===== CASE =====
+- **Patient Information:** 8-year-old male
+- **Chief Complaint:** Progressive pain in the left leg for several weeks
+- **History of Present Illness:** Intermittent pain in the left leg, worsened with physical activity, and causing difficulty walking; no history of trauma. 
+- **Past Medical History:** None
+- **Personal History:** None
+- **Family History:** Multiple hereditary exostoses in paternal relatives (uncle and cousin). No history of malignant transformation in family members.
+- **Physical Examination:** General condition good. Palpable irregular bony deformation in the left leg causing discomfort without overlying erythema or infection. Restricted range of motion in the left knee due to pain. Neurological examination normal.
+- **Ancillary Tests:**
+  - Bloodwork: Hb (11.8 g/dL), WBC count (6.5 × 10^9/L), Platelet count (250 × 10^9/L), CRP (2 mg/L), Calcium (2.45 mmol/L), Phosphorus (1.35 mmol/L); all results normal.
+  - Radiograph: Multiple sessile bone formations, especially in the right fibula with heterogeneous characteristics.
+  - CT Scan: Exostoses in the pelvic bones and lower limbs; concerning features in the right fibula, including irregular borders, thickened cartilaginous cap, and heterogeneous bone.
+  - MRI: Cartilaginous cap of 6 mm in the right fibula observed with gadolinium enhancement; heterogeneous T2 signal and soft tissue infiltration. [REDACTED].
+  - Bone Biopsy: Histology confirmed mesenchymal tumor proliferation with moderate cytonuclear atypia and spindle cells with irregular nuclei. Diagnosis consistent with malignancy.
+
+REFERENCE DIAGNOSIS: Malignant transformation of hereditary multiple exostoses (Chondrosarcoma).
+REFERENCE REASONING (clinician): - **Initial List of Diagnoses:**
+  1. **Hereditary Multiple Exostoses (EHM):** Existing familial history and patient’s clinical presentation support this diagnosis.
+  2. **Malignant Transformation (e.g., Chondrosarcoma):** Red flags include rapid growth of an exostosis, pain, thickened cartilaginous cap, soft tissue invasion, and histological findings.
+  3. **Other Bone Malignancies (e.g., osteosarcoma):** Considered due to pain and aggressive bone lesion but excluded based on imaging, biopsy, and lack of typical findings like osteoid formation.
+  4. **Non-Malignant Bone Pathologies:** Conditions like infection or benign bone diseases were unlikely given normal inflammatory markers and imaging features.
+
+- **Rationale for Diagnostic Steps:**
+  1. Imaging (radiographs, CT, MRI) identified concerning features such as rapid growth, thickened cartilaginous cap, and soft tissue involvement.
+  2. MRI enhanced suspicion of malignancy due to findings of heterogeneity in signal and cartilaginous cap.
+  3. Bone biopsy confirmed malignant transformation consistent with chondrosarcoma.
+
+- **Final Exclusion Process:**
+  - Other bone malignancies or benign bone diseases were excluded based on histological findings and lack of systemic involvement.
+  - MRI and histology conclusively identified malignant transformation of a hereditary exostosis.
+
+--- RESPONSE R083 ---
+Hereditary predisposition: Family history of multiple hereditary exostoses (MHE) in paternal relatives (uncle and cousin) and imaging confirming multiple sessile exostoses in the pelvis and lower limbs.
+Clinical and radiologic red flags for malignant transformation: Progressive activity-worsening pain without trauma, restricted range of motion, irregular borders, heterogeneous bone matrix, thickened cartilaginous cap (6 mm) with gadolinium enhancement, heterogeneous T2 signal, and soft tissue infiltration on MRI.
+Histopathologic confirmation of malignancy: Bone biopsy shows mesenchymal tumor proliferation with moderate cytonuclear atypia and spindle cells with irregular nuclei, confirming malignancy.
+Normal inflammatory and metabolic labs: Normal WBC, CRP, calcium, and phosphorus argue against infection or metabolic bone disease.
+Secondary chondrosarcoma (malignant transformation of hereditary multiple exostoses)
+Secondary osteosarcoma
+Benign osteochondroma with mechanical irritation or bursitis
+Ewing sarcoma
+Chronic osteomyelitis
+Secondary chondrosarcoma:
+For: Strongest known malignant complication of hereditary multiple exostoses; progressive pain in an exostosis, irregular margins, heterogeneous bone/T2 signal, enhancing cartilaginous cap, and soft tissue infiltration on MRI; biopsy confirms malignant mesenchymal proliferation with cytonuclear atypia.
+Against: Very young age (8 years old; malignant transformation usually occurs in adulthood, though rare pediatric cases exist) and a 6 mm cartilage cap (smaller than the classic adult threshold of greater than 15–20 mm, though enhancement and soft tissue infiltration confirm malignancy).
+Secondary osteosarcoma:
+For: Can rarely arise from a pre-existing osteochondroma in young patients; malignant mesenchymal tumor with atypia and soft tissue infiltration.
+Against: Far rarer than secondary chondrosarcoma in MHE, and imaging highlights a thickened, enhancing cartilaginous cap rather than classic osteoid matrix/periosteal sunburst reaction; biopsy does not mention malignant osteoid production.
+Benign osteochondroma with mechanical irritation or bursitis:
+For: Known MHE with activity-related pain and restricted knee motion.
+Against: Definitively excluded by soft tissue infiltration on MRI and biopsy-proven malignant mesenchymal proliferation with cytonuclear atypia.
+Ewing sarcoma:
+For: Pediatric age group (8 years old) with leg pain and soft tissue infiltration.
+Against: Arises de novo rather than from a cartilaginous cap of an exostosis, and biopsy shows mesenchymal spindle-cell proliferation with atypia rather than small round blue cells.
+Chronic osteomyelitis:
+For: Progressive bone pain and heterogeneous radiographic appearance.
+Against: Normal WBC and CRP (2 mg/L), no erythema or systemic signs of infection, and biopsy confirms malignancy.
+Benign osteochondroma and chronic osteomyelitis are definitively excluded by the biopsy-confirmed malignancy, soft tissue infiltration on MRI, and normal inflammatory markers. Ewing sarcoma is excluded by the histology (mesenchymal atypia/spindle cells rather than small round blue cells) and direct origin from an exostosis with an enhancing cartilaginous cap. Secondary osteosarcoma is much less likely given the absence of malignant osteoid on biopsy and the prominent cartilaginous cap abnormality. In a child with hereditary multiple exostoses showing an enhancing cartilaginous cap, soft tissue infiltration, and biopsy-proven malignant mesenchymal proliferation, the diagnosis commits to secondary chondrosarcoma.
+Final diagnosis: Secondary chondrosarcoma
+
+===== CASE =====
+- **Patient Information:** 24-year-old male.
+- **Chief Complaint:** Chronic right eye swelling in the medial upper eyelid. 
+- **History of Present Illness:** Gradual onset of right eye swelling over 10 years with no associated symptoms such as pain, redness, diplopia, blurred vision, or history of trauma.
+- **Past Medical History:** None.
+- **Personal History:** None.
+- **Family History:** None.
+- **Physical Examination:** Normal vital signs; best corrected visual acuity of 20/20 in both eyes; full extraocular movements without restriction; upper eyelid fullness with downward and lateral globe displacement; pupils reactive without relative afferent pupillary defect; normal intraocular pressures, anterior segment, posterior segment, fundi, and optic discs.
+- **Ancillary Tests:** 
+   - MRI: Revealed a well-defined, partially lobulated lesion in the right medial orbital space measuring 1.95 × 3.16 × 2.62 cm, isointense to recti muscles on T1-weighted images, hyperintense with homogeneous enhancement on contrast. The lesion occupied the anterior superior medial extraconal space, extended posteriorly to the intraconal space, and caused inferior and temporal displacement of the globe.
+   - Histopathology revealed monomorphic spindle-cell neoplasm with cigar-shaped nuclei, dispersed calcifications, and no significant mitotic activity or necrosis. Positive immunochemistry for smooth muscle actin (SMA) and desmin; negative for S100 protein and CD34.
+
+---
+
+REFERENCE DIAGNOSIS: Orbital leiomyoma originating from the Muller muscle.
+REFERENCE REASONING (clinician): 1. **Initial Considerations:** The presentation of an orbital mass with globe displacement raised differentials including benign and malignant orbital tumors.
+   - Common benign spindle cell tumors: Schwannoma, neurofibroma, fibrous histiocytoma, and solitary fibrous tumors were considered but were excluded based on the histopathological absence of key features specific to these conditions.
+   - Malignancies such as leiomyosarcoma were ruled out due to the absence of nuclear pleomorphism, hyperchromatism, mitotic figures, or atypia.
+
+2. **Final Diagnostic Inclusion:** Diagnosis of orbital leiomyoma was confirmed based on histopathology and immunohistochemical findings:
+   - Positive staining for SMA and desmin indicated smooth muscle origin.
+   - The identified calcifications and clinical course (e.g., slow mass growth) were consistent with a benign tumor.
+   - Attachment to the Muller muscle confirmed the rare anterior orbital tumor location and specific origin.
+
+---
+
+--- RESPONSE R125 ---
+The patient is a young adult with a 10-year history of slowly progressive, painless proptosis-type displacement and preserved vision, which indicates a slow-growing benign lesion. MRI shows a well-defined lesion in the medial extraconal-to-intraconal orbit that is isointense to muscle on T1 and enhances homogeneously. Histology shows monomorphic spindle cells with cigar-shaped nuclei, no mitoses and no necrosis, which indicates smooth muscle differentiation without malignancy. The tumor is SMA+ and desmin+, confirming myogenic origin, and S100− and CD34−, which excludes nerve sheath tumors and solitary fibrous tumor.
+(1) orbital leiomyoma; (2) schwannoma; (3) solitary fibrous tumor; (4) leiomyosarcoma; (5) cavernous venous malformation.
+Leiomyoma. For: cigar-shaped nuclei, SMA/desmin positivity, no atypia or mitoses, indolent course, and a well-circumscribed lesion. Against: it is very rare in the orbit.
+Schwannoma. For: a slow, well-defined orbital spindle-cell mass. Against: it is S100-negative.
+Solitary fibrous tumor. For: an orbital spindle-cell tumor. Against: it is CD34-negative.
+Leiomyosarcoma. For: smooth muscle markers. Against: there are no mitoses, necrosis or pleomorphism, and the course is very slow.
+Cavernous malformation. For: an enhancing, well-circumscribed lesion. Against: the solid spindle-cell histology.
+The immunoprofile excludes schwannoma and solitary fibrous tumor. The absence of mitoses and necrosis excludes leiomyosarcoma, and the histology excludes a vascular malformation. I commit to a benign smooth muscle tumor.
+Final diagnosis: Orbital leiomyoma (right medial orbit).
+
+===== CASE =====
+- **Patient Information**: 63-year-old retired female.
+- **Chief Complaint**: Severe pain in the proximal and intermediate thirds of the right arm.
+- **History of Present Illness**: Approximately 21 days after recovering from dengue virus infection, the patient developed severe stabbing, shock-like, and burning pain with associated limb atrophy, livedo (skin discoloration), muscle weakness, and joint instability. The pain was neuropathic, causing functional impairment.
+- **Past Medical History**: Mild hypertension.
+- **Personal History**: None reported.
+- **Family History**: None reported.
+- **Physical Examination**: 
+  - Amyotrophy in the proximal and intermediate thirds of the right upper limb.
+  - Hypotonia, grade 2/3 paresis in specific muscles including the deltoid, infraspinatus, and biceps brachii.
+  - Allodynia to touch and pressure, thermal hyperesthesia, and neuropathic pain.
+  - Deep hypoesthesia and absent tendon reflexes in the right upper limb.
+  - Cranial nerves: normal.
+- **Ancillary Tests**:
+  - Serology: Positive IgM for dengue virus.
+  - Electroneuromyography (ENMG): Acute denervation of peripheral nerves, prolonged action potentials, increased latency.
+  - MRI of the brachial plexus: Subtle signal changes in the upper and middle primary trunks.
+  - Routine tests for other inflammatory, infectious, and immune-mediated conditions were normal.
+
+---
+
+REFERENCE DIAGNOSIS: Post-Dengue Parsonage-Turner Syndrome (PTS).
+REFERENCE REASONING (clinician): 1. **Rotator Cuff Injuries, Calcific Tendinitis, and Frozen Shoulder**:
+   - These are common shoulder disorders but were excluded based on imaging results showing brachial plexus involvement, not isolated shoulder joint/muscle abnormalities.
+   
+2. **Cervical Spine Disorders**:
+   - Nerve root compression or cervical pathology would align with radicular pain symptoms but was ruled out through clinical and imaging studies of the spine.
+
+3. **Peripheral Nerve Compression and Nerve Entrapments**:
+   - Typical for producing focal neurogenic symptoms, but not consistent with the diffuse brachial plexus abnormalities evident in ENMG and MRI findings.
+
+4. **Brachial Plexus Compression (e.g., by Cervical Rib)**:
+   - Excluded due to a lack of structural compressive abnormalities on MRI.
+
+5. **Post-Polio Syndrome and Amyotrophic Lateral Sclerosis**:
+   - Neurological examination, absence of systemic motor neuron involvement, and normal laboratory tests excluded these possibilities.
+
+6. **Parsonage-Turner Syndrome (PTS)**:
+   - Considered due to the constellation of sudden-onset neuropathic pain, muscle atrophy, brachial plexus involvement on imaging, and isolated denervation patterns on ENMG. Infectious prodrome of dengue (positive IgM antibody) supports a parainfectious or immune-mediated trigger for PTS.
+
+---
+
+--- RESPONSE R046 ---
+Severe acute neuropathic pain (stabbing, shock-like, burning) in the proximal and intermediate right arm developing approximately 21 days after dengue virus infection, confirmed by positive dengue IgM serology — classic post-infectious immune-mediated latency.
+Rapidly ensuing proximal upper-limb amyotrophy, hypotonia, grade 2/3 paresis of the deltoid, infraspinatus, and biceps brachii (C5–C6 / upper brachial plexus distribution), deep hypoesthesia, areflexia, and sensory hypersensitivity (allodynia, thermal hyperesthesia) — localizes to a patchy, predominantly motor-and-sensory brachial plexopathy.
+ENMG showing acute peripheral nerve denervation, prolonged action potentials, and increased latency — confirms acute axonal injury.
+Brachial plexus MRI showing subtle signal changes in the upper and middle primary trunks with normal cranial nerves and unremarkable workup for other inflammatory, infectious, or autoimmune causes — directly confirms brachial plexus involvement.
+Dengue-associated Parsonage-Turner syndrome (neuralgic amyotrophy / post-infectious brachial plexitis)
+Cervical radiculopathy (C5–C6)
+Complex regional pain syndrome (CRPS)
+Focal/pharyngeal-cervical-brachial variant of Guillain-Barré syndrome (GBS)
+Neoplastic or compressive brachial plexopathy
+Dengue-associated Parsonage-Turner syndrome (neuralgic amyotrophy):
+For: Classic biphasic pattern of severe acute proximal shoulder/arm neuropathic pain followed by patchy weakness and rapid amyotrophy in upper/middle trunk muscles (deltoid, infraspinatus, biceps); clear post-infectious trigger (~21 days post-dengue with positive IgM); acute denervation on ENMG; MRI signal abnormality localized to the upper and middle primary trunks; normal workup for other etiologies.
+Against: Livedo and marked allodynia/thermal hyperesthesia are less typical than pure motor-predominant presentations, though autonomic and sensory fiber involvement can occur.
+Cervical radiculopathy (C5–C6):
+For: Pain, weakness in deltoid/infraspinatus/biceps, sensory loss, and reduced/absent reflexes in a C5–C6 distribution.
+Against: MRI demonstrates signal changes in the brachial plexus trunks rather than cervical root compression; severe burning/shock-like pain with rapid amyotrophy and livedo 3 weeks post-dengue strongly favors immune-mediated plexitis over structural radiculopathy.
+Complex regional pain syndrome (CRPS):
+For: Severe burning pain, allodynia, thermal hyperesthesia, and skin discoloration (livedo) with functional impairment.
+Against: CRPS does not explain acute axonal denervation on ENMG, MRI signal changes in the upper and middle brachial plexus trunks, or selective proximal myotomal paresis and amyotrophy; there is also no preceding limb trauma.
+Guillain-Barré syndrome (focal/brachial variant):
+For: Post-infectious onset (~3 weeks after dengue virus infection), acute weakness, hypotonia, and areflexia.
+Against: Strictly unilateral focal involvement of one brachial plexus with severe localized neuropathic pain, rapid amyotrophy, normal cranial nerves, and MRI signal changes confined to the right upper/middle trunks argue strongly against GBS, which is typically symmetric and polyradiculoneuropathic.
+Neoplastic or compressive brachial plexopathy:
+For: Unilateral brachial plexus pain, weakness, sensory deficits, and denervation on ENMG.
+Against: No mass lesion on brachial plexus MRI, acute post-dengue onset, and preferential involvement of the upper/middle trunks (neoplastic plexopathy more often affects the lower trunk, as in Pancoast tumors).
+Cervical radiculopathy and compressive/neoplastic plexopathy are excluded by the absence of a compressive or mass lesion and the direct localization of signal changes to the upper and middle primary trunks on MRI. CRPS is excluded because it cannot account for objective acute denervation on ENMG and brachial plexus MRI abnormalities. GBS is excluded by the strictly unilateral, painful, trunk-localized plexopathy with normal cranial nerves. By direct temporal association with confirmed dengue infection, classic severe neuropathic pain followed by proximal amyotrophy, ENMG evidence of acute denervation, and MRI confirmation of upper and middle trunk involvement, the diagnosis commits to dengue-associated Parsonage-Turner syndrome (neuralgic amyotrophy).
+Final diagnosis: Dengue-associated Parsonage-Turner syndrome (post-infectious neuralgic amyotrophy / brachial plexitis)
+

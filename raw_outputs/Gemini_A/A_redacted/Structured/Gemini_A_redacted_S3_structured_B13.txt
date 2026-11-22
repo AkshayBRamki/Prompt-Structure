@@ -1,0 +1,493 @@
+CASE: M097
+
+KEY FINDINGS:
+
+83-year-old female with progressive dementia, Parkinsonism, psychosis (unintelligible confabulations), sleep disorder, complex mood disorder, akathisia, and somatic dyskinesia (diaphragm and abdomen): Indicates a diffuse, complex neurodegenerative or chronic infectious encephalopathy involving cortical, subcortical, and extrapyramidal circuits.
+
+Head CT showing marked cerebral atrophy and slight pallidal calcifications: Confirms advanced neurodegeneration with basal ganglia involvement, though non-specific on its own.
+
+Normal CAG repeat number in the HTT gene: Definitively excludes Huntington's disease as the cause of the dementia and choreiform/dyskinetic movements.
+
+16S metagenomic sequencing identifying Spirochaetes phylum with 90% Treponema species (T. medium 42%, Treponema sp. 31%, T. denticola 20%): Decisive microbiological evidence of non-syphilitic (oral) Treponema spirochetal involvement associated with the patient's neuropsychiatric syndrome.
+
+DIFFERENTIAL:
+
+Neurospirochetosis (Spirochete-associated dementia due to non-syphilitic Treponema species)
+
+Dementia with Lewy bodies (DLB)
+
+Neurosyphilis (General paresis)
+
+Tardive dyskinesia / Drug-induced Parkinsonism superimposed on primary dementia
+
+Huntington's disease
+
+EVIDENCE FOR AND AGAINST:
+
+Neurospirochetosis (Spirochete-associated dementia):
+
+For: 16S metagenomics directly identifies a heavy predominance of Treponema species (90% of Spirochaetes, specifically T. medium and T. denticola); chronic spirochetal CNS involvement is associated with progressive dementia, psychosis, confabulations, mood disturbances, and cerebral atrophy.
+
+Against: Clinical presentation heavily overlaps with primary neurodegenerative dementias such as DLB, and specific CSF inflammatory markers or histopathologic confirmation are not provided.
+
+Dementia with Lewy bodies (DLB):
+
+For: Initial clinical diagnosis; classic triad/features of dementia, Parkinsonism, sleep disorder, and psychosis in an elderly patient.
+
+Against: Prominent late-onset somatic dyskinesia (diaphragm/abdomen), akathisia, and unintelligible confabulations are atypical as primary DLB features, and DLB does not explain the dominant Treponema spirochetal finding on 16S metagenomic sequencing.
+
+Neurosyphilis (General paresis):
+
+For: Classic "great imitator" capable of causing dementia, psychosis, confabulations, mood disorder, movement disorders, and cerebral atrophy.
+
+Against: 16S metagenomics specifically identified oral treponemes (T. medium, T. denticola, and unspecified Treponema sp.), not Treponema pallidum.
+
+Tardive dyskinesia / Drug-induced Parkinsonism:
+
+For: Akathisia, diaphragmatic/abdominal somatic dyskinesia, and Parkinsonism are classic extrapyramidal side effects of neuroleptics often prescribed for psychosis in dementia.
+
+Against: No medication history (e.g., antipsychotic exposure) is documented in the case, and this would not explain the underlying progressive dementia or the metagenomic spirochetal findings.
+
+Huntington's disease:
+
+For: Combination of dementia, psychiatric symptoms, mood disorder, and hyperkinetic movement disorder (dyskinesia).
+
+Against: Excluded by normal CAG repeat length in the HTT gene, advanced age of onset (83 years), and absence of family history.
+
+EXCLUSIONS AND COMMITMENT:
+Huntington's disease is definitively excluded by the normal HTT CAG repeat genetic test and negative family history. Neurosyphilis is excluded because 16S metagenomics identified oral Treponema species (T. medium and T. denticola) rather than T. pallidum. Drug-induced extrapyramidal symptoms cannot be confirmed without a documented antipsychotic history and do not account for the core dementia or metagenomic findings. While Dementia with Lewy bodies was the initial clinical impression, the subsequent emergence of complex somatic dyskinesia, akathisia, and the decisive 16S metagenomic identification of predominant Treponema species point directly to Neurospirochetosis (spirochete-associated dementia) as the primary unifying diagnosis.
+
+FINAL DIAGNOSIS: Neurospirochetosis (spirochete-associated dementia caused by non-syphilitic Treponema species)
+
+CASE: M098
+
+KEY FINDINGS:
+
+10-year history of Hurley stage III chronic suppurative skin disease with actively draining nodules and sinus tracts in bilateral axillae, inguinal folds, and mons pubis: Pathognomonic distribution and Hurley staging of severe hidradenitis suppurativa (HS), further supported by prior treatment with clindamycin, rifampin, doxycycline, and adalimumab, plus comorbid PCOS.
+
+Systemic inflammatory manifestations (fevers, weight loss, malaise, leukocytosis of 18 x 10^9/L, neutrophilia, hypercalcemia, and markedly elevated total IgG of 2,700 mg/mL and IgG4): Reflects severe chronic systemic inflammation and reactive hypergammaglobulinemia secondary to an active flare.
+
+CT neck showing sialadenitis and parotid/cervical lymph node biopsy showing focal chronic sialadenitis and fibrosis with less than 5% IgG4-positive/IgG-positive plasma cells: Explicitly rules out IgG4-related disease (IgG4-RD) despite elevated serum IgG4 levels.
+
+PET/CT showing hypermetabolic inflammatory or infectious cutaneous thickening and negative specific infectious pathology (aside from non-specific positive monospot): Confirms active inflammatory cutaneous flare without an alternative unifying infectious or malignant cause.
+
+DIFFERENTIAL:
+
+Hidradenitis suppurativa (Hurley stage III) with reactive systemic inflammation / hypergammaglobulinemia
+
+IgG4-related disease (IgG4-RD)
+
+Lymphoproliferative disorder (e.g., lymphoma) or Castleman disease
+
+Infectious mononucleosis (EBV) or disseminated bacterial/mycobacterial infection
+
+Crohn's disease (cutaneous / metastatic)
+
+EVIDENCE FOR AND AGAINST:
+
+Hidradenitis suppurativa (Hurley stage III) with reactive systemic inflammation:
+
+For: Classic 10-year history staged by the Hurley system (stage III), intertriginous draining nodules and sinus tracts (axillae, inguinal folds, mons pubis), standard HS therapy (clindamycin, rifampin, doxycycline, adalimumab), comorbid PCOS, and PET/CT showing hypermetabolic cutaneous thickening. Severe chronic HS is known to drive marked reactive hypergammaglobulinemia (elevated IgG/IgG4), leukocytosis, and systemic constitutional symptoms.
+
+Against: Hypercalcemia and parotid sialadenitis are unusual systemic/parainflammatory features that require ruling out mimics like IgG4-RD and malignancy.
+
+IgG4-related disease (IgG4-RD):
+
+For: Elevated serum IgG and IgG4 levels, jaw swelling with CT-confirmed sialadenitis, and fibrosis on biopsy.
+
+Against: Definitively excluded by parotid and cervical lymph node biopsy demonstrating less than 5% IgG4-positive to IgG-positive plasma cell ratio.
+
+Lymphoproliferative disorder / Castleman disease:
+
+For: Constitutional symptoms (weight loss, fevers, malaise), hypercalcemia, elevated IgG, cervical lymphadenopathy, and PET/CT hypermetabolism.
+
+Against: Cervical lymph node biopsy showed only focal chronic inflammation/fibrosis with no neoplastic or Castleman-type histopathology, and PET/CT hypermetabolism localized to cutaneous thickening consistent with the skin flare.
+
+Infectious mononucleosis or disseminated infection:
+
+For: Fevers, malaise, jaw/lymph node swelling, leukocytosis, and a positive monospot test.
+
+Against: No specific infectious pathology was identified on workup, neutrophilia (rather than atypical lymphocytosis) predominates, and the positive monospot is likely a false-positive secondary to polyclonal hypergammaglobulinemia.
+
+Cutaneous Crohn's disease:
+
+For: Draining sinus tracts in the inguinal/perineal region, weight loss, nausea, and response/treatment with adalimumab.
+
+Against: Hurley staging is specific to hidradenitis suppurativa, axillary involvement is classic for HS rather than Crohn's disease, and no gastrointestinal luminal pathology is noted.
+
+EXCLUSIONS AND COMMITMENT:
+IgG4-related disease is definitively excluded by the parotid and lymph node biopsy showing less than 5% IgG4-positive plasma cells. Lymphoma and Castleman disease are excluded by benign biopsy findings and PET/CT localization to the inflamed skin. A primary infectious etiology is excluded by the absence of specific infectious pathology on workup. The Hurley stage III classification, characteristic bilateral axillary, inguinal, and mons pubis draining sinus tracts, medication history (clindamycin/rifampin, adalimumab), and PET/CT findings definitively commit the diagnosis to Hidradenitis suppurativa (Hurley stage III) complicated by severe reactive systemic inflammation and hypergammaglobulinemia.
+
+FINAL DIAGNOSIS: Hidradenitis suppurativa (Hurley stage III)
+
+CASE: M099
+
+KEY FINDINGS:
+
+64-year-old male with 3 months of progressive proximal muscle weakness (shoulder girdle, biceps, triceps, hips; preserved distal strength) and severe myalgia: Classic clinical pattern of an acquired proximal myopathy.
+
+Prolonged statin exposure (atorvastatin for 4 years, switched to rosuvastatin for 10 months prior to onset): Strongest known environmental trigger for anti-HMGCR autoantibody formation.
+
+Markedly elevated CK (232.48 µkat/L; normal 0.833–5.133 µkat/L) and elevated AST/ALT: Indicates severe active myofiber necrosis.
+
+EMG showing diffuse myopathy suggesting myonecrosis and muscle biopsy showing necrosis and regenerating fibers with scarce inflammation: Pathognomonic histologic hallmark of immune-mediated necrotizing myopathy (IMNM), distinguishing it from classic inflammatory myopathies.
+
+Strongly positive anti-HMGCR antibodies (greater than 200 CU) and negative anti-SRP IFA: Confirms the exact autoantibody-defined subtype of IMNM.
+
+DIFFERENTIAL:
+
+Anti-HMGCR immune-mediated necrotizing myopathy (Statin-induced IMNM)
+
+Statin-induced toxic myopathy / rhabdomyolysis
+
+Anti-SRP immune-mediated necrotizing myopathy
+
+Polymyositis / Dermatomyositis
+
+Hypothyroid myopathy
+
+EVIDENCE FOR AND AGAINST:
+
+Anti-HMGCR immune-mediated necrotizing myopathy (Statin-induced IMNM):
+
+For: Prolonged statin exposure, progressive severe proximal weakness with markedly elevated CK, necrotizing myopathy with scarce inflammation on biopsy, and strongly positive anti-HMGCR antibodies (greater than 200 CU).
+
+Against: None; all clinical, electrophysiological, histological, and serological findings are fully concordant.
+
+Statin-induced toxic myopathy / rhabdomyolysis:
+
+For: Long-term statin use, severe myalgia, proximal weakness, and markedly elevated CK.
+
+Against: Simple toxic myopathy is non-immune, lacks strongly positive anti-HMGCR antibodies, and typically does not progress subacutely over 3 months with an autoimmune necrotizing phenotype; normal renal function also argues against acute myoglobinuric rhabdomyolysis.
+
+Anti-SRP immune-mediated necrotizing myopathy:
+
+For: Severe progressive proximal muscle weakness, very high CK, and necrotizing biopsy with minimal lymphocytic infiltrate.
+
+Against: Definitively excluded by the negative anti-SRP IFA test and strongly positive anti-HMGCR antibodies.
+
+Polymyositis / Dermatomyositis:
+
+For: Subacute progressive symmetric proximal muscle weakness and elevated CK.
+
+Against: Muscle biopsy demonstrates scarce inflammation (ruling out classic endomysial/perivascular lymphocytic inflammatory myositis), no cutaneous manifestations are present, and anti-HMGCR antibodies are specific for IMNM.
+
+Hypothyroid myopathy:
+
+For: Can present with proximal muscle weakness, myalgias, and elevated CK.
+
+Against: Excluded by normal thyroid function tests and the presence of anti-HMGCR antibodies and necrotizing biopsy changes.
+
+EXCLUSIONS AND COMMITMENT:
+Hypothyroid myopathy is excluded by normal thyroid function tests. Anti-SRP IMNM is excluded by the negative anti-SRP IFA result. Polymyositis and dermatomyositis are excluded by the scarcity of inflammatory infiltrate on muscle biopsy and the lack of skin findings. Simple toxic statin myopathy is excluded by the strongly positive anti-HMGCR antibodies (greater than 200 CU). Together, the statin history, severe proximal weakness, extreme CK elevation, pauci-inflammatory necrotizing biopsy, and strongly positive anti-HMGCR titer definitively establish Anti-HMGCR immune-mediated necrotizing myopathy (statin-induced IMNM).
+
+FINAL DIAGNOSIS: Anti-HMGCR immune-mediated necrotizing myopathy (statin-induced IMNM)
+
+CASE: M100
+
+KEY FINDINGS:
+
+Previously developmentally normal 3-year-old girl who experienced prolonged focal seizures affecting the left side at age 2: Classic age of onset (early childhood, under age 4) and precipitating prolonged unilateral seizure event (hemiconvulsion).
+
+Immediate post-seizure onset of persistent spastic left hemiparesis followed by subsequent psychomotor retardation: Demonstrates permanent unilateral hemispheric injury directly following the prolonged focal seizure.
+
+Brain MRI showing generalized atrophy of the right cerebral hemisphere, homolateral (ipsilateral) ventricular dilatation, and subcortical white matter gliosis: Characteristic chronic neuroimaging sequela of unilateral cytotoxic hemispheric injury corresponding to the contralateral (left) hemiparesis.
+
+DIFFERENTIAL:
+
+Hemiconvulsion-Hemiplegia-Epilepsy (HHE) syndrome (or Hemiconvulsion-Hemiplegia syndrome)
+
+Dyke-Davidoff-Masson syndrome (DDMS)
+
+Rasmussen encephalitis
+
+Perinatal/childhood arterial ischemic stroke
+
+Sturge-Weber syndrome
+
+EVIDENCE FOR AND AGAINST:
+
+Hemiconvulsion-Hemiplegia-Epilepsy (HHE) syndrome:
+
+For: Classic triad/sequence of prolonged unilateral focal seizures in a previously healthy 2-year-old, immediately followed by persistent contralateral spastic hemiparesis, subsequent psychomotor delay, and MRI showing diffuse unilateral cerebral hemiatrophy, ipsilateral ventricular dilatation, and subcortical white matter gliosis.
+
+Against: EEG findings and subsequent recurrent epilepsy status are not explicitly detailed, though the initial presentation and MRI are classic for HHE/HH syndrome.
+
+Dyke-Davidoff-Masson syndrome (DDMS):
+
+For: Childhood unilateral cerebral hemiatrophy, ipsilateral ventricular dilatation, contralateral spastic hemiparesis, seizures, and developmental delay.
+
+Against: DDMS is specifically defined radiologically by compensatory osseous changes (calvarial thickening/hyperostosis, elevation of the petrous ridge, and hyperpneumatization of the ipsilateral frontal/mastoid sinuses), none of which are described on this patient's MRI.
+
+Rasmussen encephalitis:
+
+For: Childhood-onset focal seizures, progressive unilateral hemispheric atrophy, and contralateral hemiparesis.
+
+Against: Typically presents in slightly older children (peak 6 years) with insidious, relentlessly progressive epilepsia partialis continua and gradual neurological decline, rather than an acute, permanent hemiparesis immediately following a single prolonged seizure event at age 2.
+
+Childhood arterial ischemic stroke:
+
+For: Acute onset of unilateral hemiparesis, seizures, and subsequent unilateral gliosis/encephalomalacia.
+
+Against: Stroke typically produces focal/territorial encephalomalacia restricted to a specific vascular distribution (e.g., MCA territory), whereas this MRI shows generalized atrophy of the entire right cerebral hemisphere with diffuse subcortical white matter gliosis following prolonged focal seizures.
+
+Sturge-Weber syndrome:
+
+For: Childhood focal seizures, contralateral hemiparesis, developmental delay, and unilateral hemispheric atrophy.
+
+Against: No facial port-wine stain (normal systemic exam) and no leptomeningeal angiomatosis or tram-track cortical calcifications on MRI.
+
+EXCLUSIONS AND COMMITMENT:
+Sturge-Weber syndrome is excluded by the absence of cutaneous or leptomeningeal vascular malformations. Arterial ischemic stroke is less likely because the MRI demonstrates generalized whole-hemisphere atrophy rather than a territorial infarct. Rasmussen encephalitis is excluded by the acute post-ictal onset of permanent hemiparesis at age 2 rather than a subacute progressive inflammatory course. Dyke-Davidoff-Masson syndrome is excluded by the absence of characteristic ipsilateral calvarial thickening and sinus hyperpneumatization. The classic clinical sequence of prolonged unilateral seizures at age 2 causing immediate, permanent contralateral spastic hemiparesis, psychomotor retardation, and diffuse contralateral cerebral hemiatrophy with ipsilateral ventricular dilatation and white matter gliosis commits the diagnosis to Hemiconvulsion-Hemiplegia-Epilepsy (HHE) syndrome.
+
+FINAL DIAGNOSIS: Hemiconvulsion-Hemiplegia-Epilepsy (HHE) syndrome
+
+CASE: M101
+
+KEY FINDINGS:
+
+13-year-old female with 2 weeks of progressive headache (worsening on straining), nausea, vomiting, dizziness, vertigo, and ataxia: Classic presentation of a posterior fossa mass causing cerebellar dysfunction and rapidly rising intracranial pressure.
+
+Blood pressure 140/90 mmHg with pulse 68 bpm: Hypertension with relative bradycardia (Cushing's reflex), confirming significant intracranial hypertension.
+
+MRI showing a 4.3 x 4.1 x 3.9 cm heterogeneously enhancing mass in the cerebellar vermis and roof of the fourth ventricle causing obstructive hydrocephalus and brainstem compression: Characteristic midline posterior fossa location of a pediatric embryonal tumor.
+
+MRI signal characteristics: T1 hypointense, T2/FLAIR iso/hyperintense, restricted diffusion on DWI with low ADC signal, and blooming on SWI: Restricted diffusion (low ADC) indicates a highly cellular neoplasm with a high nuclear-to-cytoplasmic ratio, while SWI blooming indicates intralesional microhemorrhage or calcification.
+
+Associated craniovertebral junction anomalies (partial occipital bone assimilation with C1, basilar invagination, increased atlantoaxial interval, cervico-medullary kinking): Coexisting congenital craniocervical anomaly compounding brainstem/cervicomedullary crowding.
+
+DIFFERENTIAL:
+
+Medulloblastoma (with coexisting craniovertebral junction anomaly / basilar invagination)
+
+Ependymoma
+
+Pilocytic astrocytoma
+
+Atypical teratoid/rhabdoid tumor (AT/RT)
+
+Choroid plexus papilloma / carcinoma
+
+EVIDENCE FOR AND AGAINST:
+
+Medulloblastoma:
+
+For: Most common malignant pediatric posterior fossa tumor; arises classically from the cerebellar vermis and roof of the fourth ventricle; causes obstructive hydrocephalus and ataxia; hallmark MRI findings of heterogeneous enhancement, marked diffusion restriction (high DWI, low ADC) due to high cellularity, and SWI blooming from hemorrhage/calcification.
+
+Against: Histopathological confirmation is not yet provided, though the anatomical origin and DWI/ADC restriction are virtually diagnostic.
+
+Ependymoma:
+
+For: Common pediatric fourth ventricular mass causing obstructive hydrocephalus, heterogeneous enhancement, and calcifications/hemorrhage (SWI blooming).
+
+Against: Typically arises from the floor of the fourth ventricle and extends plastically through the foramina of Luschka and Magendie, and generally demonstrates less pronounced diffusion restriction than medulloblastoma.
+
+Pilocytic astrocytoma:
+
+For: Very common pediatric cerebellar tumor presenting with ataxia, headache, and obstructive hydrocephalus.
+
+Against: Typically presents as a well-circumscribed cyst with an avidly enhancing mural nodule and demonstrates facilitated diffusion (high ADC, no DWI restriction), directly contradicting the low ADC signal here.
+
+Atypical teratoid/rhabdoid tumor (AT/RT):
+
+For: Posterior fossa location, heterogeneous enhancement, hemorrhage (SWI blooming), and marked diffusion restriction (low ADC).
+
+Against: Predominantly affects infants and very young children (typically under 3 years of age), making it exceedingly rare in a 13-year-old.
+
+Choroid plexus papilloma / carcinoma:
+
+For: Intraventricular mass causing hydrocephalus in children.
+
+Against: Typically located in the lateral ventricles in children, exhibits a frond-like/cauliflower morphology with avid homogeneous enhancement, and papillomas do not show marked DWI restriction.
+
+EXCLUSIONS AND COMMITMENT:
+Pilocytic astrocytoma is excluded by the solid, heterogeneously enhancing appearance and strong diffusion restriction (low ADC). AT/RT is effectively excluded by the patient's age (13 years). Choroid plexus tumors are excluded by the vermian/fourth ventricular roof origin and DWI restriction. Ependymoma is less likely because the tumor originates from the roof of the fourth ventricle and cerebellar vermis rather than the floor, lacks foraminal extension, and shows pronounced diffusion restriction. The midline vermian/fourth-ventricle roof location, rapid obstructive hydrocephalus, heterogeneous enhancement, SWI blooming, and marked DWI/ADC diffusion restriction in a 13-year-old commit the diagnosis to Medulloblastoma (with incidental craniovertebral junction anomalies).
+
+FINAL DIAGNOSIS: Medulloblastoma (with coexisting craniovertebral junction anomalies including basilar invagination and atlantoaxial assimilation)
+
+CASE: M102
+
+KEY FINDINGS:
+
+Previously healthy 8-year-old boy with 3 days of high fever (39.4°C), vomiting, fatigue, and abdominal pain rapidly progressing to confusion, oliguria, and hypotension: Fulminant clinical trajectory into cardiogenic shock and end-organ hypoperfusion.
+
+Physical exam showing bilateral rales, muffled heart sounds, gallop rhythm, and cardiogenic shock: Classic bedside signs of acute left ventricular failure and pulmonary edema.
+
+Markedly elevated troponin I, CK, CK-MB, BNP, NT-proBNP, and CRP: Confirms acute severe myocardial necrosis, hemodynamic wall stress, and systemic inflammation.
+
+ECG showing wide QRS, ST-segment depression, PVCs, and complete RBBB; Echocardiography showing severely reduced EF (28%) without ventricular enlargement or hypertrophy: Demonstrates acute myocardial injury and severe systolic dysfunction without chronic remodeling.
+
+Detection of Human Rhinovirus A66 (HRV-A66) via mNGS and PCR with negative blood cultures: Identifies the specific viral pathogen while excluding bacteremia.
+
+DIFFERENTIAL:
+
+Fulminant viral myocarditis (caused by Human Rhinovirus A66)
+
+Septic shock with sepsis-induced cardiomyopathy
+
+Dilated cardiomyopathy (DCM)
+
+Multisystem inflammatory syndrome in children (MIS-C) / Kawasaki disease shock syndrome
+
+Acute coronary syndrome / Anomalous left coronary artery from the pulmonary artery (ALCAPA)
+
+EVIDENCE FOR AND AGAINST:
+
+Fulminant viral myocarditis (HRV-A66):
+
+For: Rapid 3-day deterioration from a viral prodrome to cardiogenic shock in a previously healthy child; markedly elevated troponin I, CK-MB, and BNP; severe conduction abnormalities (RBBB, wide QRS, PVCs, ST depression); severely depressed EF (28%) in a non-dilated, non-hypertrophied ventricle; and definitive detection of HRV-A66 via mNGS and PCR.
+
+Against: Rhinovirus is a less common cause of fulminant myocarditis compared to enteroviruses or parvovirus B19, though HRV-A66 is directly confirmed here.
+
+Septic shock with sepsis-induced cardiomyopathy:
+
+For: High fever (39.4°C), hypotension, confusion, oliguria, elevated CRP, and reduced EF.
+
+Against: Blood cultures are negative, and the degree of focal cardiac conduction injury (complete RBBB, wide QRS, PVCs, ST depression) and severe myocardial enzyme release alongside confirmed viral detection strongly favor primary viral myocarditis.
+
+Dilated cardiomyopathy (DCM):
+
+For: Low ejection fraction (28%), gallop rhythm, pulmonary edema, cardiomegaly on CXR, and mitral/tricuspid regurgitation.
+
+Against: Echocardiography explicitly notes no significant ventricular enlargement or hypertrophy, excluding chronic DCM and confirming an acute process.
+
+MIS-C / Kawasaki disease shock syndrome:
+
+For: Pediatric patient with high fever, GI symptoms (vomiting, abdominal pain), elevated CRP, shock, and myocardial dysfunction.
+
+Against: No mucocutaneous signs (rash, conjunctivitis, mucosal changes, lymphadenopathy) or SARS-CoV-2 exposure are reported, whereas HRV-A66 was directly isolated by mNGS and PCR.
+
+Acute coronary syndrome / ALCAPA:
+
+For: ST-segment depression, markedly elevated troponin I and CK-MB, and cardiogenic shock.
+
+Against: High fever (39.4°C), elevated CRP, global ventricular dysfunction without regional wall motion abnormality or ventricular hypertrophy/dilation, and confirmed HRV-A66 infection argue strongly against an ischemic coronary etiology.
+
+EXCLUSIONS AND COMMITMENT:
+Chronic dilated cardiomyopathy is excluded by the absence of ventricular enlargement or hypertrophy on echocardiography. Bacterial septic shock is excluded by negative blood cultures and prominent primary conduction abnormalities. MIS-C and Kawasaki shock are excluded by the lack of mucocutaneous features and the identification of HRV-A66. Anomalous coronary artery/ACS is excluded by the febrile infectious prodrome and global inflammatory myocardial involvement. The fulminant 3-day progression to cardiogenic shock, severe biomarker elevation, malignant ECG conduction changes, acutely depressed EF (28%) in a normal-sized ventricle, and molecular confirmation of HRV-A66 commit the diagnosis to Fulminant viral myocarditis caused by Human Rhinovirus A66.
+
+FINAL DIAGNOSIS: Fulminant viral myocarditis (Human Rhinovirus A66-associated)
+
+CASE: M103
+
+KEY FINDINGS:
+
+27-year-old woman with chronic pain, nausea, vomiting, palpable abdominal mass, and recent abdominal trauma with lumbar fracture: Directly links the large abdominal mass to a significant blunt traumatic event.
+
+CT and MRI showing a large (183 x 170 x 73 mm) well-defined peritoneal cystic mass with T1 and T2 hyperintensity and a dark peripheral T2 capsule, with normal liver, spleen, pancreas, and normal multifollicular ovaries: Confirms an extrapancreatic, extra-ovarian peritoneal/mesenteric cystic lesion containing hemorrhagic/blood degradation products (T1/T2 bright with a dark hemosiderin/fibrous rim).
+
+Normal tumor markers and mild anemia: Argues against malignancy and is consistent with prior intralesional hemorrhage.
+
+Histopathology showing a thin-walled cyst with hyalinized hypocellular fibrous tissue, chronic inflammatory infiltrate, capillaries, necrotic debris, and blood clots, with NO epithelial lining and NO neoplastic component: Histologically definitive for a pseudocyst (specifically a non-pancreatic post-traumatic peritoneal/mesenteric pseudocyst).
+
+DIFFERENTIAL:
+
+Post-traumatic mesenteric / peritoneal pseudocyst (non-pancreatic abdominal pseudocyst)
+
+Pancreatic pseudocyst
+
+Tuberculous peritonitis / encysted tuberculous abscess
+
+Ovarian cyst / Endometrioma / Cystadenoma
+
+Mesenteric lymphangioma or true mesenteric cyst
+
+EVIDENCE FOR AND AGAINST:
+
+Post-traumatic mesenteric / peritoneal pseudocyst:
+
+For: History of recent abdominal trauma with lumbar fracture; large well-defined peritoneal cystic mass with hemorrhagic MRI features (T1/T2 hyperintense, dark T2 rim); normal pancreas and ovaries; and definitive histopathology showing a fibrous wall with necrotic-hemorrhagic debris, blood clots, chronic inflammation, and complete absence of an epithelial lining or neoplasia.
+
+Against: Relatively rare entity, though every clinical, radiological, and histological feature aligns precisely.
+
+Pancreatic pseudocyst:
+
+For: Post-traumatic abdominal cystic lesion lacking an epithelial lining on histology.
+
+Against: CT explicitly shows a completely normal pancreas with no pancreatic abnormalities or pancreatitis.
+
+Tuberculous peritonitis / encysted tuberculous abscess:
+
+For: Past medical history of pulmonary tuberculosis, chronic abdominal pain, palpable peritoneal cystic mass, mild anemia, and small peritoneal effusion.
+
+Against: Histopathology reveals only hyalinized hypocellular fibrous tissue, blood clots, and necrotic-hemorrhagic debris, with no caseating granulomas, epithelioid histiocytes, or Langhans giant cells.
+
+Ovarian cyst / Endometrioma / Cystadenoma:
+
+For: Large abdomino-pelvic cystic mass in a 27-year-old woman with T1/T2 hyperintensity (mimicking endometrioma).
+
+Against: MRI demonstrated normal multifollicular ovaries (ruling out ovarian origin), tumor markers were normal, and histology lacked any epithelial lining, endometrial glands, or neoplastic cells.
+
+True mesenteric cyst / Lymphangioma:
+
+For: Large well-defined peritoneal/mesenteric cystic mass causing chronic pain, nausea, and vomiting.
+
+Against: True mesenteric cysts and lymphangiomas possess an endothelial or epithelial lining, which is explicitly absent on histopathology.
+
+EXCLUSIONS AND COMMITMENT:
+Ovarian pathology is excluded by normal multifollicular ovaries on MRI, normal tumor markers, and lack of ovarian or endometrial histology. Pancreatic pseudocyst is excluded by a normal pancreas on CT. True mesenteric cysts and lymphangiomas are excluded by the absence of an epithelial or endothelial lining on histopathology. Tuberculous abscess is excluded by the absence of granulomatous inflammation on excision histology. Given the history of recent abdominal trauma with lumbar fracture, hemorrhagic MRI signal with a dark fibrous/hemosiderin rim, and definitive histopathology demonstrating a fibrous-walled, necrotic-hemorrhagic cyst lacking an epithelial lining, the committed diagnosis is Post-traumatic peritoneal/mesenteric pseudocyst.
+
+FINAL DIAGNOSIS: Post-traumatic peritoneal/mesenteric pseudocyst (non-pancreatic abdominal pseudocyst)
+
+CASE: M104
+
+KEY FINDINGS:
+
+7-year-old boy with 6 months of progressive visual loss (20/150 bilaterally, exotropia), hearing impairment, cognitive decline, school dropout, pseudobulbar affect, spastic quadriparesis, and prolonged generalized tonic-clonic seizures: Classic rapid neuroregression of childhood cerebral demyelination.
+
+Diffuse hyperpigmentation over joints, perioral area, gums, and knuckles, plus serum ACTH 5 times above normal: Hallmark clinical and biochemical evidence of primary adrenal insufficiency (Addison's disease).
+
+Brain MRI showing diffuse bilateral white matter lesions with parieto-occipital predominance (Loes score 22/34): Classic posterior-predominant leukodystrophy pattern characteristic of cerebral X-linked adrenoleukodystrophy.
+
+Elevated Very Long Chain Fatty Acids (VLCFA: C24, C26, and C24/C22, C26/C22 ratios): Biochemically confirmatory for X-linked adrenoleukodystrophy (X-ALD).
+
+Normal serum lactate and negative glycosphingolipid markers: Excludes mitochondrial disorders and Krabbe disease.
+
+DIFFERENTIAL:
+
+Childhood cerebral X-linked adrenoleukodystrophy (X-ALD) with primary adrenal insufficiency
+
+Krabbe disease (Globoid cell leukodystrophy)
+
+Metachromatic leukodystrophy (MLD)
+
+Mitochondrial encephalomyopathy (e.g., MELAS)
+
+Subacute sclerosing panencephalitis (SSPE)
+
+EVIDENCE FOR AND AGAINST:
+
+Childhood cerebral X-linked adrenoleukodystrophy (X-ALD) with primary adrenal insufficiency:
+
+For: Classic onset in a 7-year-old boy; progressive vision/hearing loss, cognitive decline, spastic quadriparesis, and seizures; overt primary adrenal insufficiency (mucocutaneous hyperpigmentation and 5x elevated ACTH); characteristic bilateral parieto-occipital white matter demyelination on MRI (Loes score 22/34); and biochemically confirmed elevated VLCFAs (C24, C26, C24/C22, C26/C22).
+
+Against: ABCD1 genetic testing was not performed due to financial constraints, though elevated VLCFA in a symptomatic male with classic MRI and adrenal insufficiency is diagnostic.
+
+Krabbe disease:
+
+For: Childhood leukodystrophy with spasticity, vision loss, seizures, and parieto-occipital white matter involvement.
+
+Against: Definitively excluded by negative serum glycosphingolipid markers and does not explain primary adrenal insufficiency or elevated VLCFAs.
+
+Metachromatic leukodystrophy (MLD):
+
+For: Progressive childhood cognitive decline, spasticity, visual/auditory decline, and diffuse bilateral white matter lesions on MRI.
+
+Against: Does not cause primary adrenal insufficiency (hyperpigmentation, elevated ACTH) or elevated VLCFAs, and typically shows more frontal-predominant or diffuse tigroid demyelination.
+
+Mitochondrial encephalomyopathy:
+
+For: Childhood visual loss, sensorineural hearing loss, seizures, cognitive regression, and white matter lesions.
+
+Against: Explicitly excluded by normal serum lactate and normal arterial blood gas, and does not cause elevated VLCFAs.
+
+Subacute sclerosing panencephalitis (SSPE):
+
+For: School-aged child with subacute cognitive decline, behavioral changes, visual impairment, seizures, and parieto-occipital white matter changes.
+
+Against: Does not cause primary adrenal insufficiency or elevated VLCFAs.
+
+EXCLUSIONS AND COMMITMENT:
+Krabbe disease is excluded by negative serum glycosphingolipid markers. Mitochondrial disorders are excluded by normal serum lactate and arterial blood gas. Metachromatic leukodystrophy and SSPE are excluded because neither causes primary adrenal insufficiency or elevated VLCFAs. The combination of a 7-year-old male with progressive neurocognitive/visual/auditory decline, primary adrenal insufficiency (mucocutaneous hyperpigmentation and 5x elevated ACTH), parieto-occipital leukodystrophy on MRI (Loes score 22/34), and confirmatory elevated VLCFAs definitively establishes Childhood cerebral X-linked adrenoleukodystrophy (X-ALD) with primary adrenal insufficiency.
+
+FINAL DIAGNOSIS: Childhood cerebral X-linked adrenoleukodystrophy (X-ALD) with primary adrenal insufficiency (Addison's disease)

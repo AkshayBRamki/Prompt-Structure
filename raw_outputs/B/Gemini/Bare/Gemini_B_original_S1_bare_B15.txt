@@ -1,0 +1,23 @@
+CASE: M113
+FINAL DIAGNOSIS: Pulmonary alveolar proteinosis
+
+CASE: M114
+FINAL DIAGNOSIS: Scimitar syndrome
+
+CASE: M115
+FINAL DIAGNOSIS: Peripartum cardiomyopathy
+
+CASE: M116
+FINAL DIAGNOSIS: Dysautonomia-associated hypoglycemia (reactive and fasting hypoglycemia associated with hypermobile Ehlers-Danlos syndrome and dysautonomia/POTS)
+
+CASE: M117
+FINAL DIAGNOSIS: Retinitis pigmentosa
+
+CASE: M118
+FINAL DIAGNOSIS: Extramedullary plasmacytoma of the skull base coexisting with chronic lymphocytic leukemia / small lymphocytic lymphoma (CLL/SLL)
+
+CASE: M119
+FINAL DIAGNOSIS: Congenital syphilis (syphilitic osteochondritis / syphilitic bone disease)
+
+CASE: M120
+FINAL DIAGNOSIS: Torsion and infarction of a wandering (ectopic) spleen

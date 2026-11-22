@@ -1,0 +1,465 @@
+CASE: M065
+
+KEY FINDINGS:
+
+27-year-old woman with a 3-month progressive lower abdominal lump that enlarged from marble-sized to fist-sized, accompanied by fever, decreased appetite, 7 kg weight loss, and spontaneous rupture releasing pus and blood: indicates a subacute-to-chronic suppurative/inflammatory process or an infected mass with systemic constitutional signs.
+
+Prior caesarean section (2018): establishes a surgical scar in the lower abdominal wall as a potential site for postoperative complications.
+
+Leukocytosis (16,880 cells/mL) with normal urinalysis and renal function: confirms an active systemic inflammatory/infectious response without overt urinary tract infection or renal impairment.
+
+CT scan showing an isodense lesion connected to the umbilicus and a superoanterior bladder lesion, with abscess formation extending into the lower abdominal wall musculature and subcutis: anatomically localizes the lesion precisely along the tract of the urachus (median umbilical ligament), which runs from the umbilicus to the superoanterior dome of the bladder.
+
+DIFFERENTIAL:
+
+Infected urachal cyst (urachal abscess)
+
+Urachal carcinoma (with secondary infection/necrosis)
+
+Abdominal wall abscess / stitch granuloma / gossypiboma secondary to prior caesarean section
+
+Abdominal wall endometriosis (scar endometrioma) with secondary infection
+
+EVIDENCE FOR AND AGAINST:
+
+Infected urachal cyst (urachal abscess):
+
+For: Classic anatomical path on CT connecting the umbilicus to the superoanterior bladder wall; young adult age (27 years); fever, leukocytosis (16,880 cells/mL), spontaneous rupture discharging pus and blood, and CT features explicitly indicating abscess formation extending into the lower abdominal wall musculature and subcutis.
+
+Against: Significant weight loss (7 kg in 3 months), decreased appetite, and semi-solid ultrasound appearance with vascularized edges can mimic malignancy, though chronic deep-seated infection/inflammation readily accounts for constitutional symptoms and hyperemic abscess walls.
+
+Urachal carcinoma (with secondary infection/necrosis):
+
+For: Anatomical location along the urachus (umbilicus to superoanterior bladder dome); semi-solid mass with vascularized edges on ultrasound; 7 kg weight loss and decreased appetite over 3 months.
+
+Against: Patient is very young (27 years; urachal carcinoma typically occurs in older adults, predominantly men); prominent purulent rupture, fever, leukocytosis, and CT findings specifically characterizing an abscess extending into the abdominal wall strongly favor a primary infectious etiology.
+
+Abdominal wall abscess / stitch granuloma / gossypiboma secondary to prior caesarean section:
+
+For: History of caesarean section in 2018; lower abdominal wall mass with abscess formation, fever, leukocytosis, and purulent rupture.
+
+Against: Does not explain the direct anatomical continuity from the umbilicus to the superoanterior bladder dome seen on CT.
+
+Abdominal wall endometriosis (scar endometrioma) with secondary infection:
+
+For: Reproductive-age woman with prior caesarean section and a lower abdominal wall mass.
+
+Against: No cyclical pain linked to menstruation reported; does not explain the anatomical tract linking the umbilicus to the superoanterior bladder wall; overt purulent rupture and marked leukocytosis point to a primary abscess.
+
+EXCLUSIONS AND COMMITMENT:
+
+Post-caesarean abdominal wall abscess/gossypiboma and scar endometrioma are excluded because they do not account for the defining CT finding of a lesion spanning from the umbilicus to the superoanterior bladder wall.
+
+Urachal carcinoma is less likely given the patient's young age (27 years), frank purulent rupture, leukocytosis, and CT morphology favoring abscess formation, although histopathology is required if a residual mass persists after drainage.
+
+Committing to infected urachal cyst (urachal abscess) as it uniquely integrates the exact urachal anatomy on CT with the acute-on-chronic suppurative clinical presentation.
+
+FINAL DIAGNOSIS: Infected urachal cyst (urachal abscess)
+
+CASE: M066
+
+KEY FINDINGS:
+
+30-year-old woman from a rural area with dog contact: classic epidemiological risk factor for Echinococcus granulosus (hydatid) infection.
+
+Acute right upper quadrant pain, high fever (39°C), RUQ guarding, and palpable gallbladder (24 hours): classic clinical presentation of acute complicated cholecystitis.
+
+Ultrasound showing two multilocular cystic formations in liver segments IVb and VII: characteristic morphology of hepatic hydatid cysts.
+
+CT showing intravesicular gas (gas within the gallbladder), distended gallbladder (10 × 5 cm), and thickened wall (8 mm) in close contact with the segment IV cyst: diagnostic of emphysematous cholecystitis and raises concern for fistulization.
+
+Intraoperative cholangiography showing no cholecysto-cystic fistula, but demonstrating a cysto-biliary communication in segment IV: excludes direct rupture into the gallbladder while confirming communication between the hepatic hydatid cyst and the biliary tree.
+
+DIFFERENTIAL:
+
+Acute emphysematous cholecystitis complicating hepatic hydatid disease (echinococcosis) with cysto-biliary communication
+
+Acute calculous cholecystitis with incidental hepatic hydatid cysts
+
+Ruptured hepatic hydatid cyst with cholecysto-hydatid fistula
+
+Pyogenic liver abscess with secondary acute cholecystitis
+
+EVIDENCE FOR AND AGAINST:
+
+Acute emphysematous cholecystitis complicating hepatic hydatid disease with cysto-biliary communication:
+
+For: Rural background and dog exposure; multilocular hepatic cysts in segments IVb and VII; acute RUQ pain, fever of 39°C, guarding, distended gallbladder with 8 mm wall thickness, and intravesicular gas on CT; intraoperative cholangiography directly confirms cysto-biliary communication from the segment IV cyst.
+
+Against: Emphysematous cholecystitis typically affects older diabetic men, making this young woman an atypical demographic unless driven by an underlying biliary/hydatid complication.
+
+Acute calculous cholecystitis with incidental hepatic hydatid cysts:
+
+For: Acute RUQ pain, fever, guarding, palpable distended gallbladder with thickened wall.
+
+Against: No gallstones are reported, and it does not explain the intravesicular gas or the proven cysto-biliary communication from the segment IV cyst.
+
+Ruptured hepatic hydatid cyst with cholecysto-hydatid fistula:
+
+For: Close contact between the segment IV cyst and the gallbladder on CT, plus intravesicular gas.
+
+Against: Directly excluded by intraoperative cholangiography, which showed no evidence of a cholecysto-hydatid fistula.
+
+Pyogenic liver abscess with secondary acute cholecystitis:
+
+For: High fever (39°C), RUQ pain, and hepatic cystic lesions.
+
+Against: Multilocular cystic formations in a rural patient with dog exposure and a proven cysto-biliary communication are classic for hepatic hydatid cysts rather than primary pyogenic abscesses.
+
+EXCLUSIONS AND COMMITMENT:
+
+Cholecysto-hydatid fistula is definitively excluded by intraoperative cholangiography.
+
+Simple calculous cholecystitis and primary pyogenic liver abscess are excluded by the absence of gallstones, the presence of intravesicular gas, the multilocular cystic appearance with epidemiological exposure to dogs, and the confirmed cysto-biliary communication.
+
+Committing to acute emphysematous cholecystitis complicating hepatic hydatid disease (with cysto-biliary communication), which accounts for both the gas-forming gallbladder infection and the underlying parasitic liver pathology.
+
+FINAL DIAGNOSIS: Acute emphysematous cholecystitis secondary to hepatic hydatid disease (echinococcosis) with cysto-biliary communication
+
+CASE: M067
+
+KEY FINDINGS:
+
+4-month-old male dog with early-onset stiff gait triggered by startle or sudden movement initiation, with a warm-up phenomenon and generalized muscle hypertrophy: classic clinical triad of non-dystrophic myotonia.
+
+Normal general physical exam, neurological exam, and blood tests: argues against inflammatory, metabolic, or dystrophic myopathies.
+
+EMG showing myotonic discharges ("wax and wane" potentials): electrophysiologically confirms true myotonia.
+
+Family pedigree showing asymptomatic heterozygous mother and 3 of 4 littermates: establishes an autosomal recessive inheritance pattern.
+
+Genetic testing identifying a complex frameshift/nonsense mutation in exon 15 of a chloride channel gene (CLCN1), producing a premature stop codon and truncated chloride channel protein: provides the definitive molecular diagnosis.
+
+DIFFERENTIAL:
+
+Autosomal recessive myotonia congenita (CLCN1-related)
+
+Autosomal dominant myotonia congenita (Thomsen-type)
+
+Paramyotonia congenita / sodium channel myotonia (SCN4A-related)
+
+Muscular dystrophy (e.g., dystrophin-deficient muscular dystrophy)
+
+EVIDENCE FOR AND AGAINST:
+
+Autosomal recessive myotonia congenita (CLCN1-related):
+
+For: Early onset of stiffness on movement initiation/startle, warm-up phenomenon, generalized muscle hypertrophy, waxing-and-waning myotonic discharges on EMG, normal blood work, asymptomatic heterozygous mother and littermates (autosomal recessive), and a truncating mutation in the skeletal muscle chloride channel gene (CLCN1).
+
+Against: None; every clinical, electrophysiological, pedigree, and molecular finding matches precisely.
+
+Autosomal dominant myotonia congenita:
+
+For: Shares the clinical phenotype (muscle hypertrophy, warm-up phenomenon, myotonic EMG discharges) and involves the CLCN1 chloride channel gene.
+
+Against: Excluded by the family history and genetic testing—the heterozygous mother and 3 heterozygous littermates show no clinical signs, proving recessive rather than dominant transmission.
+
+Paramyotonia congenita / sodium channel myotonia:
+
+For: Presents with myotonia and myotonic EMG discharges.
+
+Against: Caused by SCN4A (sodium channel) mutations rather than a chloride channel mutation; paramyotonia typically worsens with exercise (paradoxical myotonia) rather than showing a warm-up phenomenon.
+
+Muscular dystrophy:
+
+For: Young male dog with muscle hypertrophy and gait abnormalities.
+
+Against: Normal blood tests (no elevated muscle enzymes reported), normal growth, presence of classic warm-up myotonia and waxing-and-waning EMG discharges, and a confirmed chloride channel mutation rather than a dystrophin or structural muscle protein defect.
+
+EXCLUSIONS AND COMMITMENT:
+
+Autosomal dominant myotonia congenita is excluded by the asymptomatic heterozygous carriers in the pedigree.
+
+Sodium channel myotonias and muscular dystrophies are excluded by the warm-up phenomenon, normal blood work, and definitive identification of a truncating skeletal muscle chloride channel (CLCN1) mutation.
+
+Committing to autosomal recessive myotonia congenita based on the complete clinical, EMG, inheritance, and genetic confirmation.
+
+FINAL DIAGNOSIS: Autosomal recessive myotonia congenita (CLCN1-related)
+
+CASE: M068
+
+KEY FINDINGS:
+
+Very early-onset neonatal jaundice (onset at ~5 hours of life, admitted at 9 hours 18 minutes) with severe unconjugated hyperbilirubinemia (total bilirubin 271 μmol/L, indirect 256.9 μmol/L, rising to 310.8 μmol/L requiring two exchange transfusions): always pathological and strongly points to acute neonatal hemolysis.
+
+Rapid hemoglobin decline (142 g/L to 112 g/L): confirms active hemolytic anemia rather than an isolated bilirubin conjugation defect.
+
+Negative DAT/IAT, ABO/Rh incompatibility, G6PD, hemoglobin electrophoresis, Heinz body test, and erythrocyte metabolism screens: rules out alloimmune hemolysis, enzymopathies, and hemoglobinopathies, narrowing the cause to an erythrocyte membrane defect.
+
+Whole-exome sequencing showing a heterozygous exon 2 nonsense/point mutation (c.82C-to-T) in a red cell membrane gene (e.g., ANK1): confirms an autosomal dominant (likely de novo given unaffected family history) red blood cell membranopathy.
+
+DIFFERENTIAL:
+
+Hereditary spherocytosis
+
+Hereditary elliptocytosis / hereditary pyropoikilocytosis
+
+Hereditary xerocytosis (dehydrated hereditary stomatocytosis)
+
+Crigler-Najjar syndrome
+
+EVIDENCE FOR AND AGAINST:
+
+Hereditary spherocytosis:
+
+For: Classic cause of severe, early-onset (first 24 hours) non-immune neonatal unconjugated hyperbilirubinemia and rapid hemoglobin drop requiring exchange transfusion; negative Coombs, ABO/Rh, G6PD, hemoglobin electrophoresis, Heinz body, and enzyme screens; heterozygous autosomal dominant mutation (classic for ANK1, where c.82C-to-T in exon 2 is a known pathogenic nonsense variant) with frequent de novo occurrence explaining the unaffected sister.
+
+Against: Peripheral smear morphology (spherocytes) and osmotic fragility/EMA binding are not explicitly listed, though WES directly provides the genetic etiology.
+
+Hereditary elliptocytosis / hereditary pyropoikilocytosis:
+
+For: Inherited red cell membrane disorder that can cause non-immune neonatal hemolysis and jaundice.
+
+Against: Heterozygous hereditary elliptocytosis is typically mild or asymptomatic in the neonatal period, whereas severe neonatal hemolysis requiring two exchange transfusions usually requires biallelic/compound heterozygous mutations (pyropoikilocytosis), not a single heterozygous mutation.
+
+Hereditary xerocytosis:
+
+For: Autosomal dominant (PIEZO1/KCNN4) non-immune hemolytic anemia with negative routine hemolysis screens.
+
+Against: Much rarer than hereditary spherocytosis; frequently associated with perinatal edema/hydrops fetalis and iron overload, neither of which is noted, and the specific exon 2 c.82C-to-T mutation points to ANK1-related hereditary spherocytosis.
+
+Crigler-Najjar syndrome:
+
+For: Severe unconjugated hyperbilirubinemia in a newborn with negative hemolytic antibody and enzyme screens.
+
+Against: Does not cause hemolytic anemia (cannot explain the acute drop in hemoglobin from 142 g/L to 112 g/L) and is autosomal recessive rather than caused by a single heterozygous mutation.
+
+EXCLUSIONS AND COMMITMENT:
+
+Alloimmune hemolysis, G6PD deficiency, other enzymopathies, and hemoglobinopathies are excluded directly by the negative laboratory panel.
+
+Crigler-Najjar syndrome is excluded by the acute drop in hemoglobin (proving hemolysis) and the heterozygous mode of inheritance.
+
+Hereditary elliptocytosis and xerocytosis are less consistent with severe exchange-requiring neonatal hemolysis from a single heterozygous exon 2 c.82C-to-T mutation.
+
+Committing to hereditary spherocytosis, which fully explains severe non-immune neonatal hemolytic jaundice with a heterozygous membrane protein mutation.
+
+FINAL DIAGNOSIS: Hereditary spherocytosis
+
+CASE: M069
+
+KEY FINDINGS:
+
+2-month history of darkening and thickening of the skin (acanthosis nigricans): a classic paraneoplastic mucocutaneous marker strongly associated with internal malignancy, including lymphomas and thoracic/gastrointestinal cancers.
+
+Constitutional symptoms (evening fever, weight loss) with a right hilar mass (71 × 39 mm) and right pleural effusion in a 55-year-old non-smoker: indicates a thoracic/mediastinal malignancy (lymphoma or lung cancer) or tuberculosis.
+
+Exudative, 95% lymphocytic pleural effusion with elevated ADA (53 U/L), negative AFB, negative TB GeneXpert, and no malignant cells: while elevated ADA mimics tuberculous pleurisy, negative microbiological tests point toward lymphoma, a well-known cause of elevated pleural fluid ADA and lymphocytic exudate.
+
+Biopsy immunohistochemistry positive for CD20, CD3, CD15, CD45, and Ki-67 (65–70%): establishes a hematolymphoid malignancy rather than an epithelial lung cancer; specifically, CD15 positivity alongside a mixed CD20/CD3/CD45 lymphoid background is characteristic of Hodgkin lymphoma.
+
+DIFFERENTIAL:
+
+Hodgkin lymphoma (with paraneoplastic acanthosis nigricans)
+
+Diffuse large B-cell lymphoma (Non-Hodgkin lymphoma)
+
+Primary lung carcinoma (e.g., adenocarcinoma)
+
+Pulmonary/pleural tuberculosis
+
+EVIDENCE FOR AND AGAINST:
+
+Hodgkin lymphoma (with paraneoplastic acanthosis nigricans):
+
+For: Classic B symptoms (evening fever, weight loss); large hilar/mediastinal mass (71 × 39 mm) in a non-smoker; lymphocytic exudative pleural effusion with elevated ADA (53 U/L) and negative TB testing; well-recognized paraneoplastic association with malignant acanthosis nigricans; immunohistochemistry positive for CD15 (hallmark of Reed-Sternberg cells) with CD20, CD3, and CD45 reflecting the mixed reactive lymphoid infiltrate (and/or CD20-positive neoplastic cells).
+
+Against: CD30 is not listed among the reported markers, and a bulk Ki-67 index of 65–70% is somewhat higher than typically reported for the whole infiltrate in classic Hodgkin lymphoma (though Reed-Sternberg cells themselves have high Ki-67).
+
+Diffuse large B-cell lymphoma (Non-Hodgkin lymphoma):
+
+For: Hilar mass, B symptoms, lymphocytic pleural effusion with elevated ADA, positive CD20, CD45, and high Ki-67 (65–70%).
+
+Against: CD15 positivity is very rare in DLBCL, making classic Hodgkin lymphoma a better fit for the specific combination of CD15 with mixed CD3/CD20/CD45 staining.
+
+Primary lung carcinoma:
+
+For: 55-year-old with a right hilar mass, pleural effusion, weight loss, and paraneoplastic acanthosis nigricans.
+
+Against: Non-smoker; biopsy immunohistochemistry shows strong lymphoid markers (CD45, CD20, CD3) rather than epithelial markers, ruling out carcinoma.
+
+Pulmonary/pleural tuberculosis:
+
+For: Evening fever, weight loss, lymphocytic exudative pleural effusion (95%) with elevated ADA (53 U/L).
+
+Against: No TB exposure, negative AFB and GeneXpert, presence of a 71 × 39 mm solid hilar mass, paraneoplastic skin thickening/darkening, and biopsy immunohistochemistry confirming a proliferative lymphoid neoplasm (Ki-67 65–70%).
+
+EXCLUSIONS AND COMMITMENT:
+
+Tuberculosis is excluded by negative AFB/GeneXpert and biopsy evidence of a high-proliferation lymphoid malignancy.
+
+Primary lung carcinoma is excluded by the lymphoid immunophenotype (CD45+, CD20+, CD3+).
+
+Between Hodgkin lymphoma and DLBCL, the presence of CD15 positivity alongside a mixed CD20/CD3/CD45 lymphoid profile and paraneoplastic acanthosis nigricans favors Hodgkin lymphoma.
+
+FINAL DIAGNOSIS: Hodgkin lymphoma (presenting with paraneoplastic acanthosis nigricans)
+
+CASE: M070
+
+KEY FINDINGS:
+
+28-year-old man with a 3-month swelling of the proximal phalanx of the left fourth finger at the exact site of a prior enchondroma treated 7 years earlier: strongly raises suspicion for either local recurrence or malignant transformation of a preexisting benign cartilaginous lesion.
+
+X-ray showing a central diaphyseal lytic lesion with sclerotic margins, and post-surgical involvement of both metaphysis and diaphysis: demonstrates an aggressive, destructive intramedullary bone lesion.
+
+Histopathology showing a cellular neoplasm with spindle-shaped cells, chondroid material, necrosis, and mitotic figures: establishes definitive histological criteria for malignancy (cellularity, necrosis, mitoses) within a cartilaginous (chondroid) tumor.
+
+Immunohistochemistry showing 80% S-100 positivity and 10% Ki-67 positivity: confirms cartilaginous differentiation (strong S-100) with significant proliferative activity (Ki-67 10%).
+
+DIFFERENTIAL:
+
+Secondary chondrosarcoma (arising from a prior enchondroma)
+
+Recurrent enchondroma
+
+Dedifferentiated chondrosarcoma
+
+Chondroblastic osteosarcoma
+
+EVIDENCE FOR AND AGAINST:
+
+Secondary chondrosarcoma (arising from a prior enchondroma):
+
+For: Documented prior enchondroma in the exact same phalanx 7 years earlier; progressive swelling; lytic bone lesion involving metaphysis and diaphysis; histopathology showing chondroid matrix with clear malignant features (hypercellularity, spindle cells, necrosis, mitotic figures); strong S-100 positivity (80%) confirming chondroid lineage and elevated Ki-67 (10%).
+
+Against: Malignant transformation of a solitary enchondroma of the small bones of the hand is rare, though well-documented.
+
+Recurrent enchondroma:
+
+For: Prior history of curettage/grafting for enchondroma at the same site; lytic lesion with sclerotic margins; chondroid matrix and S-100 positivity.
+
+Against: Excluded by overt malignant histopathological features—specifically tumor necrosis, mitotic figures, spindle-shaped cells, and a 10% Ki-67 proliferation index.
+
+Dedifferentiated chondrosarcoma:
+
+For: Presence of spindle-shaped cells, necrosis, and mitotic figures alongside chondroid material.
+
+Against: Typically occurs in older adults (50s–60s) in the axial skeleton/pelvis/proximal femur; the high-grade spindle cell component is typically S-100 negative with a much higher Ki-67 index, whereas this tumor shows 80% S-100 positivity and 10% Ki-67.
+
+Chondroblastic osteosarcoma:
+
+For: Young adult (28 years), chondroid matrix, spindle cells, necrosis, and mitotic figures.
+
+Against: Extremely rare in the phalanges; no malignant osteoid production is reported on histopathology, and the direct history of a preexisting enchondroma at the same site strongly points to secondary chondrosarcoma.
+
+EXCLUSIONS AND COMMITMENT:
+
+Recurrent benign enchondroma is excluded by necrosis, mitotic figures, and elevated Ki-67 (10%).
+
+Dedifferentiated chondrosarcoma and chondroblastic osteosarcoma are excluded by the patient's age, phalangeal location, 80% S-100 positivity with 10% Ki-67, and absence of malignant osteoid.
+
+Committing to secondary chondrosarcoma arising from a prior enchondroma of the proximal phalanx.
+
+FINAL DIAGNOSIS: Secondary chondrosarcoma (arising from a prior enchondroma of the proximal phalanx)
+
+CASE: M071
+
+KEY FINDINGS:
+
+13-year-old boy born to consanguineous parents with normal early development and a 3-year history of progressive ataxia, recurrent falls, and foot dragging: strongly indicates an autosomal recessive hereditary leukodystrophy or spastic ataxia.
+
+Examination showing spastic-ataxic gait, lower limb spasticity, brisk polysynaptic deep tendon reflexes, muscle weakness (3/5), generalized hypotonia, and absent sensory deficits: localizes pathology to central motor (corticospinal) and cerebellar pathways without peripheral neuropathy.
+
+MRI showing diffuse, symmetrical T2/FLAIR hyperintensities in supratentorial and infratentorial white matter, cystic degeneration in the periventricular white matter, corpus callosum and spinal cord atrophy, and no diffusion restriction or contrast enhancement: classic radiological signature of white matter rarefaction and cavitation (cystic degeneration) seen in vanishing white matter disease.
+
+DIFFERENTIAL:
+
+Vanishing white matter disease (childhood ataxia with central nervous system hypomyelination / CACH)
+
+Leukoencephalopathy with brainstem and spinal cord involvement and lactate elevation (LBSL)
+
+Megalencephalic leukoencephalopathy with subcortical cysts (MLC)
+
+Metachromatic leukodystrophy (MLD)
+
+EVIDENCE FOR AND AGAINST:
+
+Vanishing white matter disease (VWM / CACH):
+
+For: Autosomal recessive inheritance (consanguineous parents); normal early development followed by progressive cerebellar ataxia and spasticity; diffuse, symmetrical supratentorial and infratentorial white matter T2/FLAIR hyperintensities with characteristic periventricular white matter cystic degeneration (rarefaction); corpus callosum and spinal cord atrophy; absence of contrast enhancement or diffusion restriction.
+
+Against: Classic episodes of rapid deterioration after minor head trauma or febrile illness are not explicitly mentioned, though juvenile-onset VWM often follows a slower, chronic progressive course.
+
+Leukoencephalopathy with brainstem and spinal cord involvement and lactate elevation (LBSL):
+
+For: Autosomal recessive inheritance, adolescent-onset progressive spastic ataxia, supratentorial/infratentorial white matter hyperintensities, and spinal cord atrophy.
+
+Against: Periventricular white matter cystic degeneration is not a typical feature of LBSL, and MRS lactate elevation is not reported; sensory/dorsal column deficits are also usually prominent in LBSL but absent here.
+
+Megalencephalic leukoencephalopathy with subcortical cysts (MLC):
+
+For: Autosomal recessive leukodystrophy with progressive ataxia, spasticity, diffuse white matter hyperintensity, and white matter cysts without contrast enhancement.
+
+Against: Absence of macrocephaly (no dysmorphic or systemic abnormalities), and cysts in MLC are characteristically subcortical (especially anterior temporal lobes) rather than periventricular with spinal cord atrophy.
+
+Metachromatic leukodystrophy (MLD):
+
+For: Autosomal recessive, progressive gait disturbance and spasticity, symmetrical periventricular white matter T2/FLAIR hyperintensities without contrast enhancement.
+
+Against: MLD typically causes peripheral demyelinating neuropathy (diminished reflexes and sensory loss), whereas this patient has brisk reflexes and normal sensation; MLD also shows a tigroid pattern rather than frank periventricular cystic degeneration and prominent spinal cord atrophy.
+
+EXCLUSIONS AND COMMITMENT:
+
+MLD is excluded by the absence of peripheral neuropathy (brisk reflexes, intact sensation) and the presence of cystic degeneration rather than a tigroid pattern.
+
+MLC is excluded by the lack of macrocephaly and the periventricular (rather than anterior temporal subcortical) location of the cysts.
+
+LBSL is less likely given the absence of sensory/dorsal column deficits and the hallmark periventricular cystic degeneration.
+
+Committing to vanishing white matter disease (CACH syndrome) as it best accounts for autosomal recessive progressive spastic ataxia paired with diffuse non-enhancing white matter disease, periventricular cystic degeneration, and corpus callosum/spinal cord atrophy.
+
+FINAL DIAGNOSIS: Vanishing white matter disease (childhood ataxia with central nervous system hypomyelination)
+
+CASE: M072
+
+KEY FINDINGS:
+
+63-year-old man with known multiple myeloma presenting with localized pain, swelling, and access difficulty at a 2-year-old totally implantable venous access port (TIVAP) site without fever: raises suspicion for either a mechanical/thrombotic complication, indolent infection, or localized neoplastic infiltration.
+
+FDG PET/CT showing a new intensely hypermetabolic soft tissue mass (4.3 × 1.4 × 3.3 cm, SUV max 15.8) surrounding the port (absent 1 year earlier) alongside multiple hypermetabolic osseous lesions: confirms progressive systemic multiple myeloma with a highly FDG-avid extramedullary lesion at the port site.
+
+Excisional pathology demonstrating dense infiltration of atypical plasma cells with kappa light chain restriction: provides definitive histological proof of a monoclonal plasma cell neoplasm (plasmacytoma).
+
+DIFFERENTIAL:
+
+Secondary extramedullary plasmacytoma at the venous access port (TIVAP) site (in progressive multiple myeloma)
+
+Port-site infection / abscess (pocket infection)
+
+Port-related hematoma or foreign-body granuloma
+
+Secondary soft-tissue sarcoma or cutaneous/subcutaneous metastasis from an unrelated primary malignancy
+
+EVIDENCE FOR AND AGAINST:
+
+Secondary extramedullary plasmacytoma at the TIVAP site:
+
+For: Known multiple myeloma with concurrent systemic osseous progression on PET/CT; new intensely hypermetabolic (SUV max 15.8) soft tissue mass surrounding the port; definitive pathology showing dense atypical plasma cells with kappa light chain restriction.
+
+Against: None; this is histopathologically confirmed.
+
+Port-site infection / abscess:
+
+For: Swelling, mild pain, and difficulty accessing an indwelling venous port; infections can also be FDG-avid on PET/CT.
+
+Against: No fever or systemic signs of infection; definitively excluded by pathology showing monoclonal plasma cells rather than acute inflammatory exudate or organisms.
+
+Port-related hematoma or foreign-body granuloma:
+
+For: Localized swelling and access difficulty at a port site without fever.
+
+Against: Very high FDG avidity (SUV max 15.8) and concurrent osseous progression argue against a simple hematoma, and pathology definitively excludes both.
+
+Secondary soft-tissue sarcoma or metastasis from another primary malignancy:
+
+For: Rapidly developing, intensely hypermetabolic soft tissue mass (SUV max 15.8) over 1 year.
+
+Against: Definitively excluded by pathology demonstrating kappa-restricted atypical plasma cells consistent with the patient's known multiple myeloma.
+
+EXCLUSIONS AND COMMITMENT:
+
+Port-site infection, hematoma, foreign-body granuloma, and non-myeloma malignancies are all definitively excluded by the excisional biopsy showing monoclonal kappa-restricted atypical plasma cells.
+
+Committing to secondary extramedullary plasmacytoma at the totally implantable venous access port (TIVAP) site in the setting of progressive multiple myeloma.
+
+FINAL DIAGNOSIS: Secondary extramedullary plasmacytoma (metastatic plasmacytoma) at the totally implantable venous access port (TIVAP) site secondary to multiple myeloma

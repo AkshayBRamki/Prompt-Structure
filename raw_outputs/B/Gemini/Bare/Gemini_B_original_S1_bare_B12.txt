@@ -1,0 +1,23 @@
+CASE: M089
+FINAL DIAGNOSIS: Heterotopic pregnancy (with right paratubal cyst)
+
+CASE: M090
+FINAL DIAGNOSIS: Spinal muscular atrophy type 2 (coexisting with mosaic trisomy 21)
+
+CASE: M091
+FINAL DIAGNOSIS: Metastatic urachal adenocarcinoma
+
+CASE: M092
+FINAL DIAGNOSIS: Invasive pancreatic ductal adenocarcinoma arising from an intraductal papillary mucinous neoplasm (IPMN)
+
+CASE: M093
+FINAL DIAGNOSIS: Malignant non-neural (S100-negative) granular cell tumor
+
+CASE: M094
+FINAL DIAGNOSIS: Delayed traumatic diaphragmatic hernia
+
+CASE: M095
+FINAL DIAGNOSIS: Abemaciclib-induced interstitial lung disease (fibrosing organizing pneumonia)
+
+CASE: M096
+FINAL DIAGNOSIS: Postsurgical pyoderma gangrenosum

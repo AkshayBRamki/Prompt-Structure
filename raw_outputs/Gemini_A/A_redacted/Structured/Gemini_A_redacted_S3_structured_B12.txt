@@ -1,0 +1,435 @@
+CASE: M089
+
+KEY FINDINGS:
+
+Transabdominal and transvaginal ultrasound: Simultaneous live intrauterine pregnancy (7 weeks, FHR 132 bpm) and live right adnexal ectopic pregnancy (6 weeks 4 days, FHR 112 bpm), which is diagnostic of a concurrent dual gestation.
+
+Additional ultrasound findings: Subchorionic hemorrhage and a 7 cm right paratubal cyst, both of which can contribute to lower abdominal pain and vaginal bleeding.
+
+Elevated β-hCG (142,946 mIU/mL): Markedly elevated for a single 7-week gestation, consistent with multiple/concurrent pregnancies.
+
+Clinical presentation and pathology: Sharp lower abdominal pain and dark vaginal bleeding with stable vitals; pathology confirmed both an ectopic pregnancy and a paratubal cyst.
+
+DIFFERENTIAL:
+
+Heterotopic pregnancy (with concurrent subchorionic hemorrhage and right paratubal cyst)
+
+Isolated ectopic pregnancy
+
+Threatened abortion due to subchorionic hemorrhage
+
+Adnexal torsion or complicated paratubal/ovarian cyst in early pregnancy
+
+EVIDENCE FOR AND AGAINST:
+
+Heterotopic pregnancy:
+
+For: Ultrasound directly visualizes both a live intrauterine pregnancy and a live right adnexal ectopic pregnancy; markedly elevated β-hCG; sharp lower abdominal pain and vaginal bleeding; pathology confirms ectopic pregnancy.
+
+Against: No specific findings argue against this diagnosis (spontaneous occurrence without documented assisted reproduction is rare, though clinically confirmed here).
+
+Isolated ectopic pregnancy:
+
+For: Sharp lower abdominal pain, vaginal bleeding, adnexal gestation with fetal heartbeat, and pathology confirming ectopic pregnancy.
+
+Against: Ultrasound clearly demonstrates a concurrent viable 7-week intrauterine pregnancy, ruling out an isolated ectopic gestation.
+
+Threatened abortion due to subchorionic hemorrhage:
+
+For: Viable intrauterine pregnancy with vaginal bleeding, lower abdominal pain, and ultrasound-confirmed subchorionic hemorrhage.
+
+Against: Does not explain the live right adnexal gestation or the pathology-confirmed ectopic pregnancy.
+
+Adnexal torsion or complicated paratubal/ovarian cyst in early pregnancy:
+
+For: Sharp lower abdominal pain in early pregnancy with a 7 cm right paratubal cyst confirmed on ultrasound and pathology.
+
+Against: Does not account for the live right adnexal ectopic pregnancy confirmed on imaging and pathology, and the patient has an unremarkable physical exam without documented adnexal ischemia/torsion.
+
+EXCLUSIONS AND COMMITMENT:
+Isolated ectopic pregnancy is excluded by the presence of a viable intrauterine pregnancy. Threatened abortion alone and isolated paratubal cyst complications are excluded because neither accounts for the live extrauterine gestation confirmed on ultrasound and pathology. I commit to heterotopic pregnancy as the unifying primary diagnosis, with the subchorionic hemorrhage and 7 cm right paratubal cyst as concurrent findings.
+
+FINAL DIAGNOSIS: Heterotopic pregnancy
+
+CASE: M090
+
+KEY FINDINGS:
+
+Motor regression and lower motor neuron signs: Loss of previously achieved high kneeling at 20 months, symmetrical hypotonia, weakened knee and ankle deep tendon reflexes, reduced strength, and hand tremors (classic for anterior horn cell disease).
+
+Confirmatory genetic testing: Homozygous deletion of exons 7 and 8 of the SMN1 gene with heterozygous duplication of exons 7 and 8 of SMN2, establishing a molecular diagnosis of spinal muscular atrophy (SMA) Type 2.
+
+Family history: Younger sibling also diagnosed with SMA Type 2, supporting autosomal recessive inheritance.
+
+Concurrent mosaic trisomy 21: Karyotype 47,XY+21 [22]/46,XY diagnosed at 3 weeks, which can mask or delay recognition of a second neuromuscular disorder.
+
+DIFFERENTIAL:
+
+Spinal muscular atrophy (SMA) Type 2 (coexisting with mosaic trisomy 21)
+
+Hypotonia and motor delay solely attributable to mosaic trisomy 21 (Down syndrome)
+
+Congenital myopathy or muscular dystrophy
+
+Hereditary motor and sensory neuropathy (e.g., Charcot-Marie-Tooth disease)
+
+EVIDENCE FOR AND AGAINST:
+
+Spinal muscular atrophy (SMA) Type 2 (coexisting with mosaic trisomy 21):
+
+For: Onset in toddlerhood with motor regression (loss of high kneeling), symmetrical hypotonia, hyporeflexia, hand tremors, affected younger sibling with SMA Type 2, and definitive genetic confirmation (homozygous SMN1 exon 7–8 deletion).
+
+Against: None.
+
+Hypotonia and motor delay solely attributable to mosaic trisomy 21:
+
+For: Confirmed mosaic trisomy 21 karyotype; Down syndrome commonly causes infantile hypotonia and delayed motor milestones.
+
+Against: Down syndrome alone does not cause progressive motor regression (loss of previously acquired milestones), hand tremors, or profound hyporeflexia, nor does it explain the SMN1 deletion or the sibling's SMA Type 2.
+
+Congenital myopathy or muscular dystrophy:
+
+For: Symmetrical hypotonia, proximal weakness, and delayed or regressing motor milestones.
+
+Against: Hand tremors and early loss of deep tendon reflexes strongly favor anterior horn cell pathology over primary myopathy, and genetic testing directly confirms SMN1 deletion.
+
+Hereditary motor and sensory neuropathy:
+
+For: Reduced deep tendon reflexes, muscle weakness, and hand tremors.
+
+Against: Typically presents with distal-predominant weakness and sensory involvement rather than early generalized hypotonia and loss of kneeling, and is excluded by the confirmatory SMN1 molecular diagnosis.
+
+EXCLUSIONS AND COMMITMENT:
+Motor delay solely from mosaic trisomy 21 is excluded because the patient exhibited true motor regression, hyporeflexia, and hand tremors, and tested positive for a second genetic disorder. Primary myopathies and hereditary neuropathies are excluded by the molecular confirmation of homozygous SMN1 exon 7–8 deletion and the family history of SMA Type 2. I commit to spinal muscular atrophy (SMA) Type 2 (coexisting with mosaic trisomy 21).
+
+FINAL DIAGNOSIS: Spinal muscular atrophy (SMA) Type 2 (coexisting with mosaic trisomy 21)
+
+CASE: M091
+
+KEY FINDINGS:
+
+Primary site confirmation: CT identified a 28×44 mm hyperperfused nodule adherent to the bladder, and cystoscopy/biopsy confirmed the bladder as the primary site of malignancy.
+
+Metastatic burden: Palpable hepatomegaly with two large hypoechoic liver masses (60×75 mm and 60×55 mm) and pancreatic infiltration on CT, presenting with RUQ/epigastric pain and pallor.
+
+Liver biopsy and immunohistochemistry: Poorly differentiated carcinoma positive for CK20 and focally positive for CK7; negative for TTF-1, Pax-8, Hep-Par 1, and GATA3.
+
+Risk factor and markers: History of smoking (major risk factor for bladder cancer); normal serum CA-125, CEA, AFP, and CA19-9 argue against common GI, hepatic, or ovarian primaries.
+
+DIFFERENTIAL:
+
+Metastatic urothelial carcinoma (poorly differentiated primary bladder carcinoma)
+
+Primary hepatocellular carcinoma (HCC) or intrahepatic cholangiocarcinoma
+
+Metastatic pancreatic ductal adenocarcinoma
+
+Metastatic colorectal adenocarcinoma
+
+EVIDENCE FOR AND AGAINST:
+
+Metastatic urothelial carcinoma (poorly differentiated primary bladder carcinoma):
+
+For: Smoking history; hyperperfused bladder nodule (28×44 mm); cystoscopy/biopsy directly confirmed the bladder as the primary site; CK20-positive and focal CK7-positive immunoprofile is characteristic of urothelial origin; negative TTF-1, Pax-8, and Hep-Par 1 exclude lung, renal/gynecologic, and hepatic primaries.
+
+Against: GATA3 is negative (typically positive in urothelial carcinoma, though expression can be lost in poorly differentiated/high-grade tumors).
+
+Primary hepatocellular carcinoma or intrahepatic cholangiocarcinoma:
+
+For: Large liver masses, hepatomegaly, and RUQ pain.
+
+Against: Hep-Par 1 is negative and AFP is normal (arguing strongly against HCC); CK20 positivity with only focal CK7 is atypical for cholangiocarcinoma; cystoscopy/biopsy confirmed a primary bladder tumor.
+
+Metastatic pancreatic ductal adenocarcinoma:
+
+For: Pancreatic infiltration and liver masses on CT, RUQ/epigastric pain, and history of type 2 diabetes and smoking.
+
+Against: Normal CA19-9, CK20-dominant staining (pancreatic ductal carcinoma is usually strongly CK7-positive/CK20-negative), and cystoscopy/biopsy confirmed the bladder as the primary site.
+
+Metastatic colorectal adenocarcinoma:
+
+For: CK20 positivity and large hepatic metastases.
+
+Against: Normal CEA, focal CK7 positivity, no colonic primary identified, and cystoscopy/biopsy confirmed the bladder as the primary site.
+
+EXCLUSIONS AND COMMITMENT:
+Hepatocellular carcinoma, cholangiocarcinoma, pancreatic adenocarcinoma, and colorectal adenocarcinoma are excluded by the combination of negative Hep-Par 1, normal serum tumor markers (AFP, CEA, CA19-9), and direct cystoscopic biopsy confirmation of the bladder as the primary site. Despite GATA3 negativity (a known pitfall in poorly differentiated tumors), the CK20+/focal CK7+ profile, smoking history, and cystoscopic confirmation establish metastatic urothelial carcinoma (poorly differentiated primary bladder carcinoma).
+
+FINAL DIAGNOSIS: Metastatic urothelial carcinoma (poorly differentiated primary bladder carcinoma)
+
+CASE: M092
+
+KEY FINDINGS:
+
+Chronic pancreatitis background: 8-year history of chronic pancreatitis (with remote alcohol and smoking history), a major predisposing risk factor for pancreatic malignancy.
+
+Interval imaging evolution: Follow-up CT shows diminished pancreatic calcifications compared to 8 years prior (a classic radiographic sign of tumor infiltration/replacement in chronic pancreatitis), along with pancreatic enlargement and heterogeneous soft tissue concerning for a mass.
+
+Markedly elevated CA19-9 (1846 U/mL): Strongly suggestive of pancreatic malignancy rather than benign inflammation alone.
+
+EUS and biopsy: Hypoechoic pancreatic mass with malignant-appearing lymph nodes, confirmed on biopsy.
+
+DIFFERENTIAL:
+
+Pancreatic ductal adenocarcinoma (PDAC)
+
+Mass-forming chronic pancreatitis (inflammatory pseudotumor)
+
+Intraductal papillary mucinous neoplasm (IPMN) with associated invasive carcinoma
+
+Pancreatic neuroendocrine tumor (PNET)
+
+EVIDENCE FOR AND AGAINST:
+
+Pancreatic ductal adenocarcinoma (PDAC):
+
+For: Long-standing chronic pancreatitis, smoking, alcohol history, and diabetes; progressive heterogeneous pancreatic mass with disappearing calcifications; markedly elevated CA19-9 (1846 U/mL); EUS showing a hypoechoic mass with malignant-appearing lymphadenopathy; biopsy confirmation of malignancy.
+
+Against: Presence of cystic lesions in the body/tail can occasionally mimic a primary cystic neoplasm, though secondary retention cysts/necrosis are common in chronic pancreatitis and PDAC.
+
+Mass-forming chronic pancreatitis (inflammatory pseudotumor):
+
+For: 8-year history of chronic pancreatitis with atrophy and calcifications; can mimic a mass on CT and EUS.
+
+Against: Markedly elevated CA19-9 (1846 U/mL), vanishing calcifications, malignant-appearing lymph nodes on EUS, and biopsy-confirmed malignancy exclude a purely benign inflammatory mass.
+
+Intraductal papillary mucinous neoplasm (IPMN) with associated invasive carcinoma:
+
+For: Cystic lesions in the pancreatic body/tail, elevated CA19-9, and a solid hypoechoic mass with malignant lymph nodes.
+
+Against: No ductal communication or mucin-producing features are described; the 8-year background of calcific chronic pancreatitis with disappearing calcifications and solid heterogeneous infiltration is far more characteristic of conventional PDAC with secondary pseudocysts/retention cysts.
+
+Pancreatic neuroendocrine tumor (PNET):
+
+For: Can present as a pancreatic mass with GI bleeding or cystic degeneration.
+
+Against: PNETs are typically hypervascular rather than hypoechoic/infiltrative, do not classically elevate CA19-9 to 1846 U/mL, and are not characteristically associated with calcific chronic pancreatitis and disappearing calcifications.
+
+EXCLUSIONS AND COMMITMENT:
+Mass-forming chronic pancreatitis is excluded by the extremely elevated CA19-9, malignant lymphadenopathy, and biopsy confirmation of malignancy. PNET is excluded by the hypoechoic infiltrative appearance and markedly elevated CA19-9. While an underlying cystic neoplasm is considered due to body/tail cysts, the 8-year history of calcific chronic pancreatitis, classic radiographic sign of diminishing calcifications, markedly elevated CA19-9, and solid hypoechoic mass with malignant nodes lead me to commit to pancreatic ductal adenocarcinoma.
+
+FINAL DIAGNOSIS: Pancreatic ductal adenocarcinoma
+
+CASE: M093
+
+KEY FINDINGS:
+
+Clinical presentation: Long-standing (3-year) ulcero-proliferative, polypoidal growth on the floor of the mouth in a 57-year-old male.
+
+Malignant histomorphology: Solid sheets and fascicles of large polygonal and spindle cells with granular cytoplasm, vesicular nuclei, prominent nucleoli, pleomorphism, necrosis, apoptotic bodies, and atypical mitoses (0–4/10 HPF).
+
+Distinctive immunoprofile: Positive for vimentin, NSE, and CD10, while completely negative for S100 (ruling out neural granular cell tumor and melanoma) and negative for P40, CK5/6, and Pan-CK (ruling out squamous cell carcinoma and spindle cell carcinoma).
+
+DIFFERENTIAL:
+
+Malignant non-neural granular cell tumor (S100-negative malignant granular cell tumor)
+
+Conventional malignant granular cell tumor (neural/Schwannian type)
+
+Spindle cell (sarcomatoid) squamous cell carcinoma
+
+Amelanotic / spindle cell melanoma
+
+Metastatic renal cell carcinoma (sarcomatoid/granular variant)
+
+EVIDENCE FOR AND AGAINST:
+
+Malignant non-neural granular cell tumor (S100-negative malignant granular cell tumor):
+
+For: Polypoidal/ulcero-proliferative mucosal growth; large polygonal and spindle cells with abundant granular cytoplasm; malignant criteria (pleomorphism, prominent nucleoli, necrosis, atypical mitoses); classic S100-negative, Pan-CK-negative immunoprofile with positivity for vimentin, NSE, and CD10.
+
+Against: Extremely rare in the oral cavity, especially with overt malignant features.
+
+Conventional malignant granular cell tumor (neural/Schwannian type):
+
+For: Oral cavity location, sheets of polygonal/spindle cells with granular cytoplasm, pleomorphism, vesicular nuclei with prominent nucleoli, necrosis, and atypical mitoses; NSE and vimentin positivity.
+
+Against: Conventional neural granular cell tumors are almost universally and diffusely S100-positive; complete S100 negativity excludes this subtype.
+
+Spindle cell (sarcomatoid) squamous cell carcinoma:
+
+For: Floor of mouth location, ulcero-proliferative/polypoidal growth, 57-year-old male, polygonal and spindle cells with pleomorphism and atypical mitoses.
+
+Against: Complete negativity for P40, CK5/6, and Pan-CK argues strongly against squamous/epithelial differentiation, and granular cytoplasm with CD10/NSE positivity is atypical.
+
+Amelanotic / spindle cell melanoma:
+
+For: Polypoidal oral mass, polygonal and spindle cells, vesicular nuclei with prominent nucleoli, necrosis, and vimentin/NSE positivity.
+
+Against: Complete negativity for S100 makes melanoma highly unlikely.
+
+Metastatic renal cell carcinoma:
+
+For: Granular/polygonal and spindle cells with CD10 and vimentin positivity.
+
+Against: Complete Pan-CK negativity argues against carcinoma, NSE positivity is atypical, and there is no history or evidence of a renal primary over a 3-year indolent course.
+
+EXCLUSIONS AND COMMITMENT:
+Spindle cell squamous cell carcinoma and metastatic renal cell carcinoma are excluded by the complete absence of epithelial markers (Pan-CK, CK5/6, P40). Conventional neural granular cell tumor and melanoma are excluded by the negative S100 staining. The combination of a polypoidal floor-of-mouth tumor with granular cytoplasm, malignant cytologic features (necrosis, pleomorphism, atypical mitoses), and a vimentin+/NSE+/CD10+/S100−/Pan-CK− immunoprofile directly supports malignant non-neural granular cell tumor (S100-negative malignant granular cell tumor).
+
+FINAL DIAGNOSIS: Malignant non-neural granular cell tumor (S100-negative malignant granular cell tumor)
+
+CASE: M094
+
+KEY FINDINGS:
+
+Remote thoracic trauma: Road traffic accident 2 years ago with left chest impact, rib fractures, and thoracostomy tube placement—classic mechanism for an initially occult left diaphragmatic rupture.
+
+Clinical signs of thoracic herniation and obstruction: 3 days of acute epigastric/left hypochondrium pain, obstipation (no stool or flatus), non-bilious vomiting, tachypnea (RR 22), and absent breath sounds with audible bowel sounds in the left lower chest.
+
+Diagnostic imaging: Chest X-ray shows bowel loops in the left hemithorax with lower lung collapse; CT confirms a 4 cm left diaphragmatic defect with herniation of intra-abdominal contents into the left hemithorax, basal atelectasis, and jejunal dilatation with air-fluid levels.
+
+DIFFERENTIAL:
+
+Delayed traumatic diaphragmatic hernia (with small bowel obstruction)
+
+Congenital diaphragmatic hernia (e.g., adult-presenting Bochdalek hernia)
+
+Paraesophageal (hiatal) hernia with obstruction
+
+Diaphragmatic eventration with concurrent small bowel obstruction
+
+EVIDENCE FOR AND AGAINST:
+
+Delayed traumatic diaphragmatic hernia:
+
+For: Clear history of blunt left chest trauma with rib fractures 2 years prior; acute obstructive symptoms; audible bowel sounds in the left chest; CT confirmation of a discrete 4 cm left diaphragmatic defect with herniated bowel and air-fluid levels.
+
+Against: None.
+
+Congenital diaphragmatic hernia (Bochdalek hernia):
+
+For: Left-sided diaphragmatic defect with bowel herniation into the hemithorax and basal lung atelectasis.
+
+Against: Far less likely in a 28-year-old with a well-documented history of severe left-sided blunt chest trauma and rib fractures 2 years earlier, which directly accounts for an acquired defect.
+
+Paraesophageal (hiatal) hernia:
+
+For: Epigastric pain, vomiting, and intrathoracic herniation of abdominal contents.
+
+Against: CT specifically identifies a 4 cm diaphragmatic defect with herniation into the left hemithorax rather than herniation through the esophageal hiatus, and the patient has a clear history of left chest trauma.
+
+Diaphragmatic eventration with concurrent small bowel obstruction:
+
+For: Elevated abdominal contents in the left hemithorax, basal atelectasis, and jejunal dilatation with air-fluid levels.
+
+Against: Eventration involves an intact, thinned hemidiaphragm without a true defect; CT explicitly demonstrates a 4 cm diaphragmatic defect with protrusion of intra-abdominal contents.
+
+EXCLUSIONS AND COMMITMENT:
+Diaphragmatic eventration is excluded because CT shows a true 4 cm defect rather than an intact elevated diaphragm. Paraesophageal hernia is excluded by the location of the defect in the left hemidiaphragm rather than the esophageal hiatus. Congenital Bochdalek hernia is far less plausible given the significant history of blunt left thoracic trauma with rib fractures 2 years prior. I commit to delayed traumatic diaphragmatic hernia.
+
+FINAL DIAGNOSIS: Delayed traumatic diaphragmatic hernia
+
+CASE: M095
+
+KEY FINDINGS:
+
+Offending drug exposure: 3-year treatment with abemaciclib (a CDK4/6 inhibitor well-known to cause interstitial lung disease/pneumonitis) for recurrent ER+/PR+/HER2− breast cancer, with no smoking history or prior ILD.
+
+Clinical and physiological presentation: 1 week of persistent cough, malaise, hypoxemia (SpO2 92% vs. baseline 96%), and restrictive PFTs with reduced gas diffusion (DLCO).
+
+Radiologic and bronchoscopic/pathologic findings: HRCT shows subpleural ground-glass opacities, consolidations, and bronchiectatic changes typical of organizing pneumonia; BAL shows marked lymphocytosis (89%) without infection or malignancy; TBLC histopathology confirms fibrosing organizing pneumonia.
+
+Exclusion of alternatives and DLST caveat: Negative autoimmune markers and negative infectious workup; although the Drug Lymphocyte Stimulation Test (DLST) for abemaciclib was negative, DLST has limited sensitivity and a negative result does not exclude drug-induced ILD.
+
+DIFFERENTIAL:
+
+Abemaciclib-induced interstitial lung disease (drug-induced fibrosing organizing pneumonia)
+
+Cryptogenic organizing pneumonia (COP)
+
+Infectious pneumonia (atypical bacterial, viral, or opportunistic)
+
+Lymphangitic carcinomatosis (metastatic breast cancer)
+
+Connective tissue disease–associated interstitial lung disease (CTD-ILD)
+
+EVIDENCE FOR AND AGAINST:
+
+Abemaciclib-induced interstitial lung disease (drug-induced fibrosing organizing pneumonia):
+
+For: Active long-term exposure to abemaciclib (a known cause of ILD/OP); subacute cough, malaise, and hypoxemia; HRCT and TBLC confirmation of fibrosing organizing pneumonia; marked BAL lymphocytosis (89%); negative infectious, malignant, and autoimmune evaluations.
+
+Against: Long latency (3 years of therapy) and a negative DLST for abemaciclib (however, delayed-onset drug-induced ILD occurs and DLST frequently yields false negatives).
+
+Cryptogenic organizing pneumonia (COP):
+
+For: Subacute cough/malaise, subpleural consolidations/GGOs on HRCT, marked BAL lymphocytosis, and biopsy-proven organizing pneumonia with negative infection and autoimmune workup.
+
+Against: COP is strictly a diagnosis of exclusion that cannot be made when a well-established pneumotoxic agent (abemaciclib) is actively being administered.
+
+Infectious pneumonia:
+
+For: Acute-to-subacute onset (1 week) of cough, malaise, hypoxemia, and bilateral lung opacities; history of abemaciclib-related neutropenia.
+
+Against: Negative infectious workup on BAL and systemic testing, 89% BAL lymphocytosis, and TBLC showing fibrosing organizing pneumonia without organisms.
+
+Lymphangitic carcinomatosis:
+
+For: History of recurrent breast cancer, cough, hypoxemia, and restrictive physiology with reduced DLCO.
+
+Against: BAL and TBLC showed no malignant cells, and HRCT/histology demonstrated organizing pneumonia rather than nodular septal thickening or tumor emboli.
+
+Connective tissue disease–associated ILD (CTD-ILD):
+
+For: Organizing pneumonia/fibrosing OP pattern on HRCT and biopsy with BAL lymphocytosis.
+
+Against: Autoimmune markers are negative, and no extrapulmonary rheumatologic manifestations are reported.
+
+EXCLUSIONS AND COMMITMENT:
+Infectious pneumonia and lymphangitic carcinomatosis are excluded by negative BAL microbiology/cytology and TBLC histology. CTD-ILD is excluded by negative autoimmune serologies and lack of systemic autoimmune features. Cryptogenic organizing pneumonia is excluded because the patient is on active therapy with a recognized ILD-inducing medication (abemaciclib), and a negative DLST does not rule out drug toxicity. I commit to abemaciclib-induced interstitial lung disease (drug-induced fibrosing organizing pneumonia).
+
+FINAL DIAGNOSIS: Abemaciclib-induced interstitial lung disease (drug-induced fibrosing organizing pneumonia)
+
+CASE: M096
+
+KEY FINDINGS:
+
+Postoperative presentation and pathergy: Onset on POD 6 after bilateral mastectomies with fever, leukocytosis, progressive skin necrosis, wound dehiscence, and induration that failed to respond to antibiotics and surgical debridement (classic pathergy, where surgical trauma exacerbates the condition).
+
+Negative microbiological workup: Bacterial, fungal, and mycobacterial cultures are all negative, arguing strongly against an infectious etiology.
+
+Familial predisposition: Daughter had a history of the same condition following breast reduction surgery, pointing toward a familial/genetic susceptibility.
+
+Histopathologic confirmation: Skin punch biopsy revealed findings consistent with the diagnosis.
+
+DIFFERENTIAL:
+
+Postoperative pyoderma gangrenosum (PG)
+
+Necrotizing soft tissue infection / surgical site infection (bacterial, fungal, or mycobacterial)
+
+Mastectomy skin flap ischemia / necrosis
+
+Sweet syndrome (acute febrile neutrophilic dermatosis)
+
+EVIDENCE FOR AND AGAINST:
+
+Postoperative pyoderma gangrenosum:
+
+For: Classic onset 4–7 days post-breast surgery (POD 6); fever, leukocytosis, progressive skin necrosis, induration, and wound dehiscence; refractoriness to broad-spectrum antibiotics and worsening/persistence after surgical debridement (pathergy); negative bacterial, fungal, and mycobacterial cultures; positive family history after breast reduction surgery; confirmatory punch biopsy.
+
+Against: None.
+
+Necrotizing soft tissue infection / surgical site infection:
+
+For: Postoperative fever, leukocytosis, turbulent drain fluid, progressive skin necrosis, and wound breakdown.
+
+Against: Complete failure to improve with antibiotics and surgical debridement, coupled with negative bacterial, fungal, and mycobacterial cultures and confirmatory non-infectious biopsy.
+
+Mastectomy skin flap ischemia / necrosis:
+
+For: Skin necrosis and wound dehiscence following skin-sparing mastectomies.
+
+Against: Purely ischemic flap necrosis does not typically cause high fevers, marked leukocytosis, progressive induration, or worsen with debridement, nor does it explain the familial history after breast reduction surgery or specific punch biopsy findings.
+
+Sweet syndrome:
+
+For: Fever, leukocytosis, neutrophilic infiltrate, and potential association with malignancy or pathergy.
+
+Against: Typically presents with tender erythematous plaques/nodules rather than severe, rapidly progressive postoperative skin necrosis and wound dehiscence mimicking necrotizing breast infection.
+
+EXCLUSIONS AND COMMITMENT:
+Surgical site and necrotizing soft tissue infections are excluded by negative bacterial, fungal, and mycobacterial cultures and lack of response to antibiotics and debridement. Simple mastectomy flap ischemia is excluded by the prominent systemic inflammatory response (fever, leukocytosis), progressive induration, familial history after breast surgery, and biopsy findings. Sweet syndrome is less consistent with severe ulcerating postoperative breast necrosis and wound breakdown. I commit to postoperative pyoderma gangrenosum.
+
+FINAL DIAGNOSIS: Postoperative pyoderma gangrenosum

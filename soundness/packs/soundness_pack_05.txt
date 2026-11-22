@@ -1,0 +1,403 @@
+Continue with the SAME rubric and SAME output format (`item_id: score`, one line per item, no explanations). Rate each response independently. Do not reward length or formatting. CASES (part 5 of 10):
+
+===== CASE =====
+- **Patient Information:** 58-year-old female.
+- **Chief Complaint:** Intermittent cough and shortness of breath for half a year.
+- **History of Present Illness:** Symptoms persisted for six months. Initial tests including blood tests and sputum pathogen screenings were negative. Partial improvement was achieved with methylprednisolone and antibiotics (Cefoperazone-Sulbactam plus Voriconazole). Bronchoscopy revealed white, milky bronchoalveolar lavage fluid but no improvement in clinical condition.
+- **Past Medical History:** Hypertension and coronary artery disease.
+- **Personal History:** None mentioned.
+- **Family History:** None reported.
+- **Physical Examination:** Afebrile, vital signs within normal limits but showed oxygen saturation of 94% on room air. Crackles and wheezes found bilaterally in lower lung fields.
+- **Ancillary Tests:** 
+  - Blood test results: Elevated inflammatory markers (CRP: 101.87 mg/L, ESR: 74 ml/h), LDH: 541 U/L, elevated LDL-C, tumor markers CEA (30.8 ng/mL) and Cyfra21-1 (14 ng/mL). Positive antinuclear antibody (titer 1:80).
+  - Pulmonary function tests: Restrictively impaired with reduced diffusion capacity.
+  - Arterial blood gas: Lower PaO2 (65 mmHg) and higher alveolar-arterial gradient (41.3 mmHg).
+  - Chest CT: "Crazy-paving" pattern indicating diffuse ground glass opacities with septal thickening.
+  - Biopsy: Percutaneous CT-guided biopsy showed granular eosinophilic material filling alveolar spaces (weakly PAS-positive). Bacterial culture confirmed [REDACTED].
+  - Further testing for GM-CSF antibodies was borderline significant (4.5 μg/mL; normal threshold >4 μg/mL).
+
+REFERENCE DIAGNOSIS: Pulmonary Alveolar Proteinosis (PAP) secondary to Bacillus megaterium infection.
+REFERENCE REASONING (clinician): 1. **Initial Differential Diagnoses:**
+   - **Autoimmune PAP:** Suggested by the “crazy-paving” pattern, milky BALF, PAS-positive histology, marginally elevated GM-CSF antibody level.
+   - **Infectious PAP (secondary to opportunistic infection):**
+     - Supported by bacterial culture identifying Bacillus megaterium and absence of fungal or viral pathogens.
+     - Opportunistic infections like nocardiosis, mycobacteria, or other pathogens.
+   - **Malignancy:** Slightly elevated tumor markers (CEA and Cyfra21-1), but no evidence of malignancy on imaging or histology.
+2. **Analysis and Exclusion:**
+   - **Autoimmune PAP:** GM-CSF antibody was borderline significant but not conclusive. Histologic findings and clinical presentation fit better with an infectious etiology.
+   - **Non-opportunistic infection or typical pathogens:** Ruled out based on negative sputum screens and no significant clinical improvement initially with broad-spectrum antibiotics (Cefoperazone-Sulbactam, Voriconazole).
+   - **Neoplasm:** Excluded due to lack of evidence to support malignancy on imaging and biopsy.
+   - **Infectious PAP secondary to Bacillus megaterium:** Confirmed due to positive biopsy bacterial culture, classic PAP radiologic patterns, histology, and clinical improvement following appropriate antimicrobial treatment (clindamycin and amoxicillin-clavulanate).
+3. **Final Determination:** Infectious PAP secondary to Bacillus megaterium was established as the most likely cause, supported by histologic and microbiologic findings alongside clinical outcomes.
+
+--- RESPONSE R103 ---
+Six-month history of progressive cough, dyspnea, bilateral lower-lung crackles/wheezes, mild hypoxemia (SpO2 94%, PaO2 65 mmHg, elevated A-a gradient of 41.3 mmHg), and restrictive spirometry with reduced DLCO, indicating a chronic diffuse parenchymal/alveolar filling lung disease.
+White, milky bronchoalveolar lavage (BAL) fluid, which is pathognomonic for alveolar accumulation of lipoproteinaceous surfactant material.
+Chest CT showing a diffuse "crazy-paving" pattern (ground-glass opacities with superimposed interlobular septal thickening).
+Percutaneous lung biopsy demonstrating alveoli filled with granular, eosinophilic, weakly PAS-positive material.
+Borderline-elevated anti-GM-CSF antibodies (4.5 μg/mL; threshold greater than 4 μg/mL), pointing directly to an autoimmune etiology impairing alveolar macrophage surfactant clearance.
+Elevated LDH (541 U/L), CEA (30.8 ng/mL), and Cyfra21-1 (14 ng/mL), which are characteristically elevated in alveolar surfactant accumulation, alongside elevated CRP (101.87 mg/L), ESR (74 mm/h), and a positive bacterial culture indicating a superimposed pulmonary bacterial infection.
+Autoimmune pulmonary alveolar proteinosis (PAP) complicated by superimposed bacterial infection
+Secondary pulmonary alveolar proteinosis (e.g., connective tissue disease-associated or infection-induced)
+Pulmonary adenocarcinoma (invasive mucinous adenocarcinoma)
+Pneumocystis jirovecii pneumonia (PJP)
+Connective tissue disease-associated interstitial lung disease (CTD-ILD)
+Autoimmune pulmonary alveolar proteinosis (PAP) complicated by superimposed bacterial infection: Supported by milky BAL fluid, classic crazy-paving pattern on CT, eosinophilic PAS-positive intra-alveolar material on biopsy, elevated LDH/CEA/Cyfra21-1, borderline-positive anti-GM-CSF antibodies (4.5 μg/mL), lack of clinical response to steroids/antibiotics, and a positive bacterial culture with markedly elevated CRP/ESR (PAP predisposes to opportunistic bacterial infections). Argued against only slightly by the borderline rather than markedly high anti-GM-CSF titer and the weakly positive (rather than strongly positive) PAS staining.
+Secondary pulmonary alveolar proteinosis: Supported by the identical histologic/radiologic PAP phenotype, positive ANA (1:80), and positive bacterial culture. Argued against by the presence of anti-GM-CSF antibodies above the diagnostic threshold and the absence of an established underlying hematologic malignancy, toxic inhalation, or overt connective tissue disease.
+Pulmonary adenocarcinoma (invasive mucinous adenocarcinoma): Supported by subacute dyspnea, crazy-paving pattern on CT, and elevated CEA (30.8 ng/mL) and Cyfra21-1 (14 ng/mL). Argued against by milky BAL fluid, positive anti-GM-CSF antibodies, and biopsy showing acellular granular eosinophilic PAS-positive material rather than malignant cells.
+Pneumocystis jirovecii pneumonia (PJP): Supported by hypoxemia, elevated LDH, crazy-paving CT pattern, and frothy/granular intra-alveolar eosinophilic exudate. Argued against by the 6-month chronic course in a host without reported immunodeficiency, milky BAL fluid, anti-GM-CSF antibody positivity, and absence of fungal organisms on biopsy.
+Connective tissue disease-associated interstitial lung disease (CTD-ILD): Supported by female sex, chronic restrictive physiology with low DLCO, elevated ESR/CRP, and positive ANA (1:80). Argued against by the low-titer nonspecific ANA without systemic autoimmune features, milky BAL fluid, and biopsy showing intra-alveolar proteinaceous filling rather than interstitial fibrosis or inflammation.
+Pulmonary adenocarcinoma is excluded by the absence of malignant cells on biopsy and the pathognomonic milky BAL fluid. PJP is excluded by the chronic 6-month course, lack of immunosuppression, and absence of Pneumocystis on biopsy. CTD-ILD is excluded because the biopsy demonstrates alveolar proteinaceous filling rather than interstitial pneumonitis, and an ANA of 1:80 is nonspecific. Between autoimmune and secondary PAP, the elevated anti-GM-CSF antibody level above the cutoff commits the diagnosis to autoimmune pulmonary alveolar proteinosis, with the markedly elevated CRP/ESR and positive bacterial culture indicating a concurrent superimposed bacterial lung infection.
+Final diagnosis: Autoimmune pulmonary alveolar proteinosis (complicated by superimposed bacterial infection)
+
+--- RESPONSE R024 ---
+The patient has six months of cough and dyspnea, restrictive physiology with reduced diffusion capacity, and hypoxemia with a widened A-a gradient. The CT shows a classic crazy-paving pattern. BAL fluid was milky white, and biopsy showed granular eosinophilic, PAS-positive material filling the alveoli. Elevated LDH, CEA and Cyfra21-1 are typical surrogate markers of alveolar proteinosis. The borderline-positive anti-GM-CSF antibody supports an autoimmune (or infection-associated secondary) form. A positive bacterial culture from the biopsy in a patient on steroids points to a superimposed opportunistic infection. Nocardia is the classic organism associated with PAP, and it fits the lack of response to the antibiotics used.
+Final diagnosis: Pulmonary alveolar proteinosis (likely autoimmune, GM-CSF antibody–associated) complicated by opportunistic pulmonary infection, most likely Nocardia.
+
+--- RESPONSE R109 ---
+Six months of cough and dyspnea with only partial response to steroids and antibiotics. This is a chronic, non-infectious-appearing course.
+Milky white BAL fluid, which is the classic sign of alveolar lipoproteinaceous material.
+Crazy-paving pattern on CT: diffuse ground-glass opacities with septal thickening.
+Restrictive defect with reduced DLCO, hypoxemia, and a raised A-a gradient. These reflect impaired gas exchange from filled alveoli.
+Biopsy showing granular eosinophilic, PAS-positive material filling the alveoli. This is pathognomonic for pulmonary alveolar proteinosis (PAP).
+Raised LDH, CEA, and Cyfra21-1. These are typical PAP serum markers, released from surfactant-laden alveoli.
+GM-CSF autoantibody 4.5 μg/mL, above the 4 μg/mL threshold. This supports the autoimmune form.
+Positive bacterial culture, indicating a superimposed infection. Macrophage dysfunction in PAP predisposes to opportunists such as Nocardia and mycobacteria.
+Autoimmune PAP with secondary infection
+Secondary PAP (infection-, malignancy-, or dust-related)
+Invasive mucinous adenocarcinoma / lepidic lung cancer
+Interstitial lung disease related to connective tissue disease (ANA-positive)
+Pneumocystis or other infectious pneumonia
+Autoimmune PAP.
+For: milky BAL, crazy-paving, PAS-positive alveolar filling, high LDH/CEA/Cyfra21-1, GM-CSF antibody above threshold, typical age.
+Against: the antibody level is only borderline.
+Secondary PAP.
+For: a positive culture.
+Against: no hematologic malignancy, dust exposure, or immunosuppressive disease. The infection is better explained as a complication of PAP.
+Mucinous adenocarcinoma.
+For: high CEA and Cyfra21-1; ground-glass opacities.
+Against: biopsy showed acellular proteinaceous material without tumor; milky BAL.
+CTD-ILD.
+For: ANA 1:80; restrictive physiology.
+Against: a low-titer ANA is nonspecific, there are no systemic CTD features, and the histology is not an ILD pattern.
+Pneumocystis / infectious pneumonia.
+For: ground-glass opacities.
+Against: six-month afebrile course, negative pathogen screening, and the specific PAP histology.
+I exclude malignancy and CTD-ILD on the histology.
+I exclude primary infection because of the chronicity and because the histology explains the picture; the culture represents superinfection.
+I exclude secondary PAP because no underlying cause is present.
+I commit to autoimmune PAP complicated by infection.
+Final diagnosis: Pulmonary alveolar proteinosis (autoimmune, GM-CSF antibody positive) with superimposed bacterial infection (likely an opportunist such as Nocardia).
+
+--- RESPONSE R119 ---
+The patient presents with a 6-month history of progressive cough and dyspnea, restrictive ventilatory defect with impaired diffusion capacity, and hypoxemia with a widened A-a gradient. Key diagnostic findings include milky-white bronchoalveolar lavage (BAL) fluid, a classic "crazy-paving" pattern on chest CT (diffuse ground-glass opacities with interlobular septal thickening), elevated LDH and tumor markers (CEA, Cyfra21-1), and lung biopsy showing granular eosinophilic, PAS-positive material filling the alveolar spaces. These features are pathognomonic for pulmonary alveolar proteinosis (PAP). The borderline-elevated anti-GM-CSF antibody level (>4 μg/mL) supports the autoimmune form of PAP. Additionally, the markedly elevated inflammatory markers (CRP, ESR), partial response to antibiotics/voriconazole, and positive bacterial culture on biopsy suggest a superimposed opportunistic pulmonary infection (such as Nocardia), a well-recognized complication of PAP.
+Final diagnosis: Autoimmune pulmonary alveolar proteinosis (complicated by secondary bacterial pneumonia)
+
+===== CASE =====
+- **Patient Information**: 63-year-old retired female.
+- **Chief Complaint**: Severe pain in the proximal and intermediate thirds of the right arm.
+- **History of Present Illness**: Approximately 21 days after recovering from dengue virus infection, the patient developed severe stabbing, shock-like, and burning pain with associated limb atrophy, livedo (skin discoloration), muscle weakness, and joint instability. The pain was neuropathic, causing functional impairment.
+- **Past Medical History**: Mild hypertension.
+- **Personal History**: None reported.
+- **Family History**: None reported.
+- **Physical Examination**: 
+  - Amyotrophy in the proximal and intermediate thirds of the right upper limb.
+  - Hypotonia, grade 2/3 paresis in specific muscles including the deltoid, infraspinatus, and biceps brachii.
+  - Allodynia to touch and pressure, thermal hyperesthesia, and neuropathic pain.
+  - Deep hypoesthesia and absent tendon reflexes in the right upper limb.
+  - Cranial nerves: normal.
+- **Ancillary Tests**:
+  - Serology: Positive IgM for dengue virus.
+  - Electroneuromyography (ENMG): Acute denervation of peripheral nerves, prolonged action potentials, increased latency.
+  - MRI of the brachial plexus: Subtle signal changes in the upper and middle primary trunks.
+  - Routine tests for other inflammatory, infectious, and immune-mediated conditions were normal.
+
+---
+
+REFERENCE DIAGNOSIS: Post-Dengue Parsonage-Turner Syndrome (PTS).
+REFERENCE REASONING (clinician): 1. **Rotator Cuff Injuries, Calcific Tendinitis, and Frozen Shoulder**:
+   - These are common shoulder disorders but were excluded based on imaging results showing brachial plexus involvement, not isolated shoulder joint/muscle abnormalities.
+   
+2. **Cervical Spine Disorders**:
+   - Nerve root compression or cervical pathology would align with radicular pain symptoms but was ruled out through clinical and imaging studies of the spine.
+
+3. **Peripheral Nerve Compression and Nerve Entrapments**:
+   - Typical for producing focal neurogenic symptoms, but not consistent with the diffuse brachial plexus abnormalities evident in ENMG and MRI findings.
+
+4. **Brachial Plexus Compression (e.g., by Cervical Rib)**:
+   - Excluded due to a lack of structural compressive abnormalities on MRI.
+
+5. **Post-Polio Syndrome and Amyotrophic Lateral Sclerosis**:
+   - Neurological examination, absence of systemic motor neuron involvement, and normal laboratory tests excluded these possibilities.
+
+6. **Parsonage-Turner Syndrome (PTS)**:
+   - Considered due to the constellation of sudden-onset neuropathic pain, muscle atrophy, brachial plexus involvement on imaging, and isolated denervation patterns on ENMG. Infectious prodrome of dengue (positive IgM antibody) supports a parainfectious or immune-mediated trigger for PTS.
+
+---
+
+--- RESPONSE R101 ---
+Severe neuropathic pain (stabbing, shock-like, burning) starting about 21 days after dengue. This latency points to a post-infectious, immune-mediated process.
+Proximal-predominant amyotrophy and paresis of the right arm (deltoid, infraspinatus, biceps). This matches upper and middle trunk (C5–C7) territory.
+The right upper limb shows allodynia, thermal hyperesthesia, deep hypoesthesia, absent reflexes and hypotonia. This is a lower motor neuron and sensory pattern confined to one limb.
+ENMG shows acute denervation with increased latency, which means peripheral nerve or plexus injury.
+MRI shows signal change in the upper and middle trunks of the brachial plexus. This localizes the lesion to the plexus.
+Dengue IgM is positive and other inflammatory, infectious and immune work-up is normal, which supports dengue as the trigger.
+Neuralgic amyotrophy (Parsonage-Turner syndrome) triggered by dengue
+Guillain-Barré syndrome after dengue
+Cervical radiculopathy (C5–C6)
+Complex regional pain syndrome
+Dengue-associated myositis
+Parsonage-Turner syndrome:
+For: severe pain followed by weakness and atrophy, post-viral latency, one limb, proximal muscles, plexus changes on MRI, denervation on ENMG.
+Against: nothing significant.
+Guillain-Barré syndrome:
+For: post-infectious timing, areflexia.
+Against: only one limb is affected, there is no ascending or symmetric weakness, and severe focal pain is atypical.
+Cervical radiculopathy:
+For: C5–C6 distribution.
+Against: lesion is in the plexus trunks on MRI, onset was acute after infection, and no spinal cause is described.
+CRPS:
+For: allodynia, livedo, burning pain.
+Against: objective denervation, areflexia and plexus lesion show true nerve injury.
+Myositis:
+For: post-viral weakness.
+Against: neuropathic pain, sensory loss, areflexia and an ENMG pattern of denervation rather than myopathy.
+GBS is excluded because the deficit is unilateral and focal.
+Radiculopathy is excluded because MRI localizes to the plexus.
+CRPS and myositis are excluded because of the objective neurogenic findings.
+I commit to dengue-triggered neuralgic amyotrophy.
+Final diagnosis: Parsonage-Turner syndrome (neuralgic amyotrophy / acute brachial plexus neuritis) of the right upper and middle trunks after dengue infection.
+
+--- RESPONSE R046 ---
+Severe acute neuropathic pain (stabbing, shock-like, burning) in the proximal and intermediate right arm developing approximately 21 days after dengue virus infection, confirmed by positive dengue IgM serology — classic post-infectious immune-mediated latency.
+Rapidly ensuing proximal upper-limb amyotrophy, hypotonia, grade 2/3 paresis of the deltoid, infraspinatus, and biceps brachii (C5–C6 / upper brachial plexus distribution), deep hypoesthesia, areflexia, and sensory hypersensitivity (allodynia, thermal hyperesthesia) — localizes to a patchy, predominantly motor-and-sensory brachial plexopathy.
+ENMG showing acute peripheral nerve denervation, prolonged action potentials, and increased latency — confirms acute axonal injury.
+Brachial plexus MRI showing subtle signal changes in the upper and middle primary trunks with normal cranial nerves and unremarkable workup for other inflammatory, infectious, or autoimmune causes — directly confirms brachial plexus involvement.
+Dengue-associated Parsonage-Turner syndrome (neuralgic amyotrophy / post-infectious brachial plexitis)
+Cervical radiculopathy (C5–C6)
+Complex regional pain syndrome (CRPS)
+Focal/pharyngeal-cervical-brachial variant of Guillain-Barré syndrome (GBS)
+Neoplastic or compressive brachial plexopathy
+Dengue-associated Parsonage-Turner syndrome (neuralgic amyotrophy):
+For: Classic biphasic pattern of severe acute proximal shoulder/arm neuropathic pain followed by patchy weakness and rapid amyotrophy in upper/middle trunk muscles (deltoid, infraspinatus, biceps); clear post-infectious trigger (~21 days post-dengue with positive IgM); acute denervation on ENMG; MRI signal abnormality localized to the upper and middle primary trunks; normal workup for other etiologies.
+Against: Livedo and marked allodynia/thermal hyperesthesia are less typical than pure motor-predominant presentations, though autonomic and sensory fiber involvement can occur.
+Cervical radiculopathy (C5–C6):
+For: Pain, weakness in deltoid/infraspinatus/biceps, sensory loss, and reduced/absent reflexes in a C5–C6 distribution.
+Against: MRI demonstrates signal changes in the brachial plexus trunks rather than cervical root compression; severe burning/shock-like pain with rapid amyotrophy and livedo 3 weeks post-dengue strongly favors immune-mediated plexitis over structural radiculopathy.
+Complex regional pain syndrome (CRPS):
+For: Severe burning pain, allodynia, thermal hyperesthesia, and skin discoloration (livedo) with functional impairment.
+Against: CRPS does not explain acute axonal denervation on ENMG, MRI signal changes in the upper and middle brachial plexus trunks, or selective proximal myotomal paresis and amyotrophy; there is also no preceding limb trauma.
+Guillain-Barré syndrome (focal/brachial variant):
+For: Post-infectious onset (~3 weeks after dengue virus infection), acute weakness, hypotonia, and areflexia.
+Against: Strictly unilateral focal involvement of one brachial plexus with severe localized neuropathic pain, rapid amyotrophy, normal cranial nerves, and MRI signal changes confined to the right upper/middle trunks argue strongly against GBS, which is typically symmetric and polyradiculoneuropathic.
+Neoplastic or compressive brachial plexopathy:
+For: Unilateral brachial plexus pain, weakness, sensory deficits, and denervation on ENMG.
+Against: No mass lesion on brachial plexus MRI, acute post-dengue onset, and preferential involvement of the upper/middle trunks (neoplastic plexopathy more often affects the lower trunk, as in Pancoast tumors).
+Cervical radiculopathy and compressive/neoplastic plexopathy are excluded by the absence of a compressive or mass lesion and the direct localization of signal changes to the upper and middle primary trunks on MRI. CRPS is excluded because it cannot account for objective acute denervation on ENMG and brachial plexus MRI abnormalities. GBS is excluded by the strictly unilateral, painful, trunk-localized plexopathy with normal cranial nerves. By direct temporal association with confirmed dengue infection, classic severe neuropathic pain followed by proximal amyotrophy, ENMG evidence of acute denervation, and MRI confirmation of upper and middle trunk involvement, the diagnosis commits to dengue-associated Parsonage-Turner syndrome (neuralgic amyotrophy).
+Final diagnosis: Dengue-associated Parsonage-Turner syndrome (post-infectious neuralgic amyotrophy / brachial plexitis)
+
+--- RESPONSE R003 ---
+A 63-year-old female developed acute, severe neuropathic pain (stabbing, shock-like, burning) in the proximal right arm approximately 3 weeks after a confirmed dengue virus infection (positive IgM).
+The severe pain was followed by rapid-onset amyotrophy, hypotonia, paresis of proximal shoulder/arm muscles (deltoid, infraspinatus, biceps brachii), sensory abnormalities (allodynia, thermal hyperesthesia, deep hypoesthesia), and absent tendon reflexes in the affected limb.
+Electroneuromyography confirms acute peripheral nerve denervation, and brachial plexus MRI demonstrates subtle signal changes in the upper and middle primary trunks, localizing the pathology to the brachial plexus while excluding other inflammatory, infectious, or immune-mediated etiologies.
+The classic triad of a preceding viral trigger (dengue), acute severe shoulder/arm neuropathic pain, and subsequent patchy proximal upper limb weakness and amyotrophy is diagnostic of post-infectious neuralgic amyotrophy (Parsonage-Turner syndrome).
+Final diagnosis: Post-dengue Parsonage-Turner syndrome (neuralgic amyotrophy / brachial plexitis)
+
+--- RESPONSE R044 ---
+A 63-year-old woman develops severe neuropathic pain in the proximal right arm about 3 weeks after a dengue infection. The pain is followed by amyotrophy, weakness in the deltoid, infraspinatus and biceps (upper and middle trunk distribution), sensory changes, absent reflexes and autonomic signs (livedo). ENMG shows acute denervation, and MRI shows signal change in the upper and middle trunks of the brachial plexus. Other inflammatory, infectious and immune causes were excluded. This sequence of acute severe pain, then patchy weakness and atrophy of the shoulder girdle and arm after a viral trigger, is classic neuralgic amyotrophy.
+Final diagnosis: Parsonage-Turner syndrome (neuralgic amyotrophy / acute brachial plexus neuritis) following dengue virus infection
+
+===== CASE =====
+- **Patient Information**: 16-year-old girl.
+- **Chief Complaint**: Intermittent upper abdominal pain for one year.
+- **History of Present Illness**: 
+  - Complaints of a lump in the upper left abdomen when pressed.
+  - One year of jaundice without fever, frequent nausea, and vomiting.
+  - No significant changes in weight or abnormal bowel/urinary symptoms except dark-colored urine ("tea-colored").
+- **Past Medical History**: None noted.
+- **Personal History**: No significant history, including no tattoos or blood transfusions.
+- **Family History**: None stated.
+- **Physical Examination**: Icteric sclera.
+- **Ancillary Tests**:
+  - Abdominal MSCT scan: Intra- and extrahepatic biliary ectasia with multiple cystic lesions (suggestive of [REDACTED] Type IV), hepatosplenomegaly, and mild splenic vein dilation.
+  - Hepatobiliary ultrasound: Cystic lesions connected to extrahepatic bile duct, intrahepatic biliary ectasia, and splenomegaly; liver and pancreas normal.
+  - MRCP: Bilateral intrahepatic and extrahepatic cystic lesions (fusiform in appearance), consistent with type IVA [REDACTED] per Todani classification.
+  - Laboratory tests: Elevated SGOT, SGPT, and bilirubin levels (total bilirubin 9.458 mg/dL, direct bilirubin 6.635 mg/dL, indirect bilirubin 2.823 mg/dL); decreased urea (16.4 mg/dL).
+
+REFERENCE DIAGNOSIS: Type IVA Choledochal Cyst
+REFERENCE REASONING (clinician): 1. **Choledochal Cyst**:
+   - **Rationale for Inclusion**: Classic imaging findings (intra- and extrahepatic biliary cystic dilations) and clinical presentation (abdominal pain, jaundice, nausea, vomiting, palpable mass).
+   - **Confirmed by**: MRCP, which identified a type IVA choledochal cyst consistent with Todani classification.
+2. **Biliary Obstruction due to Other Causes (e.g., bile duct stones, strictures, or malignancy)**:
+   - **Excluded**: Imaging showed no evidence of stones, strictures, or obstructive masses.
+3. **Biliary Atresia**:
+   - **Excluded**: Typically seen in infants, not adolescents; imaging consistent with cystic dilatation rather than atresia.
+4. **Pancreaticobiliary Anomalies**:
+   - **Partially Considered**: Anomalous pancreaticobiliary junction could coexist with choledochal cysts but is not evident in ancillary test results for this case.
+5. **Infectious or Inflammatory Causes (e.g., cholangitis)**:
+   - **Excluded**: Absence of fever or signs of acute infection.
+
+--- RESPONSE R051 ---
+MRCP: Bilateral intrahepatic and extrahepatic fusiform cystic biliary lesions explicitly matching Todani classification type IVA, which is pathognomonic for choledochal cyst disease.
+Abdominal MSCT & hepatobiliary ultrasound: Intra- and extrahepatic biliary ectasia with multiple cystic lesions communicating with the extrahepatic bile duct, plus hepatosplenomegaly and mild splenic vein dilation (secondary biliary/portal changes).
+Clinical presentation: 16-year-old female with a 1-year history of intermittent upper abdominal pain, palpable abdominal lump, painless/afebrile jaundice, nausea, vomiting, and tea-colored urine—the classic clinical triad (pain, jaundice, mass) of a choledochal cyst.
+Laboratory tests: Direct hyperbilirubinemia (total 9.458 mg/dL, direct 6.635 mg/dL) with elevated transaminases (SGOT, SGPT), confirming obstructive cholestasis.
+Choledochal cyst, Todani type IVA
+Caroli disease (Todani type V)
+Primary sclerosing cholangitis (PSC)
+Obstructive choledocholithiasis with secondary biliary dilatation
+Congenital biliary atresia
+Choledochal cyst, Todani type IVA:
+For: Classic adolescent female presentation with abdominal pain, jaundice, and palpable mass; direct hyperbilirubinemia; US, MSCT, and MRCP all show communicating intrahepatic and extrahepatic fusiform cystic biliary dilatations explicitly classified as Todani type IVA.
+Against: None; imaging and clinical findings are completely diagnostic.
+Caroli disease (Todani type V):
+For: Presents in young patients with intrahepatic cystic biliary dilatation and hepatosplenomegaly.
+Against: Caroli disease is restricted to the intrahepatic ducts (Todani type V), whereas this patient has both intrahepatic and extrahepatic cystic lesions (Todani type IVA).
+Primary sclerosing cholangitis (PSC):
+For: Causes chronic cholestatic jaundice, elevated bilirubin/transaminases, and intra-/extrahepatic biliary abnormalities.
+Against: PSC produces multifocal stricturing ("beading") rather than large fusiform intra- and extrahepatic cystic lesions meeting Todani type IVA criteria.
+Obstructive choledocholithiasis:
+For: Causes intermittent upper abdominal pain, obstructive jaundice, tea-colored urine, and biliary ductal dilatation.
+Against: No stones are identified on US, MSCT, or MRCP; ductal dilatation is cystic and fusiform rather than simple cylindrical obstruction, and it does not explain a 1-year palpable mass in a 16-year-old.
+Congenital biliary atresia:
+For: Causes congenital obstructive jaundice and hepatosplenomegaly.
+Against: Presents in the neonatal period with obliteration of the biliary tree, not at age 16 with large dilated intra- and extrahepatic cysts.
+Congenital biliary atresia is excluded by age of presentation and patent, dilated ducts. Choledocholithiasis and PSC are excluded by the absence of calculi or multifocal strictures and the presence of discrete cystic biliary dilatations. Caroli disease is excluded because extrahepatic cystic involvement places this squarely in Todani type IVA rather than type V. I commit to Todani type IVA choledochal cyst.
+Final diagnosis: Choledochal cyst (Todani type IVA)
+
+--- RESPONSE R006 ---
+A 16-year-old girl has had obstructive (conjugated) jaundice for a year, with dark urine, upper abdominal pain and a palpable mass. This is the classic triad.
+Her direct bilirubin is high and her transaminases are raised.
+Imaging (MSCT, ultrasound and MRCP) shows fusiform cystic dilatation of both the intrahepatic and extrahepatic bile ducts.
+Under the Todani classification, cysts involving both intra- and extrahepatic ducts are type IVA.
+The enlarged liver and spleen with splenic vein dilatation suggest early portal hypertension.
+Final diagnosis: Choledochal cyst, Todani type IVA.
+
+--- RESPONSE R001 ---
+The patient is a 16-year-old girl presenting with a one-year history of intermittent upper abdominal pain, an upper abdominal mass, painless jaundice, nausea, vomiting, and dark ("tea-colored") urine.
+Labs demonstrate conjugated hyperbilirubinemia and elevated transaminases, consistent with obstructive jaundice.
+Ultrasound, MSCT, and MRCP demonstrate bilateral intrahepatic and extrahepatic fusiform cystic biliary dilations connected to the extrahepatic bile duct.
+According to the Todani classification, multiple cystic dilations involving both the intrahepatic and extrahepatic biliary tree define a Type IVA choledochal cyst.
+Final diagnosis: Choledochal cyst (Todani type IVA)
+
+--- RESPONSE R029 ---
+A one-year history of jaundice, intermittent upper abdominal pain and a palpable mass fits the classic presentation of a choledochal cyst.
+Labs show conjugated hyperbilirubinaemia (direct 6.6) with raised transaminases, which means obstructive cholestasis.
+MRCP shows fusiform cystic dilatation of both the intrahepatic and extrahepatic ducts, which is Todani type IVA.
+Hepatosplenomegaly with splenic vein dilatation suggests portal hypertension from secondary biliary cirrhosis.
+Choledochal cyst, Todani type IVA
+Caroli disease/syndrome (type V)
+Choledochal cyst type I with secondary intrahepatic dilatation
+Primary sclerosing cholangitis
+Hepatic hydatid cyst or biliary cystadenoma
+Type IVA choledochal cyst
+For: multiple intrahepatic and extrahepatic cysts in continuity with the bile duct, the classic triad, and a female adolescent.
+Against: none.
+Caroli disease/syndrome
+For: intrahepatic cystic dilatation, and portal hypertension (as in Caroli syndrome).
+Against: Caroli disease is limited to intrahepatic ducts, and here there is fusiform extrahepatic dilatation.
+Type I with secondary intrahepatic dilatation
+For: an extrahepatic fusiform cyst.
+Against: the intrahepatic lesions are cystic in their own right, not simple upstream dilatation.
+Primary sclerosing cholangitis
+For: cholestasis with intra- and extrahepatic involvement.
+Against: cystic ectasia rather than beaded strictures, and her age.
+Hydatid cyst or cystadenoma
+For: cystic liver lesions.
+Against: they communicate with the bile ducts in a ductal pattern, and there is no exposure history.
+Extrahepatic involvement excludes Caroli disease. The imaging morphology excludes primary sclerosing cholangitis and parasitic or neoplastic cysts. I commit to Todani type IVA choledochal cyst.
+Final diagnosis: Choledochal cyst, Todani type IVA, with obstructive jaundice and possible secondary portal hypertension
+
+===== CASE =====
+- **Patient Information:** 55-year-old female  
+- **Chief Complaint:** Chronic abdominal pain  
+- **History of Present Illness:** Diffuse, intermittent abdominal pain, nausea, and anorexia persisting for approximately 2 weeks with progressive worsening.  
+- **Past Medical History:** None reported  
+- **Personal History:** None relevant reported  
+- **Family History:** Not mentioned  
+- **Physical Examination:** Alert, cooperative, normal body weight; 37°C body temperature; abdominal tenderness in the epigastric and periumbilical regions, no palpable masses. Other systems were unremarkable.  
+- **Ancillary Tests:**  
+  - Initial ultrasound revealed a large perigastric mixed echoic mass within the peritoneum.  
+  - Contrast-enhanced CT showed a large necrotic peritoneal mass infiltrating adjacent fat, adhering to the stomach, pancreas, and transverse colon, with no evidence of metastasis.  
+  - Surgery and intraoperative pathological examination revealed a nonmalignant, well-vascularized mass requiring segmental colectomy and partial gastrectomy. Definitive histology confirmed [REDACTED].  
+  - Follow-up: 1 year post-surgery showed no recurrence clinically or via imaging.
+
+REFERENCE DIAGNOSIS: Mesenteric inflammatory pseudotumor
+REFERENCE REASONING (clinician): 1. The patient's presentation of abdominal pain with a necrotized mass prompted an investigation into possibilities such as malignancy and benign conditions:  
+   - **Malignant conditions (e.g., sarcoma, metastatic tumor, gastrointestinal stromal tumor):** Considered due to necrosis and adherence to structures but ruled out due to lack of metastasis, intraoperative findings, and histopathological confirmation of benignity.
+   - **Abscess:** Partial overlap due to necrosis but excluded based on the absence of infectious signs like fever, elevated inflammatory markers, and pus on imaging or during surgery.  
+   - **Mesenteric fibromatosis:** Possible differential, but this typically lacks necrosis.  
+   - **Mesenteric inflammatory pseudotumor (IP):** Strongly considered given the histological pattern of proliferative myofibroblasts, spindle cells, and plasma and lymphocytic infiltration. Radiologically, characteristics of central necrosis and absence of metastasis also fit IP.  
+
+2. Histopathology and immunohistochemistry were definitive in confirming IP (benign fibrosis and inflammation with characteristic staining profiles like SMA and ALK positivity).  
+
+3. A mesenteric inflammatory pseudotumor diagnosis was reinforced after surgical resection and follow-up showing no recurrence.
+
+--- RESPONSE R021 ---
+Large, necrotic, infiltrative peritoneal or mesenteric mass adherent to the stomach, pancreas and transverse colon.
+No metastases and no fever.
+Intraoperatively the mass was non-malignant and well vascularized, yet locally aggressive enough to need multivisceral resection.
+No recurrence at one year.
+The behavior is locally aggressive but non-metastasizing, which suggests an intermediate-grade soft-tissue lesion.
+Mesenteric desmoid-type fibromatosis
+Inflammatory myofibroblastic tumor
+Gastrointestinal stromal tumor (GIST)
+Localized (unicentric) Castleman disease
+Sclerosing mesenteritis
+Desmoid fibromatosis
+For: infiltration into adjacent fat and organs, large size, no metastases, benign on frozen section.
+Against: necrosis is unusual, though large tumors can degenerate; recurrence is common, so one year is a short follow-up.
+Inflammatory myofibroblastic tumor
+For: infiltrative mass in a middle-aged adult, benign appearance.
+Against: no fever, anemia or inflammatory syndrome.
+GIST
+For: large necrotic mass next to the stomach.
+Against: intraoperative pathology non-malignant; it is extraluminal and infiltrative rather than arising from the bowel wall.
+Castleman disease
+For: well-vascularized and benign.
+Against: usually well circumscribed, not infiltrative, and rarely necrotic.
+Sclerosing mesenteritis
+For: infiltrates mesenteric fat.
+Against: rarely forms a large necrotic mass needing gastrectomy.
+GIST is unlikely given the non-malignant intraoperative pathology and extramural infiltration.
+Castleman disease and sclerosing mesenteritis do not match the morphology.
+IMT lacks inflammatory features.
+Commitment: desmoid-type fibromatosis, accepting that definitive histology could favor IMT.
+Final diagnosis: Intra-abdominal (mesenteric) desmoid-type fibromatosis.
+
+--- RESPONSE R049 ---
+This 55-year-old female presented with progressive epigastric/periumbilical pain, nausea, and anorexia. Imaging revealed a large, necrotic peritoneal mass infiltrating adjacent fat and adhering to the stomach, pancreas, and transverse colon—features that strongly mimic a locally aggressive intra-abdominal malignancy—yet without distant metastasis. Surgical resection (partial gastrectomy and segmental colectomy) and pathology demonstrated a nonmalignant, well-vascularized mass with no recurrence at 1 year. A benign, locally adherent, well-vascularized peritoneal mass with necrosis that mimics malignancy and is cured by complete resection is most characteristic of an inflammatory myofibroblastic tumor.
+Final diagnosis: Inflammatory myofibroblastic tumor (IMT)
+
+--- RESPONSE R053 ---
+Locally aggressive peritoneal mass mimicking malignancy: Large necrotic, well-vascularized perigastric/peritoneal mass infiltrating adjacent fat and densely adhering to the stomach, pancreas, and transverse colon, requiring en bloc partial gastrectomy and segmental colectomy.
+Nonmalignant pathology with no metastasis or recurrence: Intraoperative and definitive pathology confirmed a nonmalignant lesion, with no evidence of metastasis on CT and no recurrence at 1-year clinical and radiologic follow-up.
+Subacute nonspecific symptoms in a healthy 55-year-old woman: 2 weeks of worsening diffuse abdominal pain, nausea, and anorexia without fever, weight loss, or prior surgical history.
+Inflammatory myofibroblastic tumor (IMT) / inflammatory pseudotumor
+Mesenteric fibromatosis (desmoid tumor)
+Solitary fibrous tumor (SFT) of the peritoneum/mesentery
+Gastrointestinal stromal tumor (GIST)
+Unicentric Castleman disease
+Inflammatory myofibroblastic tumor (IMT) / inflammatory pseudotumor:
+For: Classic nonmalignant/intermediate mesenchymal lesion that closely mimics intra-abdominal malignancy on CT; frequently well-vascularized with central necrosis, infiltrates adjacent fat, and densely adheres to stomach, pancreas, and transverse colon requiring multivisceral resection; low recurrence after complete surgical excision.
+Against: More frequently seen in children and young adults, though well documented in middle-aged adults.
+Mesenteric fibromatosis (desmoid tumor):
+For: Nonmalignant, locally infiltrative peritoneal/mesenteric mass adhering to bowel and adjacent organs.
+Against: Typically homogenous, hypovascular, and non-necrotic on CT/intraoperative exam (unlike this well-vascularized, necrotic mass), and carries a high local recurrence rate.
+Solitary fibrous tumor (SFT) of the peritoneum/mesentery:
+For: Can present as a large, well-vascularized, nonmalignant peritoneal mass with areas of necrosis.
+Against: Typically well-circumscribed and encapsulated rather than diffusely infiltrating adjacent fat and adhering densely to three separate organs (stomach, pancreas, transverse colon).
+Gastrointestinal stromal tumor (GIST):
+For: Classic large, hypervascular, necrotic perigastric mass adhering to adjacent organs in a 55-year-old.
+Against: Excluded because intraoperative and definitive pathology confirmed a nonmalignant mass.
+Unicentric Castleman disease:
+For: Benign, hypervascular peritoneal/retroperitoneal mass cured by resection.
+Against: Typically well-circumscribed without necrosis or extensive infiltration of adjacent fat and adherence to stomach, pancreas, and colon.
+Excluded: GIST (and other sarcomas/carcinomas) is excluded by nonmalignant histopathology. Desmoid tumor is less consistent with a well-vascularized, necrotic mass without recurrence. SFT and Castleman disease are typically well-circumscribed rather than infiltrating surrounding fat and densely adhering to stomach, pancreas, and colon.
+Commitment: A nonmalignant, well-vascularized, necrotic peritoneal mass infiltrating fat and densely adhering to adjacent organs requiring multivisceral resection, with no metastasis or recurrence at 1 year, commits to inflammatory myofibroblastic tumor (IMT).
+Final diagnosis: Inflammatory myofibroblastic tumor (IMT)
+
+--- RESPONSE R160 ---
+A middle-aged woman has a large, partly necrotic intraperitoneal mass in the perigastric region. It infiltrates adjacent fat and adheres to the stomach, pancreas and transverse colon, with no metastases. Intraoperative pathology called it nonmalignant, but it was locally aggressive enough to need en bloc colectomy and partial gastrectomy. A benign but locally infiltrative intra-abdominal mesenchymal tumor that does not metastasize best fits desmoid-type fibromatosis. Inflammatory myofibroblastic tumor is the main alternative. There was no recurrence at one year.
+Final diagnosis: Intra-abdominal (mesenteric/omental) desmoid-type fibromatosis (aggressive fibromatosis)
+

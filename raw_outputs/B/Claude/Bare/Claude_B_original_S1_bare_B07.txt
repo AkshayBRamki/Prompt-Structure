@@ -1,0 +1,23 @@
+CASE: M049
+FINAL DIAGNOSIS: Recurrent intra-articular synovial (spindle cell) haemangioma of the right knee with secondary haemophilic-like degenerative arthropathy
+
+CASE: M050
+FINAL DIAGNOSIS: Double superior vena cava (persistent left superior vena cava), found incidentally in a patient with uremic encephalopathy from acute-on-chronic kidney disease and decompensated heart failure
+
+CASE: M051
+FINAL DIAGNOSIS: Metastatic poorly differentiated small cell neuroendocrine carcinoma of the pancreas (extrapulmonary small cell carcinoma) with biliary obstruction
+
+CASE: M052
+FINAL DIAGNOSIS: Choledochal cyst, Todani type IVA
+
+CASE: M053
+FINAL DIAGNOSIS: Isochromosome mosaic Turner syndrome (46,X,i(X)(q10)/45,X) with suprasellar and cerebellopontine angle meningiomas causing hypopituitarism
+
+CASE: M054
+FINAL DIAGNOSIS: Isolated posterior malleolus fracture of the right ankle
+
+CASE: M055
+FINAL DIAGNOSIS: Poorly differentiated adenosquamous carcinoma of the extrahepatic bile duct arising from an intraductal tubulopapillary neoplasm, in a Todani type IA choledochal cyst with pancreaticobiliary maljunction
+
+CASE: M056
+FINAL DIAGNOSIS: Umbilical cord ulcer associated with congenital jejunal atresia, causing fetal hemorrhage and intrauterine fetal death

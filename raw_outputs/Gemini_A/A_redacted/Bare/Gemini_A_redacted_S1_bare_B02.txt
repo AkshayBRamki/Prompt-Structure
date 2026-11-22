@@ -1,0 +1,23 @@
+CASE: M009
+FINAL DIAGNOSIS: Maxillary buccal exostosis
+
+CASE: M010
+FINAL DIAGNOSIS: Acquired uterine arteriovenous malformation (AVM)
+
+CASE: M011
+FINAL DIAGNOSIS: Disseminated tuberculosis (pulmonary and intestinal tuberculosis with cecal perforation)
+
+CASE: M012
+FINAL DIAGNOSIS: Spontaneous splenic rupture secondary to splenic hemangioma
+
+CASE: M013
+FINAL DIAGNOSIS: Angle's Class I malocclusion (Dewey's Type 2) with maxillary anterior proclination
+
+CASE: M014
+FINAL DIAGNOSIS: Tethered cord syndrome secondary to sacral spinal lipoma
+
+CASE: M015
+FINAL DIAGNOSIS: Autosomal recessive cerebellar ataxia
+
+CASE: M016
+FINAL DIAGNOSIS: Lymphomatosis cerebri (primary central nervous system diffuse large B-cell lymphoma)

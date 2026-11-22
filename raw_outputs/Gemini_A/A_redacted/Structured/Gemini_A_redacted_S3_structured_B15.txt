@@ -1,0 +1,339 @@
+CASE: M113
+
+KEY FINDINGS:
+
+Six-month history of progressive cough, dyspnea, bilateral lower-lung crackles/wheezes, mild hypoxemia (SpO2 94%, PaO2 65 mmHg, elevated A-a gradient of 41.3 mmHg), and restrictive spirometry with reduced DLCO, indicating a chronic diffuse parenchymal/alveolar filling lung disease.
+
+White, milky bronchoalveolar lavage (BAL) fluid, which is pathognomonic for alveolar accumulation of lipoproteinaceous surfactant material.
+
+Chest CT showing a diffuse "crazy-paving" pattern (ground-glass opacities with superimposed interlobular septal thickening).
+
+Percutaneous lung biopsy demonstrating alveoli filled with granular, eosinophilic, weakly PAS-positive material.
+
+Borderline-elevated anti-GM-CSF antibodies (4.5 μg/mL; threshold greater than 4 μg/mL), pointing directly to an autoimmune etiology impairing alveolar macrophage surfactant clearance.
+
+Elevated LDH (541 U/L), CEA (30.8 ng/mL), and Cyfra21-1 (14 ng/mL), which are characteristically elevated in alveolar surfactant accumulation, alongside elevated CRP (101.87 mg/L), ESR (74 mm/h), and a positive bacterial culture indicating a superimposed pulmonary bacterial infection.
+
+DIFFERENTIAL:
+
+Autoimmune pulmonary alveolar proteinosis (PAP) complicated by superimposed bacterial infection
+
+Secondary pulmonary alveolar proteinosis (e.g., connective tissue disease-associated or infection-induced)
+
+Pulmonary adenocarcinoma (invasive mucinous adenocarcinoma)
+
+Pneumocystis jirovecii pneumonia (PJP)
+
+Connective tissue disease-associated interstitial lung disease (CTD-ILD)
+
+EVIDENCE FOR AND AGAINST:
+
+Autoimmune pulmonary alveolar proteinosis (PAP) complicated by superimposed bacterial infection: Supported by milky BAL fluid, classic crazy-paving pattern on CT, eosinophilic PAS-positive intra-alveolar material on biopsy, elevated LDH/CEA/Cyfra21-1, borderline-positive anti-GM-CSF antibodies (4.5 μg/mL), lack of clinical response to steroids/antibiotics, and a positive bacterial culture with markedly elevated CRP/ESR (PAP predisposes to opportunistic bacterial infections). Argued against only slightly by the borderline rather than markedly high anti-GM-CSF titer and the weakly positive (rather than strongly positive) PAS staining.
+
+Secondary pulmonary alveolar proteinosis: Supported by the identical histologic/radiologic PAP phenotype, positive ANA (1:80), and positive bacterial culture. Argued against by the presence of anti-GM-CSF antibodies above the diagnostic threshold and the absence of an established underlying hematologic malignancy, toxic inhalation, or overt connective tissue disease.
+
+Pulmonary adenocarcinoma (invasive mucinous adenocarcinoma): Supported by subacute dyspnea, crazy-paving pattern on CT, and elevated CEA (30.8 ng/mL) and Cyfra21-1 (14 ng/mL). Argued against by milky BAL fluid, positive anti-GM-CSF antibodies, and biopsy showing acellular granular eosinophilic PAS-positive material rather than malignant cells.
+
+Pneumocystis jirovecii pneumonia (PJP): Supported by hypoxemia, elevated LDH, crazy-paving CT pattern, and frothy/granular intra-alveolar eosinophilic exudate. Argued against by the 6-month chronic course in a host without reported immunodeficiency, milky BAL fluid, anti-GM-CSF antibody positivity, and absence of fungal organisms on biopsy.
+
+Connective tissue disease-associated interstitial lung disease (CTD-ILD): Supported by female sex, chronic restrictive physiology with low DLCO, elevated ESR/CRP, and positive ANA (1:80). Argued against by the low-titer nonspecific ANA without systemic autoimmune features, milky BAL fluid, and biopsy showing intra-alveolar proteinaceous filling rather than interstitial fibrosis or inflammation.
+
+EXCLUSIONS AND COMMITMENT:
+Pulmonary adenocarcinoma is excluded by the absence of malignant cells on biopsy and the pathognomonic milky BAL fluid. PJP is excluded by the chronic 6-month course, lack of immunosuppression, and absence of Pneumocystis on biopsy. CTD-ILD is excluded because the biopsy demonstrates alveolar proteinaceous filling rather than interstitial pneumonitis, and an ANA of 1:80 is nonspecific. Between autoimmune and secondary PAP, the elevated anti-GM-CSF antibody level above the cutoff commits the diagnosis to autoimmune pulmonary alveolar proteinosis, with the markedly elevated CRP/ESR and positive bacterial culture indicating a concurrent superimposed bacterial lung infection.
+
+FINAL DIAGNOSIS: Autoimmune pulmonary alveolar proteinosis (complicated by superimposed bacterial infection)
+
+CASE: M114
+
+KEY FINDINGS:
+
+40-year-old female with 3 months of dry cough and exertional dyspnea, right-sided reduced breath sounds, and right-sided cardiac pulsations.
+
+Chest radiograph showing right lung volume loss, ipsilateral tracheal shift, cardiac dextroposition, and tenting of the right hemidiaphragm.
+
+Contrast-enhanced chest CT demonstrating the classic anatomic constellation: anomalous pulmonary venous drainage from the right lung into the infra-diaphragmatic inferior vena cava (IVC), right lung hypoplasia with a hypoplastic right main pulmonary artery, cardiac dextroposition into the small right hemithorax, hyparterial bilobed right bronchus, and anomalous systemic arterial supply from the abdominal aorta to the right lower lobe.
+
+DIFFERENTIAL:
+
+Scimitar syndrome (congenital pulmonary venolobar syndrome)
+
+Bronchopulmonary sequestration (intralobar or extralobar)
+
+Isolated congenital unilateral pulmonary hypoplasia / pulmonary artery agenesis
+
+Swyer-James-MacLeod syndrome
+
+Chronic right-sided fibrothorax / post-infectious lung collapse
+
+EVIDENCE FOR AND AGAINST:
+
+Scimitar syndrome: Supported by every single imaging finding—anomalous right pulmonary venous drainage to the infra-diaphragmatic IVC, right lung and right pulmonary artery hypoplasia, cardiac dextroposition, bilobed right lung/bronchial anomaly, and systemic arterial supply from the abdominal aorta to the right lower lobe. Nothing argues against it; adult presentation with mild exertional dyspnea and cough is well recognized in partial/adult-type Scimitar syndrome.
+
+Bronchopulmonary sequestration: Supported by anomalous systemic arterial supply from the abdominal aorta to the right lower lobe. Argued against by the presence of global right lung hypoplasia, hypoplastic right main pulmonary artery, cardiac dextroposition, and anomalous pulmonary venous drainage into the infra-diaphragmatic IVC, which define Scimitar syndrome rather than isolated sequestration.
+
+Isolated congenital unilateral pulmonary hypoplasia / pulmonary artery agenesis: Supported by right lung volume loss, ipsilateral tracheal shift, cardiac dextroposition, and hypoplastic right main pulmonary artery. Argued against by the anomalous venous drainage to the infra-diaphragmatic IVC and the systemic arterial supply from the abdominal aorta.
+
+Swyer-James-MacLeod syndrome: Supported by unilateral small lung and hypoplastic pulmonary artery in an adult with dyspnea. Argued against by the absence of hyperlucency/air trapping, lack of childhood bronchiolitis history, and the presence of congenital vascular anomalies (anomalous venous drainage to the IVC and systemic aortic arterial supply).
+
+Chronic right-sided fibrothorax / post-infectious lung collapse: Supported by right lung volume loss, ipsilateral mediastinal/tracheal shift, and diaphragmatic tenting. Argued against by no history of TB or prior infection and CT confirmation of congenital pulmonary venous and systemic arterial anomalies.
+
+EXCLUSIONS AND COMMITMENT:
+Chronic fibrothorax and Swyer-James-MacLeod syndrome are excluded because the CT demonstrates congenital vascular and bronchial malformations rather than acquired post-infectious scarring or bronchiolitis obliterans. Isolated pulmonary hypoplasia and isolated bronchopulmonary sequestration are excluded because each accounts for only a subset of the anomalies. The complete triad/constellation of partial anomalous pulmonary venous return to the infra-diaphragmatic IVC, right lung and pulmonary artery hypoplasia with dextroposition, bronchial isomerism, and systemic arterial supply from the abdominal aorta commits definitively to Scimitar syndrome.
+
+FINAL DIAGNOSIS: Scimitar syndrome (congenital pulmonary venolobar syndrome)
+
+CASE: M115
+
+KEY FINDINGS:
+
+23-year-old nulliparous woman at 36 weeks gestation with dichorionic diamniotic twins and newly diagnosed pre-eclampsia (sFlt-1/PlGF ratio 77), undergoing emergency cesarean section—twin gestation and pre-eclampsia are major risk factors for peripartum cardiac dysfunction.
+
+Post-operative oxygen desaturation with bilateral basal lung crackles.
+
+Chest radiograph showing pulmonary edema and cardiomegaly; CTPA ruling out pulmonary embolism.
+
+Markedly elevated BNP (6965 pg/mL) and mildly elevated troponin (47 ng/L), confirming acute ventricular wall stress and myocardial strain.
+
+Echocardiography confirming left ventricular systolic dysfunction with an ejection fraction (EF) of 41% (less than 45%), fractional shortening of 19%, and impaired LV diastolic function.
+
+DIFFERENTIAL:
+
+Peripartum cardiomyopathy (PPCM)
+
+Pre-eclampsia-induced non-cardiogenic pulmonary edema / fluid overload
+
+Acute coronary syndrome / spontaneous coronary artery dissection (SCAD)
+
+Takotsubo (stress-induced) cardiomyopathy
+
+Pulmonary embolism (PE)
+
+EVIDENCE FOR AND AGAINST:
+
+Peripartum cardiomyopathy (PPCM): Supported by onset in the final month of pregnancy/immediate postpartum period, major risk factors (twin pregnancy and pre-eclampsia), acute heart failure with pulmonary edema and cardiomegaly, markedly elevated BNP (6965 pg/mL), and echocardiography showing LVEF less than 45% (41%) without another identifiable structural cause. Argued against only by the absence of overt dyspnea prior to surgery, though silent/post-operative desaturation after fluid shifts of cesarean delivery is common.
+
+Pre-eclampsia-induced non-cardiogenic pulmonary edema / fluid overload: Supported by pre-eclampsia, bilateral basal crackles, and pulmonary edema on CXR post-cesarean section. Argued against by cardiomegaly on CXR, markedly reduced LVEF of 41%, and severely elevated BNP (6965 pg/mL), which demonstrate primary systolic heart failure rather than isolated capillary leak or volume overload with preserved EF.
+
+Acute coronary syndrome / SCAD: Supported by peripartum status and mildly elevated troponin (47 ng/L). Argued against by normal sinus rhythm on ECG without ischemic ST-T changes, absence of chest pain, and only mild troponin elevation proportional to acute ventricular stretch rather than transmural infarction.
+
+Takotsubo cardiomyopathy: Supported by acute physiological stress (emergency cesarean section), elevated BNP, mildly elevated troponin, and reduced EF. Argued against by lack of reported regional apical ballooning/wall motion abnormalities on echocardiography and the classic epidemiologic overlap with twin gestation and pre-eclampsia (high sFlt-1/PlGF ratio directly implicated in PPCM pathogenesis).
+
+Pulmonary embolism: Supported by peripartum hypercoagulable state and post-operative oxygen desaturation. Argued against and definitively ruled out by a negative CT pulmonary angiogram.
+
+EXCLUSIONS AND COMMITMENT:
+Pulmonary embolism is definitively excluded by the negative CTPA. Pure pre-eclampsia-related non-cardiogenic pulmonary edema is excluded by the reduced LVEF (41%) and cardiomegaly. Acute coronary syndrome/SCAD is excluded by the absence of ischemic ECG changes, lack of chest pain, and only minimal troponin elevation. Takotsubo cardiomyopathy is less likely without focal apical wall motion abnormalities and in the setting of pre-eclampsia with an elevated sFlt-1/PlGF ratio. Meeting the diagnostic criteria of heart failure in the last month of pregnancy/postpartum with LVEF less than 45% and no other cause commits to peripartum cardiomyopathy.
+
+FINAL DIAGNOSIS: Peripartum cardiomyopathy (PPCM)
+
+CASE: M116
+
+KEY FINDINGS:
+
+33-year-old female with recurrent symptomatic hypoglycemia (capillary glucose consistently below 60 mg/dL, fulfilling Whipple's triad) since high school, presenting with neuroglycopenic and autonomic symptoms and recurrent nonepileptic seizure-like episodes.
+
+Continuous glucose monitoring (CGM) documenting both postprandial (reactive) and fasting hypoglycemia, triggered by meals, fasting, physical activity, and heat.
+
+Extensive background of hypermobile Ehlers-Danlos syndrome (hEDS, Beighton score 9/9) and severe dysautonomia (POTS, small fiber neuropathy, orthostatic hypotension, Raynaud syndrome).
+
+Normal fasting beta-cell peptides (insulin, proinsulin, C-peptide), normal cortisol, appropriate ketogenesis, and unremarkable abdominal CT and brain MRI, effectively excluding endogenous hyperinsulinism, adrenal insufficiency, and structural endocrine lesions.
+
+Normal BMI (22-23 kg/m2) with no malnutrition, celiac disease, or prior gastrointestinal surgery.
+
+DIFFERENTIAL:
+
+Idiopathic hypoglycemia (associated with dysautonomia / hypermobile Ehlers-Danlos syndrome)
+
+Insulinoma / non-insulinoma pancreatogenous hypoglycemia syndrome (NIPHS)
+
+Adrenal insufficiency or hypopituitarism
+
+Dumping syndrome (post-gastric surgery reactive hypoglycemia)
+
+Factitious (surreptitious) hypoglycemia
+
+EVIDENCE FOR AND AGAINST:
+
+Idiopathic hypoglycemia (associated with dysautonomia / hEDS): Supported by documented true hypoglycemia (below 60 mg/dL) in both fasting and postprandial states on CGM, prior OGTT-confirmed reactive hypoglycemia, prominent dysautonomia/small fiber neuropathy and hEDS (which impair autonomic counter-regulatory responses and gastrointestinal motility), and complete exclusion of hyperinsulinemic, endocrine, structural, and nutritional causes. Argued against by its status as a diagnosis of exclusion, as no single biochemical defect is isolated.
+
+Insulinoma / NIPHS: Supported by recurrent severe fasting and postprandial hypoglycemia with neuroglycopenic symptoms since adolescence. Argued against by normal fasting insulin, proinsulin, and C-peptide levels, appropriate ketogenesis (hyperinsulinism suppresses ketogenesis), and an unremarkable abdominal CT.
+
+Adrenal insufficiency or hypopituitarism: Supported by fasting hypoglycemia, fatigue, orthostatic hypotension, and malaise. Argued against by normal cortisol levels, normal brain MRI, and explicit absence of adrenal insufficiency on testing.
+
+Dumping syndrome: Supported by postprandial reactive hypoglycemia triggered by meals. Argued against by the absence of prior gastrointestinal surgery and the presence of fasting hypoglycemia on CGM.
+
+Factitious hypoglycemia: Supported by recurrent unexplained hypoglycemia with normal imaging. Argued against by normal insulin and C-peptide levels with appropriate ketogenesis during fasting studies (exogenous insulin or sulfonylureas would cause suppressed ketogenesis and abnormal insulin/C-peptide profiles) and consistent chronic triggers since high school.
+
+EXCLUSIONS AND COMMITMENT:
+Insulinoma, NIPHS, and factitious hypoglycemia are excluded by normal beta-cell peptides (insulin, proinsulin, C-peptide), appropriate ketogenesis, and normal abdominal CT. Adrenal insufficiency and pituitary disease are excluded by normal cortisol and normal brain MRI. Surgical dumping syndrome is excluded by the lack of prior GI surgery. With all endocrine, neoplastic, nutritional, and surgical causes rigorously ruled out in a patient with documented fasting and postprandial hypoglycemia alongside severe dysautonomia and hEDS, the diagnosis commits to idiopathic hypoglycemia associated with dysautonomia and hypermobile Ehlers-Danlos syndrome.
+
+FINAL DIAGNOSIS: Idiopathic hypoglycemia (associated with dysautonomia and hypermobile Ehlers-Danlos syndrome)
+
+CASE: M117
+
+KEY FINDINGS:
+
+30-year-old woman with a 1-year history of abrupt, bilateral, painless, progressive severe vision loss (BCVA 3/60 OD, 2/60 OS), nyctalopia, photopsia, dyschromatopsia, and constricted peripheral visual fields.
+
+Fundus exam showing mild optic disc pallor, attenuated retinal vessels, dull foveolar reflex, and notably an absence of bone-spicule pigmentation.
+
+Fundus fluorescein angiography (FFA) revealing inflammatory/vascular leakage features: pinpoint leakages, perivascular staining, and disc staining.
+
+OCT showing perifoveal thinning and loss of the inner and outer photoreceptor segments (IS/OS disruption).
+
+Electroretinography (ERG) showing electro-negative responses, indicating severe inner retinal/photoreceptor dysfunction.
+
+Negative infectious serologies, negative autoantibodies, normal PET scan ruling out occult malignancy, and no family history of retinal dystrophy.
+
+DIFFERENTIAL:
+
+Non-paraneoplastic autoimmune retinopathy (npAIR) (seronegative)
+
+Cancer-associated retinopathy (CAR) / paraneoplastic autoimmune retinopathy
+
+Retinitis pigmentosa sine pigmento (inherited retinal dystrophy)
+
+Syphilitic or viral infectious retinitis / acute zonal occult outer retinopathy (AZOOR)
+
+Vitamin A deficiency retinopathy
+
+EVIDENCE FOR AND AGAINST:
+
+Non-paraneoplastic autoimmune retinopathy (npAIR): Supported by abrupt, subacute bilateral painless vision loss over 1 year, photopsia, nyctalopia, peripheral field constriction, minimal fundus changes (attenuated vessels, mild disc pallor, no bone spicules), FFA showing perivascular and disc staining, OCT showing outer retinal/photoreceptor segment loss, electro-negative ERG, and normal PET scan excluding malignancy. Argued against only by negative autoantibody serology (however, seronegative npAIR is well established and diagnosis relies on clinical, imaging, and ERG criteria) and poor response to initial steroids (npAIR is frequently refractory to steroids alone).
+
+Cancer-associated retinopathy (CAR): Supported by abrupt bilateral vision loss, photopsia, nyctalopia, outer retinal thinning on OCT, and electro-negative ERG. Argued against by the normal PET scan ruling out underlying malignancy and the patient's young age (30 years) with no neoplastic history.
+
+Retinitis pigmentosa sine pigmento: Supported by history of parental consanguinity, bilateral nyctalopia, peripheral field loss, attenuated vessels, mild disc pallor, and photoreceptor loss on OCT without bone spicules. Argued against by the abrupt onset and rapid 1-year progression to 3/60 and 2/60, prominent photopsia, inflammatory FFA findings (pinpoint leakages, perivascular staining, disc staining), and an electro-negative ERG rather than a diffusely extinguished rod-cone ERG.
+
+Infectious retinitis / AZOOR: Supported by subacute photopsia, visual field loss, and outer retinal/IS-OS disruption on OCT. Argued against by negative infectious serology, failure of antiviral therapy, symmetric bilateral severe central vision loss (AZOOR is typically unilateral or markedly asymmetric with preserved central acuity initially), and diffuse electro-negative ERG.
+
+Vitamin A deficiency retinopathy: Supported by nyctalopia and photoreceptor dysfunction. Argued against by non-vegetarian diet, normal systemic examination without malabsorption, abrupt severe central vision loss, and inflammatory perivascular/disc staining on FFA.
+
+EXCLUSIONS AND COMMITMENT:
+Cancer-associated retinopathy is excluded by the normal PET scan. Infectious retinitis is excluded by negative serologies and lack of response to antivirals. Vitamin A deficiency is excluded by normal diet/systemic status and inflammatory FFA findings. Retinitis pigmentosa sine pigmento, despite parental consanguinity, is excluded by the abrupt, rapidly progressive 1-year course, inflammatory FFA leakage/staining, and electro-negative ERG. The combination of subacute bilateral photoreceptor dysfunction, photopsia, nyctalopia, outer retinal loss on OCT, inflammatory staining on FFA, electro-negative ERG, and excluded malignancy commits to seronegative non-paraneoplastic autoimmune retinopathy.
+
+FINAL DIAGNOSIS: Non-paraneoplastic autoimmune retinopathy (npAIR)
+
+CASE: M118
+
+KEY FINDINGS:
+
+59-year-old male with progressive right-sided mouth pain, facial numbness, and dysgeusia unresponsive to dental antibiotics, reflecting cranial nerve/skull base involvement.
+
+Imaging (CT, MRI, PET/CT) showing numerous hypermetabolic lytic bone marrow lesions and an enhancing extramedullary skull base mass.
+
+Serum studies showing monoclonal gammopathy with an IgG-kappa band on SPEP, elevated kappa free light chain (73 mg/L), and an elevated kappa/lambda ratio (9.2).
+
+Bone marrow biopsy confirming two coexisting clonal B-cell/plasma cell neoplasms: a CD5+/CD23+ lymphoproliferative disorder (chronic lymphocytic leukemia, CLL) AND a clonal plasma cell neoplasm with 13q14 deletion.
+
+Skull base mass biopsy confirming an extramedullary plasmacytoma with a distinct clonal origin from the CLL, harboring ATM, TP53, and NF1 abnormalities on FISH (absent in peripheral blood CLL cells).
+
+DIFFERENTIAL:
+
+Coexisting (concomitant) multiple myeloma (with extramedullary skull base plasmacytoma) and chronic lymphocytic leukemia (CLL)
+
+Richter transformation of CLL into diffuse large B-cell lymphoma (DLBCL)
+
+Solitary extramedullary plasmacytoma with coincidental monoclonal B-cell lymphocytosis (MBL)
+
+Waldenstrom macroglobulinemia (lymphoplasmacytic lymphoma)
+
+Metastatic solid malignancy (e.g., renal or thyroid carcinoma) with coincidental MGUS
+
+EVIDENCE FOR AND AGAINST:
+
+Coexisting multiple myeloma (with extramedullary skull base plasmacytoma) and CLL: Supported by lytic bone lesions, hypermetabolic bone marrow involvement, IgG-kappa paraprotein with elevated kappa/lambda ratio (9.2), bone marrow clonal plasma cell neoplasm (13q14 deletion), extramedullary skull base plasmacytoma, and concurrent CD5+/CD23+ CLL in the marrow proven to be clonally distinct on biopsy/FISH. Nothing argues against it; normal blood counts are consistent with early-stage CLL and non-anemic multiple myeloma.
+
+Richter transformation of CLL into DLBCL: Supported by underlying CD5+/CD23+ CLL, rapidly progressive hypermetabolic extramedullary skull base mass, and family history of DLBCL. Argued against by biopsy confirming a clonal plasma cell neoplasm/plasmacytoma rather than DLBCL, IgG-kappa paraproteinemia, and widespread lytic bone lesions.
+
+Solitary extramedullary plasmacytoma with MBL: Supported by the skull base mass and normal peripheral blood counts. Argued against by the presence of numerous lytic and hypermetabolic bone marrow lesions and marrow clonal plasma cell involvement, which meet criteria for systemic multiple myeloma rather than a solitary plasmacytoma.
+
+Waldenstrom macroglobulinemia: Supported by a B-cell/plasmacytic marrow infiltrate and monoclonal gammopathy. Argued against by an IgG-kappa (rather than IgM) paraprotein, CD5+/CD23+ immunophenotype, and multiple lytic bone lesions (classic for myeloma, rare in Waldenstrom).
+
+Metastatic solid malignancy with MGUS: Supported by family history of thyroid and kidney cancers and multiple bone lesions. Argued against by biopsy confirmation of a clonal plasma cell neoplasm in the marrow and plasmacytoma in the skull base mass.
+
+EXCLUSIONS AND COMMITMENT:
+Richter transformation and metastatic solid malignancy are excluded by histology confirming plasma cell neoplasia in the skull mass and bone marrow. Waldenstrom macroglobulinemia is excluded by the IgG-kappa paraprotein, CD5+/CD23+ phenotype, and lytic bone lesions. Solitary plasmacytoma is excluded by multifocal lytic and hypermetabolic bone marrow disease. The biopsy and molecular evidence of two clonally distinct hematologic malignancies—systemic plasma cell myeloma with skull base extramedullary plasmacytoma and CD5+/CD23+ CLL—commits to coexisting multiple myeloma and chronic lymphocytic leukemia.
+
+FINAL DIAGNOSIS: Coexisting multiple myeloma (with extramedullary skull base plasmacytoma) and chronic lymphocytic leukemia (CLL)
+
+CASE: M119
+
+KEY FINDINGS:
+
+33-week preterm female newborn born to a mother with inadequately treated/untreated gestational syphilis.
+
+Strongly positive neonatal nontreponemal serology with a high RPR titer of 1:128.
+
+Long bone radiographs demonstrating classic skeletal stigmata of congenital treponemal infection: radiolucent transverse metaphyseal bands with adjacent sclerotic lines, irregular sclerotic borders of the distal radius and ulna, and a transverse osteolytic lesion in the proximal femoral metaphysis (syphilitic osteochondritis/metaphysitis).
+
+Absence of overt external clinical symptoms, which is common at birth in early congenital syphilis (up to two-thirds of infected neonates are asymptomatic initially).
+
+DIFFERENTIAL:
+
+Early congenital syphilis (with syphilitic osteochondritis)
+
+Congenital cytomegalovirus (CMV) or rubella infection ("TORCH" bone lesions)
+
+Osteopenia of prematurity / metabolic bone disease of prematurity
+
+Neonatal bacterial osteomyelitis
+
+Non-accidental trauma (child abuse)
+
+EVIDENCE FOR AND AGAINST:
+
+Early congenital syphilis: Supported by maternal history of untreated/inadequately treated gestational syphilis, prematurity, high neonatal RPR titer (1:128), and pathognomonic radiographic findings of symmetric metaphyseal radiolucent bands, sclerotic lines, irregular distal radial/ulnar borders, and a proximal femoral metaphyseal osteolytic lesion. Nothing argues against it; asymptomatic birth presentation is typical.
+
+Congenital CMV or rubella infection: Supported by prematurity and metaphyseal lucencies/sclerotic changes ("celery stalk" metaphyses can occur in congenital rubella/CMV). Argued against by the confirmed maternal gestational syphilis, high RPR titer of 1:128, and focal metaphyseal osteolysis characteristic of syphilis rather than vertical longitudinal striations.
+
+Osteopenia of prematurity: Supported by 33-week preterm birth. Argued against by presentation at birth (osteopenia of prematurity develops weeks after birth), the focal metaphyseal osteolytic lesion and sclerotic bands, and the diagnostic syphilis serology and maternal history.
+
+Neonatal bacterial osteomyelitis: Supported by a metaphyseal osteolytic lesion in the proximal femur. Argued against by symmetric bilateral/multi-bone metaphyseal bands involving radius, ulna, and femur, lack of acute sepsis/fever, and confirmed maternal syphilis with RPR 1:128.
+
+Non-accidental trauma: Supported theoretically by metaphyseal corner/bucket-handle fractures mimicking metaphyseal lesions. Argued against by presentation immediately as a preterm newborn without trauma history, bilateral symmetric metaphyseal bands, and confirmed maternal and neonatal syphilis serology.
+
+EXCLUSIONS AND COMMITMENT:
+Osteopenia of prematurity and non-accidental trauma are excluded by the immediate neonatal presentation, radiographic pattern, and positive serology. Bacterial osteomyelitis and other TORCH infections (rubella/CMV) are excluded by the specific maternal history of inadequately treated gestational syphilis and the high neonatal RPR titer of 1:128. Together with classic syphilitic metaphysitis/osteochondritis on long bone radiographs, this commits definitively to early congenital syphilis.
+
+FINAL DIAGNOSIS: Early congenital syphilis (with syphilitic osteochondritis)
+
+CASE: M120
+
+KEY FINDINGS:
+
+44-year-old woman with 3 days of acute, severe, persistent abdominal pain, nausea, vomiting, and a palpable abdominal mass.
+
+Ultrasound showing a complex mass in the mid-abdomen/right iliac fossa, initially mimicking an appendicular abscess.
+
+Abdominal CT revealing the pathognomonic triad: absence of the spleen in its normal left upper quadrant anatomic position, a hypodense nonenhancing mid-abdominal mass (indicating splenic infarction), and twisted splenic vessels forming a "whirlpool sign."
+
+Intraoperative confirmation of an ectopic spleen located in the mid-abdomen/right iliac fossa with a 720-degree torsion of its vascular pedicle, necessitating splenectomy.
+
+DIFFERENTIAL:
+
+Wandering spleen with vascular pedicle torsion and splenic infarction
+
+Appendicular abscess / perforated appendicitis
+
+Twisted ovarian cyst / adnexal torsion
+
+Mesenteric cyst or gastrointestinal stromal tumor (GIST) with necrosis
+
+Midgut or cecal volvulus
+
+EVIDENCE FOR AND AGAINST:
+
+Wandering spleen with torsion and infarction: Supported by acute severe abdominal pain, palpable abdominal mass, absence of the spleen in the left upper quadrant on CT, twisted splenic vascular pedicle ("whirlpool sign"), nonenhancing hypodense splenic parenchyma (infarction), and surgical confirmation of an ectopic spleen in the mid-abdomen/right iliac fossa with 720-degree pedicle torsion. Nothing argues against it.
+
+Appendicular abscess: Supported by right iliac fossa complex mass on initial ultrasound and 3 days of abdominal pain, nausea, and vomiting. Argued against by CT showing an empty splenic fossa and twisted splenic vessels, and definitively excluded at surgery.
+
+Twisted ovarian cyst / adnexal torsion: Supported by acute severe abdominal pain, nausea, vomiting, and a palpable lower/mid-abdominal mass in a woman of reproductive age. Argued against by CT demonstrating absence of the spleen in the LUQ with the mass supplied by twisted splenic vessels, and surgical confirmation of an ectopic spleen.
+
+Mesenteric cyst or necrotic GIST: Supported by a hypodense, nonenhancing mid-abdominal mass on CT. Argued against by the empty left upper quadrant splenic fossa, splenic vessel whirlpool sign, and intraoperative identification of the spleen.
+
+Midgut or cecal volvulus: Supported by acute abdominal pain, vomiting, and a whirlpool sign on CT. Argued against by normal bowel sounds, absence of bowel obstruction/ischemia, and CT/surgical proof that the twisted pedicle consists of splenic vessels rather than mesenteric/bowel vessels.
+
+EXCLUSIONS AND COMMITMENT:
+Appendicular abscess, adnexal torsion, mesenteric cyst/GIST, and bowel volvulus are all definitively excluded by the CT findings of an empty splenic fossa with a splenic vascular whirlpool sign and a nonenhancing ectopic spleen, and confirmed directly at laparotomy showing a 720-degree twisted ectopic spleen. These findings commit definitively to torsion (and infarction) of a wandering spleen.
+
+FINAL DIAGNOSIS: Wandering spleen with torsion (and splenic infarction)

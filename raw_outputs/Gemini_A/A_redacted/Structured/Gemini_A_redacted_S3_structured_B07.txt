@@ -1,0 +1,493 @@
+CASE: M049
+
+KEY FINDINGS:
+
+Histopathology (excisional biopsy): Confirmed spindle cell haemangioma, establishing the definitive tissue diagnosis.
+
+MRI of the right knee: Lobulated, nodular, coalescent lesions infiltrating the suprapatellar and Hoffa's fat pads with T1 intermediate signal, PD-FS hyperintensity, marked gadolinium enhancement, and feeding branches from the popliteal artery—hallmarks of a hypervascular synovial/intra-articular vascular neoplasm.
+
+X-ray & MRI joint changes: Diminished bone mineralization, epiphyseal overgrowth, intercondylar groove widening, subchondral sclerosis, joint space narrowing, bone remodeling, osteophytosis, and chondromalacia—classic sequelae of chronic recurrent intra-articular hemarthrosis.
+
+Past medical history: Biopsy-proven synovial haemangioma of the ipsilateral (right) ankle 11 years earlier, indicating a multifocal/regional predisposition to synovial vascular lesions.
+
+Clinical presentation: Progressive knee pain, swelling, functional impairment, and ipsilateral muscular atrophy without significant trauma in an adolescent male.
+
+DIFFERENTIAL:
+
+Synovial spindle cell haemangioma of the right knee
+
+Conventional synovial haemangioma (cavernous or capillary subtype)
+
+Tenosynovial giant cell tumor / pigmented villonodular synovitis (PVNS)
+
+Hemophilic arthropathy
+
+Synovial sarcoma
+
+EVIDENCE FOR AND AGAINST:
+
+Synovial spindle cell haemangioma of the right knee:
+
+For: Confirmed directly by excisional biopsy histopathology; MRI shows hypervascular, gadolinium-enhancing lobulated lesions supplied by popliteal arterial branches infiltrating the suprapatellar and Hoffa's fat pads; chronic hemarthrosis-like radiographic joint changes (epiphyseal overgrowth, intercondylar notch widening); prior ipsilateral ankle synovial haemangioma.
+
+Against: None; all clinical, imaging, and histologic data align completely.
+
+Conventional synovial haemangioma:
+
+For: Matches the clinical picture, age, MRI hypervascularity, chronic hemarthrosis-type bone changes, and prior history of ankle synovial haemangioma.
+
+Against: Excisional biopsy specifically identified spindle cell haemangioma rather than a conventional cavernous or capillary subtype.
+
+Tenosynovial giant cell tumor / PVNS:
+
+For: Causes monoarticular knee pain, swelling, recurrent hemarthrosis, and lobulated intra-articular synovial masses in young adults.
+
+Against: MRI shows marked hyperintensity on PD-FS and brisk arterial vascularity rather than classic low-signal hemosiderin blooming; definitively refuted by spindle cell haemangioma on histopathology.
+
+Hemophilic arthropathy:
+
+For: Radiographic findings (epiphyseal overgrowth, intercondylar groove widening, subchondral sclerosis, joint space narrowing, osteoporosis) closely mimic hemophilic arthropathy.
+
+Against: No history of a bleeding disorder; MRI demonstrates discrete, enhancing, coalescent vascular masses infiltrating the fat pads; histopathology confirms spindle cell haemangioma.
+
+Synovial sarcoma:
+
+For: Occurs in adolescents/young adults around the knee as a painful, enhancing soft-tissue mass.
+
+Against: Long, recurrent course with chronic bony remodeling and prior benign ipsilateral vascular lesion; ruled out by benign spindle cell haemangioma on biopsy.
+
+EXCLUSIONS AND COMMITMENT:
+Hemophilic arthropathy is excluded by the absence of a coagulopathy and the presence of discrete enhancing intra-articular vascular masses on MRI. PVNS and synovial sarcoma are excluded by both the hypervascular MRI profile and the definitive excisional biopsy. Conventional synovial haemangioma is excluded in favor of the specific histologic subtype proven on pathology. I commit to synovial spindle cell haemangioma of the right knee, which accounts for the hypervascular fat-pad lesions, secondary hemarthrosis-induced arthropathy, and definitive histopathology.
+
+FINAL DIAGNOSIS: Synovial spindle cell haemangioma of the right knee
+
+CASE: M050
+
+KEY FINDINGS:
+
+Echocardiogram: Severely elevated pulmonary artery systolic pressure (81 mmHg) with moderate tricuspid regurgitation, alongside LVH/dilatation and reduced EF (25%), indicating severe acute-on-chronic pulmonary hypertension and right-sided pressure overload.
+
+Arterial blood gas & oxygenation: Hypoxemia (PaO2 58 mmHg, SpO2 93% on room air) with mild hypercapnia (PaCO2 47 mmHg) and compensated metabolic alkalosis (HCO3 30 mEq/L, pH 7.42), explaining acute somnolence/sleepiness.
+
+Clinical course & exam: Sudden onset of sleepiness, acute respiratory deterioration with bilateral diffuse wheezes, atrial fibrillation, and bilateral pleural effusions; brain CT shows no acute intracranial pathology.
+
+Chest CT with contrast: Identified a critical cardiopulmonary vascular abnormality (redacted) in a high-risk elderly patient with a history of rectal carcinoma, atrial fibrillation, and acute cardiopulmonary decompensation.
+
+Comorbidities/labs: CKD (creatinine 2.5–3.4 mg/dL, responsive to hemodialysis), normochromic anemia (Hb 7.6 g/dL), hyponatremia, and hypochloremic metabolic alkalosis.
+
+DIFFERENTIAL:
+
+Acute pulmonary embolism (pulmonary thromboembolism)
+
+Acute decompensated heart failure (ADHF)
+
+Acute exacerbation of asthma with hypercapnic respiratory failure
+
+Uremic encephalopathy secondary to acute-on-chronic kidney disease
+
+Acute cerebrovascular accident (ischemic or hemorrhagic stroke)
+
+EVIDENCE FOR AND AGAINST:
+
+Acute pulmonary embolism (pulmonary thromboembolism):
+
+For: Sudden-onset presentation (sleepiness from acute hypoxemia/low cardiac output), PaO2 58 mmHg, severe pulmonary hypertension (PASP 81 mmHg), acute respiratory deterioration with reflex bronchospasm (diffuse wheezes), bilateral pleural effusions, major thromboembolic risk factors (age 86, history of rectal carcinoma, atrial fibrillation, heart failure), and a definitive finding on contrast-enhanced chest CT.
+
+Against: Concurrent reduced EF (25%), asthma, and CKD partially confound the clinical picture, though none exclude superimposed PE.
+
+Acute decompensated heart failure (ADHF):
+
+For: Reduced EF (25%), LVH/dilatation, valvular disease (mild AS, moderate MR/TR), atrial fibrillation, bilateral pleural effusions, and PASP 81 mmHg.
+
+Against: Does not explain the need for/definitive diagnosis made specifically by contrast-enhanced chest CT or the sudden-onset isolated sleepiness as cleanly as an acute vascular event.
+
+Acute exacerbation of asthma with hypercapnic respiratory failure:
+
+For: History of asthma, bilateral diffuse wheezes during acute deterioration, mildly elevated PaCO2 (47 mmHg), and hypoxemia.
+
+Against: PaCO2 of 47 mmHg with normal pH (7.42) is too mild for CO2 narcosis; asthma alone does not explain a PASP of 81 mmHg or a diagnostic finding on contrast chest CT.
+
+Uremic encephalopathy:
+
+For: CKD with elevated BUN/creatinine that improved with hemodialysis, presenting with sleepiness.
+
+Against: Does not account for the acute hypoxemia, PASP 81 mmHg, acute respiratory deterioration, or the positive contrast chest CT finding.
+
+Acute cerebrovascular accident:
+
+For: Elderly female with atrial fibrillation presenting with sudden-onset sleepiness.
+
+Against: Brain CT showed no abnormalities, and stroke does not explain the severe cardiopulmonary findings or contrast chest CT abnormality.
+
+EXCLUSIONS AND COMMITMENT:
+Acute stroke is excluded by the normal brain CT. Asthma exacerbation with CO2 narcosis is excluded because the ABG shows a normal pH (7.42) and only mild hypercapnia (47 mmHg). Uremic encephalopathy and isolated ADHF are insufficient to explain the specific diagnostic finding on contrast-enhanced chest CT and the abrupt cardiopulmonary collapse with a PASP of 81 mmHg. Given the sudden onset, hypoxemia, severe pulmonary hypertension, malignancy/AFib risk factors, and diagnostic contrast chest CT, I commit to acute pulmonary embolism.
+
+FINAL DIAGNOSIS: Acute pulmonary embolism
+
+CASE: M051
+
+KEY FINDINGS:
+
+Biopsy & immunohistochemistry (right retroperitoneal mass): Positive for epithelial/cytokeratin markers (AE1/AE3, CAM5.2, CK7), neuroendocrine markers (synaptophysin, chromogranin A), and TTF-1, with an extremely high Ki-67 proliferation index of 95%—diagnostic of a high-grade, poorly differentiated neuroendocrine carcinoma (small cell neuroendocrine carcinoma).
+
+Tumor markers: Normal CA19-9, arguing strongly against conventional pancreatic ductal adenocarcinoma.
+
+Imaging (US, abdominal CT, chest CT): Pancreatic mass causing biliary obstruction, extensive visceral/osseous/peritoneal/retroperitoneal metastases (liver, bones, spleen, adrenal glands), and mediastinal/hilar lymphadenopathy.
+
+Laboratory abnormalities: Markedly elevated lipase (1,592 U/L), cholestatic/hepatocellular liver injury (AST 340, ALT 301, rising bilirubin and ALP), anemia, and borderline elevated PT (13.5 s, contributing to persistent epistaxis).
+
+Clinical presentation: 88-year-old male with 30-lb weight loss, severe back pain (bone/retroperitoneal metastases), and persistent epistaxis.
+
+DIFFERENTIAL:
+
+High-grade pancreatic neuroendocrine carcinoma (small cell neuroendocrine carcinoma of the pancreas)
+
+Metastatic pulmonary small cell lung carcinoma (SCLC) with pancreatic metastasis
+
+Pancreatic ductal adenocarcinoma (PDAC)
+
+Well-differentiated pancreatic neuroendocrine tumor (PanNET, Grade 1–3)
+
+Acinar cell carcinoma of the pancreas
+
+EVIDENCE FOR AND AGAINST:
+
+High-grade pancreatic neuroendocrine carcinoma (small cell neuroendocrine carcinoma of the pancreas):
+
+For: Dominant pancreatic mass with biliary obstruction and markedly elevated lipase; immunohistochemistry strongly positive for synaptophysin, chromogranin A, AE1/AE3, CAM5.2, and CK7; Ki-67 of 95% confirms high-grade poorly differentiated NEC (small cell type); TTF-1 can be expressed in extrapulmonary small cell carcinomas; normal CA19-9; aggressive widespread metastases.
+
+Against: TTF-1 positivity and mediastinal/hilar lymphadenopathy raise consideration of a pulmonary primary, though no primary lung parenchymal mass is described.
+
+Metastatic pulmonary small cell lung carcinoma (SCLC):
+
+For: Positive TTF-1, synaptophysin, chromogranin A, Ki-67 95%, COPD history, and mediastinal/hilar lymphadenopathy.
+
+Against: Chest CT identified only lymphadenopathy (described as "likely metastatic") with no primary lung mass, whereas abdominal imaging demonstrated a primary pancreatic mass with biliary obstruction.
+
+Pancreatic ductal adenocarcinoma (PDAC):
+
+For: Elderly male with weight loss, back pain, pancreatic mass, biliary obstruction, and CK7 positivity.
+
+Against: Normal CA19-9; strong positivity for synaptophysin and chromogranin A with Ki-67 of 95% establishes neuroendocrine carcinoma rather than ductal adenocarcinoma.
+
+Well-differentiated pancreatic neuroendocrine tumor (PanNET):
+
+For: Pancreatic mass positive for synaptophysin and chromogranin A with normal CA19-9.
+
+Against: Ki-67 of 95%, rapid aggressive dissemination (bone, liver, spleen, adrenals, peritoneum, mediastinum), and TTF-1 positivity are incompatible with a well-differentiated NET.
+
+Acinar cell carcinoma of the pancreas:
+
+For: Pancreatic mass with markedly elevated lipase and normal CA19-9.
+
+Against: Classic neuroendocrine IHC profile (synaptophysin+, chromogranin A+, TTF-1+) and Ki-67 of 95% establish high-grade neuroendocrine carcinoma.
+
+EXCLUSIONS AND COMMITMENT:
+Pancreatic ductal adenocarcinoma and acinar cell carcinoma are excluded by the definitive neuroendocrine immunohistochemical profile (synaptophysin+, chromogranin A+, TTF-1+) and normal CA19-9. Well-differentiated PanNET is excluded by the 95% Ki-67 proliferation index. Pulmonary SCLC is less favored because chest CT revealed only likely metastatic lymphadenopathy without a lung parenchymal primary, whereas a discrete pancreatic mass with biliary obstruction was present. I commit to high-grade pancreatic neuroendocrine carcinoma (small cell neuroendocrine carcinoma of the pancreas).
+
+FINAL DIAGNOSIS: Small cell neuroendocrine carcinoma of the pancreas (high-grade pancreatic neuroendocrine carcinoma)
+
+CASE: M052
+
+KEY FINDINGS:
+
+MRCP: Bilateral intrahepatic and extrahepatic fusiform cystic biliary lesions explicitly matching Todani classification type IVA, which is pathognomonic for choledochal cyst disease.
+
+Abdominal MSCT & hepatobiliary ultrasound: Intra- and extrahepatic biliary ectasia with multiple cystic lesions communicating with the extrahepatic bile duct, plus hepatosplenomegaly and mild splenic vein dilation (secondary biliary/portal changes).
+
+Clinical presentation: 16-year-old female with a 1-year history of intermittent upper abdominal pain, palpable abdominal lump, painless/afebrile jaundice, nausea, vomiting, and tea-colored urine—the classic clinical triad (pain, jaundice, mass) of a choledochal cyst.
+
+Laboratory tests: Direct hyperbilirubinemia (total 9.458 mg/dL, direct 6.635 mg/dL) with elevated transaminases (SGOT, SGPT), confirming obstructive cholestasis.
+
+DIFFERENTIAL:
+
+Choledochal cyst, Todani type IVA
+
+Caroli disease (Todani type V)
+
+Primary sclerosing cholangitis (PSC)
+
+Obstructive choledocholithiasis with secondary biliary dilatation
+
+Congenital biliary atresia
+
+EVIDENCE FOR AND AGAINST:
+
+Choledochal cyst, Todani type IVA:
+
+For: Classic adolescent female presentation with abdominal pain, jaundice, and palpable mass; direct hyperbilirubinemia; US, MSCT, and MRCP all show communicating intrahepatic and extrahepatic fusiform cystic biliary dilatations explicitly classified as Todani type IVA.
+
+Against: None; imaging and clinical findings are completely diagnostic.
+
+Caroli disease (Todani type V):
+
+For: Presents in young patients with intrahepatic cystic biliary dilatation and hepatosplenomegaly.
+
+Against: Caroli disease is restricted to the intrahepatic ducts (Todani type V), whereas this patient has both intrahepatic and extrahepatic cystic lesions (Todani type IVA).
+
+Primary sclerosing cholangitis (PSC):
+
+For: Causes chronic cholestatic jaundice, elevated bilirubin/transaminases, and intra-/extrahepatic biliary abnormalities.
+
+Against: PSC produces multifocal stricturing ("beading") rather than large fusiform intra- and extrahepatic cystic lesions meeting Todani type IVA criteria.
+
+Obstructive choledocholithiasis:
+
+For: Causes intermittent upper abdominal pain, obstructive jaundice, tea-colored urine, and biliary ductal dilatation.
+
+Against: No stones are identified on US, MSCT, or MRCP; ductal dilatation is cystic and fusiform rather than simple cylindrical obstruction, and it does not explain a 1-year palpable mass in a 16-year-old.
+
+Congenital biliary atresia:
+
+For: Causes congenital obstructive jaundice and hepatosplenomegaly.
+
+Against: Presents in the neonatal period with obliteration of the biliary tree, not at age 16 with large dilated intra- and extrahepatic cysts.
+
+EXCLUSIONS AND COMMITMENT:
+Congenital biliary atresia is excluded by age of presentation and patent, dilated ducts. Choledocholithiasis and PSC are excluded by the absence of calculi or multifocal strictures and the presence of discrete cystic biliary dilatations. Caroli disease is excluded because extrahepatic cystic involvement places this squarely in Todani type IVA rather than type V. I commit to Todani type IVA choledochal cyst.
+
+FINAL DIAGNOSIS: Choledochal cyst (Todani type IVA)
+
+CASE: M053
+
+KEY FINDINGS:
+
+Karyotype: 46,X,i(X)(q10)(37)/45,X(3), which is genetically diagnostic of mosaic Turner syndrome (isochromosome of the long arm of the X chromosome with a 45,X cell line).
+
+Physical exam & developmental history: Classic Turner stigmata including short stature (144 cm), short neck, low posterior hairline, broad chest, primary amenorrhea, delayed milestones, sensorineural hearing loss, and absent axillary/pubic hair with a hypoplastic uterus and non-visualized ovaries on pelvic ultrasound.
+
+MRI brain: Suprasellar meningioma extending into the pituitary fossa and a second meningioma in the left cerebellopontine angle (explaining optic atrophy/visual loss and contributing to hearing loss).
+
+Endocrine & metabolic labs: Panhypopituitarism/hypopituitarism (low FSH, LH, GH, cortisol, and ACTH; normal TSH/free T4) causing central adrenal insufficiency, manifesting as decreased responsiveness, poor appetite, hyponatremia, and hypoglycemia.
+
+DIFFERENTIAL:
+
+Mosaic Turner syndrome (46,X,i(X)(q10)/45,X) complicated by multiple intracranial meningiomas causing hypopituitarism
+
+Isolated panhypopituitarism secondary to suprasellar meningioma (without chromosomal disorder)
+
+Neurofibromatosis type 2 (NF2)
+
+Noonan syndrome
+
+Complete androgen insensitivity syndrome (CAIS)
+
+EVIDENCE FOR AND AGAINST:
+
+Mosaic Turner syndrome (46,X,i(X)(q10)/45,X) complicated by multiple intracranial meningiomas causing hypopituitarism:
+
+For: Directly confirmed by karyotype 46,X,i(X)(q10)(37)/45,X(3); explains short stature, short neck, low posterior hairline, broad chest, primary amenorrhea, hypoplastic uterus/streak gonads, and sensorineural hearing loss; the coexisting suprasellar meningioma explains why FSH/LH are paradoxically low (hypogonadotropic hypogonadism rather than the usual hypergonadotropic hypogonadism of Turner syndrome) along with central adrenal insufficiency (low ACTH/cortisol, hyponatremia, hypoglycemia) and optic atrophy.
+
+Against: None; every clinical, genetic, endocrine, and radiologic feature is accounted for.
+
+Isolated panhypopituitarism secondary to suprasellar meningioma:
+
+For: Accounts for decreased responsiveness, hyponatremia, hypoglycemia, low cortisol/ACTH/GH/FSH/LH, and visual impairment.
+
+Against: Fails to explain the dysmorphic features (short neck, low posterior hairline, broad chest), blind/hypoplastic genitalia with absent ovaries, and the definitive Turner karyotype.
+
+Neurofibromatosis type 2 (NF2):
+
+For: Causes multiple intracranial meningiomas (including CPA region), sensorineural hearing loss, and cataracts.
+
+Against: Does not explain the Turner phenotype, primary amenorrhea, absent ovaries, or the 46,X,i(X)(q10)/45,X karyotype.
+
+Noonan syndrome:
+
+For: Shares short stature, short neck, low posterior hairline, and broad chest.
+
+Against: Noonan syndrome has a normal karyotype (46,XX) and typically normal fertility/ovaries, refuted by the abnormal X-chromosome karyotype.
+
+Complete androgen insensitivity syndrome (CAIS):
+
+For: Primary amenorrhea, blind vagina, absent axillary/pubic hair, and breast development.
+
+Against: CAIS has a 46,XY karyotype, tall/normal stature, absent uterus, and inguinal/intra-abdominal testes—all refuted here.
+
+EXCLUSIONS AND COMMITMENT:
+CAIS and Noonan syndrome are excluded by the 46,X,i(X)(q10)/45,X karyotype and uterine/ovarian findings. Isolated suprasellar meningioma and NF2 cannot explain the syndromic Turner stigmata or chromosomal abnormality. I commit to mosaic Turner syndrome (46,X,i(X)(q10)/45,X) complicated by multiple intracranial meningiomas causing hypopituitarism.
+
+FINAL DIAGNOSIS: Mosaic Turner syndrome (46,X,i(X)(q10)/45,X) with multiple intracranial meningiomas causing hypopituitarism
+
+CASE: M054
+
+KEY FINDINGS:
+
+CT scan of the right ankle: Posterior malleolus fracture involving 40% of the tibiotalar articular surface with no associated tibial shaft or fibular fractures, confirming an isolated intra-articular posterior malleolar injury.
+
+X-rays: Obliquely oriented, minimally displaced posterior malleolus fracture.
+
+Physical examination: Swelling and tenderness localized over the posterior aspect of the medial malleolus, pain with passive dorsiflexion, intact neurovascular exam, and absence of proximal fibular head tenderness (ruling out a Maisonneuve injury).
+
+Mechanism & management: Backward fall on stairs causing inability to bear weight; articular involvement >25% (40%) warranted ORIF via a posterolateral approach with two posteroanterior cannulated screws, resulting in full recovery.
+
+DIFFERENTIAL:
+
+Isolated posterior malleolus fracture (Volkmann fracture)
+
+Maisonneuve fracture (proximal fibular fracture with syndesmotic injury and posterior malleolus fracture)
+
+Trimalleolar or bimalleolar ankle fracture
+
+Tibial pilon (plafond) fracture
+
+Isolated medial malleolus fracture
+
+EVIDENCE FOR AND AGAINST:
+
+Isolated posterior malleolus fracture:
+
+For: Confirmed directly by both X-ray (obliquely oriented, minimally displaced posterior malleolus fracture) and CT (involving 40% of the tibiotalar articular surface with no associated tibia or fibula fractures); no fibular head tenderness; successfully treated with isolated posterolateral ORIF using two PA cannulated screws.
+
+Against: None; imaging and surgical findings are definitive.
+
+Maisonneuve fracture:
+
+For: Can present with an apparent isolated posterior malleolus fracture on ankle X-rays if the proximal fibula is overlooked.
+
+Against: Physical exam specifically confirmed no tenderness over the fibular head, and CT confirmed no associated fibula fracture.
+
+Trimalleolar or bimalleolar ankle fracture:
+
+For: Common ankle fracture pattern involving the posterior malleolus after a fall on stairs with inability to bear weight.
+
+Against: CT scan explicitly excluded any associated medial malleolar, tibial, or fibular fractures.
+
+Tibial pilon (plafond) fracture:
+
+For: Involves the weight-bearing tibiotalar articular surface after axial loading/fall.
+
+Against: Typically high-energy with comminution and metaphyseal extension; here, X-ray and CT show a clean, obliquely oriented isolated posterior malleolus fracture without tibial shaft/metaphyseal comminution.
+
+Isolated medial malleolus fracture:
+
+For: Physical exam noted swelling and tenderness over the posterior aspect of the medial malleolus.
+
+Against: X-ray and CT confirmed the fracture is in the posterior malleolus with no medial malleolar fracture.
+
+EXCLUSIONS AND COMMITMENT:
+Bimalleolar, trimalleolar, and isolated medial malleolus fractures are excluded by CT confirming no other tibial or fibular fractures. Maisonneuve fracture is excluded by the absence of fibular head tenderness and lack of fibular fracture. A pilon fracture is excluded by the simple oblique posterior malleolar morphology. I commit to an isolated posterior malleolus fracture involving 40% of the tibiotalar articular surface.
+
+FINAL DIAGNOSIS: Isolated posterior malleolus fracture
+
+CASE: M055
+
+KEY FINDINGS:
+
+Surgical specimen histopathology: Poorly differentiated adenosquamous carcinoma originating from an intraductal tubular papillary neoplasm (ITPN) of the bile duct, with perineural invasion and no lymph node involvement.
+
+CT and MRI/MRCP: Reveals the classic congenital predisposing anatomy—a pancreaticobiliary maljunction (PBM) (long common channel ~15 mm) and a choledochal cyst (fusiform dilation of the common bile duct to 50 mm, Todani type I)—complicated by a distal stricture and a mass in the common hepatic duct.
+
+ERCP & PET/CT: ERCP biopsy confirmed malignancy (cholangiocarcinoma/bile duct carcinoma) prior to resection; PET/CT confirmed hypermetabolic bile duct activity without distant metastases.
+
+Clinical & laboratory findings: 45-year-old male with painless jaundice, dark urine, and a cholestatic liver profile (ALP 546 U/L, bilirubin 8.7 mg/dL, AST 174 U/L) without alcohol/hepatitis risk factors.
+
+DIFFERENTIAL:
+
+Extrahepatic cholangiocarcinoma (poorly differentiated adenosquamous carcinoma arising from an ITPN) associated with a choledochal cyst and pancreaticobiliary maljunction
+
+Conventional extrahepatic biliary adenocarcinoma (perihilar cholangiocarcinoma / Klatskin tumor) without congenital anomaly
+
+Pancreatic head adenocarcinoma
+
+Primary sclerosing cholangitis (PSC) with dominant stricture
+
+Benign choledocholithiasis with Mirizzi syndrome
+
+EVIDENCE FOR AND AGAINST:
+
+Extrahepatic cholangiocarcinoma (poorly differentiated adenosquamous carcinoma arising from an ITPN) associated with a choledochal cyst and pancreaticobiliary maljunction:
+
+For: Surgical pathology definitively proves poorly differentiated adenosquamous carcinoma originating from an ITPN; MRCP demonstrates both pancreaticobiliary maljunction (15 mm common channel) and a fusiform choledochal cyst (50 mm CBD)—well-established risk factors for biliary carcinogenesis; painless obstructive jaundice, elevated ALP/bilirubin, ERCP biopsy confirmation, and hypermetabolic PET/CT uptake all align.
+
+Against: None; every clinical, radiologic, and pathologic detail matches.
+
+Conventional extrahepatic biliary adenocarcinoma without congenital anomaly:
+
+For: Presents with painless obstructive jaundice, common hepatic duct mass, and hypermetabolic bile duct uptake on PET/CT.
+
+Against: Pathology specifically proved adenosquamous carcinoma arising from an ITPN rather than conventional adenocarcinoma, and imaging clearly identified the underlying PBM and choledochal cyst.
+
+Pancreatic head adenocarcinoma:
+
+For: Common cause of painless jaundice and cholestatic LFTs in middle-aged/older adults.
+
+Against: The mass is located in the common hepatic duct with a dilated 50 mm CBD and long common channel, and biopsy/pathology confirmed primary biliary adenosquamous carcinoma.
+
+Primary sclerosing cholangitis (PSC):
+
+For: Causes cholestatic jaundice and bile duct stricturing in middle-aged males.
+
+Against: No history of chronic liver disease; imaging shows a 50 mm fusiform choledochal cyst and discrete mass rather than multifocal strictures; pathology confirmed carcinoma.
+
+Benign choledocholithiasis / Mirizzi syndrome:
+
+For: Causes obstructive jaundice and elevated ALP/bilirubin (and stones were also cleared during ERCP).
+
+Against: Refuted by the common hepatic duct mass, hypermetabolic PET/CT lesion, and biopsy/resection-proven adenosquamous carcinoma.
+
+EXCLUSIONS AND COMMITMENT:
+Benign obstruction and PSC are excluded by the discrete hypermetabolic mass and malignant histology. Pancreatic adenocarcinoma is excluded by the biliary anatomic origin and pathology. Conventional cholangiocarcinoma alone is refined by the surgical pathology showing adenosquamous carcinoma arising from an ITPN and the MRCP findings of PBM and a choledochal cyst. I commit to poorly differentiated adenosquamous carcinoma of the extrahepatic bile duct arising from an intraductal tubular papillary neoplasm in the setting of a choledochal cyst and pancreaticobiliary maljunction.
+
+FINAL DIAGNOSIS: Poorly differentiated adenosquamous carcinoma of the extrahepatic bile duct (arising from an intraductal tubular papillary neoplasm) associated with a choledochal cyst and pancreaticobiliary maljunction
+
+CASE: M056
+
+KEY FINDINGS:
+
+Postmortem & post-delivery findings: Gross umbilical cord ulcerations (decreased Wharton's jelly, degenerated and hemorrhagic umbilical vessels), massive bloody amniotic fluid (1,300 mL), and a pale fetus—confirming fatal fetal exsanguination from umbilical cord hemorrhage.
+
+Prenatal ultrasound (28w5d & 31w2d): Stomach and jejunal dilatation (maximum diameter 18.6 mm), diagnostic of congenital small bowel (jejunal) atresia, the classic predisposing condition for umbilical cord ulceration (via reflux of digestive enzymes/bile into amniotic fluid).
+
+Fetal MRI (33w3d): Confirmed congenital jejunal/small bowel atresia and a teardrop-shaped hematoma adjacent to the umbilical cord, a pathognomonic prenatal sign of umbilical cord ulceration with bleeding.
+
+Acute clinical event: Decreased fetal movement followed by absent fetal heart rate on emergency ultrasound, confirming intrauterine fetal demise (IUFD).
+
+DIFFERENTIAL:
+
+Umbilical cord ulceration (UCU) associated with congenital jejunal (small bowel) atresia leading to fetal hemorrhage and intrauterine fetal demise
+
+Vasa previa with rupture of fetal vessels
+
+Placental abruption (abruptio placentae)
+
+Isolated congenital jejunal atresia without cord pathology
+
+Fetomaternal hemorrhage (spontaneous)
+
+EVIDENCE FOR AND AGAINST:
+
+Umbilical cord ulceration (UCU) associated with congenital jejunal atresia leading to fetal hemorrhage and IUFD:
+
+For: Classic well-recognized triad of prenatal upper small bowel (jejunal) atresia (stomach/jejunal dilatation to 18.6 mm), fetal MRI showing a teardrop-shaped periumbilical hematoma, and sudden IUFD with 1,300 mL bloody amniotic fluid, pale fetus, and postmortem confirmation of gross umbilical cord ulcerations with degenerated, hemorrhagic vessels and decreased Wharton's jelly.
+
+Against: None; every prenatal and postmortem finding is completely explained.
+
+Vasa previa with vessel rupture:
+
+For: Causes acute, catastrophic fetal exsanguination, bloody amniotic fluid, pale fetus, and rapid IUFD.
+
+Against: Typically occurs with membrane rupture and involves velamentous vessels overlying the cervical os; does not explain the prenatal periumbilical hematoma, congenital jejunal atresia, or postmortem gross umbilical cord ulcerations with loss of Wharton's jelly.
+
+Placental abruption:
+
+For: Causes bloody amniotic fluid, decreased fetal movement, and IUFD.
+
+Against: Bleeding in abruption is primarily maternal/retroplacental and does not cause isolated fetal exsanguination (pale fetus) or gross umbilical cord ulcerations with degenerated umbilical vessels.
+
+Isolated congenital jejunal atresia:
+
+For: Confirmed on prenatal ultrasound (stomach and jejunal dilatation) and MRI.
+
+Against: Isolated jejunal atresia does not cause sudden IUFD, a periumbilical hematoma, 1,300 mL of bloody amniotic fluid, or fetal pallor without the complication of umbilical cord ulceration.
+
+Spontaneous fetomaternal hemorrhage:
+
+For: Causes decreased fetal movement, pale fetus, and IUFD.
+
+Against: Does not produce 1,300 mL of bloody amniotic fluid, a periumbilical hematoma on MRI, or gross umbilical cord ulcerations.
+
+EXCLUSIONS AND COMMITMENT:
+Placental abruption and spontaneous fetomaternal hemorrhage are excluded by the postmortem evidence of direct umbilical vessel hemorrhage into the amniotic cavity (1,300 mL bloody amniotic fluid) and gross cord ulcerations. Vasa previa is excluded by the intact prenatal progression with a periumbilical hematoma on MRI and ulcerated cord pathology. Isolated jejunal atresia fails to explain the acute hemorrhagic demise. I commit to umbilical cord ulceration associated with congenital jejunal (small bowel) atresia resulting in fetal hemorrhage and intrauterine fetal demise.
+
+FINAL DIAGNOSIS: Umbilical cord ulceration associated with congenital jejunal (small bowel) atresia causing fetal hemorrhage and intrauterine fetal demise

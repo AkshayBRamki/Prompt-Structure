@@ -1,0 +1,367 @@
+Continue with the SAME rubric and SAME output format (`item_id: score`, one line per item, no explanations). Rate each response independently. Do not reward length or formatting. CASES (part 9 of 10):
+
+===== CASE =====
+- **Patient Information:** 30-year-old primigravida Tanzanian female.
+- **Chief Complaint:** None (asymptomatic presentation during routine antenatal care).
+- **History of Present Illness:** None; presented for routine antenatal booking at 12 weeks of gestation.
+- **Past Medical History:** None; no chronic illnesses, prior gynecological surgeries, or sexually transmitted infections.
+- **Personal History:** No contraceptive use or history of chronic medication.
+- **Family History:** None mentioned.
+- **Physical Examination:** Normal; unremarkable findings with no abdominal tenderness, guarding, or rigidity.
+- **Ancillary Tests:** 
+  - Routine ultrasound revealed gestation near the left uterine horn with an empty endometrial cavity, suspicious for an [REDACTED].
+  - MRI confirmed an [REDACTED] in the left fallopian tube with a live fetus corresponding to 12 weeks of gestation (crown-rump length of 5.8 cm).
+
+---
+
+REFERENCE DIAGNOSIS: Interstitial ectopic pregnancy.
+REFERENCE REASONING (clinician): 1. **Initial Considerations:**
+   - The ultrasound findings suggested possibilities of ectopic pregnancy, uterine abnormality, or angular pregnancy.
+   - Empty endometrial cavity necessitated further imaging for clarification.
+
+2. **Ectopic Pregnancy Subtypes:**
+   - **Cornual Pregnancy:** Ruled out based on MRI findings specifying the interstitial location.
+   - **Ampullary, Isthmic, or Tubal Pregnancy:** Excluded as the gestational sac was confirmed in the interstitial portion of the tube.
+   - **Angular Pregnancy:** Differentiated using MRI, which provided detailed anatomical visualization.
+
+3. **Confirmed Diagnosis:**
+   - MRI confirmed interstitial ectopic pregnancy due to the presence of a gestational sac situated in the interstitial segment of the left fallopian tube, lateral to the uterine cavity.
+
+4. **Further Exclusions:**
+   - Uterine abnormalities (e.g., congenital anomalies) were excluded given the imaging findings and the absence of relevant history.
+
+---
+
+--- RESPONSE R043 ---
+The patient is an asymptomatic 30-year-old primigravida presenting for routine antenatal care at 12 weeks of gestation. Ultrasound shows an empty endometrial cavity with a gestation located near the left uterine horn, and MRI confirms a live 12-week fetus (crown-rump length 5.8 cm) located within the left fallopian tube. Because the patient has no abdominal pain, tenderness, guarding, or hemodynamic instability, this represents an unruptured advanced first-trimester tubal (likely interstitial/cornual) ectopic pregnancy.
+Final diagnosis: Unruptured ectopic pregnancy (left tubal/interstitial ectopic pregnancy)
+
+--- RESPONSE R004 ---
+An asymptomatic 30-year-old woman in her first pregnancy was seen at routine 12-week booking. Ultrasound showed the gestation near the left uterine horn with an empty endometrial cavity. MRI confirmed a live 12-week fetus (CRL 5.8 cm) within the left fallopian tube. She has no signs of rupture: no tenderness or peritonism and stable findings. A tubal pregnancy reaching 12 weeks with a live fetus near the cornua suggests a proximal or interstitial tubal location.
+Final diagnosis: Unruptured live left tubal (likely interstitial/proximal) ectopic pregnancy at 12 weeks' gestation
+
+--- RESPONSE R015 ---
+An asymptomatic primigravida at 12 weeks.
+The gestational sac lies near the left uterine horn with an empty endometrial cavity.
+MRI confirms a live 12-week fetus (CRL 5.8 cm) within the left fallopian tube.
+There are no peritoneal signs, which indicates the pregnancy is unruptured.
+Survival to 12 weeks near the cornu suggests implantation in the interstitial portion of the tube, which is surrounded by myometrium.
+Unruptured left tubal ectopic pregnancy, interstitial portion
+Ampullary or isthmic tubal ectopic pregnancy
+Angular (eccentric intrauterine) pregnancy
+Rudimentary horn pregnancy
+Abdominal pregnancy
+Interstitial tubal pregnancy.
+For: located near the horn, empty cavity, MRI shows the sac in the tube, unruptured late survival.
+Against: nothing significant.
+Ampullary or isthmic pregnancy.
+For: located in the tube.
+Against: these usually rupture by 6 to 8 weeks, and this sac is next to the horn.
+Angular pregnancy.
+For: located near the horn.
+Against: the endometrial cavity is empty and MRI places the sac in the tube.
+Rudimentary horn pregnancy.
+For: located near the horn and survived late.
+Against: no Müllerian anomaly was identified.
+Abdominal pregnancy.
+Against: MRI shows the sac in the tube.
+MRI excludes intrauterine, abdominal and horn pregnancies.
+The cornual location and survival to 12 weeks favor the interstitial segment.
+I commit to an unruptured tubal ectopic pregnancy.
+Final diagnosis: Unruptured live left tubal (interstitial) ectopic pregnancy at 12 weeks' gestation.
+
+--- RESPONSE R031 ---
+Asymptomatic 30-year-old primigravida at 12 weeks of gestation with normal abdominal exam: Demonstrates an unruptured, clinically silent late first-trimester gestation.
+Ultrasound showing gestation near the left uterine horn with an empty endometrial cavity: Strongly indicates an extrauterine (ectopic) pregnancy, specifically raising suspicion for an interstitial/cornual or proximal tubal location.
+MRI confirming a live 12-week fetus (CRL 5.8 cm) located within the left fallopian tube: Definitively establishes an unruptured left tubal (interstitial/proximal) ectopic pregnancy.
+Unruptured left tubal (interstitial) ectopic pregnancy
+Rudimentary uterine horn pregnancy
+Angular intrauterine pregnancy
+Heterotopic pregnancy
+Unruptured left tubal (interstitial) ectopic pregnancy:
+For: Empty endometrial cavity on ultrasound; gestation situated near the left uterine horn; MRI directly confirms the live 12-week fetus is located within the left fallopian tube; absence of abdominal tenderness, guarding, or rigidity confirms it is unruptured.
+Against: Survival of a tubal ectopic pregnancy to 12 weeks without rupture or pain is rare (most common in the interstitial segment, which has greater myometrial distensibility).
+Rudimentary uterine horn pregnancy:
+For: Can present as an asymptomatic 12-week live gestation near a uterine horn with an empty main endometrial cavity.
+Against: MRI specifically localized the gestation to the left fallopian tube rather than a non-communicating rudimentary uterine horn.
+Angular intrauterine pregnancy:
+For: Gestation implanted near the uterotubal junction/uterine horn that can progress asymptomatically to 12 weeks.
+Against: Angular pregnancy lies within the endometrial cavity medial to the uterotubal junction, whereas here the endometrial cavity is empty and MRI confirms a left fallopian tube location.
+Heterotopic pregnancy:
+For: Includes an ectopic pregnancy in the left fallopian tube.
+Against: Ultrasound explicitly demonstrated an empty endometrial cavity, excluding a concurrent intrauterine gestation.
+Heterotopic pregnancy is excluded by the empty endometrial cavity. Angular pregnancy and rudimentary uterine horn pregnancy are excluded by MRI confirmation that the gestational sac and live 12-week fetus reside within the left fallopian tube. The normal physical examination without peritoneal signs confirms it is unruptured. This commits the diagnosis to an unruptured left tubal (interstitial) ectopic pregnancy.
+Final diagnosis: Unruptured left tubal (interstitial) ectopic pregnancy
+
+===== CASE =====
+- **Patient Information**: 66-year-old female
+- **Chief Complaint**: Lower abdominal pain for 4 months, associated with weight loss and loss of appetite.
+- **History of Present Illness**: Persistent lower abdominal pain lasting four months with concurrent weight loss and reduced appetite.
+- **Past Medical History**: Hypertension.
+- **Personal History**: None mentioned.
+- **Family History**: None reported.
+- **Physical Examination**: Not explicitly detailed.
+- **Ancillary Tests**:
+  - Laboratory markers: Elevated serum CA19-9, LDH, and CRP; normal CA-125 and CEA levels.
+  - MRI: Large heterogeneous, solid lesion with central necrosis in the left adnexa, suggesting a malignant ovarian neoplasm.
+  - Surgical findings: A tumor measuring 15 × 12 × 7 cm in the right ovary with a ruptured capsule, numerous associated findings.
+  - Histopathology: High-grade spindle cell sarcoma consistent with [REDACTED] and features of teratoma with malignant transformation.
+  - Immunohistochemistry: Positive smooth muscle actin (SMA) and negative S100, confirming [REDACTED].
+  - Stage: pT3c pNx (FIGO stage IIIC).
+
+REFERENCE DIAGNOSIS: Primary ovarian leiomyosarcoma (LMS).
+REFERENCE REASONING (clinician): - Initial considerations included **malignant ovarian neoplasm** based on imaging and clinical presentation of an elderly woman with nonspecific symptoms like abdominal pain and weight loss.
+- **Ovarian leiomyosarcoma (LMS)** was strongly suspected due to histological findings of spindle cell morphology, immunohistochemical positivity for SMA (smooth muscle marker), and negativity for S100. These findings excluded other spindle-cell tumors such as fibrosarcoma, gastrointestinal stromal tumor (GIST), or metastatic lesions.
+- Other considerations, including **ovarian carcinoma** or benign conditions (e.g., leiomyoma), were excluded based on negative specific tumor markers (normal CA-125, CEA), imaging, and pathologic findings incompatible with carcinoma.
+- A teratoma with malignant transformation towards LMS was confirmed histologically and matched by immunohistochemical findings. This is consistent with the exceedingly rare primary ovarian LMS.
+
+--- RESPONSE R016 ---
+Postmenopausal woman with four months of pain, weight loss and anorexia: a constitutional picture.
+Large (15 cm) solid ovarian mass with necrosis and a ruptured capsule; peritoneal spread (FIGO IIIC).
+CA19-9 and LDH elevated, which fits a teratoma-derived and/or high-grade tumour; CA-125 and CEA normal, which argues against epithelial carcinoma.
+High-grade spindle-cell sarcoma arising within a teratoma; SMA positive and S100 negative, indicating smooth-muscle differentiation.
+Leiomyosarcoma arising from malignant transformation of a mature cystic teratoma
+Ovarian carcinosarcoma (malignant mixed Müllerian tumour)
+Primary ovarian leiomyosarcoma (not teratoma-derived)
+Immature teratoma
+Malignant peripheral nerve sheath tumour or other sarcoma arising in a teratoma
+Leiomyosarcoma in teratoma
+For: teratomatous elements with a malignant spindle-cell component; SMA positive and S100 negative.
+Against: rare (most transformations are squamous carcinoma).
+Carcinosarcoma
+For: age; aggressive behaviour.
+Against: no carcinomatous component; normal CA-125.
+Primary ovarian leiomyosarcoma
+For: same immunophenotype.
+Against: teratoma features are present, which indicates the tumour arose from one.
+Immature teratoma
+Against: postmenopausal age; no immature neuroectoderm reported; sarcomatous rather than embryonal histology.
+MPNST or other sarcoma
+Against: S100 negative; SMA positive.
+Carcinosarcoma is excluded by the absence of epithelium. Immature teratoma is excluded by age and histology. MPNST is excluded by the S100-negative, SMA-positive profile. "De novo" leiomyosarcoma is excluded because teratoma features are present. I commit to leiomyosarcoma arising in a teratoma.
+Final diagnosis: Ovarian leiomyosarcoma arising from malignant transformation of a mature cystic teratoma, FIGO stage IIIC
+
+--- RESPONSE R121 ---
+A 66-year-old woman has a large solid, necrotic, ruptured ovarian mass with weight loss. Histology shows teratoma with malignant transformation into a high-grade spindle cell sarcoma. Immunohistochemistry is SMA positive and S100 negative, which points to smooth-muscle differentiation and away from a neural-type sarcoma. This is a sarcoma arising in a mature cystic teratoma (stage IIIC).
+Final diagnosis: Leiomyosarcoma arising from malignant transformation of an ovarian mature cystic teratoma
+
+--- RESPONSE R141 ---
+Histopathology demonstrating a high-grade spindle cell sarcoma alongside features of teratoma with malignant transformation: Establishes a sarcoma arising from a pre-existing ovarian teratoma.
+Immunohistochemistry: SMA positive and S100 negative: Confirms smooth muscle differentiation (leiomyosarcoma) and rules out neural/melanocytic/schwannian sarcomas (such as MPNST or melanoma).
+Large (15 × 12 × 7 cm) solid necrotic ovarian mass with ruptured capsule, FIGO stage IIIC (pT3c pNx), and systemic symptoms (4 months of lower abdominal pain, weight loss, anorexia): Reflects an aggressive, advanced-stage malignant ovarian neoplasm.
+Elevated CA 19-9, LDH, and CRP with normal CA-125 and CEA: Elevated CA 19-9 is frequently associated with ovarian mature cystic teratomas (including those with malignant transformation), while elevated LDH reflects high tumor burden/necrosis, and normal CA-125 argues against typical high-grade serous epithelial ovarian carcinoma.
+Primary ovarian leiomyosarcoma arising from a mature cystic teratoma (teratoma with malignant transformation)
+Ovarian carcinosarcoma (malignant mixed Müllerian tumor)
+Malignant peripheral nerve sheath tumor (MPNST) arising in a teratoma
+Epithelial ovarian carcinoma (e.g., high-grade serous or mucinous carcinoma)
+Primary ovarian leiomyosarcoma arising from a mature cystic teratoma:
+For: Histopathology explicitly identifies a high-grade spindle cell sarcoma with features of teratoma with malignant transformation; SMA positivity and S100 negativity confirm smooth muscle (leiomyosarcomatous) lineage; elevated CA 19-9 with normal CA-125 is classic for teratoma-associated malignancy; large solid necrotic adnexal mass in a postmenopausal woman.
+Against: Very rare malignant transformation of a teratoma (squamous cell carcinoma is far more common).
+Ovarian carcinosarcoma (MMMT):
+For: Postmenopausal female, large aggressive necrotic ovarian mass, advanced FIGO stage IIIC, and high-grade sarcomatous component.
+Against: Histology specifically shows teratoma with malignant transformation and pure high-grade spindle cell sarcoma rather than a biphasic malignant epithelial + mesenchymal (carcinomatous + sarcomatous) tumor; CA-125 is normal.
+Malignant peripheral nerve sheath tumor (MPNST) arising in a teratoma:
+For: High-grade spindle cell sarcoma arising from a teratoma.
+Against: S100 is negative and SMA is positive, which rules out MPNST and confirms smooth muscle differentiation.
+Epithelial ovarian carcinoma:
+For: 66-year-old female with 4 months of abdominal pain, weight loss, large adnexal mass, and FIGO stage IIIC spread.
+Against: Normal CA-125, and histopathology confirms a high-grade spindle cell sarcoma (SMA+) arising in a teratoma rather than an epithelial carcinoma.
+Epithelial ovarian carcinoma and ovarian carcinosarcoma are excluded by the histopathologic finding of a pure high-grade spindle cell sarcoma arising within a teratoma. MPNST is excluded by S100 negativity and SMA positivity. The combination of high-grade spindle cell sarcoma, SMA positivity, S100 negativity, and background teratoma with malignant transformation confirms Ovarian leiomyosarcoma arising from a mature cystic teratoma.
+Final diagnosis: Ovarian leiomyosarcoma arising from a mature cystic teratoma (teratoma with malignant transformation)
+
+--- RESPONSE R144 ---
+A 66-year-old female presents with a 4-month history of lower abdominal pain, anorexia, weight loss, elevated CA19-9/LDH/CRP, and a large (15 × 12 × 7 cm) necrotic, ruptured right ovarian mass (FIGO stage IIIC). Histopathology shows a high-grade spindle cell sarcoma alongside features of a teratoma with malignant transformation. Immunohistochemistry demonstrates positivity for smooth muscle actin (SMA) and negativity for S100, confirming smooth muscle differentiation and ruling out neural/melanocytic sarcomas. Therefore, the diagnosis is ovarian leiomyosarcoma arising from malignant transformation of a teratoma.
+Final diagnosis: Ovarian leiomyosarcoma arising from a mature cystic teratoma
+
+===== CASE =====
+- **Patient Information**: 27-year-old woman.
+- **Chief Complaint**: Abdominal lump.
+- **History of Present Illness**: Lump in the lower abdomen present for 3 months, initially marble-sized, progressively enlarged to a fist size, with associated fever. The lump eventually ruptured, releasing pus and blood. Associated symptoms included decreased appetite and weight loss (7 kg in 3 months).
+- **Past Medical History**: None significant, except for a caesarean section in 2018.
+- **Personal History**: None provided.
+- **Family History**: None provided.
+- **Physical Examination**: No fever at the time of examination.
+- **Ancillary Tests**:
+  - Laboratory: Leukocytosis (16,880 cells/ml); other blood, urine, and renal parameters were normal.
+  - Ultrasonography: Heterogeneous hypoechoic, well-defined, semi-solid mass (7.35 × 6.21 × 9.24 cm) in the lower abdomen with vascularized edges.
+  - CT Scan: An isodense lesion connected to the umbilicus with a superoanterior bladder lesion. Features suggest an abscess formation extending to the musculus and subcutis of the lower abdominal wall.
+
+REFERENCE DIAGNOSIS: Infected urachal cyst (type C).
+REFERENCE REASONING (clinician): 1. **Initial Considerations**: The patient's presenting symptoms (abdominal lump, fever, pus, weight loss) and imaging findings suggested an intra-abdominal or periumbilical abscess. Potential differentials included:
+   - Urachal cyst (infected or ruptured)
+   - Intra-abdominal abscess of another etiology
+   - Malignant lesion (e.g., urachal carcinoma).
+
+2. **Reasons for Suspecting an Infected Urachal Cyst**:
+   - The location of the lesion (lower anterior abdominal wall) and its connection to the bladder/umbilicus were suggestive of urachal involvement.
+   - Clinical presentation (slowly enlarging mass with fever and localized infection signs) aligns well with an infected urachal cyst undergoing abscess formation.
+
+3. **Excluding Other Diagnoses**:
+   - **Urachal carcinoma**: CT findings did not show malignancy signs such as irregular invasion into surrounding tissues.
+   - **General intra-abdominal/umbilical abscess**: Imaging and clinical history pointed to a connection between the cystic lesion and urachal remnants, confirming it was related to urachal anatomy.
+
+4. **Diagnostic Confirmation**: Ultrasonography and CT scan revealed a lesion consistent with an infected urachal cyst complicated by abscess formation extending into subcutaneous and muscular layers (type C urachal cyst).
+
+--- RESPONSE R060 ---
+A 27-year-old woman presents with a progressively enlarging lower abdominal mass over 3 months accompanied by fever, constitutional symptoms (anorexia, weight loss), leukocytosis, and spontaneous rupture releasing pus and blood, which strongly indicates an infectious/abscess process rather than a purely neoplastic mass. Crucially, CT imaging demonstrates an isodense lesion extending from the umbilicus to the superoanterior dome of the urinary bladder with abscess formation involving the lower abdominal wall musculature and subcutis. The anatomic tract connecting the umbilicus to the anterosuperior bladder dome is the exact course of the urachus. An infected congenital urachal remnant (urachal cyst) classically presents in young adults as a painful, enlarging midline lower abdominal mass with fever, leukocytosis, and purulent discharge, often mimicking a neoplasm or abdominal wall abscess.
+Final diagnosis: Infected urachal cyst (urachal abscess)
+
+--- RESPONSE R106 ---
+A young woman has a lower midline abdominal mass that grew over 3 months, with fever, weight loss and leukocytosis, and eventually ruptured and drained pus and blood. Ultrasound shows a semi-solid mass with vascularized edges, which fits an abscess wall. On CT the lesion is connected to the umbilicus and to the anterosuperior (dome) part of the bladder, which is the course of the urachus. The abscess extends into the muscle and subcutis of the abdominal wall, consistent with infection that spontaneously drained. A urachal remnant that becomes infected in adulthood typically presents exactly like this. Urachal carcinoma is the main differential, given the weight loss, but the abscess features favor infection.
+Final diagnosis: Infected urachal cyst (urachal abscess) with extension into the abdominal wall.
+
+--- RESPONSE R140 ---
+Lower abdominal mass in a young woman that grew over 3 months, then ruptured and drained pus and blood. This means an infected, suppurative process.
+CT shows a lesion connected to the umbilicus and to the superoanterior bladder (dome). This is the anatomic course of the urachus, the embryonic remnant running from bladder dome to umbilicus, and is the decisive finding.
+Fever, leukocytosis (16,880) and an abscess extending into the muscle and subcutis point to infection with spread into the abdominal wall.
+Weight loss of 7 kg fits a chronic infection, but keeps malignancy in the differential.
+Prior caesarean section raises abdominal wall and scar-related differentials.
+Normal urine and renal parameters argue against a primary bladder mucosal process.
+Infected urachal cyst / urachal abscess
+Urachal adenocarcinoma with superinfection
+Abdominal wall actinomycosis
+Post-caesarean abdominal wall abscess (retained foreign body or suture granuloma)
+Scar endometriosis with secondary infection
+Infected urachal cyst
+For: midline umbilicus-to-bladder-dome connection, abscess, fever, leukocytosis, young adult, spontaneous drainage.
+Against: weight loss is somewhat prominent.
+Urachal adenocarcinoma
+For: bladder dome location, mass, weight loss.
+Against: age 27 (typical age is 40–70), clearly abscess-forming course, normal urinalysis (no hematuria or mucusuria).
+Actinomycosis
+For: chronic infiltrative abscess crossing tissue planes, weight loss, draining sinus.
+Against: no IUD or other risk factor reported, and the lesion follows the urachal tract specifically.
+Post-caesarean abscess
+For: prior surgery.
+Against: surgery was years earlier, and the lesion is umbilical-vesical rather than at the Pfannenstiel scar.
+Scar endometriosis
+For: caesarean scar, mass.
+Against: no cyclic pain, frank pus, and the umbilical–bladder connection.
+Scar endometriosis and post-caesarean abscess are excluded because the lesion's anatomy is urachal, not at the scar.
+Carcinoma is unlikely given age, the infectious course and normal urine. Histology of the cyst wall is still advisable.
+Actinomycosis is less likely without a risk factor and given the anatomic specificity.
+I commit to an infected urachal remnant.
+Final diagnosis: Infected urachal cyst (urachal abscess) extending into the lower abdominal wall
+
+--- RESPONSE R096 ---
+27-year-old woman with a 3-month progressive lower abdominal lump that enlarged from marble-sized to fist-sized, accompanied by fever, decreased appetite, 7 kg weight loss, and spontaneous rupture releasing pus and blood: indicates a subacute-to-chronic suppurative/inflammatory process or an infected mass with systemic constitutional signs.
+Prior caesarean section (2018): establishes a surgical scar in the lower abdominal wall as a potential site for postoperative complications.
+Leukocytosis (16,880 cells/mL) with normal urinalysis and renal function: confirms an active systemic inflammatory/infectious response without overt urinary tract infection or renal impairment.
+CT scan showing an isodense lesion connected to the umbilicus and a superoanterior bladder lesion, with abscess formation extending into the lower abdominal wall musculature and subcutis: anatomically localizes the lesion precisely along the tract of the urachus (median umbilical ligament), which runs from the umbilicus to the superoanterior dome of the bladder.
+Infected urachal cyst (urachal abscess)
+Urachal carcinoma (with secondary infection/necrosis)
+Abdominal wall abscess / stitch granuloma / gossypiboma secondary to prior caesarean section
+Abdominal wall endometriosis (scar endometrioma) with secondary infection
+Infected urachal cyst (urachal abscess):
+For: Classic anatomical path on CT connecting the umbilicus to the superoanterior bladder wall; young adult age (27 years); fever, leukocytosis (16,880 cells/mL), spontaneous rupture discharging pus and blood, and CT features explicitly indicating abscess formation extending into the lower abdominal wall musculature and subcutis.
+Against: Significant weight loss (7 kg in 3 months), decreased appetite, and semi-solid ultrasound appearance with vascularized edges can mimic malignancy, though chronic deep-seated infection/inflammation readily accounts for constitutional symptoms and hyperemic abscess walls.
+Urachal carcinoma (with secondary infection/necrosis):
+For: Anatomical location along the urachus (umbilicus to superoanterior bladder dome); semi-solid mass with vascularized edges on ultrasound; 7 kg weight loss and decreased appetite over 3 months.
+Against: Patient is very young (27 years; urachal carcinoma typically occurs in older adults, predominantly men); prominent purulent rupture, fever, leukocytosis, and CT findings specifically characterizing an abscess extending into the abdominal wall strongly favor a primary infectious etiology.
+Abdominal wall abscess / stitch granuloma / gossypiboma secondary to prior caesarean section:
+For: History of caesarean section in 2018; lower abdominal wall mass with abscess formation, fever, leukocytosis, and purulent rupture.
+Against: Does not explain the direct anatomical continuity from the umbilicus to the superoanterior bladder dome seen on CT.
+Abdominal wall endometriosis (scar endometrioma) with secondary infection:
+For: Reproductive-age woman with prior caesarean section and a lower abdominal wall mass.
+Against: No cyclical pain linked to menstruation reported; does not explain the anatomical tract linking the umbilicus to the superoanterior bladder wall; overt purulent rupture and marked leukocytosis point to a primary abscess.
+Post-caesarean abdominal wall abscess/gossypiboma and scar endometrioma are excluded because they do not account for the defining CT finding of a lesion spanning from the umbilicus to the superoanterior bladder wall.
+Urachal carcinoma is less likely given the patient's young age (27 years), frank purulent rupture, leukocytosis, and CT morphology favoring abscess formation, although histopathology is required if a residual mass persists after drainage.
+Committing to infected urachal cyst (urachal abscess) as it uniquely integrates the exact urachal anatomy on CT with the acute-on-chronic suppurative clinical presentation.
+Final diagnosis: Infected urachal cyst (urachal abscess)
+
+===== CASE =====
+- **Patient Information:** 4-month-old male mixed-breed dog  
+- **Chief Complaint:** Stiff gait after a startle response or sudden movement initiation  
+- **History of Present Illness:** Stiffness and transient motor difficulty since the first months of life, normal growth/behavior otherwise  
+- **Past Medical History:** None  
+- **Personal History:** None  
+- **Family History:** The mother and 4 littermates were evaluated. Except for one wild-type littermate, others carried a copy of the mutated gene, but clinical signs were not observed.  
+- **Physical Examination:** Normal general physical parameters and neurological exam; generalized muscle hypertrophy. Myotonia easily induced during physical activity and upper lip manipulation. Warm-up phenomenon observed.  
+- **Ancillary Tests:**  
+  - **Electromyography (EMG):** Confirmed myotonic discharges (“wax and wane” potentials) in various muscles.   
+  - **Blood Tests:** Normal results.  
+  - **Genetic Testing:** Identified complex mutation c.[1636_1639delinsAACGGG] and c.[1644A>T] in exon 15 of the [REDACTED] gene, resulting in a premature stop codon and truncated chloride channel protein (~400 amino acids shorter). Genetic testing revealed heterozygosity in the mother and 3 out of 4 littermates.
+
+REFERENCE DIAGNOSIS: Hereditary myotonia caused by CLCN1 gene mutation
+REFERENCE REASONING (clinician): 1. **Initial Suspicions Based on Clinical Signs:**  
+   - The hallmark symptoms of stiffness, myotonia (delayed muscle relaxation after contraction), warm-up phenomenon, and absence of muscle weakness strongly indicated hereditary myotonia, specifically related to chloride channelopathy (CLCN1 mutation). This was distinguished from sodium channelopathies, which often present with muscle weakness not seen here.  
+   - Dystrophic myotonia was initially considered but was ruled out due to the absence of muscle weakness and normal ancillary blood tests (e.g., creatine kinase levels) indicating no muscle degeneration.  
+
+2. **Diagnostic Confirmation with EMG:**  
+   - The characteristic myotonic discharges confirmed myotonia, ruling out pseudomyotonia.  
+   - Normal blood tests further excluded secondary causes of myotonia, such as electrolyte imbalances or metabolic disorders.  
+
+3. **Exclusion of Other Neuromuscular Conditions:**  
+   - Other conditions leading to stiffness, such as cramping syndromes or peripheral neuropathies, were excluded based on normal neurological examination and specific EMG findings consistent with hereditary myotonia.  
+
+4. **Genetic Confirmation:**  
+   - The complex mutation in exon 15 of the CLCN1 gene solidified the diagnosis of hereditary myotonia. This mutation resulted in a truncated protein affecting critical structural components of the chloride channel. The hereditary pattern observed (autosomal recessive) matched findings in the dam and littermates.
+
+--- RESPONSE R077 ---
+4-month-old male dog with early-onset stiff gait triggered by startle or sudden movement initiation, with a warm-up phenomenon and generalized muscle hypertrophy: classic clinical triad of non-dystrophic myotonia.
+Normal general physical exam, neurological exam, and blood tests: argues against inflammatory, metabolic, or dystrophic myopathies.
+EMG showing myotonic discharges ("wax and wane" potentials): electrophysiologically confirms true myotonia.
+Family pedigree showing asymptomatic heterozygous mother and 3 of 4 littermates: establishes an autosomal recessive inheritance pattern.
+Genetic testing identifying a complex frameshift/nonsense mutation in exon 15 of a chloride channel gene (CLCN1), producing a premature stop codon and truncated chloride channel protein: provides the definitive molecular diagnosis.
+Autosomal recessive myotonia congenita (CLCN1-related)
+Autosomal dominant myotonia congenita (Thomsen-type)
+Paramyotonia congenita / sodium channel myotonia (SCN4A-related)
+Muscular dystrophy (e.g., dystrophin-deficient muscular dystrophy)
+Autosomal recessive myotonia congenita (CLCN1-related):
+For: Early onset of stiffness on movement initiation/startle, warm-up phenomenon, generalized muscle hypertrophy, waxing-and-waning myotonic discharges on EMG, normal blood work, asymptomatic heterozygous mother and littermates (autosomal recessive), and a truncating mutation in the skeletal muscle chloride channel gene (CLCN1).
+Against: None; every clinical, electrophysiological, pedigree, and molecular finding matches precisely.
+Autosomal dominant myotonia congenita:
+For: Shares the clinical phenotype (muscle hypertrophy, warm-up phenomenon, myotonic EMG discharges) and involves the CLCN1 chloride channel gene.
+Against: Excluded by the family history and genetic testing—the heterozygous mother and 3 heterozygous littermates show no clinical signs, proving recessive rather than dominant transmission.
+Paramyotonia congenita / sodium channel myotonia:
+For: Presents with myotonia and myotonic EMG discharges.
+Against: Caused by SCN4A (sodium channel) mutations rather than a chloride channel mutation; paramyotonia typically worsens with exercise (paradoxical myotonia) rather than showing a warm-up phenomenon.
+Muscular dystrophy:
+For: Young male dog with muscle hypertrophy and gait abnormalities.
+Against: Normal blood tests (no elevated muscle enzymes reported), normal growth, presence of classic warm-up myotonia and waxing-and-waning EMG discharges, and a confirmed chloride channel mutation rather than a dystrophin or structural muscle protein defect.
+Autosomal dominant myotonia congenita is excluded by the asymptomatic heterozygous carriers in the pedigree.
+Sodium channel myotonias and muscular dystrophies are excluded by the warm-up phenomenon, normal blood work, and definitive identification of a truncating skeletal muscle chloride channel (CLCN1) mutation.
+Committing to autosomal recessive myotonia congenita based on the complete clinical, EMG, inheritance, and genetic confirmation.
+Final diagnosis: Autosomal recessive myotonia congenita (CLCN1-related)
+
+--- RESPONSE R084 ---
+A 4-month-old male dog presents with startle- and movement-induced muscle stiffness, transient motor difficulty, generalized muscle hypertrophy, and a warm-up phenomenon, with otherwise normal neurological and blood findings. Electromyography confirms classic myotonic discharges ("wax and wane" potentials). Family testing shows that the mother and 3 of 4 littermates are clinically unaffected heterozygous carriers, establishing an autosomal recessive inheritance pattern. Genetic analysis identifies a truncating mutation in exon 15 of the skeletal muscle voltage-gated chloride channel gene (CLCN1), which directly impairs chloride conductance across the sarcolemma and causes myotonia.
+Final diagnosis: Autosomal recessive myotonia congenita
+
+--- RESPONSE R020 ---
+A young dog has stiffness after startle or when starting to move, generalized muscle hypertrophy, easily induced myotonia, and a warm-up phenomenon (stiffness eases with repeated movement). EMG shows myotonic "wax and wane" discharges. The genetic mutation truncates a chloride channel protein, which means the CLCN1 gene. The heterozygous mother and littermates have no signs, so the inheritance is autosomal recessive.
+Final diagnosis: Myotonia congenita (CLCN1-related chloride channelopathy, autosomal recessive).
+
+--- RESPONSE R005 ---
+Puppy with stiffness after startle or when starting to move, from the first months of life.
+Generalized muscle hypertrophy.
+Myotonia easily induced, including percussion of the lip.
+Warm-up phenomenon: stiffness eases with repeated movement, which is classic for chloride channelopathy.
+EMG shows waxing-and-waning myotonic discharges.
+Truncating mutation in exon 15 of a chloride-channel gene (CLCN1).
+Heterozygous mother and littermates are unaffected, which implies autosomal recessive inheritance with the patient homozygous for the variant.
+Normal blood tests exclude a metabolic or inflammatory myopathy.
+Myotonia congenita (CLCN1, recessive / Becker-type)
+Dominant (Thomsen-type) myotonia congenita
+Sodium channel myotonia / paramyotonia (SCN4A)
+Myotonic dystrophy
+Hypothyroid or other acquired myopathy
+Recessive myotonia congenita
+For: CLCN1 truncation, warm-up phenomenon, hypertrophy, asymptomatic heterozygous carriers.
+Against: none.
+Thomsen-type (dominant)
+For: CLCN1 involvement.
+Against: heterozygous relatives are unaffected.
+SCN4A myotonia / paramyotonia
+For: myotonia.
+Against: warm-up rather than paradoxical worsening, and the chloride-channel gene is mutated.
+Myotonic dystrophy
+For: myotonia.
+Against: hypertrophy rather than wasting, no systemic signs, young age, different gene.
+Acquired myopathy
+Against: normal blood tests and a genetic cause found.
+Dominant forms are excluded by the unaffected heterozygous relatives.
+SCN4A disorders and myotonic dystrophy are excluded by the genotype and phenotype.
+I commit to recessive CLCN1 myotonia congenita.
+Final diagnosis: Myotonia congenita (autosomal recessive, Becker-type) due to a truncating CLCN1 mutation
+

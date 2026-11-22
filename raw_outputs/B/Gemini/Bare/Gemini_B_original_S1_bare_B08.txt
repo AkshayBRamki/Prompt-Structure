@@ -1,0 +1,23 @@
+CASE: M057
+FINAL DIAGNOSIS: Benign Sertoli cell tumor of the right testis (with incidental left epididymal spermatocele)
+
+CASE: M058
+FINAL DIAGNOSIS: Large pericardial effusion (causing compressive dysphagia)
+
+CASE: M059
+FINAL DIAGNOSIS: Orbital leiomyoma
+
+CASE: M060
+FINAL DIAGNOSIS: Brain abscess caused by Paraclostridium tenue
+
+CASE: M061
+FINAL DIAGNOSIS: Bilateral radial head subluxation (bilateral nursemaid's elbow)
+
+CASE: M062
+FINAL DIAGNOSIS: Concurrent left femoral neck fracture and left pubic symphysis fracture
+
+CASE: M063
+FINAL DIAGNOSIS: Fetal intestinal atresia (bowel obstruction)
+
+CASE: M064
+FINAL DIAGNOSIS: Classic Kaposi sarcoma (nodular stage)

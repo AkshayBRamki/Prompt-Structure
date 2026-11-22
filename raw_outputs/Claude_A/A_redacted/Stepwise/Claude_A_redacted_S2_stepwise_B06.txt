@@ -1,0 +1,31 @@
+CASE: M041
+REASONING: The patient has a prosthetic mitral valve from rheumatic heart disease. He had four weeks of high fever, anorexia, weight loss and a raised ESR, with sterile cultures at an earlier hospital, which suggests partial treatment or a fastidious organism. Exam shows a new aortic diastolic murmur (aortic regurgitation) and Roth's spots. Three sets of blood cultures were positive, and TTE/TEE showed vegetations on both the aortic valve and the prosthetic mitral valve. These meet modified Duke criteria for definite infective endocarditis. The neurologic picture is acute right hemiparesis with multiple hemorrhages (intraparenchymal, subarachnoid, and in the left internal capsule) plus infarcts, while carotid angiography is normal. That pattern points to septic cardioembolism with hemorrhagic transformation, or a ruptured mycotic aneurysm, rather than atherosclerotic disease. Treatment with penicillin G and gentamicin fits a streptococcal or enterococcal organism. He also needed aortic valve replacement.
+FINAL DIAGNOSIS: Prosthetic mitral valve and native aortic valve infective endocarditis (likely streptococcal/enterococcal) complicated by septic cerebral emboli with hemorrhagic stroke (intracerebral and subarachnoid hemorrhage, infarcts) causing right hemiparesis.
+
+CASE: M042
+REASONING: A middle-aged woman has two months of progressive headache, unsteadiness and mild left hemiparesis. Imaging shows an intensely enhancing mass in the right lateral ventricle trigone, the classic site for intraventricular meningioma in adults. It causes trapping of the occipital horn, vasogenic edema and midline shift. On MR spectroscopy, choline is high and NAA is low; this pattern is consistent with meningioma. Pathology showed fibroblastic meningioma components.
+FINAL DIAGNOSIS: Intraventricular (right lateral ventricle trigone) meningioma, fibroblastic type.
+
+CASE: M043
+REASONING: An elderly woman who took bisphosphonates for 15 years, followed by denosumab, has two months of atraumatic proximal tibial pain. She has had previous atypical insufficiency fractures in the femur and tibia. Imaging shows cortical thickening, a transverse (horizontal) fracture line and marrow edema, which are typical features of an atypical fracture. Bone and mineral labs are normal apart from a markedly low osteocalcin, which indicates severely suppressed bone turnover. There is no metabolic or endocrine alternative to explain the fracture.
+FINAL DIAGNOSIS: Atypical (insufficiency) fracture of the proximal right tibia associated with long-term antiresorptive therapy (bisphosphonates/denosumab) and severely suppressed bone turnover.
+
+CASE: M044
+REASONING: After surgery for myositis ossificans, with a septic episode, the patient developed the triad of microangiopathic hemolytic anemia (fragmented RBCs, high LDH, anemia), thrombocytopenia and acute kidney injury (creatinine 7.4, proteinuria, hematuria). These findings define a thrombotic microangiopathy. ADAMTS13 activity above 50% excludes TTP, and a negative Shiga toxin PCR excludes STEC-HUS. Surgery and infection are well-known complement-amplifying triggers. Her blood counts and renal function recovered with treatment.
+FINAL DIAGNOSIS: Atypical hemolytic uremic syndrome (complement-mediated thrombotic microangiopathy) triggered by surgery/sepsis.
+
+CASE: M045
+REASONING: A 4-year-old has chronic bloody diarrhea, iron-refractory anemia, malnutrition, hypoalbuminemia, raised inflammatory markers and very high fecal calprotectin. Her mother has a perianal fistula, which raises the possibility of familial IBD. Imaging shows bowel wall thickening, creeping fat and mesenteric lymphadenopathy. Endoscopy shows discontinuous disease involving the stomach, terminal ileum and colon, with aphthous lesions and an anal fissure. Histology shows non-caseating granulomas with Langhans giant cells, chronic architectural changes (crypt distortion, Paneth cell metaplasia) and gastric Schaumann bodies. The main mimics were excluded: TB, sarcoidosis, schistosomiasis, celiac disease and infection.
+FINAL DIAGNOSIS: Pediatric (early-onset) Crohn's disease with ileocolonic, upper GI (gastric) and perianal involvement.
+
+CASE: M046
+REASONING: An elderly woman has rapidly progressive dysphagia with marked weight loss over four weeks. Barium swallow and manometry both look like achalasia. However, her age, the short history, the weight loss, and the resistance at the GE junction on endoscopy are red flags for pseudoachalasia. CT shows a large enhancing mediastinal mass involving the esophagus. Biopsy shows malignant spindle- and round-cell tumor (with signet-ring-type cells) infiltrating the esophagus. Her history of osteosarcoma one year ago makes metastatic disease the leading explanation. The signet-ring cells raise a primary GE-junction adenocarcinoma as a differential.
+FINAL DIAGNOSIS: Pseudoachalasia (secondary achalasia) due to malignant mediastinal/esophageal infiltration, most likely metastatic osteosarcoma.
+
+CASE: M047
+REASONING: A young woman has subacute symmetric proximal weakness with dysphagia from oropharyngeal involvement. She has a photodistributed rash with a shawl sign and Gottron's papules. Aldolase, LDH and AST are elevated despite a normal CK, which is recognized in MDA5-associated disease. EMG shows an inflammatory myopathy, MRI shows muscle edema, and biopsy shows perifascicular pathology, which is pathognomonic for dermatomyositis. ANA is positive, and she is dual-positive for anti-SAE1 and anti-MDA5. CT shows no interstitial lung disease at present.
+FINAL DIAGNOSIS: Dermatomyositis with dual anti-SAE1/anti-MDA5 antibody positivity (without interstitial lung disease).
+
+CASE: M048
+REASONING: A smoker has locally advanced p16-negative oral tongue squamous cell carcinoma, staged cT4aN2cM0. A right ventricular mass, first thought to be a thrombus, did not respond to anticoagulation. On follow-up PET it was FDG-avid and grew along with progression of the primary tumor and nodes. These findings point to tumor rather than thrombus.
+FINAL DIAGNOSIS: Right ventricular cardiac metastasis from p16-negative squamous cell carcinoma of the oral tongue (stage IVC, progressive disease).

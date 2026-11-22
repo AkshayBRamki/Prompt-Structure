@@ -1,0 +1,23 @@
+CASE: M017
+FINAL DIAGNOSIS: Mucinous adenocarcinoma of the appendix
+
+CASE: M018
+FINAL DIAGNOSIS: Primary hyperparathyroidism due to an ectopic (extrathyroid) parathyroid adenoma
+
+CASE: M019
+FINAL DIAGNOSIS: Insulinoma (well-differentiated grade 1 pancreatic neuroendocrine tumor)
+
+CASE: M020
+FINAL DIAGNOSIS: Desmoid-type fibromatosis
+
+CASE: M021
+FINAL DIAGNOSIS: Infective endocarditis complicated by cardioembolic ischemic stroke
+
+CASE: M022
+FINAL DIAGNOSIS: Recurrent viral-induced rhabdomyolysis
+
+CASE: M023
+FINAL DIAGNOSIS: Gastroduodenal artery aneurysm
+
+CASE: M024
+FINAL DIAGNOSIS: Breast hamartoma

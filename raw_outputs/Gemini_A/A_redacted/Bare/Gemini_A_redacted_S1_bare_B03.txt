@@ -1,0 +1,23 @@
+CASE: M017
+FINAL DIAGNOSIS: Cecal adenocarcinoma
+
+CASE: M018
+FINAL DIAGNOSIS: Ectopic parathyroid adenoma
+
+CASE: M019
+FINAL DIAGNOSIS: Insulinoma
+
+CASE: M020
+FINAL DIAGNOSIS: Desmoid fibromatosis
+
+CASE: M021
+FINAL DIAGNOSIS: Infective endocarditis
+
+CASE: M022
+FINAL DIAGNOSIS: Recurrent rhabdomyolysis
+
+CASE: M023
+FINAL DIAGNOSIS: Gastroduodenal artery aneurysm
+
+CASE: M024
+FINAL DIAGNOSIS: Breast hamartoma

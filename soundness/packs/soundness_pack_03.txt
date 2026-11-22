@@ -1,0 +1,364 @@
+Continue with the SAME rubric and SAME output format (`item_id: score`, one line per item, no explanations). Rate each response independently. Do not reward length or formatting. CASES (part 3 of 10):
+
+===== CASE =====
+- **Patient Information:** 5-year-old boy
+- **Chief Complaint:** Recurrent seizures
+- **History of Present Illness:** Episodes of horizontal nystagmus in both eyes, clonic movements in the right extremities lasting 15 seconds, blurred vision prior to seizures, with retained consciousness and communicative ability between episodes.
+- **Past Medical History:** None reported.
+- **Personal History:** None reported.
+- **Family History:** None reported.
+- **Physical Examination:** Unremarkable, no signs of infection or trauma.
+- **Ancillary Tests:**
+  - EEG: Initially normal; later showed epileptiform activity in the right occipital region extending to the right posterior temporal and parietal regions; subsequent results were normal despite persistent seizures.
+  - CT Scan: Showed mild cerebral edema.
+  - MRI: Detected a bulging gyrus lesion with perifocal edema in the right parieto-occipital lobe, suggestive of a Dysembryoplastic Neuroepithelial Tumor (DNET) or Diffuse Glioma, with isointensity on T1-weighted imaging, slight hyperintensity on T2-weighted/FLAIR sequences.
+
+REFERENCE DIAGNOSIS: Grade I temporo-occipital ganglioglioma
+REFERENCE REASONING (clinician): - **Initial considerations based on focal seizures and imaging findings:** Differential diagnoses included Dysembryoplastic Neuroepithelial Tumor (DNET), Diffuse Glioma, and ganglioglioma.
+- **Excluding other causes of epilepsy:** Presence of persistent drug-resistant focal seizures and imaging findings reduced the likelihood of purely functional epilepsy or nonstructural etiologies.
+- **Determination of tumor type via MRI characteristics:** MRI findings revealed structural abnormalities suggestive of a glioneuronal tumor, with features consistent with ganglioglioma, DNET, or Diffuse Glioma.
+- **Confirmation via histopathology post-surgery:** Surgical resection and histological analysis identified the tumor as a WHO grade I temporo-occipital ganglioglioma, ruling out other differential diagnoses such as DNET or Diffuse Glioma.
+
+--- RESPONSE R114 ---
+A 5-year-old boy presents with recurrent focal seizures of occipital origin, evidenced by visual aura (blurred vision), bilateral horizontal nystagmus, brief clonic extremity movements, and preserved consciousness, corroborated by right occipital-to-posterior-temporal/parietal epileptiform activity on EEG. Brain MRI reveals a cortical, gyral-expanding ("bulging gyrus") lesion in the right parieto-occipital lobe that is isointense on T1 and slightly hyperintense on T2/FLAIR. In a young child with focal occipital epilepsy and an otherwise normal neurological exam, a cortical-based, gyral-expanding lesion with these MRI characteristics is most consistent with a dysembryoplastic neuroepithelial tumor (DNET).
+Final diagnosis: Dysembryoplastic neuroepithelial tumor (DNET)
+
+--- RESPONSE R062 ---
+Occipital/parieto-occipital focal seizure semiology: Blurred vision (visual aura) followed by bilateral horizontal nystagmus (ictal/epileptic nystagmus) and brief (15-second) clonic movements of the right extremities with retained consciousness, correlating with right occipital-posterior temporal-parietal epileptiform discharges on EEG.
+Brain MRI showing a bulging cortical gyrus lesion in the right parieto-occipital lobe (T1 isointense, slightly T2/FLAIR hyperintense) with perifocal edema: Identifies a structural epileptogenic cortical neoplasm in a 5-year-old boy, specifically raising DNET vs. diffuse glioma.
+Preserved neurological exam, normal interictal functioning, and recurrent/persistent focal seizures despite intermittently normal EEGs: Classic clinical profile of a pediatric long-term epilepsy-associated tumor (LEAT).
+Dysembryoplastic neuroepithelial tumor (DNET)
+Pediatric-type diffuse low-grade glioma (e.g., diffuse astrocytoma)
+Ganglioglioma
+Focal cortical dysplasia (FCD)
+Dysembryoplastic neuroepithelial tumor (DNET):
+For: Classic pediatric age (5 years) presenting with recurrent focal seizures (here, occipital lobe epilepsy with epileptic nystagmus) and a completely normal neurological examination; cortically based "bulging gyrus" morphology on MRI with T2/FLAIR hyperintensity; explicitly favored on MRI interpretation.
+Against: Presence of mild cerebral edema on CT and perifocal edema on MRI is atypical for classic DNET (which usually lacks significant mass effect or perilesional edema, though transient peri-ictal edema can occur with frequent seizures); no histopathological confirmation is provided.
+Pediatric-type diffuse low-grade glioma:
+For: Pediatric cortical/subcortical lesion in the parieto-occipital lobe, T1 isointense and slightly T2/FLAIR hyperintense, presenting with focal seizures; perifocal edema and mild mass effect/bulging gyrus are more commonly seen in diffuse gliomas than in DNET; explicitly listed as an MRI differential.
+Against: Often more infiltrative with less sharply defined gyral expansion, and lacks biopsy/molecular confirmation to distinguish it definitively from DNET.
+Ganglioglioma:
+For: Common pediatric long-term epilepsy-associated tumor (LEAT) causing recurrent focal seizures with a normal neurological exam and T2/FLAIR hyperintense cortical lesion.
+Against: Typically shows a cyst with an enhancing mural nodule or calcifications on CT/MRI, neither of which is described here.
+Focal cortical dysplasia (FCD):
+For: Common cause of drug-resistant/recurrent focal occipital seizures in young children with T2/FLAIR hyperintensity and cortical thickening/bulging gyrus.
+Against: Perifocal edema on MRI and mild cerebral edema on CT favor a neoplastic lesion (DNET or glioma) over a pure malformation of cortical development.
+Focal cortical dysplasia is excluded as the primary diagnosis because the presence of a bulging mass-like lesion with perifocal edema on MRI and mild cerebral edema on CT points to a neoplasm rather than an isolated cortical malformation. Ganglioglioma is less likely given the absence of typical cystic components, calcifications, or an enhancing mural nodule. Between the two MRI-favored neoplasms (DNET and diffuse glioma), the clinical picture of a 5-year-old with an unremarkable neurological exam, retained consciousness, and recurrent focal occipital seizures (with visual aura and epileptic nystagmus) caused by a cortically based bulging gyrus lesion aligns most closely with Dysembryoplastic neuroepithelial tumor (DNET) (presenting with symptomatic occipital lobe epilepsy), while acknowledging diffuse low-grade glioma as the primary histologic differential pending surgical pathology.
+Final diagnosis: Dysembryoplastic neuroepithelial tumor (DNET) (presenting with occipital lobe epilepsy / epileptic nystagmus)
+
+--- RESPONSE R019 ---
+Focal seizures with visual aura (blurred vision), ictal nystagmus and preserved awareness. This points to an occipital (posterior cortex) seizure onset.
+Epileptiform activity in the right occipital region spreading to the right temporal and parietal regions, which matches the lesion side. The right-sided clonic movements suggest spread or a possible laterality inconsistency in the report.
+Cortical lesion in the right parieto-occipital region with a bulging (expanded) gyrus, T1 isointense and only slightly T2/FLAIR hyperintense, with perifocal edema.
+Epilepsy persisted while the EEG fluctuated, which fits a structural, lesional epilepsy.
+Low-grade diffuse glioma (pediatric-type, e.g., diffuse astrocytoma or angiocentric glioma)
+Dysembryoplastic neuroepithelial tumour (DNET)
+Ganglioglioma
+Focal cortical dysplasia
+Peri-ictal MRI changes or focal encephalitis (e.g., MOG-associated cortical encephalitis)
+Diffuse low-grade glioma
+For: gyral expansion; T1 isointense with only slight T2 hyperintensity; epilepsy in a child.
+Against: perifocal edema is uncommon in low-grade tumours; no histology.
+DNET
+For: cortical location; child; drug-resistant focal epilepsy.
+Against: DNETs are usually markedly T2 hyperintense, "bubbly" and T1 hypointense, without edema.
+Ganglioglioma
+For: the most common epilepsy-associated tumour in children.
+Against: no cyst, calcification or enhancement described.
+Focal cortical dysplasia
+For: epilepsy; cortical signal change.
+Against: mass effect and edema are atypical; no transmantle sign.
+Peri-ictal change or encephalitis
+For: edema; fluctuating EEG.
+Against: no infection or inflammatory signs; the mass-like gyral expansion persisted.
+FCD and peri-ictal or inflammatory causes do not explain a persistent mass-like gyral expansion. The near-isointense signal argues against a typical DNET or ganglioglioma. I commit to a low-grade diffuse glioma, with the caveat that histology is needed to confirm it.
+Final diagnosis: Low-grade diffuse glioma of the right parieto-occipital cortex (pediatric-type) presenting with focal occipital-lobe epilepsy
+
+--- RESPONSE R061 ---
+A 5-year-old has recurrent focal seizures with blurred vision as an aura, ictal nystagmus and retained awareness, so the seizures start in the occipital/posterior cortex. EEG showed right occipital and temporo-parietal epileptiform activity. MRI shows a cortical lesion with an expanded ("bulging") gyrus in the right parieto-occipital lobe, T1 isointense and slightly hyperintense on T2/FLAIR, with surrounding edema. The radiologic differential was DNET versus diffuse glioma. A cortex-based, gyrus-expanding T2/FLAIR-hyperintense lesion causing early-onset epilepsy fits a pediatric-type diffuse low-grade glioma. Of these, angiocentric glioma is the one most typically tied to seizures. The final diagnosis is not in the case, so this is my best inference. The main alternatives are DNET and ganglioglioma.
+Final diagnosis: Angiocentric glioma (pediatric-type diffuse low-grade glioma) of the right parieto-occipital lobe
+
+===== CASE =====
+- **Patient Information:** 66-year-old woman.
+- **Chief Complaint:** Subacute cognitive decline and weakness.
+- **History of Present Illness:** Progressive weakness, falls, and brain fog for two weeks; recurrent hospitalizations due to worsening confusion, weakness, hallucinations, and aphasia over a span of four months. CSF showed pleocytosis and IL-10 elevation. Declined despite treatment and succumbed to disease.
+- **Past Medical History:** Unremarkable.
+- **Personal History:** None noted.
+- **Family History:** None noted.
+- **Physical Examination:** Initial mild bilateral lower extremity weakness and hyporeflexia. Progressed to worsening somnolence, expressive aphasia, and intermittent febrile states with progressive weakness.
+- **Ancillary Tests:**
+  - Lab results included leukocytosis, persistent hyponatremia (due to SIADH), and elevated IL-10 in CSF. Broad autoimmune, infectious, metabolic, and paraneoplastic workups were unremarkable.
+  - Initial imaging: Non-contrast CT showed hypodensities; MRI showed diffuse, non-enhancing T2/FLAIR hyperintensities without mass effect or restricted diffusion.
+  - Follow-up imaging: New asymmetric diffusion restriction and hyperperfusion in caudate nucleus and hippocampus.
+  - MR spectroscopy: Elevated choline:creatine ratio and decreased NAA peaks, indicating hypercellular process.
+  - Autopsy: [REDACTED] confirmed (CD20-positive B cells), with superimposed foci of [REDACTED] in the caudate and hippocampus.
+
+REFERENCE DIAGNOSIS: Diffuse cerebral lymphomatosis with superimposed primary CNS lymphoma.
+REFERENCE REASONING (clinician): - **Initial Differential:**
+  - Hyponatremia-induced encephalopathy due to SIADH was suspected initially, but worsening symptoms despite correction shifted focus to secondary causes.
+  - Chronic microvascular ischemic disease: Excluded due to progressive imaging changes.
+  - Autoimmune/inflammatory conditions: Excluded due to negative workup for vasculitis, lupus, and related conditions.
+  - Infectious causes: Excluded based on negative CSF and blood tests.
+  - Demyelinating diseases (e.g., multiple sclerosis or ADEM): Considered unlikely due to lack of characteristic imaging changes.
+  - Paraneoplastic/metastatic disease: Excluded due to negative systemic malignancy workup.
+- **Final Diagnostic Evidence:**
+  - Elevated IL-10 and CSF cytology raised suspicion for CNS lymphoproliferative processes.
+  - Progression of imaging abnormalities with hypercellular MR spectroscopy findings suggested lymphoma as the underlying etiology.
+  - Autopsy confirmed diffuse cerebral lymphomatosis (CL) and superimposed focal primary CNS lymphoma (PCNSL).
+
+--- RESPONSE R085 ---
+An older woman has subacute, rapidly progressive encephalopathy with weakness, hallucinations and aphasia. CSF shows pleocytosis with elevated IL-10, which is a marker of B-cell lymphoma. Extensive autoimmune, infectious and paraneoplastic workups were negative. MRI shows diffuse, non-enhancing T2/FLAIR white-matter hyperintensities without mass effect, and MR spectroscopy shows high choline and low NAA, indicating a hypercellular infiltrate. Later, focal diffusion-restricting, hyperperfused lesions appeared in the caudate and hippocampus. Autopsy showed diffuse infiltration by CD20+ B cells, with superimposed focal lymphoma deposits.
+Final diagnosis: Lymphomatosis cerebri (diffuse infiltrative primary CNS diffuse large B-cell lymphoma) with superimposed focal lymphomatous lesions in the caudate and hippocampus
+
+--- RESPONSE R017 ---
+A 66-year-old with subacute, rapidly progressive encephalopathy, aphasia, hallucinations and weakness over months, ending in death. This indicates an aggressive diffuse CNS process.
+MRI shows diffuse non-enhancing T2/FLAIR white-matter hyperintensities without mass effect, a picture of infiltrative disease that can mimic leukoencephalopathy.
+Elevated CSF IL-10 with pleocytosis is a strong marker of B-cell CNS lymphoma.
+Autoimmune, infectious and paraneoplastic workups were negative.
+Later imaging showed new diffusion restriction and hyperperfusion in the caudate and hippocampus, with high choline and low NAA on spectroscopy. These are hypercellular tumour foci.
+Autopsy found CD20-positive B cells diffusely, with superimposed focal lesions.
+Lymphomatosis cerebri (diffuse infiltrative primary CNS DLBCL) with superimposed focal primary CNS lymphoma
+Intravascular large B-cell lymphoma
+Gliomatosis cerebri / diffuse glioma
+Creutzfeldt–Jakob disease
+Autoimmune or paraneoplastic encephalitis, or PML
+Lymphomatosis cerebri.
+For: diffuse non-enhancing lesions, raised IL-10, CD20-positive infiltrate, and later focal hypercellular lesions.
+Against: none decisive.
+Intravascular lymphoma.
+For: B-cell, subacute course.
+Against: the infiltrate is parenchymal rather than confined to vessels, and there was no multifocal infarct pattern.
+Gliomatosis.
+For: diffuse non-enhancing T2 change and high choline.
+Against: the cells were CD20-positive B cells.
+CJD.
+For: rapid decline and caudate/hippocampal diffusion restriction.
+Against: hyperperfusion, high choline, pleocytosis, raised IL-10 and the autopsy findings.
+Autoimmune encephalitis / PML.
+For: subacute encephalopathy with hippocampal involvement.
+Against: negative workups and the lymphoma histology.
+Autopsy, CD20 positivity and IL-10 exclude glioma, CJD and autoimmune encephalitis.
+The parenchymal pattern disfavors intravascular lymphoma.
+I commit to lymphomatosis cerebri.
+Final diagnosis: Lymphomatosis cerebri (diffuse infiltrative primary CNS diffuse large B-cell lymphoma) with superimposed focal primary CNS lymphoma in the caudate and hippocampus.
+
+--- RESPONSE R091 ---
+A 66-year-old woman presents with subacute, rapidly progressive cognitive decline, weakness, falls, aphasia, hallucinations, and SIADH, proving fatal within four months despite unremarkable infectious, autoimmune, metabolic, and paraneoplastic workups.
+CSF analysis shows pleocytosis and elevated IL-10, a highly specific biomarker for primary CNS B-cell lymphoma.
+Initial MRI reveals diffuse, non-enhancing T2/FLAIR hyperintensities without mass effect or restricted diffusion, which is the classic radiological signature of lymphomatosis cerebri—a rare, diffusely infiltrating variant of primary CNS lymphoma (PCNSL).
+MR spectroscopy confirms a hypercellular neoplastic process (elevated choline:creatine ratio, decreased NAA), and follow-up MRI shows new diffusion restriction and hyperperfusion in the caudate and hippocampus (consistent with superimposed focal lymphoma progression or ischemia).
+Autopsy confirmation of CD20-positive B cells establishes the diagnosis of lymphomatosis cerebri (primary CNS diffuse large B-cell lymphoma).
+Final diagnosis: Lymphomatosis cerebri (diffuse variant of primary central nervous system diffuse large B-cell lymphoma)
+
+--- RESPONSE R078 ---
+Rapidly progressive neurological decline: 66-year-old woman with subacute cognitive decline, confusion, hallucinations, expressive aphasia, progressive weakness, intermittent fevers, and SIADH leading to death within 4 months despite treatment. Significance: Indicates an aggressive, diffuse CNS infiltrative or neoplastic process.
+CSF biomarker: CSF pleocytosis with elevated IL-10, alongside negative infectious, autoimmune, metabolic, and paraneoplastic panels. Significance: Elevated CSF IL-10 is a highly specific biomarker for primary CNS B-cell lymphoma.
+Characteristic neuroimaging evolution: Initial MRI showed diffuse, non-enhancing T2/FLAIR hyperintensities without mass effect or restricted diffusion; follow-up MRI showed new asymmetric diffusion restriction and hyperperfusion in the caudate and hippocampus; MR spectroscopy showed elevated Cho:Cr and decreased NAA. Significance: Diffuse non-enhancing leukoencephalopathy with neoplastic spectroscopy (high Cho:Cr, low NAA) is the hallmark of lymphomatosis cerebri, while subsequent focal diffusion restriction indicates superimposed ischemic infarction or focal high-grade lymphomatous infiltration.
+Autopsy confirmation: Infiltration by CD20-positive B cells with superimposed focal lesions in the caudate and hippocampus. Significance: Pathologically confirms a diffuse B-cell CNS lymphoma (lymphomatosis cerebri).
+Lymphomatosis cerebri (diffuse variant of primary CNS diffuse large B-cell lymphoma)
+Intravascular large B-cell lymphoma (IVLBCL)
+Gliomatosis cerebri (diffuse infiltrating glioma)
+Autoimmune or infectious encephalitis (e.g., viral, prion disease / CJD)
+Lymphomatosis cerebri (primary CNS diffuse large B-cell lymphoma):
+For: Subacute rapidly progressive dementia, aphasia, weakness, and fatal course; elevated CSF IL-10 and pleocytosis; classic initial MRI of diffuse, non-enhancing T2/FLAIR hyperintensities without mass effect; hypercellular/neoplastic MR spectroscopy (elevated Cho:Cr, decreased NAA); autopsy confirming CD20-positive B-cell infiltration (with superimposed focal infarcts/lymphomatous transformation in the caudate and hippocampus).
+Against: None; accounts for the entire clinical, biochemical, radiologic, and autopsy profile.
+Intravascular large B-cell lymphoma (IVLBCL):
+For: CD20-positive B cells, subacute encephalopathy, intermittent fevers, SIADH, and multifocal diffusion restriction (infarcts) on follow-up MRI.
+Against: Typically presents early with multifocal acute/subacute infarcts and patchy enhancement rather than initial diffuse, non-enhancing T2/FLAIR white matter hyperintensities without restricted diffusion; however, it remains the closest B-cell mimic.
+Gliomatosis cerebri:
+For: Diffuse, non-enhancing T2/FLAIR hyperintensities without discrete mass effect and elevated Cho:Cr with decreased NAA on MR spectroscopy.
+Against: Excluded by elevated CSF IL-10 and autopsy demonstrating CD20-positive B cells rather than glial tumor cells.
+Autoimmune or infectious encephalitis / CJD:
+For: Rapidly progressive dementia, hallucinations, aphasia, CSF pleocytosis, and asymmetric caudate/hippocampal diffusion restriction.
+Against: Broad infectious, autoimmune, and paraneoplastic workups were negative; MR spectroscopy indicated a hypercellular neoplasm; autopsy confirmed CD20-positive B-cell lymphoma.
+Autoimmune/infectious encephalitis and prion disease are excluded by negative panels, neoplastic MR spectroscopy, elevated CSF IL-10, and CD20+ B-cell pathology.
+Gliomatosis cerebri is excluded by elevated CSF IL-10 and CD20+ B-cell autopsy confirmation.
+IVLBCL is less favored than lymphomatosis cerebri given the initial diffuse, non-enhancing T2/FLAIR hyperintensities without restricted diffusion or mass effect.
+Commitment: The combination of subacute fatal cognitive decline, elevated CSF IL-10, initial diffuse non-enhancing T2/FLAIR hyperintensities with hypercellular MR spectroscopy, and autopsy-proven CD20-positive B-cell infiltration establishes lymphomatosis cerebri (primary CNS diffuse large B-cell lymphoma) with superimposed focal ischemia/infarction (or focal lymphomatous lesions) in the caudate and hippocampus.
+Final diagnosis: Lymphomatosis cerebri (diffuse primary CNS B-cell lymphoma) with superimposed focal infarction/involvement of the caudate nucleus and hippocampus
+
+===== CASE =====
+- Patient Information: A 34-year-old woman, gravida 1, para 0, with a history of uterine trauma (D&C).
+- Chief Complaint: Abnormal uterine bleeding 2 months after D&C for a missed abortion.
+- History of Present Illness: Irregular bleeding, severe cramping, menorrhagia with clots, fatigue, confusion, presyncope, and abdominal pain. Prior ultrasound suggested retained products of conception.
+- Past Medical History: Missed abortion and D&C at 15 weeks gestation with an uneventful recovery.
+- Personal History: None provided.
+- Family History: None provided.
+- Physical Examination: Not explicitly detailed; symptoms consistent with hemodynamic instability during ED presentation.
+- Ancillary Tests: 
+  - TVUS: Echogenic mass with increased blood flow, raising differential of RPOC vs [REDACTED].
+  - MRI: Mixed endometrial mass, serpiginous vessel signals, and solid enhancement suggestive of both conditions.
+  - CTA: Cluster of vessels with early venous filling confirmed [REDACTED].
+  - Selective angiography: Identified the left uterine artery as supplying [REDACTED].
+
+REFERENCE DIAGNOSIS: Acquired uterine arteriovenous malformation (AVM).
+REFERENCE REASONING (clinician): - The initial differential included retained products of conception (RPOC), uterine arteriovenous malformation (AVM), gestational trophoblastic disease (GTD), and uterine malignancy such as sarcoma. TVUS findings of an echogenic mass with increased blood flow were nonspecific.
+- MRI suggested features indicative of both RPOC (mass) and AVM (dilated abnormal vessels), warranting further workup to establish a definitive diagnosis.
+- CTA confirmed AVM through the presence of abnormal vessel clusters with early venous filling, which is strongly characteristic of AVM and ruled out RPOC as the primary cause.
+- Selective angiography localized the AVM to the left uterine artery, solidifying the diagnosis.
+
+--- RESPONSE R120 ---
+History of uterine trauma: 34-year-old woman presenting 2 months after dilation and curettage (D&C) for a 15-week missed abortion. Significance: Uterine instrumentation is the primary risk factor for acquired uterine vascular anomalies.
+Severe hemorrhage with hemodynamic instability: Menorrhagia with clots, severe cramping, fatigue, confusion, and presyncope. Significance: Classic presentation of high-flow arterial uterine bleeding rather than routine post-abortal spotting.
+TVUS and MRI findings: Echogenic mass with markedly increased blood flow on TVUS; mixed endometrial mass with serpiginous vessel flow voids and solid enhancement on MRI. Significance: Narrows the differential to hypervascular retained products of conception (RPOC), gestational trophoblastic disease (GTD), or a vascular malformation.
+CTA and selective angiography: Cluster of vessels with early venous filling on CTA, supplied by the left uterine artery on selective angiography. Significance: Early venous filling (arteriovenous shunting) is pathognomonic for an arteriovenous malformation.
+Acquired uterine arteriovenous malformation (AVM)
+Retained products of conception (RPOC) with enhanced myometrial vascularity
+Gestational trophoblastic neoplasia (GTN)
+Uterine artery pseudoaneurysm
+Acquired uterine arteriovenous malformation (AVM):
+For: Recent D&C (uterine trauma); delayed, torrential abnormal uterine bleeding causing hemodynamic instability; serpiginous vessels on MRI; CTA showing a cluster of vessels with early venous filling; selective angiography confirming arterial supply from the left uterine artery.
+Against: Initial ultrasound and MRI showed an echogenic/solid endometrial mass component, which can mimic RPOC.
+Retained products of conception (RPOC):
+For: Recent missed abortion and D&C; echogenic endometrial mass with increased vascularity on TVUS and solid enhancement on MRI.
+Against: Does not explain the classic vascular nidus with early venous filling (AV shunting) confirmed on CTA and angiography.
+Gestational trophoblastic neoplasia (GTN):
+For: Post-pregnancy abnormal bleeding and hypervascular uterine mass on TVUS/MRI.
+Against: Prior pregnancy was a documented missed abortion rather than a molar pregnancy, no hCG elevation is reported, and CTA/angiography specifically confirms a vascular cluster with early venous filling rather than a malignant trophoblastic tumor.
+Uterine artery pseudoaneurysm:
+For: Occurs after D&C and causes severe delayed hemorrhage.
+Against: Typically appears as a single saccular outpouching with turbulent ("yin-yang") flow rather than a cluster of serpiginous vessels with early venous filling.
+Uterine artery pseudoaneurysm is excluded by the presence of a vessel cluster and early venous filling rather than a focal saccular arterial dilatation.
+GTN is excluded by the lack of supporting clinical/biochemical features and definitive angiographic demonstration of an arteriovenous shunt.
+RPOC (though initially suspected and sometimes coexistent) cannot account for the definitive arteriovenous shunting seen on CTA and selective angiography.
+Commitment: Post-D&C torrential hemorrhage combined with serpiginous vessels on MRI and early venous filling supplied by the left uterine artery on CTA/angiography is diagnostic of an acquired uterine arteriovenous malformation (AVM).
+Final diagnosis: Acquired uterine arteriovenous malformation (AVM)
+
+--- RESPONSE R045 ---
+The patient had uterine trauma from a D&C for missed abortion and then developed heavy, irregular bleeding with clots and hemodynamic instability. Ultrasound shows an echogenic mass with increased blood flow, so the main question is retained products of conception versus a vascular lesion. MRI shows serpiginous flow voids. CTA shows a cluster of vessels with early venous filling, which means arteriovenous shunting. Selective angiography identifies feeders from the left uterine artery. Together these fit an acquired arteriovenous malformation after instrumentation.
+Final diagnosis: Acquired uterine arteriovenous malformation (post-D&C)
+
+--- RESPONSE R014 ---
+A 34-year-old woman presents with severe abnormal uterine bleeding, menorrhagia with clots, and signs of hemodynamic instability 2 months after a D&C for a missed abortion. Uterine instrumentation (D&C) is a major risk factor for acquired uterine vascular malformations.
+Initial TVUS and MRI show an echogenic/mixed endometrial mass with increased vascularity and serpiginous vessel signals, narrowing the differential to retained products of conception (RPOC) versus a uterine arteriovenous malformation (AVM).
+CTA demonstrates a cluster of vessels with early venous filling, which is the hallmark diagnostic feature of an arteriovenous shunt/malformation rather than simple RPOC.
+Selective angiography confirms the diagnosis by identifying the left uterine artery as the feeding vessel supplying the vascular malformation.
+Final diagnosis: Acquired uterine arteriovenous malformation (AVM)
+
+--- RESPONSE R039 ---
+Prior D&C (uterine instrumentation) after a 15-week missed abortion. This is a classic risk factor for acquired vascular lesions.
+Two months later: heavy bleeding with clots, presyncope, confusion and hemodynamic instability. This indicates a high-flow bleeding source.
+TVUS shows an echogenic mass with increased flow, MRI shows serpiginous flow voids with enhancement, and CTA shows a vessel cluster with early venous filling (arteriovenous shunting).
+Selective angiography identifies a feeding left uterine artery.
+Acquired uterine arteriovenous malformation (AVM)
+Retained products of conception (RPOC) with enhanced myometrial vascularity
+Gestational trophoblastic disease (GTD)
+Uterine artery pseudoaneurysm
+Placental polyp
+Acquired AVM.
+For: post-D&C timing, a hypervascular mass, serpiginous vessels, early venous filling on CTA, and a uterine artery feeder on angiography.
+Against: overlapping ultrasound appearance with RPOC.
+RPOC with enhanced vascularity.
+For: an echogenic endometrial mass, the earlier ultrasound suggesting RPOC, and a recent pregnancy.
+Against: RPOC does not cause arteriovenous shunting with early venous filling.
+GTD.
+For: post-pregnancy bleeding and a vascular mass.
+Against: no β-hCG elevation or invasive mass was described, and the angiographic picture is of shunting rather than a tumour.
+Pseudoaneurysm.
+For: post-instrumentation timing and the bleeding pattern.
+Against: imaging shows a vessel cluster rather than a single saccular outpouching.
+Placental polyp.
+For: an echogenic retained mass.
+Against: no AV shunting.
+Early venous filling with a discrete arterial feeder is diagnostic of arteriovenous communication. This excludes isolated RPOC and placental polyp.
+GTD and pseudoaneurysm do not fit the morphology.
+I commit to an acquired AVM. Coexisting retained tissue is possible but is not the primary bleeding source.
+Final diagnosis: Acquired uterine arteriovenous malformation (post-D&C), supplied by the left uterine artery.
+
+===== CASE =====
+- Patient Information: 37-year-old female
+- Chief Complaint: None (presents for treatment of multiple space-occupying lesions in the lumbosacral vertebral canal).
+- History of Present Illness: Chronic constipation; otherwise asymptomatic with normal ambulation.
+- Past Medical History: Schwannoma resection in 2019 (left perineal subcutaneous tumor).
+- Personal History: None.
+- Family History: Negative for neurofibromatosis.
+- Physical Examination: No neurological deficits in bilateral lower limb muscle strength, sensation, or sphincter function. Mobile, palpable nodules (1 x 1.5 cm) in the left perineal region suggestive of postoperative schwannoma recurrence. No further physical abnormalities noted.
+- Ancillary Tests:
+  - Abdominal MRI (2022): Multiple well-defined, bead-like nodules in the lumbosacral canal (L1–S1) with no bleeding, necrosis, or cystic changes.
+  - Lumbar MRI (2024): Similar findings persist; contrast-enhanced MRI shows homogenous enhancement without cystic components or surrounding abnormalities.
+  - Genetic testing: Negative for NF2, SMARCB1, and LZTR1 mutations.
+  - Pathological examination (post-surgery, March 2024): Confirmed diagnosis of schwannoma.
+  - Normal head, cervical, and thoracic spine imaging.
+
+REFERENCE DIAGNOSIS: Sporadic schwannomatosis with multiple cauda equina schwannomas.
+REFERENCE REASONING (clinician): 1. **Initial Considerations**: The initial clinical presentation (multiple space-occupying lesions in the lumbosacral spine) suggests nerve sheath tumors as the most probable etiology. Options include:
+   - Schwannomatosis
+   - Neurofibromatosis type 2 (NF2)
+   - Solitary schwannomas or other tumors
+   
+2. **NF2 Exclusion**: NF2 was excluded based on negative genetic testing, absence of vestibular schwannomas or other hallmark lesions on imaging, and a negative family history.
+
+3. **Solitary Schwannomas Exclusion**: Solitary schwannomas were excluded due to the presence of multiple lesions involving distinct nerve roots.
+
+4. **Confirmation of Schwannomatosis**:
+   - Diagnostic criteria for schwannomatosis are met: presence of multiple schwannomas without features of NF2 and with negative genetic testing for SMARCB1 and LZTR1 mutations.
+   - Pathological confirmation of schwannoma post-surgery eliminates alternative diagnoses.
+
+--- RESPONSE R028 ---
+The patient is a 37-year-old woman with a history of a resected left perineal schwannoma (with local recurrence) who now presents with multiple homogeneously enhancing, bead-like intradural/intraspinal lesions in the lumbosacral vertebral canal (L1–S1), histologically confirmed as schwannomas. The presence of multiple pathologically proven schwannomas involving both spinal nerve roots and peripheral nerves without vestibular schwannomas (normal head imaging) and without an NF2 mutation rules out neurofibromatosis type 2 (NF2-related schwannomatosis) and meets the clinical diagnostic criteria for schwannomatosis. Because genetic testing is negative for NF2, SMARCB1, and LZTR1 mutations and the family history is negative, this represents sporadic (or non-NF2/NOS) schwannomatosis.
+Final diagnosis: Schwannomatosis (sporadic schwannomatosis)
+
+--- RESPONSE R012 ---
+Multiple bead-like intradural nodules from L1 to S1, homogeneously enhancing, with no cyst, hemorrhage or necrosis. This pattern suggests multiple benign nerve sheath tumors.
+A prior perineal schwannoma was resected, a mobile perineal nodule has now recurred, and the canal lesions are pathology-confirmed schwannoma. That makes at least two non-intradermal schwannomas in separate locations.
+Head, cervical and thoracic imaging is normal, so there are no vestibular schwannomas or meningiomas, which argues against NF2.
+Germline testing is negative for NF2, SMARCB1 and LZTR1, and there is no family history.
+There is no neurological deficit. Chronic constipation may be a mild cauda equina effect.
+Schwannomatosis (genetically unexplained, "not elsewhere classified")
+NF2-related schwannomatosis (mosaic)
+Neurofibromatosis type 1 with multiple spinal neurofibromas
+Myxopapillary ependymoma with CSF seeding
+Leptomeningeal metastases or drop metastases
+Schwannomatosis.
+For: multiple pathology-proven schwannomas in separate sites, spinal and peripheral predominance, no vestibular tumors, no neurological deficit.
+Against: no pathogenic variant was found, but that is expected in this category.
+Mosaic NF2.
+For: blood testing can miss mosaic NF2; multiple schwannomas.
+Against: normal head imaging with no vestibular schwannomas, meningiomas or ependymomas.
+NF1 neurofibromas.
+For: multiple spinal nerve sheath tumors.
+Against: histology is schwannoma, and there are no café-au-lait macules or other NF1 stigmata.
+Myxopapillary ependymoma with seeding.
+For: lumbosacral intradural location.
+Against: histology is schwannoma, and the rest of the neuraxis is normal.
+Metastases.
+For: multiple intradural nodules.
+Against: no primary cancer, years of stability (2022 to 2024), benign pathology.
+NF1, ependymoma and metastases are excluded by histology.
+NF2 is unlikely because there are no cranial or vestibular lesions and germline NF2 testing is negative. Tumor-tissue NF2 analysis could still exclude mosaicism formally.
+I commit to schwannomatosis because she has at least two pathologically confirmed non-intradermal schwannomas without vestibular schwannoma.
+Final diagnosis: Schwannomatosis (no NF2, SMARCB1 or LZTR1 variant identified, i.e. schwannomatosis-NEC), with multiple lumbosacral intraspinal schwannomas and recurrent perineal schwannoma.
+
+--- RESPONSE R093 ---
+History of prior perineal schwannoma (2019) with palpable local recurrence: Demonstrates a predisposition to multiple peripheral nerve sheath tumors.
+Multiple bead-like, well-defined, homogeneously enhancing nodules in the lumbosacral canal (L1–S1) on MRI (2022 and 2024): Classic imaging appearance of multiple intradural extramedullary cauda equina/lumbosacral nerve root tumors without necrosis or cystic degeneration.
+Pathological confirmation of schwannoma (March 2024): Definitively establishes the histologic identity of the lumbosacral lesions.
+Normal head, cervical, and thoracic spine imaging: Rules out bilateral vestibular schwannomas and other intracranial/higher spinal tumors.
+Negative family history and negative genetic testing for NF2, SMARCB1, and LZTR1: Excludes NF2-related schwannomatosis and known germline SMARCB1/LZTR1-related forms, which is consistent with sporadic schwannomatosis (where a substantial proportion of cases lack detectable germline mutations in these genes).
+Sporadic schwannomatosis
+NF2-related schwannomatosis (Neurofibromatosis type 2)
+Multiple spinal neurofibromas (Neurofibromatosis type 1)
+Intradural extramedullary drop metastases (leptomeningeal carcinomatosis)
+Myxopapillary ependymoma of the cauda equina
+Sporadic schwannomatosis:
+For: Pathologically confirmed schwannomas at multiple non-intradermal anatomical sites (lumbosacral vertebral canal and left perineum), absence of vestibular schwannomas on normal head MRI, negative NF2 genetic testing, and negative family history. Negative SMARCB1 and LZTR1 testing does not exclude sporadic schwannomatosis.
+Against: No identified pathogenic germline variant in SMARCB1 or LZTR1 (though genetically uncharacterized sporadic cases are well-recognized).
+NF2-related schwannomatosis (Neurofibromatosis type 2):
+For: Multiple spinal schwannomas along the cauda equina.
+Against: Normal head imaging (no vestibular schwannomas or meningiomas), negative NF2 genetic testing, and negative family history.
+Multiple spinal neurofibromas (Neurofibromatosis type 1):
+For: Multiple lumbosacral nerve root nodules and subcutaneous perineal nodules.
+Against: Pathology definitively confirmed schwannoma rather than neurofibroma; negative family history and absence of other NF1 stigmata on physical examination.
+Intradural extramedullary drop metastases:
+For: Multiple bead-like enhancing nodules along the lumbosacral spinal canal/cauda equina.
+Against: Indolent course (stable from 2022 to 2024 without neurological deficits), normal brain/cervical/thoracic imaging, and definitive pathology confirming benign schwannoma.
+Myxopapillary ependymoma:
+For: Common tumor of the lumbosacral canal/cauda equina in young adults.
+Against: Typically solitary and often hemorrhagic or cystic; ruled out by pathology confirming schwannoma and by the concurrent perineal schwannoma.
+NF2-related schwannomatosis is excluded by normal head imaging (absence of vestibular schwannomas) and negative NF2 genetic testing. Neurofibromatosis type 1, drop metastases, and myxopapillary ependymoma are definitively excluded by surgical histopathology confirming schwannoma. Given multiple anatomically distinct, histologically confirmed schwannomas (lumbosacral canal and perineum) without vestibular schwannomas or NF2 mutation, the diagnosis commits to sporadic schwannomatosis.
+Final diagnosis: Sporadic schwannomatosis
+
+--- RESPONSE R022 ---
+A 37-year-old woman has multiple schwannomas: a previously resected left perineal schwannoma, a likely perineal recurrence, and multiple bead-like nodules from L1 to S1 in the lumbosacral canal, with resection pathology confirming schwannoma. Head imaging is normal, so there are no vestibular schwannomas. There is no family history of neurofibromatosis. Germline testing is negative for NF2, SMARCB1, and LZTR1. Multiple non-vestibular, non-intradermal schwannomas without vestibular tumors and without NF2 features fit schwannomatosis. The negative gene panel places it in the gene-negative category: schwannomatosis not otherwise specified, or possibly mosaic disease not detectable in blood.
+Final diagnosis: Schwannomatosis (gene-negative / NOS, non-NF2-related), with multiple lumbosacral intraspinal schwannomas and a recurrent perineal schwannoma
+

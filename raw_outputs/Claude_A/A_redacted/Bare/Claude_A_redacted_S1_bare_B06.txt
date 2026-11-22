@@ -1,0 +1,23 @@
+CASE: M041
+FINAL DIAGNOSIS: Infective endocarditis of the prosthetic mitral valve and native aortic valve, complicated by septic cerebral emboli with hemorrhagic and ischemic stroke (right hemiparesis)
+
+CASE: M042
+FINAL DIAGNOSIS: Intraventricular fibroblastic meningioma of the right lateral ventricle trigone
+
+CASE: M043
+FINAL DIAGNOSIS: Atypical insufficiency fracture of the proximal right tibia from severely suppressed bone turnover after long-term bisphosphonate and denosumab therapy
+
+CASE: M044
+FINAL DIAGNOSIS: Atypical (complement-mediated) hemolytic uremic syndrome / thrombotic microangiopathy triggered by surgery and sepsis
+
+CASE: M045
+FINAL DIAGNOSIS: Early-onset pediatric Crohn's disease with upper GI (gastric) granulomatous involvement
+
+CASE: M046
+FINAL DIAGNOSIS: Pseudoachalasia secondary to mediastinal and esophageal metastasis of osteosarcoma
+
+CASE: M047
+FINAL DIAGNOSIS: Dermatomyositis with dual anti-MDA5 and anti-SAE1 antibody positivity
+
+CASE: M048
+FINAL DIAGNOSIS: Right ventricular cardiac metastasis from p16-negative squamous cell carcinoma of the oral tongue (cT4aN2c)

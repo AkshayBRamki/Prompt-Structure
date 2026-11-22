@@ -1,0 +1,23 @@
+CASE: M073
+FINAL DIAGNOSIS: Marchiafava-Bignami disease (alcohol and malnutrition-related corpus callosum demyelination/necrosis, with frontal cortical involvement)
+
+CASE: M074
+FINAL DIAGNOSIS: Late recurrence of Xp11.2 translocation (TFE3-rearranged) renal cell carcinoma, originally misclassified as papillary renal cell carcinoma
+
+CASE: M075
+FINAL DIAGNOSIS: Cough-variant asthma
+
+CASE: M076
+FINAL DIAGNOSIS: Wernicke encephalopathy (thiamine deficiency associated with parenteral nutrition)
+
+CASE: M077
+FINAL DIAGNOSIS: Wernicke encephalopathy (non-alcoholic, due to malnutrition and recurrent vomiting) with optic neuropathy and hearing loss
+
+CASE: M078
+FINAL DIAGNOSIS: Secondary peripheral chondrosarcoma arising from an osteochondroma (right fibula) in hereditary multiple exostoses
+
+CASE: M079
+FINAL DIAGNOSIS: Caroli disease with intrahepatic lithiasis (hepatolithiasis)
+
+CASE: M080
+FINAL DIAGNOSIS: Acute rheumatic fever with carditis (valvulitis and Mobitz type II atrioventricular block)

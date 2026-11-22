@@ -1,0 +1,23 @@
+CASE: M113
+FINAL DIAGNOSIS: Pulmonary alveolar proteinosis (borderline autoimmune, with Bacillus megaterium infection)
+
+CASE: M114
+FINAL DIAGNOSIS: Scimitar syndrome (hypogenetic lung / congenital pulmonary venolobar syndrome) with right lower lobe sequestration
+
+CASE: M115
+FINAL DIAGNOSIS: Peripartum cardiomyopathy, with pre-eclampsia
+
+CASE: M116
+FINAL DIAGNOSIS: Non-insulin-mediated (reactive postprandial and fasting) hypoglycemia associated with hypermobile Ehlers-Danlos syndrome and dysautonomia
+
+CASE: M117
+FINAL DIAGNOSIS: Non-paraneoplastic autoimmune retinopathy
+
+CASE: M118
+FINAL DIAGNOSIS: IgG-kappa plasma cell myeloma with extramedullary skull-base plasmacytoma, coexisting with CLL/SLL (two clonally distinct neoplasms)
+
+CASE: M119
+FINAL DIAGNOSIS: Early congenital syphilis with bone involvement (osteochondritis/metaphysitis)
+
+CASE: M120
+FINAL DIAGNOSIS: Wandering (ectopic) spleen with 720° torsion of the pedicle and splenic infarction

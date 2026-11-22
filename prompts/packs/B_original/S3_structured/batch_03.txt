@@ -1,0 +1,133 @@
+You will be given 8 clinical cases. Use only the information in each case. Do not search the web or use any tools. Answer all 8 cases, in order, and use exactly the output format below for every case.
+
+For each case, complete this structured diagnostic work-up.
+
+Output format for every case:
+CASE: <case id>
+1. KEY FINDINGS: the clinically decisive findings, with their significance
+2. DIFFERENTIAL: 3-5 candidate diagnoses, ranked
+3. EVIDENCE FOR AND AGAINST: for each candidate, the findings that support it and the findings that argue against it
+4. EXCLUSIONS AND COMMITMENT: which candidates you exclude and why, and which you commit to by that reasoning
+5. FINAL DIAGNOSIS: <diagnosis>
+
+=== CASE M017 ===
+- **Patient Information:** 61-year-old male.
+- **Chief Complaint:** Right iliac fossa pain worsening over 3 days.
+- **History of Present Illness:** Onset of sharp, progressive right iliac fossa pain for 3 days, associated with appetite loss but no nausea, vomiting, fever, or bowel disturbances.
+- **Past Medical History:** Splenectomy 38 years ago, epilepsy managed with valproic acid.
+- **Personal History:** Not reported.
+- **Family History:** Not reported.
+- **Physical Examination:** Positive McBurney's sign and rebound tenderness.
+- **Ancillary Tests:**
+  - Blood tests: Elevated white blood cells, creatinine, and urea.
+  - CT scan: Right iliac fossa 13 × 5.2 cm oval mass arising from the cecum, suggestive of appendicitis.
+  - Pathology post-surgery: Moderately differentiated mucinous adenocarcinoma of the appendix (G2), infiltrating muscularis mucosa into subserosa but not reaching serosa (pT3N0M0).
+
+=== CASE M018 ===
+- **Patient Information**: 49-year-old female
+- **Chief Complaint**: Hypercalcemia with fatigue and generalized bone pain for 2 years
+- **History of Present Illness**: Hypercalcemia and elevated parathyroid hormone levels
+- **Past Medical History**: None mentioned
+- **Personal History**: None mentioned
+- **Family History**: None mentioned
+- **Physical Examination**: None specifically described
+- **Ancillary Tests**:  
+  - Bloodwork: Albumin-corrected calcium = 11.6 mg/dL, PTH = 306 pg/mL, phosphor = 1.6 mg/dL, vitamin D = 43 ng/mL, 24-hour urine calcium/creatinine ratio = 3%, eGFR = 86.57 mL/min/1.73.  
+  - DXA scan: Bone mineral density below the expected range.  
+  - 99mTc-MIBI SPECT/CT: MIBI-avid lesion in the mid-left thyroid lobe.  
+  - Neck ultrasound: Three thyroid nodules suspicious for malignancy (categorized as TI-RADS 4).  
+  - Fine-needle aspiration: Hurthle cell neoplasm in one nodule; atypia of undetermined significance (AUS) in the others.  
+  - PTH washout: Low concentration, ruling out intrathyroid parathyroid adenoma (IPA).  
+  - Parathyroid 4D CT: Enhancing lesion (8 × 6 × 12 mm) located posterolateral to the esophagus on the left side, suggesting an extrathyroid parathyroid adenoma.  
+  - Postoperative labs: Serum iPTH = 17.2 pg/mL, calcium = 8.7 mg/dL (both normalized).
+
+=== CASE M019 ===
+- **Patient Information:** 35-year-old woman.
+- **Chief Complaint:** Recurrent episodes of hypoglycemia.
+- **History of Present Illness:** Two-year history of tremors before meals resolving with sugar intake, sweating, palpitations, confusion when meals are missed, and a 10-kg weight gain over 18 months.
+- **Past Medical History:** None provided.
+- **Personal History:** Nonsmoker, non-alcoholic, working as a chemistry teacher in Dubai.
+- **Family History:** Type 2 diabetes in father, rheumatic heart disease in mother.
+- **Physical Examination:** Body mass index of 23, otherwise unremarkable.
+- **Ancillary Tests:**
+  - **Biochemical Evidence:** Hyperinsulinemic hypoglycemia confirmed via fasting tests with low glucose, elevated insulin, C-peptide, and pro-insulin levels, suppressed β-hydroxybutyrate, and negative sulfonylurea screen.
+  - **Imaging:** Abdominal ultrasound, MRI, and EUS failed to localize the tumor initially. 68Ga-DOTATATE PET/CT was negative for lesions. A 68Ga-Exendin-4 PET/CT later localized a single lesion in the pancreatic uncinate process.
+  - **Intraoperative Findings:** A 1.5-cm lesion localized via intraoperative ultrasound. Insulin levels reduced significantly after enucleation of the lesion.
+  - **Histopathology:** Well-differentiated grade 1 pancreatic neuroendocrine tumor, cytoplasmic synaptophysin and insulin positivity, with a Ki-67 index of 1%.
+
+---
+
+=== CASE M020 ===
+- **Patient Information:** Two male patients, ages 45 and 57, both with histories of high-risk gastrointestinal stromal tumors (GIST).
+- **Chief Complaint:** Newly identified abdominal masses during follow-up examinations post-GIST treatment.
+- **History of Present Illness:** 
+  - Patient 1: History of gastric GIST diagnosed in 2020, underwent emergency surgery for tumor rupture. Received adjuvant Imatinib therapy. In 2022, a mesenteric mass in the small intestine was detected.
+  - Patient 2: History of duodenal GIST with liver metastases, surgically treated. Received adjuvant Imatinib therapy. In 2022, a small bowel mesenteric mass was noted.
+- **Past Medical History:** History of GIST in both patients.
+- **Personal History:** None provided.
+- **Family History:** None mentioned.
+- **Physical Examination:** Not detailed in the report.
+- **Ancillary Tests:** 
+  - Imaging: CT and PET-CT scans indicated mesenteric masses with features suspected for GIST recurrence.
+  - Pathology and Immunohistochemistry:
+    - Patient 1: CD117 (-), DOG-1 (-), CD34 (-), Ki-67 (+, 5%), β-Catenin (nuclear/plasma +), SMA (+), indicating desmoid-type fibromatosis (DF).
+    - Patient 2: CD117 (-), DOG-1 (-), CD34 (-), Ki-67 (+, 5%), β-Catenin (nuclear +), SMA (partial +), consistent with DF.
+
+=== CASE M021 ===
+- **Patient Information:** 39-year-old female.
+- **Chief Complaint:** Acute onset of right-sided weakness, altered sensorium, and aphasia.
+- **History of Present Illness:** Two-month history of intermittent fever and weight loss.
+- **Past Medical History:** None mentioned.
+- **Personal History:** None mentioned.
+- **Family History:** None mentioned.
+- **Physical Examination:** Glasgow Coma Score (GCS) of E4V1M5, NIH Stroke Scale Score of 16, right-sided hemiparesis (upper limb 2/5, lower limb 2/5 strength) with exaggerated deep tendon reflexes and withdrawal plantar response on the right side. No significant findings on systemic examination.
+- **Ancillary Tests:**
+  - MRI: Hyperacute non-hemorrhagic infarcts in the left frontal cortex, left precentral gyrus, and perisylvian fissure.
+  - MR Angiogram: No vascular abnormalities.
+  - CT post-thrombolysis: Acute intraparenchymal hemorrhage in the right occipital lobe.
+  - Transthoracic and transesophageal echocardiography: Suggestive of infective endocarditis with mitral valve vegetation (6x6 mm) and underlying undiagnosed mitral valve prolapse (MVP) with moderate mitral regurgitation.
+  - Other diagnostic workups (PET-CT, autoimmune panels, infection and vasculitis screenings): Negative.
+
+=== CASE M022 ===
+- **Patient Information:** 45-year-old male
+- **Chief Complaint:** Recurrent episodes of leg/myalgia pain, dark-colored urine, and elevated CK levels following viral illnesses.
+- **History of Present Illness:** Five episodes of rhabdomyolysis beginning in 2015, each following a viral illness. Symptoms included myalgias, dark-colored urine, and elevated creatine kinase (CK) levels (>22,000–216,000). Episodes were treated with IV fluids and resolved within weeks. He developed symptoms (tingling, fasciculations, leg cramps) post-first rhabdomyolysis episode.
+- **Past Medical History:** Hypertension, obstructive sleep apnea, hyperlipidemia, obesity.
+- **Personal History:** None provided.
+- **Family History:** None reported.
+- **Physical Examination:** None significant during evaluation.
+- **Ancillary Tests:**
+  - CK levels >100,000 during acute episodes.
+  - Muscle biopsy: No significant myopathy or enzyme deficiencies; mild muscle fiber variability.
+  - Genetic testing: Identified two variants of unknown significance (VUS) in SYNE2 gene linked to Emery-Dreifuss muscular dystrophy (EDMD).
+  - Electromyography (2024): Normal results.
+  - Lab: Mildly elevated erythrocyte sedimentation rate (27) and gamma globulin (1.7), with biclonal gammopathy of undetermined significance.
+  - Pending 24-hour urine protein studies.
+  - CPET1/2 disorders and other enzyme/fatty acid oxidation disorders ruled out.
+
+=== CASE M023 ===
+- **Patient Information:** 13-year-old male
+- **Chief Complaint:** Severe upper gastrointestinal bleeding with hemodynamic instability
+- **History of Present Illness:** The patient was diagnosed 6 months prior with peptic ulcer disease but did not receive continuous treatment. He presented with hematemesis and melena. Despite temporary stabilization with blood transfusions and endoscopy, recurrent bleeding occurred.
+- **Past Medical History:** Peptic ulcer disease diagnosed 6 months prior
+- **Personal History:** None provided
+- **Family History:** None provided
+- **Physical Examination:** Pale appearance, heart rate of 80 bpm, blood pressure of 100/60 mmHg, hematocrit at 22%, signs of hypovolemic shock during recurrent bleeding episodes
+- **Ancillary Tests:**
+  - Initial endoscopy: Revealed a bleeding gastric ulcer (Forrest IIB) surrounded by blood clots.
+  - Follow-up CT scan: Detected vascular aneurysm in the gastroduodenal artery near the proximal duodenum.
+  - Digital subtraction angiography (DSA): Confirmed the aneurysm and allowed for successful embolization.
+
+=== CASE M024 ===
+- **Patient Information**: 46-year-old woman.
+- **Chief Complaint**: None explicitly stated; patient under evaluation for a breast mass.
+- **History of Present Illness**: Mass in the left breast present for years, exact onset unknown.
+- **Past Medical History**: None reported.
+- **Personal History**: Non-smoker; no history of tobacco use.
+- **Family History**: Unremarkable.
+- **Physical Examination**: Painless, soft, mobile, and palpable mass in the upper outer quadrant of the left breast.
+- **Ancillary Tests**:
+  - **Mammography**: Demonstrated a 9.5 × 7.5 × 8 cm predominantly fatty, circumscribed mass with a dense internal irregular lesion measuring ~4.5 × 4 × 3 cm, spiculated borders, and microcalcifications. BI-RADS V score given.
+  - **MRI**: Confirmed the fatty oval mass with an internal spiculated lesion showing heterogeneous enhancement with medium/plateau kinetics. BI-RADS V score again confirmed.
+  - **Pathology (Core Needle Biopsy)**: Benign features, including disorganized ducts, lobules, and adipose tissue.
+  - **Surgical Excision and Gross Pathology**: Well-circumscribed benign tumor with disorganized glandular, fibrous, and adipose elements without cytoarchitectural atypia or mitosis. Histologically consistent with hamartoma.

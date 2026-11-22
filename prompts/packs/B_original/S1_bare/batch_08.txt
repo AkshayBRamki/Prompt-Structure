@@ -1,0 +1,123 @@
+You will be given 8 clinical cases. Use only the information in each case. Do not search the web or use any tools. Answer all 8 cases, in order, and use exactly the output format below for every case.
+
+Give the most likely final diagnosis for each case.
+
+Output format for every case:
+CASE: <case id>
+FINAL DIAGNOSIS: <diagnosis>
+
+=== CASE M057 ===
+- **Patient Information:** 55-year-old male.
+- **Chief Complaint:** Scrotal pain and palpable mass.
+- **History of Present Illness:** Patient reported left scrotal subsiding pain and palpable, painful testicular mass. No urinary tract symptoms, history of infertility, undescended testis, or prior testicular trauma.
+- **Past Medical History:** Ischemic heart disease.
+- **Personal History:** Not specified.
+- **Family History:** Not specified.
+- **Physical Examination:** No gynecomastia or lymphadenopathy. Palpable, painful para-testicular mass (10 × 5 mm) in the tail of the left epididymis; no pathological findings in the left testis. Palpable, hard, painful mass (10 × 10 mm) in the lower pole of the right testis.
+- **Ancillary Tests:**  
+  - Serum tumor markers: AFP and B-HCG normal; LDH slightly elevated at 209 U/L.  
+  - Scrotal ultrasound: Hypoechoic 9 × 5 mm mass in the left epididymis suggestive of spermatocele; hyperechoic, well-demarcated 9 × 11 mm mass in the right testis with testicular microlithiasis.  
+  - Histopathology and immunohistochemistry (postoperative findings): Tumor positive for vimentin and calretinin; weak CD99; negative for SALL4, D2-40, OCT4, inhibin, and AFP. Benign Sertoli cell tumor confirmed.
+
+---
+
+=== CASE M058 ===
+- **Patient Information:** 89-year-old male.
+- **Chief Complaint:** Generalized weakness, productive cough, shortness of breath, and dysphagia to solids and liquids.
+- **History of Present Illness:** Symptoms of dyspnea, orthopnea, and paroxysmal nocturnal dyspnea started three weeks prior. Condition initially improved with prescribed levofloxacin for a suspected upper respiratory infection but worsened after one week, leading to dysphagia, intermittent coughing with liquids, and emesis with oral intake.
+- **Past Medical History:** Waldenstrom macroglobulinemia, Charcot-Marie-Tooth syndrome, basal cell carcinoma, and hypertension.
+- **Personal History:** None provided.
+- **Family History:** None provided.
+- **Physical Examination:** Significant for 2+ pitting edema in lower extremities, flank swelling, ecchymosis on upper extremities, irregular cardiovascular rhythm without murmurs or JVD, and no signs of pulsus paradoxus.
+- **Ancillary Tests:**  
+  - **Chest X-ray:** Cardiomegaly, central venous congestion, pulmonary edema, small effusions.  
+  - **CT abdomen/pelvis:** Moderate-to-large pericardial effusion, bilateral pleural effusions, and prominent lymph nodes.  
+  - **EKG:** Atrial flutter with variable AV block, no low-voltage QRS or electrical alternans.  
+  - **Echocardiogram:** Large pericardial effusion, no tamponade initially.  
+  - **Laboratory findings:** Elevated potassium, elevated BUN/Cr, low bicarbonate and albumin, and mild anemia; cytology of pericardial fluid negative for neoplastic cells.
+  - **Post-pericardiocentesis echocardiogram:** Mild residual pericardial effusion.
+
+---
+
+=== CASE M059 ===
+- **Patient Information:** 24-year-old male.
+- **Chief Complaint:** Chronic right eye swelling in the medial upper eyelid. 
+- **History of Present Illness:** Gradual onset of right eye swelling over 10 years with no associated symptoms such as pain, redness, diplopia, blurred vision, or history of trauma.
+- **Past Medical History:** None.
+- **Personal History:** None.
+- **Family History:** None.
+- **Physical Examination:** Normal vital signs; best corrected visual acuity of 20/20 in both eyes; full extraocular movements without restriction; upper eyelid fullness with downward and lateral globe displacement; pupils reactive without relative afferent pupillary defect; normal intraocular pressures, anterior segment, posterior segment, fundi, and optic discs.
+- **Ancillary Tests:** 
+   - MRI: Revealed a well-defined, partially lobulated lesion in the right medial orbital space measuring 1.95 × 3.16 × 2.62 cm, isointense to recti muscles on T1-weighted images, hyperintense with homogeneous enhancement on contrast. The lesion occupied the anterior superior medial extraconal space, extended posteriorly to the intraconal space, and caused inferior and temporal displacement of the globe.
+   - Histopathology revealed monomorphic spindle-cell neoplasm with cigar-shaped nuclei, dispersed calcifications, and no significant mitotic activity or necrosis. Positive immunochemistry for smooth muscle actin (SMA) and desmin; negative for S100 protein and CD34.
+
+---
+
+=== CASE M060 ===
+- **Patient Information:** 57-year-old woman.
+- **Chief Complaint:** Fever and headache lasting several days.
+- **History of Present Illness:** None provided beyond the current complaints.
+- **Past Medical History:** Embolic stroke of undetermined source, on warfarin (4.25 mg/day).
+- **Personal History:** None.
+- **Family History:** None.
+- **Physical Examination:** Alert consciousness, mild hearing loss in the left ear, no other neurological abnormalities such as meningeal irritation signs or motor palsy.
+- **Ancillary Tests:**
+  - **Brain MRI:** Hemorrhagic lesion with wall enhancement in the left hemisphere on contrast-enhanced T1 imaging; cystic features with heterogeneous intensities.
+  - **CSF Analysis:** Pleocytosis (23 cells/μL), elevated protein (125 mg/dL), decreased glucose (51 mg/dL vs. 128 mg/dL in blood).
+  - **Blood Tests:** WBC 5,180/μL, CRP 0.04 mg/dL, PT-INR 2.89.
+  - **Imaging:** Non-contrast head CT showing circular hemorrhagic lesion with air-fluid level in the left hemisphere; no sinusitis or vascular abnormalities noted.
+  - **Cultures:** Conventional bacterial cultures initially failed to identify a pathogen.
+  - **Molecular Tests:** Shotgun sequencing and ribosomal multilocus sequence typing identified *Paraclostridium tenue* as the pathogen.
+  - **Other Investigations:** Anaerobic culture suggested Clostridium spp. Transthoracic echocardiography and dental exam found no source of infection. Thoracoabdominal CT showed no abnormalities.
+
+=== CASE M061 ===
+- Patient Information: 2-year-old male
+- Chief Complaint: Bilateral upper extremity pain and weakness after an unwitnessed injury
+- History of Present Illness: The child was found crying with flaccid upper extremities after a brief period alone at daycare.
+- Past Medical History: None reported
+- Personal History: None reported
+- Family History: None reported
+- Physical Examination: Alert, well-developed child in no acute distress; discomfort with passive shoulder abduction without crepitus or deformity; intact sensation to pain; 0/5 strength in bilateral upper extremities, except finger movements with objects already in hand; no bony tenderness; no skin abnormalities.
+- Ancillary Tests: Plain radiographs of the cervical spine, humeri, elbows, and forearms were negative for fractures or dislocations; CT scans of the head and cervical spine and plain-film chest radiograph showed no acute findings. Symptoms resolved following supination and flexion maneuvers of both elbows, associated with palpable clicks.
+
+=== CASE M062 ===
+- **Patient Information:** 68-year-old White female
+- **Chief Complaint:** Considerable pain four days after a previously diagnosed left pubic symphysis fracture.
+- **History of Present Illness:** Ground-level fall leading initially to left pubic symphysis fracture, later revealed via repeat imaging to include a concurrent left femoral neck fracture.
+- **Past Medical History:** Paroxysmal atrial fibrillation (on anticoagulation), nicotine use disorder, chronic hyponatremia, hypertension, hyperlipidemia.
+- **Personal History:** None provided.
+- **Family History:** None provided.
+- **Physical Examination:** None described in detail for this case.
+- **Ancillary Tests:**  
+  - Initial imaging (X-ray) diagnosed left pubic symphysis fracture.  
+  - Repeat imaging (X-ray and CT) confirmed left femoral neck fracture concurrent with mild joint space narrowing.  
+  - Intraoperative and postoperative imaging revealed a well-aligned left hemiarthroplasty prosthesis.
+
+---
+
+=== CASE M063 ===
+- Patient Information: 28-year-old primigravida woman.
+- Chief Complaint: None explicitly reported; referred for evaluation of fetal anomaly.
+- History of Present Illness: Fetal echogenic bowel (FEB) identified at 18 weeks/3 days gestational age during an anomaly scan. Persistent bowel dilation noted throughout pregnancy.
+- Past Medical History: None significant.
+- Personal History: None significant.
+- Family History: Not reported.
+- Physical Examination: N/A (prenatal case; no specific maternal physical examination findings reported).
+- Ancillary Tests:
+  - Ultrasound: Anomaly scan identified grade 3 hyperechogenicity of the fetal bowel; bowel dilation progressed, measuring 21 mm by 29 weeks/6 days gestation.
+  - Fetal Echocardiogram: Normal.
+  - Maternal Serum Testing for TORCH Infections: Normal.
+  - Non-Invasive Prenatal Testing (NIPT): Low risk for chromosomal aneuploidies.
+  - First-Trimester Screening: Negative for trisomy 21, 18, and 13.
+
+---
+
+=== CASE M064 ===
+- **Patient Information**: 51-year-old male from Palestine with diabetes.
+- **Chief Complaint**: Rapidly growing, painless, purple lesion on the left forearm over 6 months.
+- **History of Present Illness**: Patient noted the lesion beginning as a small nodule that rapidly grew to 1.8×1.5 cm in size. The lesion was non-pruritic, with no associated systemic symptoms.
+- **Past Medical History**: Diabetes, a similar lesion on the left middle finger 2 years before, diagnosed as pyogenic granuloma. Colonoscopy one year ago revealed benign polyps.
+- **Personal History**: No smoking, alcohol, or drug use. Negative for unusual sexual practices.
+- **Family History**: None reported for similar lesions or significant illnesses.
+- **Physical Examination**: Hemodynamically stable, no lymphadenopathy. Observed purple nodule on the left forearm and hyperpigmented lesions on the back. No mucosal or visceral involvement.
+- **Ancillary Tests**: Normal blood counts and immune cell subcounts. Negative for HIV, hepatitis B, and C. CT scans of chest, abdomen, and pelvis showed no abnormalities. Histopathology confirmed nodular-stage Kaposi sarcoma with strong HHV-8 and CD31 positivity.

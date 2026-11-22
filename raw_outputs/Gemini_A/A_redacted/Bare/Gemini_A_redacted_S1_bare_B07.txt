@@ -1,0 +1,23 @@
+CASE: M049
+FINAL DIAGNOSIS: Spindle cell hemangioma of the right knee
+
+CASE: M050
+FINAL DIAGNOSIS: Pulmonary embolism
+
+CASE: M051
+FINAL DIAGNOSIS: Small cell neuroendocrine carcinoma of the pancreas with widespread metastases
+
+CASE: M052
+FINAL DIAGNOSIS: Choledochal cyst (Todani type IVA)
+
+CASE: M053
+FINAL DIAGNOSIS: Mosaic Turner syndrome with multiple intracranial meningiomas and hypopituitarism
+
+CASE: M054
+FINAL DIAGNOSIS: Isolated posterior malleolus fracture of the right ankle
+
+CASE: M055
+FINAL DIAGNOSIS: Adenosquamous carcinoma of the common hepatic duct (cholangiocarcinoma) associated with a choledochal cyst and pancreaticobiliary maljunction
+
+CASE: M056
+FINAL DIAGNOSIS: Umbilical cord ulceration associated with congenital jejunal (small bowel) atresia leading to intrauterine fetal demise
