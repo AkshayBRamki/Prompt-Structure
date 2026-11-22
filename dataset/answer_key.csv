@@ -1,0 +1,1370 @@
+case_id,pmc_id,ground_truth_diagnosis,reference_final_diagnosis_text,reference_differential_reasoning
+M001,PMC11403415,Sporadic schwannomatosis with multiple cauda equina schwannomas.,"Sporadic schwannomatosis with multiple schwannomas of the cauda equina involving distinct nerve roots. Supporting factors include:
+- Multiple bead-like nerve sheath tumors noted on MRI.
+- Negative genetic testing ruling out NF2 or familial schwannomatosis.
+- Pathological examination confirming the diagnosis of schwannoma.","1. **Initial Considerations**: The initial clinical presentation (multiple space-occupying lesions in the lumbosacral spine) suggests nerve sheath tumors as the most probable etiology. Options include:
+   - Schwannomatosis
+   - Neurofibromatosis type 2 (NF2)
+   - Solitary schwannomas or other tumors
+   
+2. **NF2 Exclusion**: NF2 was excluded based on negative genetic testing, absence of vestibular schwannomas or other hallmark lesions on imaging, and a negative family history.
+
+3. **Solitary Schwannomas Exclusion**: Solitary schwannomas were excluded due to the presence of multiple lesions involving distinct nerve roots.
+
+4. **Confirmation of Schwannomatosis**:
+   - Diagnostic criteria for schwannomatosis are met: presence of multiple schwannomas without features of NF2 and with negative genetic testing for SMARCB1 and LZTR1 mutations.
+   - Pathological confirmation of schwannoma post-surgery eliminates alternative diagnoses."
+M002,PMC11352534,Primary pulmonary carcinoma with metastatic involvement of the breasts and adrenal gland.,"The patient was diagnosed with **primary pulmonary carcinoma with metastasis to both breasts, subcutaneous tissues, and adrenal glands**. This diagnosis was supported by histopathology from lung biopsy demonstrating carcinoma with features consistent with the breast lesions, cytokeratin 7 positivity, other immunohistochemical staining patterns, and CT imaging findings.","- The initial diagnostic impression was primary breast cancer based on clinical presentation, imaging, and histopathological findings of the left breast (infiltrating ductal carcinoma) and later the right breast.
+- The emergence of contralateral breast lesions, significant family cancer history, and absence of BRCA mutations raised concern for genetic predisposition or metastatic disease.
+- Staging CT revealed pulmonary nodule and adrenal involvement, prompting consideration of synchronous metastatic disease versus two primary tumors.
+- Subcutaneous biopsy findings and inconclusive histopathology necessitated further assessment.
+- Lung cryobiopsy confirmed pulmonary carcinoma, with histopathology and immunohistochemistry aligning with breast lesion findings, strongly suggesting metastatic breast involvement from the lung as the primary cancer."
+M003,PMC11635821,Omental cystic lymphangioma.,Giant omental cystic lymphangioma presenting as pseudoascites and left hydrocele.,"1. **Initial Presentation:**
+   - The symptoms of abdominal distension and left scrotal swelling initially led to a misdiagnosis of ascites with left hydrocele. A lack of hepatic, renal, or cardiac causes of ascites hinted at an alternative diagnosis.
+   
+2. **Consideration of Intra-Abdominal Lymphatic Malformations:**
+   - Given the patient’s age, clinical features, and imaging findings (large multiloculated cystic lesion extending from the abdomen to the scrotum), a diagnosis of intra-abdominal lymphangioma (specifically an omental cyst) was considered.
+   - Ultrasound and CT findings were consistent with an intra-abdominal cystic lymphangioma but required confirmation through surgery and histopathology.
+
+3. **Exclusion of Other Diagnoses:**
+   - **Neoplastic conditions:** Excluded based on the absence of solid components, normal lab results, and lack of systemic symptoms (e.g., fever, weight loss).
+   - **Infectious or inflammatory masses (e.g., abscesses):** Ruled out given the absence of infection signs and the nature of imaging findings.
+   - **Hydrocele as a primary diagnosis:** Excluded as it was secondary to cystic extension into the scrotum.
+   - **Other cystic conditions (e.g., mesenteric cysts):** Differentiated based on the cyst’s location and association with the omentum.
+   
+4. **Final Steps:**
+   - Complete surgical excision and histopathological confirmation of omental cystic lymphangioma finalized the diagnosis."
+M004,PMC11602826,Primary mucinous cystadenocarcinoma (MCA) of the breast.,"Primary mucinous cystadenocarcinoma (MCA) of the breast, a rare type of triple-negative breast cancer, was confirmed based on pathology and immunohistochemistry, with no evidence of metastasis or recurrence during a 26-month follow-up post-treatment.","1. **Primary Mucinous Cystadenocarcinoma (MCA) of the Breast:**
+   - **Included** based on distinct histological features (cystic structures, papillary formations, tall columnar cells with intra- and extracellular mucin), triple-negative profile, and absence of metastatic lesions in imaging studies. Confirmed with IHC results.
+2. **Mucinous Carcinoma of the Breast:**
+   - **Excluded** due to the presence of intracellular mucus, which is absent in mucinous carcinoma.
+3. **Encapsulated Papillary Carcinoma:**
+   - **Excluded** due to diffuse negativity of hormone receptors (ER, PR) and the presence of intracellular mucus.
+4. **Mucocele-Like Lesions:**
+   - **Excluded** due to the absence of myoepithelium and more aggressive histopathological features.
+5. **Metastatic Adenocarcinomas (e.g., Pancreas, Ovary, or GI Origin):**
+   - **Excluded** based on CK7-positivity and negativity for CK20, CDX-2, and PAX-8, as well as clinical findings and imaging confirming a primary breast origin."
+M005,PMC11456147,Herpes Simplex Virus (HSV) Esophagitis,"Herpes Simplex Virus (HSV) Esophagitis in an immunocompetent 68-year-old patient. Diagnosis was supported by characteristic “volcano-like” esophageal ulcers on endoscopy, histopathology findings of viral cytopathic effects, and positive HSV-1 serology following initial negative results.","- **Step 1:** Consider common causes of esophageal ulcers including gastroesophageal reflux disease (GERD), drug-induced esophagitis, eosinophilic esophagitis, and infections (HSV, cytomegalovirus).
+  - GERD usually lacks the isolated ulcerative ""volcano-like"" lesions seen here.
+  - Drug-induced esophagitis often involves localized ulcers related to medication history, not matching this presentation.
+  - Eosinophilic esophagitis shows endoscopic findings like linear furrows or concentric rings, not discrete ""volcano-like"" lesions.
+  - Cytomegalovirus (CMV) esophagitis presents similarly but typically with larger, shallow ulcers, more common in immunocompromised hosts.
+  - HSV esophagitis was retained due to the unique endoscopic findings and confirmed by histopathology and serological testing.
+
+- **Step 2:** Rule out immunosuppressive comorbidities or risk factors to assess whether this is an uncommon case of HSV esophagitis in an immunocompetent host. 
+  - Normal HIV test, controlled hypertension, and absence of other immunosuppressive factors excluded typical contexts for HSV esophagitis.
+
+- **Step 3:** Confirm diagnosis.
+  - Biopsy findings (multinucleation, giant cells, nuclear inclusions) and seroconversion to HSV-1 IgG confirmed HSV-1 infection and an active/recent process consistent with HSV esophagitis."
+M006,PMC11342857,Gastric schwannoma.,"The patient was definitively diagnosed with gastric schwannoma based on histopathological findings and immunohistochemical analysis (S100 positivity, absence of GIST and other markers). The lesion was benign, with no lymph node involvement or metastasis. Surgical resection with negative margins effectively cured the condition, reducing the recurrence risk.","- **Step 1: Consideration of GIST (Most common gastric mesenchymal tumor):**
+  - Indicators: Gastric mass on imaging and endoscopic evaluation.
+  - Exclusion: Immunohistochemistry was negative for GIST markers (CD117, DOG-1).
+  
+- **Step 2: Consideration of leiomyomas or leiomyosarcomas:**
+  - Indicators: Spindle cell morphology.
+  - Exclusion: Negative immunohistochemical markers for smooth muscle differentiation (SMA, Desmin).
+
+- **Step 3: Consideration of neurofibromas:**
+  - Indicators: Shared nerve sheath origins.
+  - Exclusion: Differences in clinical and pathological features; confirmed S100 staining supports schwannoma.
+
+- **Step 4: Schwannoma diagnosis:**
+  - Confirmation: Positive S100 staining suggests Schwann cell origin, consistent with gastric schwannoma.
+  - Exclusion of other possibilities by histopathology and immunohistochemical features.
+
+Additional considerations such as carcinoid tumors and peptic ulcer disease were ruled out based on imaging, clinical history, and histopathological findings."
+M007,PMC11648268,Interstitial ectopic pregnancy.,"Interstitial ectopic pregnancy in the left fallopian tube, diagnosed asymptomatically at 12 weeks' gestation through routine antenatal imaging.
+
+---","1. **Initial Considerations:**
+   - The ultrasound findings suggested possibilities of ectopic pregnancy, uterine abnormality, or angular pregnancy.
+   - Empty endometrial cavity necessitated further imaging for clarification.
+
+2. **Ectopic Pregnancy Subtypes:**
+   - **Cornual Pregnancy:** Ruled out based on MRI findings specifying the interstitial location.
+   - **Ampullary, Isthmic, or Tubal Pregnancy:** Excluded as the gestational sac was confirmed in the interstitial portion of the tube.
+   - **Angular Pregnancy:** Differentiated using MRI, which provided detailed anatomical visualization.
+
+3. **Confirmed Diagnosis:**
+   - MRI confirmed interstitial ectopic pregnancy due to the presence of a gestational sac situated in the interstitial segment of the left fallopian tube, lateral to the uterine cavity.
+
+4. **Further Exclusions:**
+   - Uterine abnormalities (e.g., congenital anomalies) were excluded given the imaging findings and the absence of relevant history.
+
+---"
+M008,PMC11601975,Acute-on-chronic mesenteric ischemia secondary to metastatic neuroendocrine tumor involvement of mesenteric vessels.,Acute-on-chronic mesenteric ischemia caused by metastatic small bowel neuroendocrine tumor with encasement of the superior mesenteric artery and vein.,"- The patient's presentation of acute abdominal pain warranted evaluation of primary causes, including but not limited to bowel obstruction, visceral ischemia, and perforation:
+  1. **Bowel Obstruction:** Considered given the metastatic history and fibrotic nature of NET involvement in the mesentery. Excluded as imaging demonstrated ischemic findings rather than a clear obstruction.
+  2. **Visceral Ischemia:** Strongly suspected due to symptoms, imaging findings, and documented tumor encasement of the SMA and SMV. This was confirmed during surgical intervention.
+  3. **Perforation or Peritonitis:** Excluded based on absence of generalized signs such as lactic acidosis or peritoneal findings on exam.
+  4. **Other Causes of Acute Abdominal Pain (e.g., diverticulitis, pancreatitis):** Unlikely given clinical history, presentation, and imaging findings.
+- Exploratory laparotomy was performed to confirm ischemic small bowel secondary to mesenteric vascular compromise from metastatic NET involvement."
+M009,PMC11642104,Peripheral trabecular osteoma.,"The final diagnosis was **peripheral trabecular osteoma**. This was based on the lesion's clinical presentation, radiographic continuity with the alveolar bone, and histopathological findings indicating benign bone proliferation. The lesion was surgically excised, and no recurrence was noted during eight years of follow-up.","1. **Peripheral Osteoma:** 
+   - Considered due to the painless, bone-hard, mushroom-like lesion and its slow progression. CBCT findings demonstrated continuity with surrounding bone. Histological examination confirmed normal trabecular bone structure, supporting this diagnosis.
+
+2. **Peripheral Ossifying Fibroma:** 
+   - Rejected due to the lesion’s location, bony-hard consistency, and radiological evidence of bone proliferation.
+   - Peripheral ossifying fibroma typically arises from the gingiva and presents as a soft or firm mass, often with associated gingival changes, none of which were observed.
+
+3. **Osteoid Osteoma/Osteoblastoma:** 
+   - Rejected due to absence of pain (a characteristic symptom) and absence of radiographic features such as a central nidus or evidence of destructive growth.
+
+4. **Osteosarcoma:**
+   - Ruled out based on radiological and histological findings indicative of benign etiology. No destructive or aggressive features were evident, and detailed histopathological analysis did not show malignancy.
+
+5. **Exostoses or Tori:** 
+   - Excluded due to the lesion’s atypical location, unilateral presentation, and growth pattern, which differed from non-pathological bony overgrowths."
+M010,PMC11602993,Acquired uterine arteriovenous malformation (AVM).,Acquired uterine arteriovenous malformation (AVM) secondary to dilatation and curettage (D&C) for a missed abortion.,"- The initial differential included retained products of conception (RPOC), uterine arteriovenous malformation (AVM), gestational trophoblastic disease (GTD), and uterine malignancy such as sarcoma. TVUS findings of an echogenic mass with increased blood flow were nonspecific.
+- MRI suggested features indicative of both RPOC (mass) and AVM (dilated abnormal vessels), warranting further workup to establish a definitive diagnosis.
+- CTA confirmed AVM through the presence of abnormal vessel clusters with early venous filling, which is strongly characteristic of AVM and ruled out RPOC as the primary cause.
+- Selective angiography localized the AVM to the left uterine artery, solidifying the diagnosis."
+M011,PMC11471654,Gastrointestinal tuberculosis with ileocecal perforation and HIV infection.,Gastrointestinal tuberculosis (abdominal TB) with ileocecal perforation in the setting of newly diagnosed HIV infection.,"1. **Initial Differential Diagnosis**: The presentation of severe RLQ pain, fever, leukocytosis, and imaging findings initially suggested acute appendicitis. Upon further evaluation during laparotomy, the findings of a perforated cecal mass and diffuse intestinal lesions shifted the differential diagnosis toward:
+   - **Crohn’s Disease**: Considered due to granulomatous inflammation and bowel involvement but excluded because PCR confirmed MTB and no evidence of chronic inflammation typical of Crohn's.
+   - **Colorectal Cancer**: Unlikely in an HIV-positive young patient with necrotizing granulomas and PCR confirmation of tuberculosis.
+   - **Abdominal Tuberculosis**: Supported by necrotizing granulomatous colitis on histology, granulomatous lymphadenitis, positive PCR for MTB, and co-existing HIV, which increases susceptibility to TB.
+
+2. **Confirmatory Testing**: Histopathological findings of necrotizing granulomatous inflammation and PCR confirmed TB. Co-existing immunosuppression from newly diagnosed HIV provided an underlying predisposition for extrapulmonary TB.
+
+3. **Final Exclusions**: Conditions mimicking abdominal TB, such as Crohn’s disease and neoplasia, were ruled out based on specific findings (e.g., microbiological confirmation of MTB, systemic symptoms like fever and night sweats, and the patient's HIV status). Imaging features consistent with pulmonary and abdominal TB further supported the diagnosis.
+
+---"
+M012,PMC11461945,Spontaneous splenic rupture secondary to splenic hamartoma.,"Atraumatic (spontaneous) splenic rupture secondary to underlying splenic hamartoma in the setting of pneumonia-induced systemic inflammation. The diagnosis was confirmed by clinical presentation, imaging findings, and histopathological examination.","- **Initial Differential Diagnosis:**
+  1. **Spontaneous splenic rupture (SSR):** Considered due to acute abdominal pain, hemoperitoneum on imaging, and hemodynamic instability. 
+  2. **Traumatic splenic rupture:** Excluded as there was no history of trauma.
+  3. **Other abdominal pathologies (e.g., perforated viscus, pancreatic pathology):** Less likely due to imaging findings and lack of supporting clinical signs.
+  4. **Vascular emergencies (e.g., mesenteric ischemia):** Ruled out by imaging showing splenic rupture without vascular occlusion elsewhere.
+
+- **Rationale and Process:**
+  - History and clinical presentation of hypovolemic shock with a sudden drop in hemoglobin strongly raised suspicion for splenic rupture.
+  - Abdominal CTA confirmed active splenic bleeding and hemoperitoneum, solidifying splenic rupture as the diagnosis.
+  - Postsurgical histopathology revealed a splenic hamartoma, which provided an underlying etiology for the rupture in the absence of splenomegaly or palpable abnormalities."
+M013,PMC11340269,Class I malocclusion with anterior spacing (Dewey’s modification type 2).,- **Class I malocclusion with anterior spacing (Dewey’s modification type 2) due to childhood thumb-sucking habit.**,"- The diagnosis of **Class I malocclusion with Dewey’s modification type 2** was based on clinical features, including anterior spacing and labial frenum involvement, and supported by radiographic and cephalometric findings. 
+  1. **Exclusion of Class II and Class III malocclusions:** These were ruled out due to the Class I skeletal and molar base relationship seen in cephalometric and intraoral findings.
+  2. **Diagnosis of Dewey's modification type 2:** Spacing in the upper anterior teeth and absence of major functional impairments (such as crossbite or severe rotation) favored this classification.
+  3. **Identification of contributory thumb-sucking habit:** Provided a functional explanation for the anterior spacing and proclination."
+M014,PMC11609108,Tethered cord syndrome induced by sacral spinal canal lipoma.,"Tethered cord syndrome secondary to a sacral spinal canal lipoma leading to chronic urinary dysfunction and lower back pain, with additional structural findings including hypoplastic sacral vertebrae and L4-L5 spondylolisthesis.
+
+---","1. **Urinary symptoms and lower back pain**: 
+   - **Considered diagnoses:** Neurological, urological, or structural causes, including tethered cord syndrome, intervertebral disc disease, chronic urinary infection, and urological obstructions. 
+   - **Exclusions based on evidence:** 
+     - Chronic urinary infection: Normal urinalysis and inconclusive ultrasound.
+     - Urological obstruction: Negative findings on ultrasound and imaging.
+
+2. **Persistent symptoms since puberty with imaging evidence of structural abnormalities**:
+   - MRI findings of a low-lying conus medullaris (tethered cord) and sacral spinal canal lipoma strongly implicated tethered cord syndrome, which matched clinical symptoms of chronic urinary dysfunction and lower back pain.
+
+3. **Exclusion of alternative neurological causes**:
+   - Neuropathies, neoplasm, or inflammatory spinal cord conditions were excluded due to absence of focal neurological signs, normal lab results, and absence of spinal cord signal abnormalities.
+
+4. **Diagnosis confirmed**:
+   - MRI findings pinpointed tethering of the terminal medullary conus to the sacral lipoma, consistent with tethered cord syndrome. Supporting imaging also documented scalloping of vertebral bodies and associated spinal instability.
+
+---"
+M015,PMC11623831,Spinocerebellar Ataxia (SCA),"Spinocerebellar Ataxia (SCA), diagnosed clinically in the context of hereditary ataxia with cerebellar atrophy, nystagmus, and scanning speech, supported by family history and neuroimaging findings.","1. **Ataxia Telangiectasia (AT):**
+   - Excluded due to absence of hallmark telangiectasia, recurrent infections, sensitivity to ionizing radiation, diabetes, or early-onset features like tremor and impaired swallowing.
+   
+2. **Friedreich Ataxia (FA):**
+   - Excluded due to absence of cardiomyopathy, musculoskeletal abnormalities (e.g., scoliosis), lower limb sensory deficits, and the late onset of symptoms at age 41 (typical FA onset: 5-15 years).
+
+3. **Spinocerebellar Ataxia (SCA):** 
+   - Confirmed diagnosis based on progressive ataxia (gait abnormality, dysmetria, broad-based gait), associated scanning speech, nystagmus, family history suggestive of autosomal dominant inheritance, and findings of cerebellar atrophy on neuroimaging."
+M016,PMC11625590,Diffuse cerebral lymphomatosis with superimposed primary CNS lymphoma.,"Diffuse cerebral lymphomatosis (CL) with concurrent multifocal primary CNS lymphoma (PCNSL). The diagnosis was supported by diffuse cerebral parenchymal infiltration and angioinvasive lymphoma on autopsy, as well as clinical, imaging, and CSF findings.","- **Initial Differential:**
+  - Hyponatremia-induced encephalopathy due to SIADH was suspected initially, but worsening symptoms despite correction shifted focus to secondary causes.
+  - Chronic microvascular ischemic disease: Excluded due to progressive imaging changes.
+  - Autoimmune/inflammatory conditions: Excluded due to negative workup for vasculitis, lupus, and related conditions.
+  - Infectious causes: Excluded based on negative CSF and blood tests.
+  - Demyelinating diseases (e.g., multiple sclerosis or ADEM): Considered unlikely due to lack of characteristic imaging changes.
+  - Paraneoplastic/metastatic disease: Excluded due to negative systemic malignancy workup.
+- **Final Diagnostic Evidence:**
+  - Elevated IL-10 and CSF cytology raised suspicion for CNS lymphoproliferative processes.
+  - Progression of imaging abnormalities with hypercellular MR spectroscopy findings suggested lymphoma as the underlying etiology.
+  - Autopsy confirmed diffuse cerebral lymphomatosis (CL) and superimposed focal primary CNS lymphoma (PCNSL)."
+M017,PMC11573437,"Mucinous adenocarcinoma of the appendix (MAA), pT3N0M0.","Mucinous adenocarcinoma of the appendix (MAA), presenting initially as acute appendicitis, was confirmed by histopathology and surgical findings. The diagnosis of MAA was supported by the size, histologic grade (moderately differentiated), and localization of the tumor without metastasis.","- **Step 1: Initial Symptoms Suggest Acute Appendicitis**
+  - Rationale: Right iliac fossa pain with positive McBurney's sign and a CT scan showing inflammation suggests acute appendicitis.
+  - Acute appendicitis strongly suspected initially, as the inflammatory pattern and patient's clinical presentation align.
+
+- **Step 2: Surgical Findings Indicating Mass at Appendix-Cecum**
+  - Rationale: During surgery, the mass was noted to be adherent to the cecum, suggesting an abnormal neoplastic process beyond simple appendicitis.
+  - Exclusion: Simple appendicitis excluded due to mass presence upon laparotomy.
+
+- **Step 3: Histopathological Confirmation**
+  - Rationale: Histopathology revealed moderately differentiated mucinous adenocarcinoma of the appendix, confirming a diagnosis more specific than acute appendicitis.
+  - Appendiceal neoplasm considered due to the size of the mass, histological findings, and absence of rupture, narrowing the diagnosis to MAA.
+
+- **Step 4: Exclude Metastatic Spread**
+  - Rationale: No lymph node involvement or metastasis noted (pT3N0M0). Imaging and tumor markers also supported localized disease.
+  - Exclusion: Metastatic malignancy excluded based on stage and test findings."
+M018,PMC11638531,"Primary Hyperparathyroidism due to left extrathyroid parathyroid adenoma, minimally invasive follicular thyroid carcinoma, and subsequent development of papillary thyroid carcinoma.","- **Primary Hyperparathyroidism** due to a left extrathyroid parathyroid adenoma.  
+- Coexistent **minimally invasive follicular thyroid carcinoma (FTC)** in the left thyroid lobe.  
+- Subsequent development of **papillary thyroid carcinoma (PTC)** in the right thyroid lobe.","- **Primary Hyperparathyroidism (PHPT)**: The elevated serum calcium and PTH levels strongly supported PHPT.  
+
+- **Intrathyroid Parathyroid Adenoma (IPA)**: Initially considered based on 99mTc-sestamibi SPECT/CT findings of MIBI avidity in the left thyroid lobe. However, this was excluded due to indeterminate cytology and low PTH washout levels, which were inconsistent with IPA.  
+
+- **Thyroid Nodule with Malignancy**: Features noted on ultrasound (TI-RADS 4 nodules) and FNA results (Hurthle cell neoplasm and AUS) suggested malignancy. This was confirmed after surgery with a diagnosis of minimally invasive follicular thyroid carcinoma (FTC).  
+
+- **Extrathyroidal Parathyroid Adenoma (PA)**: Ultimately confirmed by 4D CT, which identified an avid lesion (8 × 6 × 12 mm) posterior to the left lower thyroid lobe. The diagnosis was validated postoperatively with normalization of serum iPTH and calcium levels.
+
+- **Micropapillary Thyroid Carcinoma (PTC)**: Discovered later during follow-up in the contralateral thyroid lobe and confirmed after right thyroid lobectomy."
+M019,PMC11505447,Benign insulinoma.,"Benign insulinoma in the uncinate process of the pancreas.
+
+**Key Findings Supporting Diagnosis:**
+- Biochemical evidence of endogenous hyperinsulinemic hypoglycemia.
+- Localization of the tumor via 68Ga-Exendin-4 PET/CT.
+- Histopathology confirming a well-differentiated pancreatic neuroendocrine tumor producing insulin.
+
+---","1. **Initial Differential Diagnosis:** Based on recurrent hypoglycemia with endogenous hyperinsulinemia, potential causes were considered:
+   - **Insulinoma:** The leading diagnosis due to elevated insulin, pro-insulin, and C-peptide levels with suppressed β-hydroxybutyrate.
+   - **Non-insulinoma Pancreatogenous Hypoglycemia Syndrome (NIPHS):** Unlikely as this is rare and tends to present without elevated insulin levels.
+   - **Autoimmune Hypoglycemia:** Excluded due to lack of history of insulin autoantibodies.
+   - **Drug-induced hypoglycemia:** Ruled out by the negative sulfonylurea screen.
+
+2. **Imaging Localization Challenges:**
+   - Routine imaging (ultrasound, MRI, EUS, 68Ga-DOTATATE PET/CT) was negative, demonstrating difficulty in localizing small insulinomas (<2 cm).
+   - Suspicious 4-mm lesion on EUS was excluded as cytology indicated normal pancreatic tissue.
+
+3. **Advanced Imaging Confirmation:**
+   - The 68Ga-Exendin-4 PET/CT scan revealed focal uptake in the uncinate process, supporting the insulinoma diagnosis. This imaging modality is specific due to GLP-1 receptor overexpression in insulinomas.
+
+4. **Surgical and Histological Correlation:**
+   - Enucleation confirmed the diagnosis as the insulinoma was histopathologically identified. A dramatic decrease in portal venous insulin levels further supported complete tumor removal.
+
+---"
+M020,PMC11572469,Desmoid-type fibromatosis (DF).,Desmoid-type fibromatosis (DF) occurring in the abdominal cavity post-GIST surgery. The DF was mistaken for GIST recurrence due to similar presentation on imaging but was ultimately identified through immunohistochemistry.,"1. **Initial Consideration:** Both patients had a history of GIST and presented with abdominal masses, raising concern for GIST recurrence or medication resistance.
+   - Rationale: GIST recurrence is not uncommon after treatment with Imatinib, especially in high-risk cases.
+2. **Evaluation through Imaging Studies:**
+   - CT and PET-CT scans identified localized mesenteric masses, suggestive of GIST recurrence/metastasis. However, imaging cannot reliably differentiate GIST from other similar masses like DF.
+   - Rationale: Imaging findings alone are insufficient for a definitive diagnosis.
+3. **Tissue Biopsy and Immunohistochemistry:** 
+   - Pathological and immunohistochemical analysis showed that the masses lacked key GIST markers (CD117, DOG-1) and instead displayed features consistent with DF (e.g., β-Catenin positivity).
+   - Rationale:
+     - GIST was excluded due to negativity for hallmark GIST markers like CD117 and CD34.
+     - DF was confirmed by β-Catenin nuclear positivity and spindle cell morphology.
+4. **Final Step:** Surgical resection and pathological confirmation excluded GIST recurrence and confirmed DF.
+   - Rationale: Complete excision ruled out additional concerns for GIST metastasis and provided material for definitive diagnosis."
+M021,PMC11549870,Infective endocarditis due to mitral valve prolapse leading to acute ischemic stroke.,"Acute ischemic stroke due to infective endocarditis associated with undiagnosed mitral valve prolapse, complicated by intracranial hemorrhage post-thrombolysis. Infective endocarditis led to cardioembolic septic emboli causing multiple infarcts.","- **Step 1: Evaluate for stroke etiology.**
+   - Hyperacute infarcts and multiple cortical infarcts on imaging raised suspicion of cardioembolic stroke.
+   - Absence of vascular abnormalities on MR angiography excluded large vessel occlusion.
+- **Step 2: Consider infectious causes of stroke due to fever and weight loss.**
+   - Infective endocarditis was suspected given prolonged fever, weight loss, multi-territorial infarcts, and echocardiographic findings of mitral valve vegetation.
+   - Negative workup for tuberculosis, syphilis, fungal, viral infections, autoimmune diseases, and malignancy excluded non-infectious causes and other infectious differentials.
+- **Step 3: Assess contraindication to thrombolysis.**
+   - Infective endocarditis was not identified prior to thrombolysis, leading to post-thrombolysis intracranial hemorrhage.
+- **Step 4: Final confirmation.**
+   - Transesophageal echocardiography confirmed the diagnosis of infective endocarditis secondary to undiagnosed MVP as the cause of cardioembolic stroke."
+M022,PMC11534438,Recurrent post-viral rhabdomyolysis likely associated with variants in the SYNE2 gene.,"Recurrent post-viral rhabdomyolysis with a suspected genetic component tied to two variants of unknown significance in the SYNE2 gene (linked to Emery-Dreifuss muscular dystrophy). Viral illnesses act as a repeated trigger of rhabdomyolysis episodes, with no alternative definitive cause identified to date. Future genetic analysis and specialty evaluations are needed for further clarification.","1. **Acute Viral Myositis or Post-Viral Complications:**
+   - Viral illnesses frequently preceded rhabdomyolysis episodes, suggesting a post-viral etiology.
+   - Included but later deprioritized as myalgias are localized, and symptoms occurred alongside a high peak CK (>100,000) and recurrent cases.
+
+2. **Statin-Induced Rhabdomyolysis:**
+   - Statins are a known rhabdomyolysis risk.
+   - Discontinued following the second episode, but recurrence of rhabdomyolysis in later episodes excluded statins as a causative factor.
+
+3. **Fatty Acid Oxidation Disorders (e.g., CPT2 deficiency):**
+   - Typically associated with rhabdomyolysis following infection or fasting.
+   - Ruled out via muscle biopsy and lack of fasting correlation.
+
+4. **Inherited Myopathies (e.g., Emery-Dreifuss Muscular Dystrophy):**
+   - The two VUS in SYNE2 gene, mildly elevated CK at baseline, and a potential genetic link to EDMD were significant considerations.
+   - EDMD typically involves contractures, muscle weakness, and cardiomyopathy.
+   - While classical symptoms of EDMD were absent, adult-onset, slow-progressing EDMD spectrum could explain recurrent rhabdomyolysis.
+   - Pending further genetic analysis for confirmation.
+   
+5. **Monoclonal Immunoglobulin Dyscrasias (e.g., Early Myeloma/Amyloidosis):**
+   - Recent biclonal gammopathy finding raises suspicion for underlying hematologic disorders.
+   - Pending further evaluation to confirm or exclude.
+
+6. **Idiopathic Recurrent Rhabdomyolysis:**
+   - Extensive workup has so far failed to reveal a definitive etiology aside from the SYNE2 genetic variants and viral triggers, suggesting idiopathic or cryptogenic recurrent rhabdomyolysis."
+M023,PMC11570892,Combined peptic ulcer disease and ruptured gastroduodenal artery aneurysm.,"The patient was diagnosed with **combined peptic ulcer disease and a ruptured gastroduodenal artery aneurysm.** The peptic ulcer disease led to localized inflammation and likely contributed to the formation and rupture of the vascular aneurysm, explaining the complex bleeding pattern.","- **Initial possibilities for upper GI bleeding in this pediatric patient included peptic ulcer disease, esophagitis, esophageal variceal rupture, and less common causes like vascular abnormalities.** 
+  - Peptic ulcer disease was strongly suspected due to the patient's history and the findings of gastric ulcers during endoscopy.
+  - Recurrent severe bleeding despite endoscopic and surgical interventions suggested a secondary or associated condition.
+- **Vascular abnormalities, such as visceral artery aneurysms, were considered due to unresolving hemodynamic instability.**
+  - CT imaging identified a gastroduodenal artery aneurysm, which explained the persistent bleeding.
+  - DSA confirmed the diagnosis, leading to embolization as a definitive treatment."
+M024,PMC11539359,Breast hamartoma.,"Breast hamartoma with internal benign pathology, despite radiologic features suspicious for malignancy. A rare presentation of discordant findings.","1. **Initial Suspicions**:
+   - The radiologic findings (irregular internal mass with spiculated margins, heterogeneous enhancement, and microcalcifications) strongly suggested malignancy (e.g., invasive ductal carcinoma).
+   - However, benign conditions, specifically hamartoma, needed consideration due to the demarcation and combination of fatty and glandular elements on imaging.
+
+2. **Core Biopsy Results**:
+   - Showed benign tissue without malignancy. This ruled out malignancy based on biopsy findings but prompted further investigation due to discordant radiologic features.
+
+3. **Surgical Pathology**:
+   - Confirmed a benign hamartoma with no malignant transformation after comprehensive histologic examination.
+   - Malignancy was excluded as no atypia, significant mitosis, or cytoarchitectural abnormalities were present.
+
+4. **Conclusion**:
+   - Discordant radiologic-pathologic findings required surgical removal to exclude malignancy definitively. Biopsy and surgical histology confirmed a benign hamartoma."
+M025,PMC11580657,Idiopathic intracranial hypertension (IIH),"Idiopathic intracranial hypertension (IIH) complicated by high myopia-associated peripapillary atrophy, which masked visible signs of papilledema.","1. **Initial Considerations:** The patient's symptoms of visual field constriction, morning headaches, pulsatile tinnitus, and elevated intracranial pressure suggested idiopathic intracranial hypertension (IIH). However, the absence of papilledema raised concerns of differential ocular or neurological conditions potentially mimicking or masking IIH.
+2. **High Myopia with Optic Nerve Changes (MOID):** Myopic peripapillary atrophy and tilted optic discs can mimic or obscure papilledema. This was a pertinent consideration, but symptoms such as headache, tinnitus, and CSF findings strongly supported IIH as the primary issue.
+3. **Other Ocular or Neurological Conditions:** Normal OCT findings, normal visual electrophysiology, and normal neuroimaging ruled out optic neuropathies and other structural causes such as optic neuritis, venous sinus thrombosis, or space-occupying lesions.
+4. **Final Key Assessments:** Due to the long-term history of high myopia and absence of visible papilledema, the optic nerve changes were deemed secondary masking factors rather than independent causes. The presence of elevated CSF opening pressure ultimately confirmed IIH, despite challenges in diagnosing papilledema."
+M026,PMC11372579,Tubulocystic renal cell carcinoma (RCC).,"Tubulocystic renal cell carcinoma (RCC), a rare renal neoplasm, incidentally discovered during evaluation of nonspecific abdominal pain. The diagnosis was confirmed by radiological and histopathological correlation, and surgical treatment was successful.","- Initial imaging suggested a benign renal cortical cyst (Bosniak class I); however, MRI findings of internal nodular enhancement led to reclassification as Bosniak class IV cyst, prompting surgical management.
+- Surgical excision and histopathological analysis ruled out potential differential diagnoses:
+  - Mixed epithelial and stromal tumor (MEST) and angiomyolipoma with epithelial cysts (AMLEC) were excluded due to the absence of specific stromal features.
+  - Acquired cystic disease-associated RCC (ACD-RCC) was excluded due to lack of associated end-stage kidney disease and specific architectural features.
+  - Oncocytoma was ruled out due to the absence of solid nested architecture and presence of diffuse tubulocystic architecture.
+- Histopathological findings (Swiss cheese-like appearance, eosinophilic cytoplasm, hobnailing epithelial cells) in conjunction with radiological evidence confirmed the diagnosis of tubulocystic RCC."
+M027,PMC11550627,Urethral obstruction caused by a fibroepithelial polyp (FEP).,"The patient was diagnosed with **urethral obstruction caused by a fibroepithelial polyp (FEP)** in the bulbar urethra. The diagnosis was supported by clinical symptoms of LUTS, findings from imaging and endoscopic evaluations, and histological confirmation of the polyp.
+
+---","1. **Initial Consideration of Obstructive Urinary Pathologies:**  
+   Based on the LUTS and failed catheterization, urethral obstruction was considered. Possible causes included urethral stricture, benign urethral tumors, trauma-induced obstruction, or congenital anomalies.
+
+2. **Ruling Out Other Common Causes of Urethral Obstruction:**  
+   - STIs: Negative test results excluded infectious causes, such as gonococcal urethritis or strictures secondary to inflammation.  
+   - Trauma: No history of injury ruled out trauma-related obstruction.
+   - Congenital anomalies: Deemed less likely due to the patient’s age and lack of earlier symptoms.
+
+3. **Narrowing Down to Mechanical Obstruction and Tumors:**  
+   Findings from retrograde urethrocystography confirmed a stenotic segment, suggesting mechanical obstruction. Urethrocystoscopy revealed an annular stenosis and a polypoid lesion.
+
+4. **Histological Confirmation of Fibroepithelial Polyp (FEP):**  
+   The polypoid lesion was resected endoscopically and histologically confirmed as a benign fibroepithelial polyp. No signs of malignancy were noted.
+
+5. **Exclusion of Other Urethral Lesions or Neoplasms:**  
+   The absence of atypical cellular changes ensured it was not a malignant lesion. Endoscopic resection confirmed that obstruction was caused by the polyp, ruling out additional pathology.
+
+---"
+M028,PMC11492078,Stage IVB MMRd (MSI-H) endometrioid endometrial adenocarcinoma with ovarian metastasis.,Stage IVB microsatellite instability-high (MSI-H) endometrioid endometrial adenocarcinoma with metastasis to the ovary (misdiagnosed initially as synchronous primary ovarian cancer). Diagnosis was revised using next-generation sequencing.,"1. **Initial Hypothesis: Synchronous primary tumors vs metastatic disease.**
+   - **Rationale:** Traditional morphological parameters suggested synchronous tumors based on Scully criteria.
+   - **Testing Limitations:** Pathology and immunohistochemistry alone were insufficient due to overlapping features between endometrial and ovarian tumors.
+
+2. **Molecular Analysis:**
+   - NGS revealed shared genetic alterations, including the MSH6 hotspot mutation (F1088fs*5) and MSI-H status, confirming a clonal relationship between the tumors.
+   - Higher tumor mutation burden in the ovarian tumor supported its metastatic origin compared to the uterine primary.
+
+3. **Final Exclusions/Decisions:**
+   - Synchronous Primaries: Excluded due to identical somatic mutations between tumors, demonstrating metastasis.
+   - Final Diagnosis of metastatic disease was supported by molecular evidence (MSI-H, genetic alterations, and clonal signatures)."
+M029,PMC11513307,EBV-positive CNS lymphoid proliferations (B cell) + EBV-positive NK/T cell lymphoma arising in post-transplantation.,"The patient was diagnosed with two distinct forms of post-transplant lymphoid proliferation and lymphoma:
+1. EBV-positive CNS lymphoid proliferations and lymphomas arising in post-transplantation (B cell lineage) with spinal cord involvement.
+2. EBV-positive NK/T cell lymphoma arising in post-transplantation presenting as subcutaneous masses.","1. **EBV-HLH (Initial Phase)**:
+   - Diagnosed based on fever, cytopenia, organomegaly, hyperferritinemia, hemophagocytosis, and elevated EBV DNA.
+   - Successfully treated with DEP chemotherapy.
+
+2. **EBV-positive CNS Lymphoid Proliferations and Lymphomas (11 months post-HSCT)**:
+   - Symptoms (neck pain, numbness), imaging (spinal cord swelling), and EBV DNA positivity implicated CNS involvement.
+   - Excluded other causes like autoimmune, infectious, compressive, ischemic, or toxic myelopathies based on clinical and radiographic data.
+
+3. **Subcutaneous Masses (17-21 months post-HSCT)**:
+   - Biopsy showing EBV-positive NK/T cells excluded general NK/T cell lymphoma based on:
+     - Lack of rapid nodal progression typical in general forms.
+     - Clinical presentation and response to treatments support the rare post-transplant NK/T cell lymphoma diagnosis.
+   - Supported by risk factors: EBV serology mismatch, ATG exposure, immunosuppression, and haplo-HSCT background."
+M030,PMC11436073,Non-O1/non-O139 Vibrio cholerae bacteremia.,Non-O1/non-O139 Vibrio cholerae bacteremia in an immunocompromised patient with advanced lung cancer. Diagnosis confirmed via MALDI-TOF analysis and subsequent serotyping and PCR testing to exclude cholera toxin genes.,"1. **Initial Considerations:** A febrile, immunocompromised patient with underlying advanced lung cancer warranted consideration of bacterial, viral, or fungal systemic infections. The history of diarrhea raised suspicion of gastrointestinal pathogens.
+2. **Exclusion of Common Pathogens:** Gram-negative bacteremia caused by gut translocation was prioritized due to immunosuppression and a prior episode of diarrhea. Pleural drainage culture was sterile, ruling out pleural infection as a source.
+3. **Identification of Vibrio cholerae Strain:** Blood cultures and stool testing confirmed that the bacteria belonged to the non-O1/non-O139 serogroups, excluding cholera-causing strains and suggesting an environmental origin or translocation from intestine to bloodstream.
+4. **Source Determination:** The exact source of NOVC bacteremia remained unclear. Gastrointestinal mucosal disruption due to immunosuppression from advanced cancer and alectinib treatment likely enabled bacterial entry, despite the absence of acute GI symptoms.
+5. **Therapeutic Rationale:** Empirical therapy with piperacillin/tazobactam was initiated, acknowledging broad-spectrum coverage. After pathogen identification, ceftriaxone and ciprofloxacin were prescribed, consistent with treatment recommendations for severe NOVC infections."
+M031,PMC11378093,Mesenteric inflammatory pseudotumor,"The patient was diagnosed with a **mesenteric inflammatory pseudotumor**. This was concluded based on clinical presentation, imaging findings, and definitive histopathological confirmation of a benign but infiltrative lesion.","1. The patient's presentation of abdominal pain with a necrotized mass prompted an investigation into possibilities such as malignancy and benign conditions:  
+   - **Malignant conditions (e.g., sarcoma, metastatic tumor, gastrointestinal stromal tumor):** Considered due to necrosis and adherence to structures but ruled out due to lack of metastasis, intraoperative findings, and histopathological confirmation of benignity.
+   - **Abscess:** Partial overlap due to necrosis but excluded based on the absence of infectious signs like fever, elevated inflammatory markers, and pus on imaging or during surgery.  
+   - **Mesenteric fibromatosis:** Possible differential, but this typically lacks necrosis.  
+   - **Mesenteric inflammatory pseudotumor (IP):** Strongly considered given the histological pattern of proliferative myofibroblasts, spindle cells, and plasma and lymphocytic infiltration. Radiologically, characteristics of central necrosis and absence of metastasis also fit IP.  
+
+2. Histopathology and immunohistochemistry were definitive in confirming IP (benign fibrosis and inflammation with characteristic staining profiles like SMA and ALK positivity).  
+
+3. A mesenteric inflammatory pseudotumor diagnosis was reinforced after surgical resection and follow-up showing no recurrence."
+M032,PMC11609535,Cognard type 1 dural arteriovenous fistula (DAVF).,"Cognard type 1 dural arteriovenous fistula (DAVF) in both cases, likely secondary to venous sinus stenting (VSS) performed for presumed idiopathic intracranial hypertension (IIH).","1. **Idiopathic Intracranial Hypertension (IIH)**:
+   - Included initially due to symptoms consistent with diagnostic criteria for IIH (e.g., elevated opening pressure, optic disc edema, MRI findings typical of IIH).
+   - Supportive findings: No thrombosis; symptoms initially responded to medical therapy.
+
+2. **Post-VSS complications (DAVF)**:
+   - Suspected based on new or persistent symptoms after VSS, such as tinnitus, headaches, and hearing changes.
+   - Confirmed by catheter angiography demonstrating Cognard type 1 DAVFs in both cases. Mechanisms considered include angiogenic effects of altered hemodynamics, possible unmasking of pre-existing DAVF by normalization of intracranial pressure, or stent-related factors (e.g., local angiogenic activity, turbulence-induced changes).
+
+3. **Vascular Malformations or Sinus Pathologies**:
+   - Ruled out on initial workup (e.g., angiogram before VSS negative for DAVF or arteriovenous malformation).
+   - Development of DAVF after VSS suggests secondary etiology rather than a primary pre-existing vascular anomaly."
+M033,PMC11471037,Post-Dengue Parsonage-Turner Syndrome (PTS).,"The patient was diagnosed with **Post-Dengue Parsonage-Turner Syndrome (PTS)**, a rare neuropathic condition affecting the brachial plexus. The diagnosis was based on the clinical presentation of severe neuropathic pain following dengue virus infection, confirmed with ENMG findings of denervation and MRI evidence of brachial plexus inflammation, while ruling out alternative etiologies.
+
+---","1. **Rotator Cuff Injuries, Calcific Tendinitis, and Frozen Shoulder**:
+   - These are common shoulder disorders but were excluded based on imaging results showing brachial plexus involvement, not isolated shoulder joint/muscle abnormalities.
+   
+2. **Cervical Spine Disorders**:
+   - Nerve root compression or cervical pathology would align with radicular pain symptoms but was ruled out through clinical and imaging studies of the spine.
+
+3. **Peripheral Nerve Compression and Nerve Entrapments**:
+   - Typical for producing focal neurogenic symptoms, but not consistent with the diffuse brachial plexus abnormalities evident in ENMG and MRI findings.
+
+4. **Brachial Plexus Compression (e.g., by Cervical Rib)**:
+   - Excluded due to a lack of structural compressive abnormalities on MRI.
+
+5. **Post-Polio Syndrome and Amyotrophic Lateral Sclerosis**:
+   - Neurological examination, absence of systemic motor neuron involvement, and normal laboratory tests excluded these possibilities.
+
+6. **Parsonage-Turner Syndrome (PTS)**:
+   - Considered due to the constellation of sudden-onset neuropathic pain, muscle atrophy, brachial plexus involvement on imaging, and isolated denervation patterns on ENMG. Infectious prodrome of dengue (positive IgM antibody) supports a parainfectious or immune-mediated trigger for PTS.
+
+---"
+M034,PMC11559602,"Case 1: Right FNP due to Arachnoid Cyst  
+Case 2: Right FNP due to Neurovascular Compression  
+Case 3: Bilateral FNP due to Lyme Disease","- **Case 1:** Right-sided facial nerve palsy secondary to an arachnoid cyst at the cerebellopontine angle.
+- **Case 2:** Right-sided facial nerve palsy due to neurovascular compression by the anterior inferior cerebellar artery.
+- **Case 3:** Bilateral facial nerve palsy as part of neurological Lyme disease.
+
+---","1. **Case 1 (Arachnoid Cyst):**
+   - Initial considerations included intracranial lesions or nerve compression due to chronic progression of symptoms.
+   - MRI findings of a CP angle arachnoid cyst abutting the seventh and eighth nerves confirmed the diagnosis.
+   - Other causes (vascular, infectious) were excluded due to MRI findings and absence of systemic/infectious markers.
+
+2. **Case 2 (Neurovascular Compression):**
+   - The sudden onset of FNP and recurrent episodes raised concerns for structural causes.
+   - MRI identified vascular compression of the facial nerve by the AICA, confirming the diagnosis.
+   - Infection (e.g., Lyme disease) was ruled out due to lack of systemic symptoms or fever.
+
+3. **Case 3 (Lyme Disease):**
+   - Bilateral FNP with cranial nerve involvement and systemic symptoms (fever, fatigue) indicated a neurological/infectious process.
+   - Normal imaging excluded structural causes. Positive IgM ELISA and western blot confirmed Lyme disease.
+   - Diagnosis of other etiologies (e.g., sarcoidosis, syphilis) was ruled out using CSF analysis, ACE levels, and serological tests.
+
+---"
+M035,PMC11461972,Chlamydia trachomatis-associated reactive arthritis (ReA),"Chlamydia trachomatis-associated reactive arthritis (ReA), evidenced by a combination of hip, lower back, and shoulder joint inflammation (enthesitis) revealed through imaging and positive serological markers for C. trachomatis. HLA-B27 negativity does not rule out the diagnosis.","- **Initial Considerations:** Given the symptoms of lower back, hip, and right shoulder pain, alongside MRI findings of tendon attachment inflammation (enthesitis), differential diagnoses include spondyloarthritis (SpA) subtypes such as reactive arthritis (ReA), ankylosing spondylitis (AS), psoriatic arthritis (PsA), or potentially other causes of inflammatory polyarthritis like rheumatoid arthritis (RA).
+- **Exclusion Steps:**
+  1. **RA:** Unlikely, as the primary site of inflammation in RA is synovial membranes; the imaging findings suggest tendon and enthesis involvement, characteristic of SpA.
+  2. **AS and PsA:** While shoulder joint lesions and bone marrow edema are seen in both, the absence of sacroiliitis and HLA-B27 positivity makes these diagnoses less likely.
+  3. **Polymyalgia Rheumatica (PMR):** Although PMR can show inflammation in areas like the spinous processes, associated bursitis rather than ligamentous enthesitis would align with the condition, making it unlikely.
+- **Final Consideration:** The clinical association of recent sexual activity, pyuria, and positive C. trachomatis serology directs suspicion toward reactive arthritis (ReA) triggered by Chlamydia trachomatis. The absence of sacroiliitis does not exclude ReA."
+M036,PMC11607744,"Pure yolk sac ovarian tumor (YST), stage Ia.","The patient was diagnosed with a pure yolk sac tumor (YST) of the left ovary (stage Ia). Diagnosis was confirmed based on clinical presentation, imaging, markedly elevated AFP, histopathological analysis, and immunohistochemical positivity for AFP.","1. **Germ Cell Tumors of Ovary:**
+   - **Rationale for consideration:** Serum AFP elevation (>60,500 ng/mL) strongly suggests YST, a germ cell tumor subtype. CT findings of a heterogeneously enhancing adnexal lesion support this diagnosis.
+   - **Exclusion of Mixed Germ Cell Tumors:** Histopathology demonstrated pure YST with no evidence of other germ cell components, such as dysgerminoma or embryonal carcinoma.
+   - Final conclusion: Pure yolk sac tumor (YST) confirmed by histopathology and immunohistochemical AFP positivity.
+
+2. **Endometriotic Cyst Transformation:** 
+   - **Rationale for consideration:** History of bilateral endometriotic cysts raises the possibility of malignant transformation.
+   - **Exclusion:** No endometriotic tissue observed on histopathological analysis, and tumor markers (AFP) support germ cell origin.
+
+3. **Epithelial Ovarian Tumors:**
+   - **Rationale for consideration:** CA-125 elevation might indicate an epithelial origin.
+   - **Exclusion:** AFP elevation and histopathology findings, including Schiller–Duval bodies and hyaline globules, are pathognomonic for YST."
+M037,PMC11556835,Paracoccidioidomycosis (PCM),"The patient was diagnosed with **Paracoccidioidomycosis (PCM)** with an unusual extrapulmonary and intestinal presentation, initially mimicking cholangiocarcinoma. This rare presentation involved cecal appendicitis, adenomegaly, gallbladder thickening, and adrenal gland nodules. Definitive diagnosis was obtained via histopathological examination demonstrating fungal infection.","- **Initial Consideration:** The clinical picture, jaundice, and radiological findings (gallbladder thickening, abdominal adenomegaly, and adrenal nodules) strongly indicated cholangiocarcinoma as a primary diagnosis. This was reinforced by weight loss and abdominal pain typical of malignancy.
+- **Exclusion of Differential Diagnoses:**
+  - The presence of fungal spores in the histopathological analysis of the appendix shifted suspicion toward Paracoccidioidomycosis (PCM) rather than cancer.
+  - Negative tuberculosis test ruled out tubercular appendicitis, a possible differential in endemic regions.
+  - The absence of pulmonary involvement initially made PCM seem unlikely, as it commonly affects the lungs. However, lack of lung findings does not exclude PCM, especially in rare extrapulmonary manifestations.
+  - Histopathology of liver lesions was negative for cancer, further disfavoring cholangiocarcinoma.
+- **Confident Diagnosis of PCM:** Based on the fungal spores identified, marked clinical improvement to amphotericin B (antifungal treatment), and radiological improvement of biliary and lymphadenopathy lesions."
+M038,PMC11509802,"Schimmelpenning syndrome with IDH-mutant astrocytoma, WHO grade 3.","The patient was diagnosed with **Schimmelpenning syndrome associated with IDH-mutant astrocytoma, WHO grade 3**. This diagnosis was based on the clinical history, imaging findings (MRI), histopathology confirming IDH-mutant status, and molecular evidence of the HRAS mutation.","1. **Initial Consideration:**
+   - The patient presented with progressive neurological symptoms and known Schimmelpenning syndrome, which is associated with possible CNS abnormalities or tumors.
+   - Differential diagnoses included common neurological conditions causing headaches (e.g., migraines, tension headaches), intracranial structural lesions (e.g., gliomas, metastases, CNS infections), and complications of Schimmelpenning syndrome.
+   
+2. **Primary Assessment:**
+   - Imaging (MRI) showed a significant intracranial mass, narrowing the scope to primary or secondary brain tumors.
+   
+3. **Tumor Type Clarification:**
+   - Histopathological examination ruled out non-glial tumors and identified an astrocytoma (IDH-mutant, grade 3).
+   - Molecular analysis confirmed the presence of an HRAS mutation, commonly associated with Schimmelpenning syndrome and aggressive tumor types, ruling out other glial tumors like low-grade astrocytomas or oligodendrogliomas.
+   
+4. **Secondary Testing and Exclusions:**
+   - No additional mutations were found in KRAS, NRAS, or BRAF genes, excluding other RASopathy-linked conditions or tumors.
+   - No evidence of metastatic disease was reported, ruling out secondary brain tumors.
+   - The patient’s neurological symptoms, combined with tumor localization and absence of seizure activity at presentation, supported the diagnosis of high-grade astrocytoma over other CNS lesions."
+M039,PMC11626718,Classic biphasic pulmonary blastoma (CBPB).,"The final diagnosis is **classic biphasic pulmonary blastoma (CBPB)** with endobronchial invasion and metastatic spread. This is supported by biopsy findings, immunohistochemical staining, and clinical presentation consistent with an aggressive biphasic lung neoplasm.","1. **Initial Considerations**:
+   - Based on the presentation of hemoptysis, cough, and exertional dyspnea, primary pulmonary malignancies including classic biphasic pulmonary blastoma (CBPB), well-differentiated fetal adenocarcinoma, and pleuropulmonary blastoma were considered.
+   - Infectious causes like tuberculosis or pneumonia were also initially suspected but were ruled out due to a negative tuberculosis skin test, lack of response to antibiotics, and imaging features inconsistent with infection.
+
+2. **Diagnostic Testing**:
+   - The biopsy and immunohistochemical testing confirmed biphasic histology (epithelial and mesenchymal components), distinguishing CBPB from other conditions.
+   - CBPB was favored due to spindle cell morphology and immunohistochemical positivity for CK, vimentin, and TTF-1.
+   - Other differential diagnoses, like fetal adenocarcinoma, were excluded because of the lack of TTF-1 expression in fetal adenocarcinoma and the absence of primitive mesenchymal components.
+   - Pleuropulmonary blastoma (PPB) was excluded due to histological findings not suggesting DICER1 gene-related mutations, though genetic testing was unavailable.
+
+3. **Consideration of Metastatic Spread**:
+   - The presence of metastases in the right lung and bones confirmed the tumor’s aggressive behavior."
+M040,PMC11488402,Congenital hypoplasia of the left internal carotid artery with ischemic stroke.,Congenital hypoplasia of the left internal carotid artery with associated ischemic vascular accident (stroke).,"- **Initial Considerations:**
+  - The patient's presentation of right hemiparesis and dysarthria, along with CT findings indicating ischemic stroke, suggests a vascular etiology.
+  - Differential diagnosis included congenital vascular abnormalities (e.g., internal carotid artery hypoplasia), embolic stroke, vasculitis, or other secondary ischemic events.
+  
+- **Rationale for Exclusion of Other Diagnoses:**
+  - **Embolic stroke:** No clinical or imaging evidence of embolic source or cardiogenic embolism (normal cardiopulmonary exam and unremarkable lab findings).
+  - **Vasculitis:** No systemic symptoms or abnormal laboratory markers indicating an inflammatory or immune-related process.
+  - **Other ischemic etiologies:** Imaging findings (narrowed carotid canal and hypoplasia of the internal carotid artery) pointed toward a congenital abnormality rather than acquired causes.
+
+- **Final Consideration of Internal Carotid Artery (ICA) Hypoplasia:**
+  - Imaging findings confirmed hypoplasia of the left ICA, narrowed osseous canal, and compensatory collateral circulation. This congenital condition is a rare but recognized cause of ischemic stroke, particularly in the absence of alternative explanations."
+M041,PMC11647062,Infective endocarditis caused by *Abiotrophia defectiva* with embolic neurological complications.,Infective endocarditis caused by *Abiotrophia defectiva* with embolic stroke (hemorrhagic and ischemic) as a complication.,"1. **Initial Diagnoses Considered:**
+   - Infective Endocarditis (IE) due to fever, neurological symptoms, prosthetic valve, and Roth’s spots.
+   - Differential causes of acute neurological deficits, such as ischemic or hemorrhagic stroke of other etiologies (e.g., large artery atherosclerosis or intracerebral hemorrhage).
+   - Infectious or noninfectious causes of fever, such as systemic infections, autoimmune diseases, or malignancies.
+
+2. **Evaluation of Infective Endocarditis:**
+   - Presence of fever, prosthetic valve, murmur, and Roth’s spots strongly suggested IE.
+   - Positive blood cultures for *Abiotrophia defectiva* confirmed the microbiological diagnosis.
+   - Echocardiographic evidence of vegetations on the aortic and prosthetic mitral valves satisfied Duke criteria for IE.
+   - IE was retained as the primary diagnosis.
+
+3. **Exclusion of Other Causes of Neurological Symptoms:**
+   - Embolic stroke secondary to IE vegetations was considered likely due to CT findings of infarcts and hemorrhage, and the normal carotid angiography ruled out carotid artery disease.
+   - No evidence of other systemic infections (e.g., no findings on prior fever panel workup).
+
+4. **Finalizing the Diagnosis:**
+   - The integration of microbiological, imaging, and clinical findings pinpointed *Abiotrophia defectiva* endocarditis with embolic neurological complications as the unifying diagnosis."
+M042,PMC11570889,Right-sided trigone intraventricular meningioma,Right-sided trigone intraventricular meningioma.,"1. **Initial Differentials:** Based on location (trigone of lateral ventricle) and radiological findings:
+   - **Choroid Plexus Papilloma:** Ruled out due to patient's age (>10 years).
+   - **Low-grade Glioma:** Less likely as gliomas typically occur in older patients (10–40 years) and exhibit different radiologic features.
+   - **Lymphoma or Metastases:** Unlikely due to imaging findings that favor meningioma (homogeneous enhancement, high choline, and MRI signal characteristics without other systemic findings or risk factors for metastases).
+   - **Ependymoma or Solitary Fibrous Tumor/Hemangiopericytoma:** Unlikely due to imaging patterns inconsistent with these tumors.
+2. **Supporting Evidence for Meningioma:**
+   - Imaging findings (intense homogeneous enhancement, peritumoral edema, midline shift, signal characteristics on MRI).
+   - MR spectroscopy (high choline, low NAA and creatine typical of meningioma).
+   - Histopathological confirmation of fibroblastic meningioma components."
+M043,PMC11596290,Atypical insufficiency fracture of the proximal right tibia.,Atypical insufficiency fracture of the proximal right tibia due to prolonged bisphosphonate use in a patient with osteoporosis.,"1. **Initial considerations:**
+   - Fatigue fracture (common in tibia due to repetitive stress): Excluded based on patient's advanced age, low physical activity, and lack of trauma.
+   - Insufficiency fracture (occurs due to abnormal bone under normal stress): Selected given the patient's osteoporosis, history of bisphosphonate use, and clinical presentation. 
+
+2. **Assessing for atypical subtype:**
+   - Evaluated using criteria for atypical femoral fractures (ASBMR 2013): Confirmed based on minimal trauma, transverse horizontal fracture pattern, cortical thickening, and prodromal symptoms.
+
+3. **Role of bisphosphonate therapy:**
+   - Long-term bisphosphonate use linked to impaired bone remodeling, matching the patient's clinical and radiographic features.
+
+4. **Rule out other conditions:**
+   - Osteomalacia or metabolic bone disorders: Excluded due to normal laboratory test results.
+   - Inflammatory or neoplastic causes: No evidence on imaging or clinical findings.
+
+5. **Treatment decisions:**
+   - Conservative management (teriparatide and denosumab): Attempted but inadequate due to persistent symptoms and fracture progression.
+   - Surgical intervention: Chosen due to persistent pain and fracture extension, leading to successful union postoperatively."
+M044,PMC11455270,Atypical Hemolytic Uremic Syndrome (aHUS),"Atypical Hemolytic Uremic Syndrome (aHUS), likely triggered by surgical stress following elective hip arthroplasty.","1. **Hemolytic Uremic Syndrome (HUS):**
+   - Suspected due to triad of thrombocytopenia, microangiopathic hemolytic anemia, and acute renal failure.
+   - Excluded STEC-HUS as Shiga toxin PCR was negative.
+   
+2. **Thrombotic Thrombocytopenic Purpura (TTP):**
+   - Excluded based on normal ADAMTS13 activity (>50%).
+
+3. **Sepsis-Related Complications:**
+   - Septic process considered due to clinical signs, but sepsis cannot fully explain the hematological abnormalities and acute renal dysfunction observed.
+
+4. **Atypical Hemolytic Uremic Syndrome (aHUS):**
+   - Confirmed based on clinical triad and exclusion of other conditions such as STEC-HUS and TTP.
+   - Trigger likely postoperative stress or complement system activation, consistent with her clinical course and history of CVE."
+M045,PMC11506799,Very early onset Crohn’s disease (CD).,"Multi-segmental, extensive, very early onset Crohn’s disease (CD) with atypical histological features, including the presence of Schaumann bodies (SB) in gastric mucosal granulomas.","1. **Initial Consideration of Crohn's Disease (CD):**
+   - Chronic diarrhea with elevated fecal calprotectin, inflammation markers, bowel thickening, and endoscopic findings (aphthous ulcers, terminal ileitis, granulomas) are characteristic of CD.
+   - Supporting histological findings include crypt distortion, crypt abscesses, granulomas, and Paneth cell metaplasia.
+   - Presence of SB supports a granulomatous condition, raising its diagnostic importance given its rarity in CD mucosal biopsies.
+
+2. **Exclusion of Coeliac Disease:**
+   - Normal villi-to-crypt ratio, intraepithelial lymphocyte count, and negative serology ruled out coeliac disease.
+
+3. **Exclusion of Intestinal Tuberculosis:**
+   - Negative TB tests (QuanTIFERON GOLD, sputum culture) and lack of caseating granulomas excluded TB.
+
+4. **Exclusion of Sarcoidosis:**
+   - Negative systemic involvement (ACE, urinary calcium, chitotriosidase within normal limits; absence of lung or lymph node pathology on imaging, no skin lesions).
+   - Histologic findings (mucosal granulomas, crypt distortion, active inflammation) are more consistent with CD than sarcoidosis.
+
+5. **Exclusion of Schistosomiasis and Other Granulomatous Diseases:**
+   - Absence of calcified ova and geographical/lifestyle factors did not support schistosomiasis."
+M046,PMC11636667,Pseudoachalasia secondary to metastatic osteosarcoma.,"Pseudoachalasia secondary to metastatic osteosarcoma. The diagnosis was based on the patient's clinical presentation of long-standing malignancy, imaging studies demonstrating mediastinal mass with esophageal involvement, and histopathology confirming metastatic tumor cells. The rapid symptom evolution, failure of conventional achalasia treatments, and biopsy findings ruled out idiopathic achalasia or unrelated esophageal motility disorders.","- The initial presentation of dysphagia, weight loss, and radiologic findings raised suspicion for idiopathic achalasia. However, rapid symptom progression, significant weight loss, and resistance to scope passage during EGD indicated the need to rule out pseudoachalasia.
+- Malignancy-associated pseudoachalasia was prioritized due to the patient's history of osteosarcoma and findings of a mediastinal mass on imaging. This was supported by CT evidence of tumor involvement and biopsy-confirmed metastatic cells.
+- Idiopathic achalasia was excluded because the clinical context, particularly rapid onset, weight loss, and endoscopic resistance, did not align with this diagnosis.
+- Other causes of dysphagia, such as strictures, gastroesophageal reflux disease (GERD), or neurological disorders, were not considered primary due to the convergence of findings pointing to esophageal motility impairment and histological confirmation of cancer."
+M047,PMC11558725,Dermatomyositis.,"Anti-SAE1 and anti-MDA5 antibody-positive dermatomyositis with an atypical presentation of significant inflammatory myopathy on biopsy, normal CK levels, and systemic manifestations including dysphagia.","1. **Dermatomyositis (DM):** Supported by characteristic skin findings (Gottron's papules, shawl sign), symmetrical proximal muscle weakness, and evidence of myositis on biopsy. Anti-SAE1 and anti-MDA5 antibodies are specific to DM. Normal CK and amyopathic presentation were atypical but did not exclude the diagnosis due to biopsy-confirmed severe muscle inflammation.
+2. **Clinically Amyopathic Dermatomyositis (CADM):** Normally presents with skin findings but without muscle involvement or weakness. This diagnosis was excluded due to the presence of significant muscle weakness, biopsy-proven inflammatory myopathy, and MRI findings.
+3. **Polymyositis:** Considered as a differential; however, specific skin findings (shawl sign, Gottron's papules) and anti-MDA5/anti-SAE1 antibodies are characteristic of DM rather than polymyositis.
+4. **Inclusion-Body Myositis (IBM):** Unlikely, given the young age of presentation (IBM typically affects older adults) and lack of characteristic pathologic findings (inclusion bodies) on biopsy.
+5. **Necrotizing Autoimmune Myopathy:** Excluded due to the presence of skin manifestations specific to DM and lack of immune-mediated necrosis as the dominant feature on biopsy.
+6. **Overlap Syndromes or Connected Tissue Disorders:** Excluded as the patient's presentation aligned predominantly with DM without features suggestive of overlap conditions like scleroderma or lupus.
+   
+Step-by-step testing with muscle biopsy, antibody testing, EMG, and MRI helped confirm the diagnosis, ruling out other conditions despite normal CK levels."
+M048,PMC11626642,Cardiac metastasis from squamous cell carcinoma of the oral cavity.,"This patient was diagnosed with **cardiac metastasis from squamous cell carcinoma of the oral cavity**, confirmed by imaging findings and clinical progression. The diagnosis underscores the rarity and diagnostic challenges of secondary cardiac tumors in head and neck malignancies.","1. **Initial Consideration of Thrombus:** 
+   - Right ventricular mass suspected as intramural thrombosis based on imaging and clinical presentation. Initiation of heparin was consistent with standard management, but lack of resolution and worsening tumoral bleeding raised suspicion for an alternative diagnosis.
+
+2. **Consideration of Cardiac Metastasis:**
+   - Persistent right ventricular hypokinesia and lack of thrombus resolution despite anticoagulation shifted diagnostic focus to potential malignancy. Hypermetabolic activity on 18F-FDG PET/CT confirmed cardiac metastasis. Presence of progression in lymph nodes and the primary lesion correlated with advanced metastatic disease.
+
+3. **Exclusion of Primary Cardiac Tumor:**
+   - Given the advanced oral carcinoma and PET/CT findings, the cardiac lesion was determined to represent metastasis rather than a de novo primary cardiac tumor."
+M049,PMC11606399,Intermediate-type synovial hemangioma of the right knee.,"The final diagnosis is **intermediate-type synovial hemangioma of the right knee**, supported by the imaging (MRI with classic features), histopathological confirmation, and clinical history of prior synovial hemangioma in another joint (right ankle).","- The initial differential diagnosis considered joint tumors, vascular anomalies, and inflammatory or degenerative joint conditions based on the knee swelling, recurrent pain, and imaging findings.
+  - **Synovial Hemangioma**: Strongly supported by the MRI findings (lobulated hyperintense lesions, gadolinium enhancement, vascular supply) and prior history of similar tumor. Histopathology confirmed the diagnosis.
+  - **Pigmented Villonodular Synovitis (PVNS)**: Considered but less likely given the hyperintensity on MRI (PVNS usually shows low signal intensity on T2-weighted sequences). Lack of hemosiderin deposition reduced the likelihood.
+  - **Synovial or Osteochondroma**: Unlikely as imaging and histopathological features did not indicate cartilaginous or bony tumors.
+  - **Inflammatory Arthritis or Osteoarthritis**: Secondary joint deformities (chondromalacia, osteophytosis) were present but were consequences of the hemangioma rather than primary causes.
+  - **Other Vascular Malformations**: Excluded based on anatomical, imaging, and histopathological findings (spindle cell histology is specific to synovial hemangiomas)."
+M050,PMC11555247,Double Superior Vena Cava (DSVC).,"Asymptomatic **Double Superior Vena Cava (DSVC)**, incidentally identified during temporary catheter placement.","1. **Initial Presentation (Sleepiness):** Evaluated for possible neurological and metabolic causes (hyponatremia identified and treated with IV fluids; no evidence of acute brain pathology on CT).
+2. **Anemia Assessment:** Differentials included anemia of chronic kidney disease (CKD) and upper gastrointestinal bleeding; GI bleeding was ruled out after clinical and surgical assessment.
+3. **Respiratory Distress:** Differential diagnoses included asthma exacerbation and transfusion-associated circulatory overload, treated with corticosteroids, nebulizers, and diuretics.
+4. **Hemodynamic Monitoring via Catheter:** Misplacement of a temporary left internal jugular catheter led to identification of a congenital anomaly (DSVC) on contrast CT.
+5. **Double Superior Vena Cava Investigation:**
+   - Confirmed type of DSVC where the left SVC drains into the right atrium via the coronary sinus.
+   - Confirmed that the anomaly was asymptomatic and unrelated to clinical deterioration.
+   - Excluded associated congenital anomalies or other structural heart defects through imaging and echocardiogram."
+M051,PMC11406358,Primary small cell carcinoma of the pancreas (SCCP).,"Primary small cell carcinoma of the pancreas (SCCP) with an unusual expression of thyroid transcription factor-1 (TTF-1), confirmed by biopsy and advanced imaging.","- The patient's clinical presentation of weight loss, back pain, lipase elevation, and widespread metastasis raised concern for aggressive malignancies. Key differentials included:
+  1. **Pancreatic Adenocarcinoma**: Most common pancreatic cancer, often with biliary obstruction and metastasis. However, the absence of elevated CA19-9 and neuroendocrine tumor markers argued against this diagnosis.
+  2. **Pancreatic Neuroendocrine Tumor (NET)**: Supported by neuroendocrine marker positivity (synaptophysin, chromogranin A), but the presentation of poorly differentiated cells and widespread metastases favors small cell pancreatic carcinoma over standard NETs.
+  3. **Small Cell Carcinoma of the Pancreas (SCCP)**: The biopsy revealed poorly differentiated features, neuroendocrine differentiation (synaptophysin, chromogranin), high Ki-67 index, and the unusual expression of TTF-1. SCCP is exceedingly rare but most consistent with histopathology and metastasis profile.
+  4. **Metastatic Small Cell Carcinoma (e.g., Lung or Thyroid Primary)**: Favorable primary sites such as the lung were ruled out due to the absence of a primary pulmonary lesion on chest CT, despite TTF-1 positivity."
+M052,PMC11570900,Type IVA Choledochal Cyst,"The patient has a **Type IVA choledochal cyst**, characterized by dilation of both the intrahepatic and extrahepatic bile ducts. This diagnosis is supported by her clinical presentation (abdominal pain, jaundice, and palpable mass), laboratory abnormalities (elevated bilirubin and liver enzymes), and confirmatory imaging (MSCT, ultrasound, and MRCP findings consistent with Todani Type IVA classification).","1. **Choledochal Cyst**:
+   - **Rationale for Inclusion**: Classic imaging findings (intra- and extrahepatic biliary cystic dilations) and clinical presentation (abdominal pain, jaundice, nausea, vomiting, palpable mass).
+   - **Confirmed by**: MRCP, which identified a type IVA choledochal cyst consistent with Todani classification.
+2. **Biliary Obstruction due to Other Causes (e.g., bile duct stones, strictures, or malignancy)**:
+   - **Excluded**: Imaging showed no evidence of stones, strictures, or obstructive masses.
+3. **Biliary Atresia**:
+   - **Excluded**: Typically seen in infants, not adolescents; imaging consistent with cystic dilatation rather than atresia.
+4. **Pancreaticobiliary Anomalies**:
+   - **Partially Considered**: Anomalous pancreaticobiliary junction could coexist with choledochal cysts but is not evident in ancillary test results for this case.
+5. **Infectious or Inflammatory Causes (e.g., cholangitis)**:
+   - **Excluded**: Absence of fever or signs of acute infection."
+M053,PMC11384651,Isochromosome Mosaic Turner Syndrome (IMTS) with Hypogonadotropic Hypogonadism and Multiple Meningiomas.,"The patient was diagnosed with isochromosome mosaic Turner syndrome (IMTS), hypogonadotropic hypogonadism secondary to suprasellar meningioma causing hypopituitarism, and multiple meningiomas (including in the left cerebellopontine angle). Her delayed onset presentation at 47 years with atypical features, such as hypogonadotropic hypogonadism and multiple meningiomas, underscores the rarity of this case. Diagnosis integrated karyotype, hormonal assays, and neuroimaging findings. This multidisciplinary management highlights the importance of karyotyping and brain imaging for atypical TS presentations.","1. **Turner Syndrome (TS):**
+   - Initial consideration based on physical features (short stature, absent menarche, characteristic chest and neck findings).
+   - Confirmed through karyotyping, which revealed IMTS [46,X,i(X)(q10)/45,X].
+2. **Hypogonadotropic Hypogonadism:**
+   - An unusual finding in TS, where hypergonadotropic hypogonadism is typical.
+   - MRI identified suprasellar meningioma causing pituitary dysfunction, explaining hypogonadism and secondary adrenal insufficiency.
+3. **Multiple Meningiomas:**
+   - Suprasellar meningioma and left cerebellopontine meningioma visualized on MRI; rare co-occurrence with TS, exacerbating the patient’s clinical presentation (optic atrophy, sensorineural hearing loss).
+4. **Other Conditions Ruled Out:**
+   - Autoimmune thyroid disease: Normal TSH/free T4 levels.
+   - Congenital cardiac/kidney abnormalities: Echocardiogram and renal ultrasound unremarkable.
+   - Genetic syndromes other than TS: Unnecessary due to conclusive karyotype for IMTS."
+M054,PMC11550023,Isolated posterior malleolus fracture.,"Isolated posterior malleolus fracture involving 40% of the tibiotalar articular surface. Diagnosis was confirmed using X-ray and CT scan imaging, with surgical fixation warranted due to the extent of articular surface involvement.","1. **Posterior Malleolus Fracture**: Considered based on clinical findings of pain with dorsiflexion, tenderness, and X-ray/CT scan confirmation of a posterior malleolus injury. This was confirmed by the high involvement (40%) of the tibiotalar articular surface on imaging, leading to surgical fixation.
+2. **Maisonneuve Fracture**: Excluded based on a normal fibular head examination and absence of associated tibia or fibula fractures on imaging.
+3. **Ankle Sprain**: Excluded given the clear fracture findings on imaging and the severity of the symptoms (inability to bear weight).
+4. **Trimalleolar or Bimalleolar Fracture**: Excluded due to the isolated posterior malleolus fracture findings, with no evidence of lateral or medial malleolus involvement on imaging."
+M055,PMC11558630,Pancreaticobiliary maljunction with Type 1A choledochal cyst and extrahepatic cholangiocarcinoma.,"Pancreaticobiliary maljunction (PBM) complicated by Type 1A choledochal cyst and extrahepatic cholangiocarcinoma. The diagnosis is supported by imaging, biopsy results, and surgical pathology confirming an invasive, poorly differentiated adenosquamous carcinoma.
+
+---","1. **Initial Presentation:** The patient's jaundice and elevated bilirubin raised suspicion for biliary obstruction or hepatic dysfunction. Elevated alkaline phosphatase and AST further supported a hepatobiliary origin.
+2. **Diagnostic Imaging:**
+   - CT/MRI findings of PBM, Type 1A choledochal cyst, and a biliary mass guided the suspicion toward a structural etiology with malignant potential.
+3. **Confirmed Pathology:** ERCP biopsy confirmed extrahepatic cholangiocarcinoma. Imaging findings aligned with complications of PBM, such as cyst formation and chronic inflammation leading to malignancy.
+4. **Exclusion of Other Possible Diagnoses:**
+   - Viral hepatitis: No clinical history or supporting lab findings.
+   - Gallstone disease: Small stones were present but secondary to the primary PBM.
+   - Primary sclerosing cholangitis (PSC): Unlikely without typical imaging findings or clinical history.
+   - Benign biliary stricture: Ruled out by biopsy-confirmed malignancy.
+5. Surgical pathology corroborated the diagnosis of a high-risk combination of PBM, choledochal cyst, and cholangiocarcinoma.
+
+---"
+M056,PMC11625104,Congenital jejunal atresia with umbilical cord ulcer (UCU) leading to intrauterine fetal death (IUFD).,"The fetus was diagnosed with congenital jejunal atresia complicated by umbilical cord ulcer (UCU), leading to intrauterine fetal death. The hemorrhagic complications of the UCU and fetal exsanguination were the direct causes of death.","1. **Congenital Small Bowel Atresia (Jejunal Atresia):**  
+   - Supported by findings of intestinal dilatation on both US and MRI. Typical presentation includes stomach and proximal bowel dilatation. Diagnosis was confirmed.  
+
+2. **Umbilical Cord Ulcer (UCU):**  
+   - Hematoma adjacent to the umbilical cord on MRI indicated potential UCU, a known complication of congenital small bowel atresia. Post-delivery findings of umbilical hemorrhage and cord vessel degeneration further confirmed this diagnosis.  
+
+3. **Other Causes of Intrauterine Fetal Death (IUFD):**  
+   - Placental insufficiency, infections, and genetic anomalies were less likely given the absence of associated findings on imaging or clinical history.  
+   - UCU-associated hemorrhage was directly corroborated by postmortem findings, making it the primary cause of IUFD.  
+
+4. **Polyhydramnios or Amniotic Abnormalities:**  
+   - Initially ruled out by a normal amniotic fluid index (AFI) on US.
+
+The differential diagnosis focused on congenital malformations and umbilical abnormalities, with imaging and clinical evidence guiding the identification of UCU as secondary to small bowel atresia."
+M057,PMC11465214,Benign Sertoli cell tumor,Benign Sertoli cell tumor of the right testis with a concurrent spermatocele in the left epididymis.,"1. **Initial Differential Diagnosis:**  
+   The painful mass and elevated LDH prompted suspicion of testicular neoplasms, including germ cell tumors (GCTs) and sex cord-stromal tumors (e.g., Sertoli cell tumor, Leydig cell tumor).  
+   - Normal AFP and B-HCG helped exclude certain GCTs like non-seminomatous germ cell tumors.  
+   - Spermatocele was confidently identified as a benign cystic lesion of the left epididymis based on ultrasound, ruling it out as a primary testicular tumor.
+
+2. **Stepwise Exclusion Through Histopathological Features:**  
+   - Absence of malignancy features (e.g., size >5 cm, necrosis, atypia, mitotic index, vascular invasion) excluded malignant sex cord-stromal tumors.  
+   - Immunohistochemical pattern (positive vimentin, calretinin; negative SALL4, etc.) ruled out germ cell tumors and confirmed a Sertoli cell tumor.  
+   - A second pathology review verified the benign nature of the tumor, solidifying the diagnosis of a benign Sertoli cell tumor.
+
+3. **Rationale for Testis-Sparing Surgery:**  
+   - Decision was guided by the tumor's small size, well-demarcated nature, and benign histopathological characteristics. This approach preserved testicular function without compromising oncological safety.
+
+---"
+M058,PMC11483682,Pericardial effusion causing dysphagia and subsequent cardiac tamponade.,"Pericardial effusion leading to extrinsic esophageal compression and subsequent dysphagia, with progression to cardiac tamponade. Resolved with therapeutic pericardiocentesis.
+
+---","1. **Esophageal Dysphagia Causes:**
+   - Dysphagia can be due to intrinsic mechanical obstruction (e.g., strictures, masses) or motility dysfunction. Excluded via history and imaging (no masses or strictures).
+   - Extrinsic mechanical causes considered, supported by imaging findings of pericardial effusion.
+
+2. **Pericardial Effusion:**
+   - Confirmed by echocardiography and CT. Dysphagia attributed to esophageal compression from a large effusion. Other systemic symptoms like dyspnea, orthopnea, and weakness align with this diagnosis.
+   - Cardiac tamponade ruled out initially but developed later based on hypotension, distant heart sounds, and decreased breath sounds.
+
+3. **Infections and Malignancy:**
+   - Despite the history of Waldenstrom macroglobulinemia, cytology was negative for malignancy, making malignancy-related effusion unlikely.
+   - No confirmatory findings for infection-related causes of pericardial effusion.
+
+4. **Other Possible Causes:**
+   - Autoimmune, uremia, and other causes of pericardial effusion were considered but deprioritized based on clinical and laboratory findings.
+
+---"
+M059,PMC11532450,Orbital leiomyoma originating from the Muller muscle.,"Orbital leiomyoma originating from the Muller muscle. This rare and unique diagnosis was supported by clinical examination, imaging findings, and definitive histopathological and immunohistochemical evidence.
+
+---","1. **Initial Considerations:** The presentation of an orbital mass with globe displacement raised differentials including benign and malignant orbital tumors.
+   - Common benign spindle cell tumors: Schwannoma, neurofibroma, fibrous histiocytoma, and solitary fibrous tumors were considered but were excluded based on the histopathological absence of key features specific to these conditions.
+   - Malignancies such as leiomyosarcoma were ruled out due to the absence of nuclear pleomorphism, hyperchromatism, mitotic figures, or atypia.
+
+2. **Final Diagnostic Inclusion:** Diagnosis of orbital leiomyoma was confirmed based on histopathology and immunohistochemical findings:
+   - Positive staining for SMA and desmin indicated smooth muscle origin.
+   - The identified calcifications and clinical course (e.g., slow mass growth) were consistent with a benign tumor.
+   - Attachment to the Muller muscle confirmed the rare anterior orbital tumor location and specific origin.
+
+---"
+M060,PMC11356858,Anaerobic brain abscess caused by *Paraclostridium tenue*.,Anaerobic brain abscess caused by *Paraclostridium tenue*.,"1. The initial clinical suspicion of a brain abscess with intracerebral hemorrhage was supported by imaging findings (cystic lesion with hemorrhage) and CSF analysis (pleocytosis, elevated protein, low glucose).
+2. Differential diagnosis included:
+   - **Bacterial abscess:** Supported by imaging, CSF findings, and fever. Further narrowed down to anaerobic pathogens given culture results.
+   - **Intracerebral hemorrhage alone:** Ruled out due to accompanying abscess findings on imaging, and patient’s fever and systemic inflammatory markers also pointed toward infection.
+   - **Fungal or atypical infections:** Less likely due to absence of immune suppression or typical imaging patterns.
+3. Conventional cultures failed to identify the pathogen. Molecular methods (whole-metagenome sequencing and ribosomal multilocus typing) ultimately identified *Paraclostridium tenue*. This organism, a rare anaerobic bacterium, was consistent with clinical features and imaging, confirming a bacterial etiology."
+M061,PMC11569933,Bilateral radial head subluxation (RHS),"Bilateral radial head subluxation (RHS) or ""nursemaid's elbow."" The diagnosis was supported by classic symptom resolution after reduction maneuvers, lack of radiographic or neurological findings, and age-appropriate presentation despite an atypical bilateral manifestation.","- **Initial Differential:** Included proximal humerus fractures, central cord syndrome, spinal cord injury without radiographic abnormality (SCIWORA), and radial head subluxation (RHS).
+- **Fractures:** Ruled out based on unremarkable plain radiographs showing no fractures or joint dislocations.
+- **Central Cord Syndrome:** Characterized by bilateral arm weakness with potential sensory deficits but was unlikely given the absence of lower extremity involvement, sensory changes, or cervical spinal cord compression on CT.
+- **SCIWORA:** Considered due to neurological deficits and lack of radiographic abnormality, but it remained less likely due to the absence of lower extremity symptoms or bladder dysfunction, and symptoms resolved quickly without invasive intervention.
+- **RHS:** Ultimately confirmed by a clinical reduction maneuver of the elbows, where a palpable click and rapid restoration of arm function occurred. The resolution of symptoms confirmed this benign etiology over more severe conditions."
+M062,PMC11390360,Concurrent left femoral neck fracture and left pubic symphysis fracture.,"Concurrent left femoral neck fracture and left pubic symphysis fracture following a low-energy fall in an elderly female with osteoporosis and multiple comorbidities. The femoral neck fracture was initially undiagnosed but later identified with repeat imaging (CT).
+
+---","1. **Initial Considerations:**
+   - Given the history of trauma (fall), an initial diagnosis of a left pubic symphysis fracture was made based on X-ray imaging.
+   - However, the persistence of considerable pain raised suspicion for a concurrent injury.
+
+2. **Reason for Further Imaging:**
+   - The patient was at high risk for additional fractures due to her age, history of osteoporosis, and other comorbidities.
+   - Repeat imaging (CT) was pursued to evaluate the possibility of a missed fracture.
+
+3. **Confirmed Findings:**
+   - CT imaging revealed a left femoral neck fracture. This finding explained the ongoing pain and was consistent with the clinical scenario of ground-level falls in an osteoporotic elderly female.
+
+4. **Excluding Alternative Diagnoses:**
+   - Soft tissue or ligamentous injuries were less likely given the fracture confirmed on imaging.
+   - Dislocated or severe joint disruption was ruled out since preoperative and postoperative imaging showed proper alignment and stability after hemiarthroplasty.
+
+5. **Management Plan:**
+   - The decision to perform hemiarthroplasty was made based on the patient’s age, risk factors, and displaced nature of the femoral fracture, which ruled out conservative or fixation-based management.
+
+---"
+M063,PMC11543139,Jejunal Atresia,"Postnatally confirmed jejunal atresia.
+
+---","- **Initial Considerations**: Based on the finding of FEB, potential diagnoses included aneuploidy (e.g., trisomy 21, 18, 13), gastrointestinal malformations (bowel obstruction, atresia, perforation), cystic fibrosis, congenital infections (e.g., cytomegalovirus), and other underlying etiologies.
+  
+- **Step 1: Ruling Out Aneuploidy and Infections**:
+  - NIPT testing showed low risk for common chromosomal aneuploidies, effectively ruling out trisomy 21, 18, and 13.
+  - TORCH infection screening was negative, excluding infections such as cytomegalovirus and rubella.
+  
+- **Step 2: Persistence of Bowel Dilation**:
+  - The fetal bowel dilation was noted to worsen (21 mm at 29 weeks/6 days), exceeding the clinical cut-off value of >10 mm for suspected gastrointestinal obstruction or atresia, making a gastrointestinal abnormality the leading diagnosis.
+
+- **Step 3: Postnatal Confirmation**:
+  - Postnatally, jejunal atresia was confirmed during surgical exploration when the newborn presented with symptoms requiring abdominal surgery.
+
+Rationale: The persistent appearance of severe bowel dilation on ultrasounds alongside the exclusion of aneuploidy and infections led to a high suspicion of gastrointestinal obstruction, specifically jejunal atresia, which was confirmed operatively.
+
+---"
+M064,PMC11623865,Nodular-stage Kaposi sarcoma.,"Nodular-stage Kaposi sarcoma in an HIV-negative, immunocompetent patient. Diagnosis confirmed by histopathology and immunohistochemistry.","1. **Initial considerations**:
+   - The solitary lesion and patient's history of diabetes prompted evaluation for both benign and malignant vascular lesions.
+   - Differential diagnoses included bacillary angiomatosis, pyogenic granuloma, hemangioma, and Kaposi sarcoma.
+
+2. **Rationale for excluding non-malignant lesions**:
+   - **Bacillary angiomatosis**: Ruled out via absence of systemic symptoms, negative serology for Bartonella species, and histopathological findings inconsistent with infection.
+   - **Pyogenic granuloma**: Histology indicated spindle-cell proliferation, vascular features, and HHV-8 positivity, inconsistent with granuloma histopathology.
+   - **Hemangioma**: The lesion's rapid growth and histopathological features did not align with benign hemangiomas.
+
+3. **Confirmation of Kaposi sarcoma**:
+   - Positive HHV-8 immunostaining, alongside histological features (spindle cells, vascular spaces, necrotic areas, high mitotic activity), confirmed nodular-stage Kaposi sarcoma.
+   - HIV-negative status and absence of immunosuppressive therapy classified the presentation as classic Kaposi sarcoma, despite the atypical solitary manifestation."
+M065,PMC11424908,Infected urachal cyst (type C).,The patient was diagnosed with an **infected urachal cyst (type C)** complicated by abscess formation extending to the musculus and subcutis of the lower abdominal wall.,"1. **Initial Considerations**: The patient's presenting symptoms (abdominal lump, fever, pus, weight loss) and imaging findings suggested an intra-abdominal or periumbilical abscess. Potential differentials included:
+   - Urachal cyst (infected or ruptured)
+   - Intra-abdominal abscess of another etiology
+   - Malignant lesion (e.g., urachal carcinoma).
+
+2. **Reasons for Suspecting an Infected Urachal Cyst**:
+   - The location of the lesion (lower anterior abdominal wall) and its connection to the bladder/umbilicus were suggestive of urachal involvement.
+   - Clinical presentation (slowly enlarging mass with fever and localized infection signs) aligns well with an infected urachal cyst undergoing abscess formation.
+
+3. **Excluding Other Diagnoses**:
+   - **Urachal carcinoma**: CT findings did not show malignancy signs such as irregular invasion into surrounding tissues.
+   - **General intra-abdominal/umbilical abscess**: Imaging and clinical history pointed to a connection between the cystic lesion and urachal remnants, confirming it was related to urachal anatomy.
+
+4. **Diagnostic Confirmation**: Ultrasonography and CT scan revealed a lesion consistent with an infected urachal cyst complicated by abscess formation extending into subcutaneous and muscular layers (type C urachal cyst)."
+M066,PMC11490726,Acute cholecystitis with liver hydatid cysts.,"- Acute cholecystitis.
+- Liver hydatid cysts (segments IVb and VII), with cysto-biliary communication in the segment IVb hydatid cyst.","1. **Initial List of Diagnoses**:
+   - Cholecysto-hydatid cyst fistula: Suggested by intravesicular gas (Mercedes Benz sign) on CT imaging.
+   - Acute cholecystitis: Supported by clinical presentation (fever, right hypochondrium pain, palpable gallbladder) and imaging findings.
+   - Isolated liver hydatid cyst complications: Presence of multilocular cysts in liver segments IVb and VII.
+
+2. **Stepwise Evaluation**:
+   - Cholecysto-hydatid cyst fistula: Initially suspected based on gas in the gallbladder and segment IV hydatid cyst proximity to the biliary tree. However, intraoperative cholangiography revealed no fistula, effectively ruling out this diagnosis.
+   - Acute cholecystitis: Confirmed intraoperatively by thickened, distended gallbladder. This diagnosis aligns with the patient's fever, localized guarding, and imaging findings.
+   - Liver hydatid cysts: Confirmed by ultrasound, CT, and intraoperative findings. Segment IV liver hydatid cyst was found to have cysto-biliary communication, further supporting this component of the diagnosis.
+
+3. **Rationale for Exclusions/Inclusions**:
+   - The initial radiologic suspicion of a cholecysto-hydatid fistula (Mercedes Benz sign) was refuted by surgical exploration and cholangiography.
+   - All other findings confirmed acute cholecystitis and liver hydatid cysts with cysto-biliary communication as the actual pathology.
+
+---"
+M067,PMC11571544,Hereditary myotonia caused by CLCN1 gene mutation,"Hereditary myotonia resulting from a novel complex variant mutation (c.[1636_1639delinsAACGGG] and c.[1644A>T]) in exon 15 of the CLCN1 gene, leading to defective chloride channel function.","1. **Initial Suspicions Based on Clinical Signs:**  
+   - The hallmark symptoms of stiffness, myotonia (delayed muscle relaxation after contraction), warm-up phenomenon, and absence of muscle weakness strongly indicated hereditary myotonia, specifically related to chloride channelopathy (CLCN1 mutation). This was distinguished from sodium channelopathies, which often present with muscle weakness not seen here.  
+   - Dystrophic myotonia was initially considered but was ruled out due to the absence of muscle weakness and normal ancillary blood tests (e.g., creatine kinase levels) indicating no muscle degeneration.  
+
+2. **Diagnostic Confirmation with EMG:**  
+   - The characteristic myotonic discharges confirmed myotonia, ruling out pseudomyotonia.  
+   - Normal blood tests further excluded secondary causes of myotonia, such as electrolyte imbalances or metabolic disorders.  
+
+3. **Exclusion of Other Neuromuscular Conditions:**  
+   - Other conditions leading to stiffness, such as cramping syndromes or peripheral neuropathies, were excluded based on normal neurological examination and specific EMG findings consistent with hereditary myotonia.  
+
+4. **Genetic Confirmation:**  
+   - The complex mutation in exon 15 of the CLCN1 gene solidified the diagnosis of hereditary myotonia. This mutation resulted in a truncated protein affecting critical structural components of the chloride channel. The hereditary pattern observed (autosomal recessive) matched findings in the dam and littermates."
+M068,PMC11534593,Hereditary Elliptocytosis due to SPTA1 mutation.,Hereditary Elliptocytosis due to a heterozygous SPTA1 gene mutation (c.82C>T) causing severe neonatal hemolysis. Diagnosis confirmed by genetic testing and clinical correlation with presenting symptoms of early-onset jaundice and hemolysis.,"- **Step 1:** Hemolytic disease of the newborn due to blood group incompatibility (i.e., ABO or Rh incompatibility) was ruled out due to negative anti-human globulin tests and lack of maternal risk factors.
+- **Step 2:** Other potential causes of neonatal hemolysis, including enzymatic defects (e.g., G6PD deficiency), erythrocyte structural abnormalities, and hemoglobinopathies, were considered. Negative results for G6PD testing, Heinz body test, and hemoglobin electrophoresis excluded these conditions.
+- **Step 3:** Genetic causes of hemolysis, such as red blood cell membrane disorders, were explored due to persistence of hemolysis despite blood exchange therapy. Whole exome sequencing revealed an SPTA1 gene mutation, linked to Hereditary Elliptocytosis (HE). The mutation, located in exon 2 of the SPTA1 gene, aligned with the clinical presentation of hemolysis and jaundice.
+- Additional Considerations: This diagnosis was supported by the rapid onset of hemolysis, absence of other causes, and known association between SPTA1 mutations and RBC cytoskeletal instability in HE."
+M069,PMC11540108,Primary Pulmonary Diffuse Large B-Cell Lymphoma (PP-DLBCL),"Primary Pulmonary Diffuse Large B-Cell Lymphoma (PP-DLBCL). Diagnosis was based on biopsy and immunohistochemistry findings supported by clinicoradiological features and exclusion of other pulmonary diseases like tuberculosis, carcinoma, or metastatic disease.","- Initially, **tuberculous pleural effusion** was considered due to symptoms like cough, fever, weight loss, lymphocytic exudative pleural fluid, and ADA value of 53. However, negative sputum AFB, gene-expert results, and lack of clinical improvement after thoracocentesis made tuberculosis unlikely.
+- **Lung malignancies** (e.g., non-small cell lung cancer or small cell lung cancer) were weighed due to the presence of a hilar mass and lymphadenopathy. Yet, cytology of pleural fluid did not show malignant cells.
+- **Primary pulmonary lymphoma (PPL)** became the leading possibility given persistent symptoms, pleural fluid reaccumulation, and lack of bacterial or malignant findings in cytology. Biopsy confirmed diagnosis of diffuse large B-cell lymphoma (DLBCL), a subtype of PPL."
+M070,PMC11446496,High-grade dedifferentiated chondrosarcoma (DDCS).,"The patient was diagnosed with high-grade dedifferentiated chondrosarcoma (DDCS) of the proximal phalanx of the fourth finger (pT1 pNX). This was based on radiological, histological, and immunohistochemical findings, as well as the aggressive clinical course.","1. **Initial Considerations:** Based on the patient's history of enchondroma and current presentation of localized swelling and imaging findings, the initial possibilities included enchondroma recurrence, low-grade chondrosarcoma, or other primary bone tumors.
+2. **Histopathology & Radiology:** The presence of spindle-shaped tumor cells with chondroid material, osteoclast-type giant cells, necrosis, and mitoses suggested a high-grade malignancy, pointing towards a more aggressive condition like dedifferentiated chondrosarcoma (DDCS).
+3. **Immunohistochemistry:** Positivity for S-100 indicated a cartilaginous origin, and the Ki-67 marker confirmed a high proliferative rate, further supporting DDCS over benign or low-grade entities. MRI and histological bimorphism confirmed the diagnosis.
+4. **Exclusions:** 
+   - Enchondroma was ruled out due to the aggressive radiographic and histological features.
+   - Conventional chondrosarcoma was excluded due to the high-grade histological characteristics and dedifferentiation."
+M071,PMC11609109,Leukoencephalopathy with Vanishing White Matter (VWM),"Leukoencephalopathy with Vanishing White Matter (VWM), confirmed by clinical data and typical MRI findings. The absence of laboratory diagnostic markers was addressed with reliance on characteristic imaging features and clinical progression.","- The primary diagnosis consideration was **Leukoencephalopathy with Vanishing White Matter (VWM)**, based on the clinical presentation of progressive ataxia, spasticity, and MRI findings consistent with typical patterns of VWM.
+  
+- **Rationale for Exclusion of Other Diagnoses:**
+  - Other leukodystrophies (e.g., metachromatic leukodystrophy, adrenoleukodystrophy): These conditions were ruled out because they present distinct MRI patterns or biochemical markers not identified in this patient.
+  - Multiple sclerosis: Excluded due to lack of acute or relapsing episodes, contrast enhancement on MRI, or other inflammatory markers.
+  - Brain infections or autoimmune conditions: No evidence of systemic or inflammatory lab markers, clinical signs of infection, or enhancing lesions.
+  - Vascular or structural etiologies: Absence of ischemic or vascular lesions on MRI, and no history of significant trauma.
+
+- **Rationale for Confirming VWM Diagnosis:**
+  - Clinical presentation: Symptoms of persistent and progressive neurological decline characterized by ataxia and spasticity are typical for VWM.
+  - MRI findings: Diffuse symmetric supratentorial and infratentorial white matter abnormalities, cystic degeneration, corpus callosum and spinal cord atrophy, and absence of contrast enhancement meet the diagnostic MRI criteria for VWM.
+  - Genetic predisposition: Consanguinity among parents increases likelihood of autosomal recessive disorders like VWM."
+M072,PMC11555245,Metastatic subcutaneous plasmacytoma at the TIVAP site.,The patient was diagnosed with metastatic subcutaneous plasmacytoma at the TIVAP site. This was supported by PET/CT findings of a hypermetabolic mass and histological evidence of monoclonal plasma cells consistent with the patient’s history of multiple myeloma.,"1. **Infection or Inflammatory Reaction (e.g., port infection or thrombophlebitis):** This was initially considered plausible due to swelling and discomfort but was effectively excluded by a lack of systemic signs (fever, normal vital signs) and no evidence of venous thrombosis or contrast extravasation on imaging.
+2. **Mechanical or Structural Complication (e.g., port displacement, venous stenosis):** Physical examination and image-guided port check ruled out mechanical port issues, as the port position and function were noted to be stable initially.
+3. **Malignancy (e.g., metastatic lesion, plasmacytoma):** The presence of rapid progression in symptoms, tissue growth, and hypermetabolic activity at the site of the port on PET/CT was highly suggestive of malignancy. Histopathology confirmed the mass as a metastatic plasmacytoma linked to the patient’s known multiple myeloma."
+M073,PMC11539358,Acute and severe Marchiafava-Bignami Disease (Type A).,"Acute and severe Marchiafava-Bignami Disease (Type A), characterized by diffuse necrosis and demyelination of the corpus callosum secondary to chronic alcoholism and severe malnutrition. The diagnosis was confirmed based on clinical presentation, characteristic radiological findings (diffuse and symmetrical involvement of the corpus callosum with extracallosal frontal cortical lesions), and patient history.","1. **Marchiafava-Bignami Disease (MBD):** Acute onset in a patient with chronic alcoholism and malnutrition, along with characteristic MRI findings (diffuse symmetric involvement of the corpus callosum and bilateral frontal cortical lesions). This is strongly supported by clinical and radiological findings and was considered the primary diagnosis.  
+2. **Wernicke’s Encephalopathy:** Considered due to the association with chronic alcoholism, but excluded due to absence of characteristic MRI findings (lesions in mammillary bodies, thalamus, hypothalamus, or periaqueductal gray matter).  
+3. **Pontine and Extrapontine Myelinolysis:** Ruled out due to MRI findings not correlating with typical lesions in the central pons, basal ganglia, or thalamus.  
+4. **Multiple Sclerosis (MS):** Excluded due to lack of asymmetric, multi-focal lesions characteristic of MS (such as periventricular or sub-tentorial involvement).  
+5. **Corpus Callosum Infarction:** Ruled out due to diffuse and symmetrical involvement of the corpus callosum on MRI, inconsistent with infarcts limited to specific arterial territories.  
+
+Overall, MBD remained the most likely diagnosis as no other differential matched the clinical and imaging findings comprehensively."
+M074,PMC11629262,Metastatic atypical carcinoid tumor.,"Metastatic recurrence of atypical carcinoid tumor originating from the kidney, with retroperitoneal metastasis 15 years following radical nephrectomy.","1. **Initial Mass Diagnosis (15 Years Ago):**
+   - Differential diagnoses of the left renal mass included renal cell carcinoma, neuroendocrine tumor (carcinoid), and other renal lesions according to imaging. Renal cell carcinoma was favored based on pathology at the time of nephrectomy, with no immunohistochemical confirmation.
+
+2. **Recurrence and Metastasis (15 Years Later):**
+   - Multiple retroperitoneal soft tissue masses with cystic changes raised differential diagnostic considerations:
+     - **Other Renal Metastases (e.g., from RCC):** Immunohistochemistry excluded papillary renal cell carcinoma as no markers consistent with RCC (e.g., CK7, Pax-8) were detected.
+     - **Primary Retroperitoneal Tumors (e.g., paraganglioma, PNET):** Excluded due to specific histological and immunohistochemical markers (CD56, Synaptophysin positivity and absence of S-100 for paraganglioma or CD99 for PNET).
+     - **Neuroendocrine Tumors (Atypical Carcinoid):** Immunohistochemistry strongly supported this diagnosis with positivity for Synaptophysin and CD56 and a Ki-67 index indicative of a low-grade neuroendocrine tumor.
+     - Primary carcinoid of other origins (e.g., gastrointestinal/appendiceal): Excluded via clinical, imaging, and pathological evidence. PET-CT ruled out additional tumor sites.
+   
+The initial pathology report from 15 years ago was re-evaluated, revealing that the original renal mass was misdiagnosed as papillary RCC and was actually a primary atypical renal carcinoid.
+
+3. **Final Exclusion Process:**
+   - Combined imaging, immunohistochemistry, and clinical correlation confirmed a diagnosis of metastatic recurrence of atypical carcinoid tumor. Additional primary sources outside the kidney were ruled out."
+M075,PMC11561697,Cough-Variant Asthma (CVA).,"The final diagnosis is cough-variant asthma (CVA) in a patient with myasthenia gravis (MG) on immunomodulatory therapy. The diagnosis was supported by the patient’s significant response to targeted inhalation therapy of bronchodilators and steroids, in conjunction with a clinical history of allergic diathesis and exclusion of infectious or structural pulmonary disease.","1. Initial suspicion of an infectious etiology (bacterial, fungal, tubercular, or viral) due to immunosuppressed state from steroid and rituximab use. However, normal chest imaging, blood counts, and lung function tests effectively ruled out infection.
+2. Consideration of asthma or its variants, particularly given the allergenic background and expositional history. Spirometry did not indicate obstruction or restriction, suggesting a variant rather than classical asthma.
+3. Cough-Variant Asthma (CVA) was entertained due to the chronic dry cough as the primary symptom and history of allergic diathesis, episodic sneezing, and rhinorrhea since childhood.
+4. The rapid and significant improvement in symptoms observed within 24 hours of initiating inhaled corticosteroids and long-acting beta-agonists supported CVA as the most likely diagnosis while excluding other potential conditions like chronic obstructive pulmonary disease, eosinophilic bronchitis, or gastroesophageal reflux disease."
+M076,PMC11523574,Wernicke's encephalopathy.,"Wernicke’s encephalopathy with rare presentation of bilateral pinpoint pupils and diplopia, secondary to prolonged thiamine deficiency.","1. **Initial Diagnosis: Miller-Fisher Syndrome**  
+   - Rationale: Presented with diplopia, ophthalmoplegia, and ataxia, but no typical oculomotor symptoms of Wernicke’s encephalopathy or clear MRI findings initially. Lumbar puncture did not support a Miller-Fisher syndrome diagnosis (no protein-cell separation).
+   - Exclusion: MRI later showed lesions typical of Wernicke’s encephalopathy; blood work confirmed thiamine deficiency.
+
+2. **Revised Diagnosis: Wernicke’s Encephalopathy Secondary to Thiamine Deficiency**  
+   - Rationale: Clinical triad (oculomotor disorders, ataxia, mental status changes) supported by hyper signal lesions in thalamus and midbrain aqueduct on follow-up MRI, low thiamine levels, and improvement after thiamine treatment.
+   - Considered Rare Feature: Bilateral pinpoint pupils likely due to sympathetic pathway involvement at the periventricular tissues of the third ventricle.
+
+3. **Exclusions of Other Conditions:**
+   - Organophosphorus or choline poisoning: Denied by patient.
+   - Congenital miosis or other ophthalmological disorders: Denied by patient and family.
+   - Acute neurological pathologies: Ruled out by clinical course and improvement with thiamine."
+M077,PMC11583105,Wernicke Encephalopathy.,"The patient was diagnosed with **Wernicke encephalopathy** due to thiamine deficiency, likely secondary to malnutrition following gastroenteric conditions including gallstone pancreatitis and significant weight loss. This was supported by clinical features, MRI findings, and rapid response to intravenous thiamine therapy.","1. **Initial Considerations:** The initial differential diagnosis included Guillain-Barré syndrome (e.g., Miller Fisher syndrome), thiamine deficiency (associated with wet/dry beriberi or Wernicke encephalopathy), and Susac’s syndrome.
+2. **Guillain-Barré Syndrome/Miller Fisher Syndrome:**
+   - Areflexia and ataxia fits, but the absence of motor weakness, preserved nerve conduction on EMG/NCS, and lack of antecedent infection or dysautonomia symptoms (e.g., severe autonomic dysfunction) do not fit.
+   - Excluded due to lack of supporting evidence.
+3. **Susac’s Syndrome:**
+   - May present with vision loss, hearing loss, and encephalopathy, but MRI typically shows microinfarcts in white matter and corpus callosum, which are absent here.
+   - Excluded based on imaging findings.
+4. **Thiamine Deficiency (Wernicke Encephalopathy):**
+   - Supported by classic features of ophthalmoplegia (diplopia, nystagmus), ataxia, cerebral dysfunction (hearing loss, vision loss), and history of significant malnutrition from gastroenteric issues and weight loss.
+   - MRI findings (bilateral medial thalamic and periaqueductal signal changes) and low thiamine levels confirmed this diagnosis.
+5. Other Causes:
+   - Considered but excluded based on history, imaging, lab work, and corroborating the clinical picture."
+M078,PMC11605353,Malignant transformation of hereditary multiple exostoses (Chondrosarcoma).,"Malignant transformation of hereditary multiple exostoses into chondrosarcoma in an 8-year-old patient. This is a rare complication, especially at this young age, confirmed by clinical history, imaging, and histopathological analysis.","- **Initial List of Diagnoses:**
+  1. **Hereditary Multiple Exostoses (EHM):** Existing familial history and patient’s clinical presentation support this diagnosis.
+  2. **Malignant Transformation (e.g., Chondrosarcoma):** Red flags include rapid growth of an exostosis, pain, thickened cartilaginous cap, soft tissue invasion, and histological findings.
+  3. **Other Bone Malignancies (e.g., osteosarcoma):** Considered due to pain and aggressive bone lesion but excluded based on imaging, biopsy, and lack of typical findings like osteoid formation.
+  4. **Non-Malignant Bone Pathologies:** Conditions like infection or benign bone diseases were unlikely given normal inflammatory markers and imaging features.
+
+- **Rationale for Diagnostic Steps:**
+  1. Imaging (radiographs, CT, MRI) identified concerning features such as rapid growth, thickened cartilaginous cap, and soft tissue involvement.
+  2. MRI enhanced suspicion of malignancy due to findings of heterogeneity in signal and cartilaginous cap.
+  3. Bone biopsy confirmed malignant transformation consistent with chondrosarcoma.
+
+- **Final Exclusion Process:**
+  - Other bone malignancies or benign bone diseases were excluded based on histological findings and lack of systemic involvement.
+  - MRI and histology conclusively identified malignant transformation of a hereditary exostosis."
+M079,PMC11488399,Caroli disease,"The patient was diagnosed with Caroli disease, characterized by congenital saccular and fusiform dilations of the intrahepatic bile ducts. The ""central dot sign"" observed on MRCP was pathognomonic. The absence of hepatic fibrosis excluded Caroli syndrome. Treatment with ursodeoxycholic acid provided symptom relief, and regular follow-up is planned.","- **Initial consideration of potential hepatic and biliary pathologies:**
+  - **Primary sclerosing cholangitis:** Excluded due to absence of progressive cholestasis, fibrosis, or typical imaging findings.
+  - **Recurrent pyogenic cholangitis:** Excluded due to the absence of infectious episodes or significant systemic inflammation.
+  - **Polycystic liver disease:** Excluded as there were no hepatic cysts independent of bile ducts.
+  - **Choledochal cysts:** Excluded because choledochal cysts involve the extrahepatic bile duct primarily, but this case showed predominant intrahepatic duct involvement.
+  - **Biliary papillomatosis and Von Meyenburg complex:** Excluded due to atypical imaging findings and absence of diffuse bile duct papillomas or small bile duct hamartomas.
+
+- **Diagnostic imaging recognition:**
+  - The MRCP findings of cystic intrahepatic duct dilations, associated intrahepatic stones, and the ""central dot sign"" were highly specific and clinched the diagnosis of Caroli disease."
+M080,PMC11551923,Acute rheumatic fever with cardiac complications.,"Acute rheumatic fever with cardiac complications, including Mobitz type II heart block, mild to moderate aortic and mitral regurgitation, and systemic inflammatory process as evidenced by elevated inflammatory markers.","1. **Acute Appendicitis**:  
+   - Initially suspected based on localized right iliac fossa tenderness.  
+   - Ruled out due to absence of rebound tenderness, rigidity, and supportive imaging evidence.   
+   
+2. **Acute Rheumatic Fever (ARF)**:  
+   - Considered due to Mobitz type II heart block, elevated inflammatory markers (ESR/CRP), and high antistreptolysin O titer indicative of streptococcal infection.
+   - Diagnosis confirmed by the presence of carditis and other minor criteria in accordance with revised Jones criteria.  
+  
+3. **Other Causes of Heart Block**:  
+   - Exclusion of structural heart disease or electrolyte imbalances by normal cardiac imaging and metabolic profile.  
+   - Infective endocarditis unlikely due to absence of bacteremia (negative blood culture)."
+M081,PMC11546335,Early-onset Fahr's disease (Primary Familial Brain Calcification).,"Early-onset Fahr's disease with progression to systemic encephalopathy, seizures, and fatal outcomes. The diagnosis was supported by neuroimaging findings of bilateral basal ganglia calcifications and exclusion of secondary causes. The atypical presentation in a young patient (fever, jaundice, hypoglycemia) and absence of classic psychiatric symptoms complicated diagnosis.
+
+---","1. **Initial Suspicions (Viral Illness):**
+   - Common nonspecific symptoms like fever, jaundice, and malaise led to a working diagnosis of possible viral illness.
+   - Excluded due to persistent progression of symptoms despite treatment.
+
+2. **Consideration of Seizure Disorders:**
+   - Diagnosed with generalized tonic-clonic seizures.
+   - While seizures were managed, the presence of calcifications on imaging led to the search for underlying etiologies.
+
+3. **Wilson’s Disease and Pseudohypoparathyroidism:**
+   - Investigated due to the presence of basal ganglia calcification and neurological deficits.
+   - Excluded through normal copper metabolism and serum calcium levels.
+
+4. **Subclinical Hypothyroidism and Chronic Inflammation:**
+   - Contributed to the clinical complexity but were unlikely primary causes due to lack of complete alignment with the patient's neurological and imaging findings.
+
+5. **Final Diagnosis of Fahr's Disease (Primary Familial Brain Calcification):**
+   - Confirmed using Saleem et al. criteria:
+     - Bilateral calcification in basal ganglia on neuroimaging.
+     - Progressive neurological dysfunction (chorea, rigidity, cognitive decline).
+     - Exclusion of secondary causes (infection, trauma, metabolic disorders).
+
+---"
+M082,PMC11632862,ANCA-negative Granulomatosis with Polyangiitis (GPA) with Pyoderma Gangrenosum (PG)-like presentations.,"ANCA-negative Granulomatosis with Polyangiitis (GPA) with Pyoderma Gangrenosum (PG)-like skin presentations. The diagnosis was based on progressive multisystem involvement (especially respiratory and bony destruction), PG-like cutaneous manifestations, and systemic inflammation, with ANCA-negative findings and renal sparing.","1. **Multisystem Pyoderma Gangrenosum (PG)**: Initially considered due to the presence of PG-like cutaneous ulcers and negative ANCA. Skin biopsy findings and temporary response to immunosuppressive therapy supported this diagnosis. However, recurrent symptoms, progression of disease (sinus and bone destruction), and multisystem involvement complicated the diagnosis.
+2. **Granulomatosis with Polyangiitis (GPA)**: Despite ANCA negativity, sinus and lung involvement, bone necrosis, and systemic inflammation raised suspicion for ANCA-negative GPA. Renal sparing and absence of definitive histological findings are known in GPA and aligned with the clinical presentation.
+3. **Infectious, Autoimmune, or Malignant Conditions**: Infections were ruled out by culture; autoimmune conditions like inflammatory bowel disease or arthritis were unlikely due to a lack of systemic features; malignancy was ruled out by histopathological assessments.
+
+Through systemic exclusion, ANCA-negative GPA with PG-like ulceration emerged as the robust diagnosis based on multisystem disease and evidence of granulomatous inflammation despite negative lab and biopsy findings."
+M083,PMC11385072,Human Bocavirus (HBoV) infection.,Human Bocavirus (HBoV) infection presenting as a wheeze-associated viral lower respiratory tract infection.,"1. **Initial considerations:** Based on fever, cough, and wheezing, potential differential diagnoses included:
+   - Viral lower respiratory tract infections (e.g., RSV, HBoV, influenza).
+   - Asthma exacerbation.
+   - Bacterial pneumonia.
+   - Pertussis or other infectious bronchitis.
+
+2. **Exclusion of bacterial etiology:** 
+   - Blood culture was sterile.
+   - Normal liver and renal function tests.
+   - Lack of supporting evidence for bacterial pneumonia or pertussis.
+
+3. **Focus on viral respiratory infection:**
+   - Initial diagnosis was wheeze-associated lower respiratory tract infection due to suggestive symptoms and chest X-ray findings. RT-PCR testing identified Human Bocavirus (HBoV), confirming viral etiology.
+   - RT-PCR was negative for RSV, ruling it out as a cause.
+
+4. **Exclusion of asthma as primary issue:**
+   - No prior history of asthma or chronic wheezing.
+   - Symptoms improved with supportive care, indicating the issue was likely infection-related rather than a chronic respiratory condition."
+M084,PMC11416805,Isolated Partial Absence of the Septum Pellucidum,Isolated Partial Absence of the Septum Pellucidum. This rare anomaly explains the patient's long-standing seizures without other significant neurological deficits. Neuroimaging was crucial in ruling out other associated or syndromic anomalies.,"1. **Septo-Optic Dysplasia:** Considered due to the structural brain anomaly, but excluded as the patient showed no optic nerve hypoplasia or pituitary hormone deficiencies.
+2. **Holoprosencephaly:** Excluded based on normal MRI findings of the third and fourth ventricles and absence of midline facial anomalies.
+3. **Schizencephaly/Encephalocele/Porencephaly:** Excluded by normal MRI findings without clefts, cystic formations, or abnormal extracranial herniation.
+4. **Agenesis of the Corpus Callosum (Complete or Partial):** Excluded by MRI findings showing the normal anterior portion of the fornix and corpus callosum.
+5. **Hydrocephalus with Aqueductal Stenosis:** Excluded as the third and fourth ventricles appeared normal despite mild lateral ventricle prominence, and no obstructive hydrocephalus was detected.
+6. **Isolated Partial Absence of the Septum Pellucidum (Final Diagnosis):** Suggested by MRI findings with no associated structural abnormalities or syndromic features. The MRI findings of absent posterior septum pellucidum, abnormal crura of the fornix, and mild lateral ventricle prominence support the diagnosis."
+M085,PMC11617361,Primary hepatic leiomyosarcoma (PHLS),"Primary hepatic leiomyosarcoma (PHLS), confirmed by surgical pathology and immunohistochemical markers, in a 66-year-old male with chronic hepatitis B history.","1. **Hepatocellular carcinoma (HCC):**
+   - Initial diagnosis based on imaging findings and history of chronic hepatitis B.
+   - Excluded due to normal AFP levels, absence of hepatic cirrhosis, atypical gradual enhancement patterns not fully consistent with HCC.
+
+2. **Cholangiocarcinoma:**
+   - Considered due to similar imaging features of heterogeneous mass.
+   - Excluded after pathology confirmed muscle origin and absence of epithelial markers.
+
+3. **Other hepatic masses (e.g., metastatic tumors, focal nodular hyperplasia, etc.):**
+   - Considered given nonspecific clinical presentation.
+   - Excluded by histopathological findings and lack of primary tumors elsewhere.
+
+4. **Primary hepatic leiomyosarcoma (PHLS):**
+   - Rare diagnosis, supported by distinct imaging patterns (gradual enhancement, T2 hyperintensity) and smooth muscle differentiation on immunohistochemistry.
+   - Confirmed via pathological examination."
+M086,PMC11471914,Primary ovarian leiomyosarcoma (LMS).,"The patient was diagnosed with primary **ovarian leiomyosarcoma (LMS)** arising from a teratoma with malignant transformation. The diagnosis was supported by histopathological examination and immunohistochemistry findings (SMA-positive, S100-negative) consistent with LMS, staged as FIGO IIIC due to extensive local invasion.","- Initial considerations included **malignant ovarian neoplasm** based on imaging and clinical presentation of an elderly woman with nonspecific symptoms like abdominal pain and weight loss.
+- **Ovarian leiomyosarcoma (LMS)** was strongly suspected due to histological findings of spindle cell morphology, immunohistochemical positivity for SMA (smooth muscle marker), and negativity for S100. These findings excluded other spindle-cell tumors such as fibrosarcoma, gastrointestinal stromal tumor (GIST), or metastatic lesions.
+- Other considerations, including **ovarian carcinoma** or benign conditions (e.g., leiomyoma), were excluded based on negative specific tumor markers (normal CA-125, CEA), imaging, and pathologic findings incompatible with carcinoma.
+- A teratoma with malignant transformation towards LMS was confirmed histologically and matched by immunohistochemical findings. This is consistent with the exceedingly rare primary ovarian LMS."
+M087,PMC11550580,Gastric Hamartomatous Inverted Polyp (GHIP),Gastric Hamartomatous Inverted Polyp (GHIP),"1. **Initial Differential Diagnosis:**
+   - The patient's gastric lesion and imaging findings initially raised concerns for gastric cancer or inflammatory fibroid polyp due to its prominent features.
+   - Biopsy findings ruled out gastric cancer and suggested an inflammatory fibroid polyp based on spindle cell growth and SMA-positive/DOG1- and S100-negative markers.
+
+2. **Refining the Diagnosis:**
+   - The patient underwent laparoscopy endoscopy cooperative surgery (LECS) for definitive diagnosis and treatment. Postoperative histology revealed features inconsistent with an inflammatory fibroid polyp (e.g., absence of significant fibrous components or eosinophil infiltration).
+
+3. **Ruling Out Other Submucosal Tumors:**
+   - Differential markers and imaging findings ruled out leiomyoma, schwannoma, and other fibrous tumors due to the tumor's unique high internal echoes, absence of posterior attenuation, and microscopically observed proliferation of gastric mucosa.
+
+4. **Final Diagnosis of GHIP:**
+   - The distinct pathological findings of downward mucosal growth, crypt epithelial hyperplasia, and occasional spindle cells confirmed the rare diagnosis of gastric hamartomatous inverted polyp. The EUS finding of high internal echoes with no posterior echo attenuation further supported this conclusion."
+M088,PMC11528231,Grade I temporo-occipital ganglioglioma,Grade I temporo-occipital ganglioglioma associated with intractable focal epilepsy.,"- **Initial considerations based on focal seizures and imaging findings:** Differential diagnoses included Dysembryoplastic Neuroepithelial Tumor (DNET), Diffuse Glioma, and ganglioglioma.
+- **Excluding other causes of epilepsy:** Presence of persistent drug-resistant focal seizures and imaging findings reduced the likelihood of purely functional epilepsy or nonstructural etiologies.
+- **Determination of tumor type via MRI characteristics:** MRI findings revealed structural abnormalities suggestive of a glioneuronal tumor, with features consistent with ganglioglioma, DNET, or Diffuse Glioma.
+- **Confirmation via histopathology post-surgery:** Surgical resection and histological analysis identified the tumor as a WHO grade I temporo-occipital ganglioglioma, ruling out other differential diagnoses such as DNET or Diffuse Glioma."
+M089,PMC11416047,Spontaneous heterotopic pregnancy.,Spontaneous heterotopic pregnancy with concurrent intrauterine and right tubal ectopic pregnancies along with a right paratubal cyst.,"1. **Initial Differential Diagnoses:**
+   - Heterotopic pregnancy.
+   - Isolated ectopic pregnancy.
+   - Threatened abortion.
+   - Normal intrauterine pregnancy with associated adnexal mass.
+
+2. **Rationale and Exclusion:**
+   - Elevated β-hCG and ultrasound findings of both intrauterine and ectopic pregnancies confirmed heterotopic pregnancy, ruling out isolated ectopic pregnancy and normal intrauterine pregnancy alone.
+   - Subchorionic hemorrhage and symptoms of vaginal bleeding could mimic threatened abortion, but detection of ectopic implantation and fetal activity confirmed heterotopic pregnancy as the final diagnosis.
+
+3. **Definitive Tests and Conclusions:**
+   - Ultrasound findings of fetal activity in both intrauterine and extrauterine locations confirmed heterotopic pregnancy.
+   - Pathology results after surgery validated the diagnosis."
+M090,PMC11621056,Mosaic Down Syndrome and Spinal Muscular Atrophy Type 2,"The patient was diagnosed with the mosaic form of Down Syndrome and Spinal Muscular Atrophy Type 2. Although the hallmark of motor developmental regression was inconsistent with Down Syndrome alone, coexisting genetic pathology (SMA Type 2) explained the progressive muscle weakness and functional decline.","1. **Initial Consideration - Mosaic Down Syndrome (DS):**
+   - Mosaic trisomy 21 diagnosed at 3 weeks could account for intellectual deficits and motor delays. However, the hallmark of DS is delayed but stable motor development, not regression of achieved motor functions. Therefore, additional pathology was suspected.
+
+2. **Consideration - Neuromuscular Diseases:**
+   - Regression of motor skills, decreased reflexes, and hand tremors prompted consideration of an additional neuromuscular disorder. These findings are inconsistent with isolated DS effects and are more characteristic of spinal muscular atrophy (SMA).
+
+3. **Confirmation of SMA Type 2:**
+   - Genetic testing confirmed SMA Type 2 with absence of SMN1 gene exons 7 and 8. Symptom progression (e.g., loss of crawling, difficulty lifting head) corroborated this diagnosis."
+M091,PMC11444548,Urachal adenocarcinoma with liver metastasis.,"Primary urachal adenocarcinoma presenting with liver metastasis and no prior urological symptoms. Diagnosis confirmed through clinicopathological correlation, imaging, cystoscopy, and bladder dome biopsy.
+
+---","1. **Initial Differential Diagnoses:**
+   - Primary liver malignancy (e.g., cholangiocarcinoma or hepatocellular carcinoma): Considered due to liver mass presentation. Excluded by IHC (negative for Hep-Par 1) and no risk factors for primary liver malignancies.
+   - **Colorectal, pancreatic, or gastrointestinal adenocarcinoma metastases:** Suggested by imaging and IHC positivity for CK20 and focal CK7. Excluded after normal endoscopies.
+   - **Metastatic bladder-related malignancy:** Initially unlikely because of the small size of the bladder nodule.
+   - **Urachal carcinoma:** Confirmed as the diagnosis through cystoscopy biopsy correlating CT findings of midline bladder mass with histopathology.
+
+2. **Diagnostic Reasoning:**
+   - Histopathological and immunohistochemical analysis, paired with clinical imaging, localized the origin of metastasis to the bladder dome.
+   - The absence of urological symptoms initially delayed consideration of urachal carcinoma.
+   - Systematic exclusion of other primary malignancies solidified the urachal carcinoma diagnosis.
+
+---"
+M092,PMC11399793,Invasive pancreatic ductal adenocarcinoma (PDAC) arising in association with IPMN with high-grade dysplasia.,"Invasive pancreatic ductal adenocarcinoma (PDAC) arising from an intraductal papillary mucinous neoplasm (IPMN) with high-grade dysplasia, associated with a history of chronic pancreatitis. The unique feature of diminishing calcifications was observed, warranting its potential as an early radiological indicator of malignancy in chronic pancreatitis.","1. **Chronic Pancreatitis (CP)**:
+   - Supported initially by CT findings of pancreatic calcifications, atrophy, and duct dilation.
+   - Excluded later due to the appearance of a hypoechoic mass and diminished calcifications, which are unusual in CP without malignancy.
+
+2. **Pancreatic Ductal Adenocarcinoma (PDAC)**:
+   - Supported by the presence of a hypoechoic pancreatic mass, diminished calcifications in the region of tumor, elevated CA19-9, and biopsy results confirming adenocarcinoma.
+   - Imaging findings (infiltrative lesion, vascular encasement, heterogeneous body/tail) and history of CP further made PDAC the most likely diagnosis.
+
+3. **Other Conditions (e.g., benign pseudocyst, autoimmune pancreatitis)**:
+   - Considered but excluded due to malignant pathology on biopsy and lack of autoimmune features or evidence of nonmalignant pseudocysts."
+M093,PMC11605744,Malignant granular cell tumor of non-neuronal origin.,"The patient has a malignant granular cell tumor of non-neuronal origin on the floor of the mouth. This rare diagnosis was established based on histopathological features (necrosis, spindling, atypical mitosis, pleomorphism) and IHC results (positive for vimentin, NSE, CD10; negative for S100).","1. **Initial Considerations:**
+   - The patient's ulcero-proliferative lesion in the oral cavity with histomorphological evidence raised a broad spectrum of potential diagnoses, including squamous cell carcinoma, mucoepidermoid carcinoma, pyogenic granuloma, and other neoplasms of epithelial, mesenchymal, or neural origin.
+
+2. **Stepwise Evaluation:**
+   - **Squamous Cell Carcinoma:** Excluded due to lack of squamous differentiation on histology and negative IHC markers (P40, CK5/6, Pan-CK).
+   - **Malignant Peripheral Nerve Sheath Tumor or Neural Tumors:** Excluded based on S100 negativity, typically positive in Schwann cell origin lesions.
+   - **Granular Cell Tumor (Conventional):** Initially considered due to granular cell histomorphology; however, exclusion based on S100 negativity.
+   - **Non-Neuronal Granular Cell Tumor (Primitive Polypoid Granular Cell Tumor):** Strongly considered due to lack of S100 staining and positivity for vimentin, NSE, and CD10, aligning with previously reported cases.
+   - **Malignant Tumor Subtype:** Established by the presence of necrosis, pleomorphism, high N:C ratio, mitotic activity, and other malignant features consistent with Fanburg-Smith criteria.
+
+3. **Confirmation:**
+   - IHC and histomorphology confirmed the final diagnosis as a malignant granular cell tumor of non-neuronal origin."
+M094,PMC11445712,Delayed traumatic diaphragmatic hernia with bowel herniation.,"Delayed presentation of traumatic diaphragmatic hernia secondary to a road traffic accident 2 years prior, complicated by bowel herniation through a 4 x 2 cm posterolateral diaphragmatic defect.","1. **Initial considerations for diagnosis:** Based on symptoms of pain, vomiting, absent stool/flatus, and history of blunt trauma, potential causes included bowel obstruction, perforated viscus, or delayed presentation of a traumatic diaphragmatic hernia.
+2. **Ruling out bowel obstruction as primary diagnosis:** Although jejunal dilatation and air-fluid levels were noted, there was no transition point or signs of strangulation on CT.
+3. **Excluding perforated viscus:** No evidence of free air or peritoneal signs was observed clinically or on imaging.
+4. **Confirming delayed traumatic diaphragmatic hernia diagnosis:**
+   - History of prior trauma and imaging findings (herniated bowel loops and diaphragmatic defect with respiratory compromise) were consistent with this diagnosis.
+   - Clinical examination corroborated findings with audible bowel sounds in the lower chest and decreased breath sounds."
+M095,PMC11587177,Abemaciclib-induced interstitial lung disease (ILD).,Abemaciclib-induced interstitial lung disease (ILD) presenting as fibrosing organizing pneumonia (OP).,"1. **Differential Diagnosis List:** Initial possibilities included infectious pneumonia, drug-induced interstitial lung disease (DI-ILD), cryptogenic organizing pneumonia (COP), hypersensitivity pneumonitis, and collagen vascular disease-associated interstitial lung disease.
+2. **Step-by-Step Evaluation:**
+   - Infectious pneumonia: Excluded based on negative cultures, low procalcitonin, and absence of infection-related features on bronchoalveolar lavage.
+   - Cryptogenic organizing pneumonia (COP): Considered due to overlapping imaging features but excluded as marked improvement occurred solely after drug cessation, without corticosteroid use.
+   - Hypersensitivity pneumonitis and collagen vascular disease-associated ILD: Excluded based on the absence of relevant clinical features, negative serological tests, and no suggestive findings in TBLC histopathology.
+   - Drug-induced ILD (abemaciclib-induced): Diagnosis supported by clinical history, imaging, histopathology findings (fibrosing OP), and significant improvement after discontinuing abemaciclib. The negative Drug Lymphocyte Stimulation Test (DLST) did not rule out this diagnosis, given its low sensitivity.
+
+---"
+M096,PMC11495327,Postsurgical pyoderma gangrenosum (PSPG).,"The patient was diagnosed with postsurgical pyoderma gangrenosum (PSPG), triggered by surgical trauma and potentially influenced by neoadjuvant chemotherapy, immunotherapy, and a familial predisposition. The diagnosis relied on a constellation of clinical findings, histopathological evidence, and exclusions of infectious causes.","- **Initial Presentation**: Symptoms initially raised suspicion for surgical site infection or undrained fluid collection. This led to empirical antibiotic therapy (trimethoprim-sulfamethoxazole, vancomycin, piperacillin/tazobactam) and operative debridement. Negative cultures and lack of resolution suggested alternate diagnoses.
+- **Consideration of PSPG**: Persisting necrotic and undermined skin changes with violaceous borders and a failed response to antibiotics and surgery suggested a possible diagnosis of PSPG. The familial history of PSPG further supported this consideration.
+- **Exclusion of Alternatives**: Recurrent negative tissue and blood cultures excluded conventional infectious causes. Lack of improvement with surgical debridement and antibiotics ruled out uncomplicated surgical site necrosis.
+- **Confirmation of PSPG**: Diagnosis was confirmed with skin punch biopsy findings indicative of pyoderma gangrenosum in conjunction with clinical worsening despite standard infectious disease treatments."
+M097,PMC11353925,"Neurodegeneration associated with oral dysbiosis (Spirochaetes phylum, predominantly *Treponema* species). Suspected link to neuroinflammation in context of dementia.","The patient’s dementia is associated with neuroinflammation likely linked to oral dysbiosis, specifically overrepresentation of the *Spirochaetes* phylum (dominated by *Treponema* species). This may contribute to the neurodegenerative process, compounded by preexisting Lewy Body Dementia-related pathology.","1. **Lewy Body Dementia**:
+   - Considered based on initial presentation of cognitive decline and associated neuropsychiatric symptoms.
+   - Excluded or questioned due to atypical symptoms such as akathisia, diaphragm dyskinesia, and psychotic confabulations not commonly seen in isolated Lewy Body Dementia.
+
+2. **Huntington’s Disease**:
+   - Excluded based on genetic testing results showing a normal number of CAG repeats in the HTT gene.
+
+3. **Neurodegenerative Conditions Linked to Infections**:
+   - The novel finding of a significant Spirochaetes population (particularly *T. denticola*) in the oral microbiome, alongside pathophysiological evidence of their ability to migrate to the CNS and promote neuroinflammation, supports a hypothesis of infection-induced or exacerbated neurodegeneration.
+   - The role of bacterial neurotropism, inflammation, or amyloid-related neurodegeneration is consistent with literature on pathogens’ contribution to dementia.
+
+4. **Medication Effects**:
+   - Excluded as a primary cause after literature review found no association between prescribed medications and oral microbiome composition.
+
+5. **Specific Oral Dysbiosis Hypothesis**:
+   - Presence of Spirochaetes and potential mechanisms (e.g., disruption of the blood-brain barrier, neuroinflammation) strongly point toward an association with this patient's neurodegenerative processes.
+   - While direct causality cannot be established from this case, the microbial composition serves as a significant biomarker warranting further exploration."
+M098,PMC11502415,Severe hidradenitis suppurativa (Hurley stage III) with secondary IgG4 elevation due to chronic inflammation.,"The patient's severe hidradenitis suppurativa with an active flare is the most likely explanation for her elevated IgG4 levels. There was no evidence to support a diagnosis of IgG4-RD, infection, or another systemic autoimmune or oncologic condition. The IgG4 elevation appears to be secondary to chronic and severe inflammation associated with her HS.","1. **IgG4-Related Disease (IgG4-RD):** Initially considered due to elevated IgG4 levels and parotid swelling. However, IgG4 staining in the biopsy was <5%, and there was no histologic evidence (e.g., storiform fibrosis, obliterative phlebitis). Negative results from malignancy workup also argued against this diagnosis. Excluded.
+   
+2. **Infectious Etiology:** Infectious causes were considered due to fever, jaw swelling, and prior history of presumed pyelonephritis. Positive monospot test and antibiotic therapy initially suggested a potential infectious cause. However, imaging and repeat evaluations showed no evidence of infection. Excluded.
+
+3. **Autoimmune/Rheumatologic Disorders (e.g., Sarcoidosis, Rheumatoid Arthritis):** Sarcoidosis was considered due to hypercalcemia and elevated lysozyme. However, no biopsy or imaging findings supported the diagnosis. Rheumatoid arthritis and other autoimmune causes were also unlikely given non-specific laboratory findings and the clinical picture. Excluded.
+
+4. **Severe Hidradenitis Suppurativa (HS):** The patient's clinical presentation (active HS flare with Hurley stage III features), persistently elevated inflammatory markers (IgG, IgG4, WBC count), and the absence of findings supporting other diagnoses pointed to severe HS as the most likely cause of elevated IgG4, reflecting underlying inflammation."
+M099,PMC11630794,Statin-Induced Necrotizing Autoimmune Myopathy (SINAM),Statin-Induced Necrotizing Autoimmune Myopathy (SINAM),"1. **Initial Considerations: Myopathies due to statin use**
+   - Statin toxicity, including myalgia, rhabdomyolysis, or IMNM, was considered due to statin use and elevated CK levels. Statin toxicity was ruled out as symptoms persisted and worsened despite statin cessation.
+   
+2. **Autoimmune Myopathies: IMNM vs. Polymyositis/Dermatomyositis**
+   - IMNM was prioritized due to:
+     - Strongly positive anti-HMGCR antibodies
+     - Sparse inflammation on muscle biopsy
+     - Progression of symptoms despite statin discontinuation
+   - Polymyositis and dermatomyositis were excluded as the biopsy did not show characteristic inflammatory infiltrates or dermatomyositis-specific findings.
+
+3. **Paraneoplastic Syndromes**
+   - Workup for paraneoplastic causes (colonoscopy and recommended PET/CT) showed no malignancy, reducing suspicion of paraneoplastic IMNM.
+
+4. **Other NM Disorders**
+   - Non-autoimmune myopathies were excluded due to the presence of myositis-specific antibodies and response to immunosuppressive therapy supporting autoimmune etiology."
+M100,PMC11465060,Chronic phase of Hemiconvulsion-Hemiplegia-Epilepsy syndrome.,Chronic phase of Hemiconvulsion-Hemiplegia-Epilepsy syndrome.,"1. **Initial Considerations:**
+   - The initial clinical presentation of prolonged unilateral seizures and subsequent hemiparesis raised suspicion for HHE syndrome, a rare neurological disorder. 
+
+2. **Differential Diagnosis:**
+   - **Stroke:** Ruled out as imaging did not show vascular distribution abnormalities or acute ischemia.
+   - **Dyke-Davidoff-Masson Syndrome:** Excluded as there was no evidence of calvarial thickening or hyper-pneumatization of paranasal sinuses on MRI.
+   - **Sturge-Weber Syndrome:** Excluded due to the absence of parieto-occipital involvement, prominent leptomeningeal enhancement, or choroid plexus enlargement.
+   - **Rasmussen Encephalitis:** Ruled out due to the absence of initial caudate nucleus atrophy and clinical progression consistent with Rasmussen encephalitis.
+
+3. **Confirmation of HHE Syndrome:**
+   - Combination of clinical history (prolonged status epilepticus followed by persistent hemiplegia), imaging findings (right cerebral hemisphere atrophy, gliosis), and the onset of epilepsy (underlying partial epilepsy controlled with sodium valproate) firmly supported the diagnosis of chronic HHE syndrome."
+M101,PMC11379423,Medulloblastoma,"Medulloblastoma, based on characteristic imaging findings (solid enhancing lesion arising from the vermis with signs of obstructive hydrocephalus), common paediatric tumour location, and the clinical presentation of headache, nausea, vomiting, ataxia, and mass effect on the fourth ventricle.
+
+---","1. **Medulloblastoma**:
+   - Rationale: Most common posterior fossa tumour in children, located in the vermis area. Characteristic imaging findings (restricted diffusion, low ADC, cystic/necrotic areas, mass effect) support this diagnosis. Elevated choline and decreased NAA peaks on MRS are typical.
+   - Conclusion: Favored diagnosis due to location, imaging characteristics, and association with obstructive hydrocephalus.  
+
+2. **Ependymoma**:
+   - Rationale: Commonly arises in the fourth ventricle and shows calcification and plasticity (growth along space). May extend into foramina of Luschka/Magendie.
+   - Conclusion: Less likely, as the lesion arises from the vermis rather than the ventricle floor and lacks characteristic calcifications.
+
+3. **Juvenile Pilocytic Astrocytoma**:
+   - Rationale: Typically has cystic regions with mural nodules showing intense enhancement. Usually less aggressive in presentation and growth.
+   - Conclusion: Excluded, as the lesion lacks distinct mural nodules with cystic areas.
+
+4. **Atypical Teratoid Rhabdoid Tumour**:
+   - Rationale: Typically occurs in younger children. Imaging characteristics can mimic medulloblastoma but requires immunohistochemical markers for confirmation.
+   - Conclusion: Excluded due to age and lack of distinguishing features on imaging.
+
+5. **Brainstem Glioma**:
+   - Rationale: Typically shows diffuse infiltration and higher ADC values with minimal enhancement. Less likely to cause obstructive hydrocephalus.
+   - Conclusion: Excluded due to intensely enhancing, hypercellular lesion with restricted diffusion.
+
+6. **Hemangioblastoma**:
+   - Rationale: Primarily seen in adults and associated with von Hippel-Lindau syndrome. MRI findings of hypervascularity and high perfusion do not match current findings.
+   - Conclusion: Excluded based on age and imaging features.
+
+7. **Cerebellar Metastasis**:
+   - Rationale: Rare in children and requires evidence of a primary tumour.
+   - Conclusion: Excluded due to lack of systemic malignancy history.
+
+---"
+M102,PMC11551029,Fulminant myocarditis associated with human rhinovirus A66 infection.,"Fulminant myocarditis associated with human rhinovirus A66 infection. This conclusion is supported by the patient’s clinical presentation (rapid onset cardiogenic shock), diagnostic findings (elevated cardiac biomarkers, reduced ejection fraction, and HRV-A66 in bronchoalveolar lavage fluid via mNGS), and exclusion of other potential infectious or non-infectious causes of myocarditis.","1. **Initial list of potential diagnoses:**
+   - Myocarditis (including viral myocarditis): Suspected due to elevated cardiac biomarkers, reduced ejection fraction, arrhythmias, and prior viral illness.
+   - Bacterial myocarditis/endocarditis: Considered, but blood cultures and clinical presentation did not support bacterial infection.
+   - Septic shock with secondary cardiac involvement: Excluded as no bacterial source or sepsis was evident.
+   - Multisystem inflammatory syndrome in children (MIS-C): Unlikely due to the absence of COVID-19 exposure and typical features such as rash or conjunctivitis.
+   - Non-infectious causes (e.g., drug-induced myocarditis, autoimmune): No history of relevant exposures or evidence of autoimmune disorder.
+
+2. **Focus on viral myocarditis:**
+   - Viral etiology was prioritized, as the patient had a prodromal viral illness and myocarditis signs. mNGS confirmed HRV-A66, an uncommon pathogen associated with myocarditis.
+   - Exclusion of other viral pathogens (e.g., enteroviruses, adenovirus) ruled out more common causes via diagnostic testing.
+
+3. **Confirmation of HRV-A66 as the cause:**
+   - HRV-A66 was identified through genomic analysis, with phylogenetic data and viral genome sequencing confirming its presence in respiratory samples. No other significant pathogens were identified."
+M103,PMC11465049,Intraperitoneal chronic expanding hematoma,"Intraperitoneal chronic expanding hematoma secondary to recent abdominal trauma. The diagnosis was confirmed by imaging findings (CT and MRI) that demonstrated a well-defined cystic mass, and by histopathological analysis that excluded malignancy and established hallmark features of a chronic expanding hematoma.","1. The initial differential diagnosis included a neoplastic ovarian mass based on the patient's symptoms, physical exam, and CT imaging findings that suggested an ovarian origin.
+   - **Rationale for Considering:** The large abdominopelvic cystic mass and associated symptoms such as chronic pain, nausea, and vomiting are characteristic of ovarian cystic lesions.
+   - **Exclusion:** MRI findings excluded an ovarian origin by identifying independent multifollicular ovaries and by showing features of a fibrous pseudocapsule around the mass.
+   
+2. Other potential causes of abdominopelvic masses were considered, such as retroperitoneal tumors, mesenteric cysts, or hemorrhagic sarcomas.
+   - **Rationale for Considering:** The large size, persistence, and compressive effects of the mass raised suspicion of a malignant or benign neoplastic source.
+   - **Exclusion:** Mixed signal on MRI (mosaic sign) and histopathological findings (no epithelial lining, neoplastic features, or malignancy) ruled out neoplastic origins.
+
+3. The chronic expanding hematoma was considered due to the patient's abdominal trauma history and imaging characteristics, including a fibrous pseudocapsule and varied MRI signals suggesting different hematoma stages.
+   - **Confirmation:** Histopathological examination of the surgical specimen confirmed chronic expanding hematoma, with characteristic findings of fibrous tissue, chronic inflammation, and vascular granulation tissue."
+M104,PMC11550647,Cerebral Adrenoleukodystrophy (X-linked),Cerebral Adrenoleukodystrophy (X-linked) presenting as status epilepticus.,"1. **Initial Differential Diagnoses:** Focused on developmental regression, seizures, and spasticity, considering mitochondrial encephalopathies, X-linked adrenoleukodystrophy (X-ALD), Krabbe disease, Huntington's disease, multiple sclerosis, and other demyelinating disorders.
+2. **Key findings supporting X-ALD:**
+   - Elevated VLCFA levels and ACTH levels strongly indicated X-ALD as an underlying etiology.
+   - MRI findings with characteristic bilateral parieto-occipital white matter lesions and a high Loes score of 22 aligned with cerebral adrenoleukodystrophy (CALD).
+   - Exclusion of mitochondrial disorders via normal arterial blood gas and serum lactate levels.
+   - Exclusion of Krabbe disease by negative glycosphingolipid markers.
+3. **Exclusion of other diagnoses:**
+   - Huntington's disease and multiple sclerosis are unlikely due to the patient's age, rapid symptom progression, and specific biochemical and imaging findings.
+4. **Confirmation of X-ALD:** Diagnosis was supported by biochemical findings (VLCFA elevation), MRI imaging, and clinical progression consistent with CALD."
+M105,PMC11545912,Adult-Onset Neuronal Ceroid Lipofuscinosis (NCL) due to a homozygous CLN5 variant.,"Adult-Onset Neuronal Ceroid Lipofuscinosis (ANCL) with a homozygous CLN5 variant, presenting with isolated progressive focal dystonia and subtle ataxia.","1. **Initial Possibilities:** 
+   - Adult-onset focal dystonia due to secondary causes (e.g., metabolic, autoimmune, structural, neurodegenerative conditions).
+   - Primary dystonia or neurodegenerative conditions with atypical presentations.
+   
+2. **Exclusion Based on Tests:**
+   - Normal metabolic, paraneoplastic, and autoimmune workups excluded common metabolic and autoimmune causes.
+   - MRI ruled out focal structural lesions but indicated cerebellar atrophy, consistent with a neurodegenerative process.
+
+3. **Genetic Analysis:**
+   - Found CLN5 variant, involved in lysosomal storage disorders like neuronal ceroid lipofuscinosis (NCL). Although the variant was of uncertain significance, electron microscopy findings from the skin biopsy confirmed the diagnosis.
+
+4. **Consideration of Other Neurodegenerative Disorders:**
+   - Parkinsonism, Alzheimer’s disease, or hereditary ataxias considered but excluded due to distinctive genetic findings and phenotypic focus on isolated dystonia and subtle ataxia.
+
+5. **Conclusion of Diagnosis:**
+   - CLN5 variant-linked NCL as the underlying cause of adult-onset dystonia based on genetic findings, biopsy confirmation, and the absence of alternative explanations."
+M106,PMC11483503,Left common femoral vein saccular aneurysm.,Left common femoral vein saccular aneurysm associated with thrombosis.,"1. **Initial Suspicion**: The patient's presentation of inguinal lump with ipsilateral limb swelling prompted initial consideration of DVT, treated unsuccessfully with anticoagulation.
+2. **Cystic Adventitial Disease (ACD)**:
+   - Rationale: Imaging suggested a compressive cystic mass without communication, consistent with ACD.
+   - Exclusion: Intraoperative findings revealed a saccular aneurysm rather than an extravascular cyst, ruling out ACD.
+3. **Inguinal or Femoral Hernia**:
+   - Rationale: Common mimicker of inguinal masses.
+   - Exclusion: Imaging and surgical exploration showed venous involvement, not hernia.
+4. **Venous Aneurysm**:
+   - Rationale: The intraoperative identification of a saccular dilation with thrombus was consistent with a venous aneurysm.
+   - Confirmation: Definitive diagnosis was made intraoperatively through thrombectomy and aneurysmectomy."
+M107,PMC11583715,Type I Truncus Arteriosus (TA) and Anomalous Left Coronary Artery from the Pulmonary Artery (ALCAPA),"The patient was diagnosed with **Type I Truncus Arteriosus (TA)** and **Anomalous Left Coronary Artery from the Pulmonary Artery (ALCAPA)**, a rare combination of congenital anomalies. Diagnosis was supported by clinical presentation, imaging studies (echocardiography, MSCT, and catheterization findings), and hemodynamics indicating significant pulmonary hypertension and myocardial ischemia risk.","1. **Truncus arteriosus (TA):**  
+   - Symptoms of cyanosis, recurrent pneumonia, and heart murmur initially pointed to congenital heart malformation. TA was confirmed by imaging studies showing a single great vessel and truncal valve with overriding VSD.
+   
+2. **Anomalous left coronary artery from pulmonary artery (ALCAPA):**  
+   - Myocardial ischemia risk was raised by echocardiography findings. Confirmed through MSCT and cardiac catheterization, which identified the left coronary artery originating from the pulmonary trunk.
+
+3. **Other congenital abnormalities (e.g., Tetralogy of Fallot, isolated VSD):**  
+   - Excluded due to the absence of hallmark features like pulmonary stenosis or isolated septal defects in imaging and catheterization studies.
+
+4. **Syndromic/genetic disorders associated with congenital heart anomalies:**  
+   - Ruled out by negative karyotyping and lack of syndromic clinical features.
+
+Comprehensive imaging and invasive studies validated the dual diagnosis of TA and ALCAPA, ruling out alternative congenital heart defects."
+M108,PMC11521446,Chronic Myeloid Leukemia (CML) with paraneoplastic digital ischemia and gangrene.,"Chronic Myeloid Leukemia (CML) in the chronic phase with paraneoplastic digital ischemia and dry gangrene due to associated hyperviscosity and thrombocytosis. Diagnosis was confirmed by BCR-ABL positivity and was managed successfully using tyrosine kinase inhibitor (imatinib) and aspirin.
+
+---","1. **Initial Differential Diagnoses:**
+   - Thromboembolism: Excluded due to normal Doppler findings.
+   - Autoimmune arteritis: Excluded based on negative autoimmune panel (ANA, antiphospholipid antibodies).
+   - Buerger’s disease: Possible given the patient’s smoking history but not confirmed as arterial disease was not present.
+   - Trauma or substance abuse: Denied by the patient.
+   - Myeloproliferative disorders (essential thrombocytosis, polycythemia vera): Considered based on thrombocytosis but excluded since CML was confirmed.
+
+2. **Focused Investigation on Myeloproliferative Disorders:** 
+   - The presence of severe leukocytosis and thrombocytosis prompted further testing for leukemia.
+   - Bone marrow studies and RT-PCR confirmed the diagnosis of CML.
+
+3. **Mechanism for Digital Gangrene in CML:**
+   - Likely secondary to blood hyperviscosity and leukostasis caused by elevated leukocyte and platelet counts.
+
+4. **Exclusion of other malignancies:**
+   - Adenocarcinomas and other cancers causing digital ischemia were unlikely, given hematological findings clearly pointed to CML.
+
+---"
+M109,PMC11563655,HSV-2-associated conjunctival phlyctenule and nodular scleritis,"HSV-2-associated conjunctival phlyctenule and nodular scleritis, confirmed clinically by the patient’s marked response to antiviral therapy (valacyclovir) and complete resolution of symptoms with long-term management.","1. **Initial Differential**:
+   - Epidemic keratoconjunctivitis (initially treated with antibiotics and corticosteroids).
+   - Phlyctenular keratoconjunctivitis (considered after recurrence of symptoms with conjunctival lesion).
+   - Nodular scleritis (added following further progression involving sclera).
+   
+2. **Evaluation of Infectious Causes**:
+   - Infectious scleritis was considered due to pain, redness, and atypical lesion presentation. Infectious agents (e.g., bacteria, fungi, viruses) ruled out by negative laboratory tests except for HSV-2 IgG positivity.
+
+3. **Consideration of HSV-2**:
+   - HSV-2 suggested based on patient history (positive IgG, past infection) and poor response to corticosteroids without antiviral therapy.
+   - Nodular scleritis related to HSV supported by patient's improvement with valacyclovir.
+   
+4. **Exclusion of Autoimmune Causes**:
+   - Lack of systemic or serologic findings indicative of autoimmune diseases (e.g., negative ANA, ANCA, HLA-B27).
+
+5. **Management and Confirmation**:
+   - Failure of corticosteroid therapy alone but rapid symptom resolution with valacyclovir strongly suggested HSV-2-related ocular inflammation."
+M110,PMC11465705,"Recurrent syncope with multifactorial etiology including vagal-mediated sinus pauses, chronic marijuana use, and disrupted sleep patterns.","Multifactorial recurrent syncope induced by vagal-mediated sinus pauses, exacerbated by chronic marijuana use, disrupted sleep patterns, and occupational sleep deprivation.  
+
+---","1. **Initial Differential List:** Likely causes considered included vasovagal syncope, orthostatic hypotension, reflexive or situational syncope, cardiac arrhythmias, structural cardiac abnormalities, seizure, and other triggers like substance use.  
+2. **Steps in Reasoning:**  
+   - **Orthostatic hypotension:** Excluded due to normal blood pressure and heart rate changes during posture testing.  
+   - **Cardiac arrhythmia as primary cause:** Excluded by serial EKGs, Holter monitoring, absence of accessory pathways in the EPS, and lack of family history of arrhythmias or sudden death.  
+   - **Structural abnormalities or valve dysfunction:** Excluded via echocardiogram, which revealed a normal ejection fraction and no valvular disease.  
+   - **Myocardial infarction:** Ruled out by negative troponins and lack of associated chest pain or ST changes.  
+   - **Seizure:** EEG was abnormal but lacked epileptiform activity, and no postictal symptoms were present.  
+   - **Narcolepsy or cataplexy:** Excluded as LOC occurred, not just loss of muscle tone while awake.  
+   - **Vasovagal or reflexive syncope:** Strongly considered given vagal etiology noted during sinus pauses. Episodes' timing (e.g., during micturition) suggested situational factors. Further supported by effects of marijuana and chronic sleep deprivation, which can amplify vagal tone and autonomic dysfunction.  
+   - **Role of lifestyle factors:** Marijuana use and disrupted circadian rhythm (from night shifts) were investigated and implicated in exacerbating syncope. Literature on cannabis-related bradyarrhythmias and vasovagal responses supported this conclusion.  
+
+3. **Final Conclusion:** Episodes of recurrent syncope were determined to be multifactorial, largely related to vasovagal effects influenced by chronic marijuana use, sleep deprivation, and a disrupted circadian rhythm. Post-hospital follow-up with ILR confirmed sinus pauses and bradycardia during symptom-free and symptomatic periods.
+
+---"
+M111,PMC11496249,Cryptococcoid Sweet syndrome (cSS),"Cryptococcoid Sweet syndrome (cSS), a rare variant of Sweet syndrome, characterized by histological resemblance to Cryptococcus species, MPO positivity, and negative fungal cultures, alongside a reactive vasculitis-like process, likely exacerbated by pre-existing ANCA-associated glomerulonephritis and systemic inflammatory conditions.
+
+---","1. **Infectious Conditions:**
+   - **Considered:** Cutaneous cryptococcosis, disseminated herpes zoster, or bacterial superinfections due to skin necrosis.
+   - **Excluded:** Negative fungal/bacterial cultures and specific pathogen stains (e.g., PAS, Grocott’s) ruled out infections.
+
+2. **Neutrophilic Dermatoses:**
+   - **Considered:** Classical Sweet syndrome (SS), drug-induced SS, or malignancy-associated SS.
+   - **Refined to cSS:** Histology showed Cryptococcus-like basophilic vacuolated features with MPO positivity and negative microbial identification, consistent with Cryptococcoid Sweet syndrome (cSS).
+
+3. **Vasculitis and Autoimmune Disease:**
+   - **Considered:** ANCA-associated vasculitis, given patient history of p-ANCA–associated glomerulonephritis and vascular findings.
+   - **Excluded:** Histological changes were more compatible with a reactive vasculitis secondary to cSS rather than a primary vasculitis, supported by the absence of immune-complex deposition.
+
+4. **Medications/Triggers:**
+   - **Considered:** Possible antibiotic triggers such as piperacillin-tazobactam.
+   - **Excluded:** Temporal association unclear; no definitive causative link established.
+
+Final determination centered on meeting SS diagnostic criteria combined with characteristic histological features unique to cSS.
+
+---"
+M112,PMC11626645,Early neurological deterioration (END) secondary to severe stenosis of the right internal carotid artery.,"Early neurological deterioration (END) due to severe stenosis of the right internal carotid artery, identified by imaging studies and contributing to ischemia. The presence of APCV on SWI supported the diagnosis of inadequate collateral circulation and cerebral hypoperfusion.","1. **Initial considerations based on severe headache and transient neurological symptoms:**
+   - **Migraine**: Unlikely as symptoms included focal neurological deficits (e.g., limb weakness) that progressed and did not resolve.
+   - **Tension headache**: Excluded due to the severity (VAS 9/10) and associated neurologic deficits.
+   - **Stroke/TIA**: Highly suspected due to the patient's prior history of stroke, ischemic lesions on imaging, and transient neurological symptoms evolving to persistent deficits.
+   
+2. **Imaging Studies:**
+   - CT and CTA findings: Confirmed the presence of significant large-vessel stenosis (right internal carotid artery, 95% stenosis) and ischemia.
+   - SWI findings (APCV): Indicative of hypoperfusion and inadequate collateral circulation.
+
+3. **Reasons for excluding other potential causes:**
+   - **Intracranial hemorrhage**: No evidence of hemorrhagic signal on imaging.
+   - **Mass lesions or infections**: Absence of intracranial space-occupying lesions, fever, or other systemic signs.
+   - **Post-stroke headache alone**: Evidence of active ischemia and worsening neurologic signs ruled this out as an isolated factor.
+
+4. **Final diagnostic confirmation:** Severe stenosis of the right internal carotid artery leading to symptomatic ischemia and END with manifestations of severe headache, left-sided weakness, and neurologic deficits."
+M113,PMC11348727,Pulmonary Alveolar Proteinosis (PAP) secondary to Bacillus megaterium infection.,Pulmonary Alveolar Proteinosis (PAP) secondary to Bacillus megaterium infection.,"1. **Initial Differential Diagnoses:**
+   - **Autoimmune PAP:** Suggested by the “crazy-paving” pattern, milky BALF, PAS-positive histology, marginally elevated GM-CSF antibody level.
+   - **Infectious PAP (secondary to opportunistic infection):**
+     - Supported by bacterial culture identifying Bacillus megaterium and absence of fungal or viral pathogens.
+     - Opportunistic infections like nocardiosis, mycobacteria, or other pathogens.
+   - **Malignancy:** Slightly elevated tumor markers (CEA and Cyfra21-1), but no evidence of malignancy on imaging or histology.
+2. **Analysis and Exclusion:**
+   - **Autoimmune PAP:** GM-CSF antibody was borderline significant but not conclusive. Histologic findings and clinical presentation fit better with an infectious etiology.
+   - **Non-opportunistic infection or typical pathogens:** Ruled out based on negative sputum screens and no significant clinical improvement initially with broad-spectrum antibiotics (Cefoperazone-Sulbactam, Voriconazole).
+   - **Neoplasm:** Excluded due to lack of evidence to support malignancy on imaging and biopsy.
+   - **Infectious PAP secondary to Bacillus megaterium:** Confirmed due to positive biopsy bacterial culture, classic PAP radiologic patterns, histology, and clinical improvement following appropriate antimicrobial treatment (clindamycin and amoxicillin-clavulanate).
+3. **Final Determination:** Infectious PAP secondary to Bacillus megaterium was established as the most likely cause, supported by histologic and microbiologic findings alongside clinical outcomes."
+M114,PMC11609113,Scimitar syndrome.,"Scimitar syndrome was diagnosed based on clinical presentation alongside imaging findings including right lung hypoplasia, an anomalous pulmonary vein draining into the infra-diaphragmatic IVC, systemic arterial supply from the abdominal aorta, and associated anomalies.","- Based on the radiographical findings, initial differential diagnoses included:
+  1. **Post-tubercular sequelae:** Excluded due to the absence of history or other supportive features of tuberculosis.
+  2. **Neoplastic processes:** Excluded as imaging did not reveal findings suggestive of malignancy.
+  3. **Mucus plugging/foreign body:** Excluded due to the lack of history or imaging evidence.
+- CECT findings pointed to specific congenital anomalies and confirmed features consistent with **Scimitar syndrome**, such as anomalous pulmonary venous return and lung hypoplasia, leading to its diagnosis."
+M115,PMC11632602,Peripartum Cardiomyopathy (PPCM).,Peripartum Cardiomyopathy (PPCM) in the setting of dichorionic diamniotic twin pregnancy and pre-eclampsia.,"1. **Pre-eclampsia Complications**: Pre-eclampsia is a known risk factor for PPCM due to vascular stress. The oxygen desaturation and abnormal imaging findings prompted investigation beyond pre-eclampsia. Elevated sFlt-1 and proteinuria without other causes of acute heart failure increased the possibility of PPCM.
+2. **Pulmonary Embolism (PE)**: PE was considered given oxygen desaturation and pregnancy-associated hypercoagulability. It was ruled out via CT pulmonary angiogram.
+3. **Primary Pulmonary Causes**: Pulmonary conditions like pneumonia or acute respiratory distress syndrome (ARDS) did not align with the clinical presentation (e.g., oxygen desaturation in isolation without fever, cough, or significant symptoms).
+4. **Peripartum Cardiomyopathy (PPCM)**: PPCM became the primary consideration due to the findings of reduced EF (41%), abnormal biomarkers (e.g., elevated BNP, troponin), and compatible imaging (pulmonary edema and cardiomegaly). This diagnosis fits the criteria of heart failure with reduced EF presenting late in pregnancy or postpartum without pre-existing cardiac conditions.
+
+Clinical reasoning confirmed PPCM based on a combination of echocardiographic findings (EF < 45%), clinical symptoms (oxygen desaturation), and exclusion of other potential causes of heart failure."
+M116,PMC11532648,Reactive hypoglycemia associated with hypermobile Ehlers-Danlos Syndrome (hEDS).,The patient was diagnosed with **reactive hypoglycemia associated with hypermobile Ehlers-Danlos Syndrome (hEDS)**. The condition was predominantly caused by disordered autonomic control of glucose metabolism in the context of her established EDS and comorbidities like dysautonomia and small fiber neuropathy.,"- **Step 1:** Confirmation of the hypoglycemia diagnosis:
+  - Fulfillment of the Whipple triad (symptoms, documented low venous glucose, and symptom relief with glucose correction) confirmed hypoglycemia.
+  - Initial evaluation excluded nonislet cell tumor syndromes, insulinoma, and autoimmune hypoglycemia based on fasting test results with appropriate suppression of β-cell peptides and normal ketogenesis.
+- **Step 2:** Exclusion of alternative structural or surgical causes:
+  - History and imaging excluded gastrointestinal surgeries or structural abnormalities such as dumping syndrome.
+- **Step 3:** Evaluation of reactive (postprandial) hypoglycemia:
+  - Identified reactive hypoglycemia as a predominant trigger, which can occur in gastrointestinal dysmotility disorders or dysautonomia.
+- **Step 4:** Consideration of underlying EDS-related autonomic dysfunction:
+  - Dysautonomia, seen commonly in hEDS, could impair glucose counterregulation and explain hypoglycemia patterns.
+  - Additional contributing mechanisms such as rapid gastric emptying and impaired counterregulation were considered consistent with her clinical picture.
+- While rare, the strong association between hypoglycemia and hEDS in both the patient and similar case series supports the link between these conditions."
+M117,PMC11557282,Non-paraneoplastic Autoimmune Retinopathy (npAIR).,Non-paraneoplastic Autoimmune Retinopathy (npAIR).,"- **Step 1: Initial considerations**
+  - Based on the symptoms of painless, progressive, bilateral vision loss with nyctalopia and photopsias, autoimmune retinopathy (AIR) was considered alongside inherited and degenerative retinal dystrophies such as retinitis pigmentosa (RP), photoreceptor dystrophies, and inflammatory retinal conditions.
+
+- **Step 2: Clinical imaging and diagnostic test results**
+  - RP was ruled out due to absent bony spicules, which are characteristic of RP, and the acute progression of symptoms inconsistent with RP’s typically slow course.
+  - Photoreceptor dystrophies were initially considered due to OCT findings of photoreceptor loss but ruled out because ERG findings and the patient's history (with a negative family history) supported an autoimmune etiology.
+  - Inflammatory retinal diseases were ruled out as there were no symptoms or findings of active inflammation, and serology/blood tests were normal.
+  - Neoplastic causes, such as cancer-associated retinopathy (CAR) or melanoma-associated retinopathy (MAR), were ruled out after PET and serologic testing confirmed no malignancy.
+  
+- **Step 3: Final diagnostic correlation**
+  - npAIR was diagnosed based on bilateral photoreceptor dysfunction, clinical findings, and imaging, including electro-negative ERG and perifoveal thinning on OCT. Despite the lack of antiretinal autoantibody testing, the clinical and diagnostic features strongly supported AIR over other conditions."
+M118,PMC11444798,Chronic lymphocytic leukemia (CLL) and concurrent extramedullary plasmacytoma.,The patient was diagnosed with **chronic lymphocytic leukemia (CLL)** and a **concurrent extramedullary plasmacytoma** arising from separate clonal origins. This rare occurrence was confirmed through biopsy and FISH analysis.,"- **Initial Consideration:** Right-sided mouth pain initially suspected to be secondary to dental disease (periapical disease).
+- **Step 1:** Antibiotic treatment failure, progression of symptoms like facial numbness, and imaging results suggested a more systemic or malignant process. Possible differential diagnoses included:
+  - **Richter Transformation:** Considered due to co-occurrence with CLL, ruled out by lack of compatible genetic mutations from FISH analysis.
+  - **Multiple Myeloma:** Considered due to hypercalcemia, elevated kappa light chains, and lytic lesions. Ruled out because the plasma cell neoplasm was localized to an extramedullary plasmacytoma rather than systemic involvement.
+  - **Extramedullary Plasmacytoma:** Confirmed by biopsy showing plasmacytoma independent of CLL clone (distinct genetic profiles).
+  - **Progressive CLL:** Ruled out as the disease did not align with Richter syndrome or generalized progression (normal blood counts and distinct clonal origins for separate malignancies)."
+M119,PMC11625107,Congenital syphilis with metaphysitis.,"Congenital syphilis with associated bone abnormalities, specifically metaphysitis.","- Congenital syphilis was considered due to maternal syphilis history, positive serology at birth, and characteristic radiographic findings (e.g., metaphysitis, sclerotic changes, and transverse radiolucent bands typical of congenital syphilis).
+- Other infectious causes of bone abnormalities (e.g., congenital cytomegalovirus or rubella) were less likely due to the absence of systemic findings such as hepatosplenomegaly or other congenital anomalies and the specific radiological appearance associated with congenital syphilis.
+- Metabolic or genetic bone diseases, such as rickets or osteogenesis imperfecta, were ruled out because the presentation of radiographic features (especially metaphyseal lesions) in the context of syphilis was diagnostic.
+
+The typical radiographic findings and syphilis-positive serology correlated well with congenital syphilis, leading to exclusion of other diagnoses."
+M120,PMC11461956,Wandering spleen with torsion and infarction.,Wandering spleen with 720° torsion of the vascular pedicle leading to splenic infarction.,"1. **Appendicular abscess:** Initially suspected based on ultrasound findings. However, further evaluation with CT ruled this out due to specific imaging findings of a twisted vascular pedicle and absence of a normal spleen.
+2. **Cystic or mesenteric mass (e.g., pancreatic pseudocyst):** Considered due to initial CT suspicion of a cystic mass. Excluded upon identifying abnormal spleen position and vascular torsion.
+3. **Wandering spleen with torsion:** Diagnosed based on characteristic CT findings (whirlpool sign, splenic vascular torsion, infarcted spleen not in the usual anatomic location). Diagnosis confirmed intraoperatively."

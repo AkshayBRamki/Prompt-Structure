@@ -1,0 +1,35 @@
+case_id,leak_status,matched_phrases
+M001,clean_no_match,post-surgery; postoperative
+M002,redacted,post-surgery
+M003,redacted,post-surgery
+M008,kept_history_premise,treated with
+M012,redacted,treated with
+M013,redacted,post-treatment
+M017,redacted,post-surgery
+M018,redacted,postoperative
+M022,redacted,treated with
+M027,redacted,after treatment; post-resection
+M029,redacted,remission; treated with
+M031,redacted,post-surgery
+M032,redacted,treated with
+M034,redacted,after treatment
+M036,clean_no_match,treated with
+M037,redacted,treated with
+M041,redacted,started on
+M043,kept_false_positive,treated with
+M044,clean_no_match,postoperative; postoperatively
+M046,clean_no_match,treated with
+M054,kept_irreducible_imaging_label,post-operative
+M057,redacted,postoperative
+M062,kept_irreducible_imaging_label,postoperative
+M074,redacted,treated with
+M075,clean_no_match,treated with
+M079,clean_no_match,treated with
+M083,redacted,started on
+M085,redacted,post-surgery
+M087,redacted,postoperative
+M095,kept_history_premise,treated with
+M096,redacted,postoperative; treated with
+M098,redacted,treated with
+M106,redacted,treated with
+M115,clean_no_match,post-operative; post-operatively
