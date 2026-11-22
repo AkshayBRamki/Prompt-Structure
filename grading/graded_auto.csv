@@ -1,0 +1,961 @@
+case,model,arm,style,grade,strict,lenient,dx,words,recall,cosine,g1,g2
+M001,Gemini,A_redacted,S2_stepwise,2,1,1,Schwannomatosis (sporadic schwannomatosis),109,0.4,0.686,1,2
+M001,Claude,A_redacted,S3_structured,2,1,1,"Schwannomatosis (no NF2, SMARCB1 or LZTR1 variant identified, i.e. schwannomatosis-NEC), with multiple lumbosacral intraspinal schwannomas and recurrent perineal schwannoma.",322,0.4,0.434,1,1
+M001,Gemini,A_redacted,S3_structured,2,1,1,Sporadic schwannomatosis,413,0.4,0.725,1,2
+M001,Claude,A_redacted,S2_stepwise,2,1,1,"Schwannomatosis (gene-negative / NOS, non-NF2-related), with multiple lumbosacral intraspinal schwannomas and a recurrent perineal schwannoma",113,0.4,0.437,1,1
+M001,Gemini,B_original,S1_bare,2,1,1,Schwannomatosis,4,0.2,0.624,0,2
+M001,Claude,B_original,S1_bare,2,1,1,"Schwannomatosis (non-NF2, gene-negative for SMARCB1/LZTR1) with multiple lumbosacral intraspinal schwannomas and recurrent left perineal schwannoma",18,0.4,0.421,1,1
+M001,Gemini,A_redacted,S1_bare,2,1,1,Schwannomatosis,4,0.2,0.624,0,2
+M001,Claude,A_redacted,S1_bare,2,1,1,"Schwannomatosis (non-NF2, NOS: multiple lumbosacral intraspinal schwannomas with recurrent perineal schwannoma; NF2, SMARCB1 and LZTR1 negative)",19,0.4,0.417,1,1
+M002,Gemini,A_redacted,S1_bare,2,1,1,Primary lung adenocarcinoma with bilateral breast metastases,10,0.25,0.348,0,1
+M002,Gemini,A_redacted,S2_stepwise,0,0,0,Metastatic triple-negative breast cancer,150,0.25,0.226,0,0
+M002,Claude,A_redacted,S3_structured,0,0,0,"Metastatic triple-negative breast carcinoma (from synchronous bilateral invasive ductal carcinoma) to the lung, adrenal gland and subcutaneous tissue.",319,0.625,0.355,1,1
+M002,Claude,A_redacted,S2_stepwise,1,0,1,"Metastatic triple-negative breast carcinoma (from synchronous bilateral invasive ductal carcinoma) to the lung, adrenal gland and subcutaneous tissue",130,0.625,0.36,1,1
+M002,Claude,B_original,S1_bare,1,0,1,"Multiple primary malignancies: synchronous bilateral triple-negative invasive ductal breast carcinoma, plus primary pulmonary carcinoma (non-small cell, TTF1/napsin-negative, driver-wild-type) with subcutaneous and adrenal metastases",26,0.625,0.294,1,0
+M002,Claude,A_redacted,S1_bare,0,0,0,"Metastatic triple-negative breast carcinoma (synchronous bilateral) with lung, adrenal and subcutaneous metastases",15,0.5,0.321,1,1
+M002,Gemini,A_redacted,S3_structured,0,0,0,Metastatic triple-negative breast carcinoma (metastatic invasive ductal carcinoma of the breast),528,0.375,0.37,0,1
+M002,Gemini,B_original,S1_bare,1,0,1,Synchronous bilateral triple-negative invasive ductal breast carcinoma and primary pulmonary carcinoma,14,0.5,0.34,1,1
+M003,Claude,B_original,S1_bare,2,1,1,Giant omental cystic lymphangioma with abdominoscrotal extension through the left inguinal canal,15,1.0,0.466,2,1
+M003,Gemini,B_original,S1_bare,1,0,1,Omental cystic lymphangioma,6,1.0,0.925,2,2
+M003,Claude,A_redacted,S3_structured,1,0,1,Giant abdominoscrotal cystic lymphangioma (macrocystic lymphatic malformation).,251,0.667,0.404,1,1
+M003,Gemini,A_redacted,S1_bare,1,0,1,Abdominoscrotal cystic lymphangioma,6,0.667,0.489,1,1
+M003,Gemini,A_redacted,S3_structured,1,0,1,Abdominoscrotal cystic lymphangioma,456,0.667,0.489,1,1
+M003,Claude,A_redacted,S1_bare,1,0,1,Abdominoscrotal cystic lymphatic malformation (cystic lymphangioma),9,0.667,0.458,1,1
+M003,Claude,A_redacted,S2_stepwise,1,0,1,Abdominoscrotal cystic lymphangioma (cystic lymphatic malformation) extending from the abdomen/retroperitoneum into the left scrotum,100,0.667,0.335,1,1
+M003,Gemini,A_redacted,S2_stepwise,1,0,1,Abdominoscrotal cystic lymphangioma (cystic lymphangioma),108,0.667,0.583,1,2
+M004,Gemini,A_redacted,S1_bare,2,1,1,Primary mucinous cystadenocarcinoma of the breast,9,0.8,0.808,2,2
+M004,Gemini,B_original,S1_bare,2,1,1,Primary mucinous cystadenocarcinoma of the breast,9,0.8,0.808,2,2
+M004,Claude,B_original,S1_bare,2,1,1,"Primary mucinous cystadenocarcinoma of the left breast (triple-negative, CEA-elevated)",12,0.8,0.514,2,2
+M004,Gemini,A_redacted,S2_stepwise,2,1,1,Primary mucinous cystadenocarcinoma of the breast,129,0.8,0.808,2,2
+M004,Gemini,A_redacted,S3_structured,2,1,1,Primary mucinous cystadenocarcinoma of the breast,502,0.8,0.808,2,2
+M004,Claude,A_redacted,S2_stepwise,2,1,1,Primary mucinous cystadenocarcinoma of the breast (triple-negative),107,0.8,0.636,2,2
+M004,Claude,A_redacted,S3_structured,2,1,1,"Primary mucinous cystadenocarcinoma of the left breast (triple-negative, pT2N0).",261,0.8,0.542,2,2
+M004,Claude,A_redacted,S1_bare,2,1,1,Primary mucinous cystadenocarcinoma of the breast (triple-negative),10,0.8,0.636,2,2
+M005,Gemini,A_redacted,S1_bare,2,1,1,Herpes simplex virus esophagitis,7,0.8,0.896,2,2
+M005,Claude,A_redacted,S3_structured,2,1,1,Herpes simplex virus esophagitis (primary infection) in an immunocompetent patient.,218,0.8,0.566,2,2
+M005,Claude,B_original,S1_bare,2,1,1,Herpes simplex virus type 1 esophagitis (primary infection) in an immunocompetent patient,15,0.8,0.569,2,2
+M005,Claude,A_redacted,S2_stepwise,2,1,1,Herpes simplex virus (HSV) esophagitis (primary infection) in an immunocompetent patient,76,1.0,0.688,2,2
+M005,Gemini,B_original,S1_bare,2,1,1,Primary herpes simplex virus type 1 (HSV-1) esophagitis,11,1.0,0.765,2,2
+M005,Claude,A_redacted,S1_bare,2,1,1,Herpes simplex virus esophagitis in an immunocompetent patient,11,0.8,0.641,2,2
+M005,Gemini,A_redacted,S2_stepwise,2,1,1,Primary herpes simplex virus (HSV) esophagitis,99,1.0,0.953,2,2
+M005,Gemini,A_redacted,S3_structured,2,1,1,Primary herpes simplex virus (HSV) esophagitis,396,1.0,0.953,2,2
+M006,Claude,A_redacted,S3_structured,2,1,1,Gastric schwannoma.,179,1.0,1.0,2,2
+M006,Claude,A_redacted,S1_bare,2,1,1,Gastric schwannoma,5,1.0,0.906,2,2
+M006,Claude,B_original,S1_bare,2,1,1,Gastric schwannoma,5,1.0,0.906,2,2
+M006,Gemini,A_redacted,S2_stepwise,2,1,1,Gastric schwannoma,94,1.0,0.906,2,2
+M006,Claude,A_redacted,S2_stepwise,2,1,1,Gastric schwannoma,79,1.0,0.906,2,2
+M006,Gemini,A_redacted,S1_bare,2,1,1,Gastric schwannoma,5,1.0,0.906,2,2
+M006,Gemini,B_original,S1_bare,2,1,1,Gastric schwannoma,5,1.0,0.906,2,2
+M006,Gemini,A_redacted,S3_structured,2,1,1,Gastric schwannoma,346,1.0,0.906,2,2
+M007,Gemini,B_original,S1_bare,2,1,1,Interstitial ectopic pregnancy,6,1.0,0.905,2,2
+M007,Claude,A_redacted,S3_structured,2,1,1,Unruptured live left tubal (interstitial) ectopic pregnancy at 12 weeks' gestation.,236,1.0,0.483,2,1
+M007,Gemini,A_redacted,S2_stepwise,1,0,1,Unruptured ectopic pregnancy (left tubal/interstitial ectopic pregnancy),83,1.0,0.666,2,2
+M007,Gemini,A_redacted,S1_bare,2,1,1,Unruptured left tubal ectopic pregnancy,8,0.667,0.44,1,1
+M007,Claude,A_redacted,S2_stepwise,2,1,1,Unruptured live left tubal (likely interstitial/proximal) ectopic pregnancy at 12 weeks' gestation,91,1.0,0.442,2,1
+M007,Claude,A_redacted,S1_bare,1,0,1,Unruptured left tubal ectopic pregnancy with a live 12-week fetus,13,0.667,0.325,1,1
+M007,Claude,B_original,S1_bare,2,1,1,Live interstitial (cornual) ectopic pregnancy of the left fallopian tube at 12 weeks' gestation,17,1.0,0.469,2,1
+M007,Gemini,A_redacted,S3_structured,2,1,1,Unruptured left tubal (interstitial) ectopic pregnancy,348,1.0,0.605,2,2
+M008,Gemini,A_redacted,S1_bare,1,0,1,Acute mesenteric ischemia secondary to small bowel neuroendocrine tumor,12,0.556,0.627,1,2
+M008,Claude,A_redacted,S3_structured,2,1,1,Acute-on-chronic mesenteric ischemia of the small bowel secondary to metastatic SBNET mesenteric mass encasing the SMA and SMV.,242,0.556,0.567,1,2
+M008,Claude,A_redacted,S2_stepwise,2,1,1,Acute-on-chronic mesenteric ischemia of the small bowel due to SMA/SMV encasement by mesenteric metastatic small bowel neuroendocrine tumor (desmoplastic mesenteric fibrosis),127,0.778,0.607,2,2
+M008,Gemini,A_redacted,S3_structured,2,1,1,Acute-on-chronic mesenteric ischemia secondary to metastatic small bowel neuroendocrine tumor involving the superior mesenteric artery and vein,507,0.778,0.742,2,2
+M008,Gemini,B_original,S1_bare,2,1,1,Acute-on-chronic mesenteric ischemia secondary to metastatic small bowel neuroendocrine tumor,13,0.778,0.781,2,2
+M008,Claude,B_original,S1_bare,2,1,1,Acute mesenteric ischemia of the small bowel caused by metastatic small bowel neuroendocrine tumor encasing the superior mesenteric artery and vein,24,0.667,0.511,1,2
+M008,Gemini,A_redacted,S2_stepwise,1,0,1,Acute-on-chronic mesenteric ischemia (acute mesenteric ischemia secondary to small bowel neuroendocrine tumor),122,0.667,0.733,1,2
+M008,Claude,A_redacted,S1_bare,2,1,1,Acute mesenteric ischemia from small bowel neuroendocrine tumor encasing the SMA and SMV,16,0.556,0.474,1,1
+M009,Claude,A_redacted,S1_bare,0,0,0,Solitary buccal bony exostosis (hyperostosis) of the right maxillary alveolar ridge,14,0.0,0.02,0,0
+M009,Gemini,B_original,S1_bare,0,0,0,Buccal exostosis (maxillary alveolar exostosis),8,0.0,0.021,0,0
+M009,Gemini,A_redacted,S2_stepwise,0,0,0,Maxillary buccal exostosis,120,0.0,0.012,0,0
+M009,Gemini,A_redacted,S1_bare,0,0,0,Maxillary buccal exostosis,6,0.0,0.012,0,0
+M009,Gemini,A_redacted,S3_structured,0,0,0,Maxillary buccal exostosis,441,0.0,0.012,0,0
+M009,Claude,A_redacted,S2_stepwise,0,0,0,Buccal exostosis (benign bony exostosis) of the right maxillary alveolar ridge,104,0.0,0.017,0,0
+M009,Claude,A_redacted,S3_structured,0,0,0,Solitary buccal exostosis (benign hyperostosis) of the right maxillary alveolar ridge.,328,0.0,0.019,0,0
+M009,Claude,B_original,S1_bare,0,0,0,Solitary buccal exostosis (benign bony exostosis/hyperostosis) of the right maxillary alveolar ridge,15,0.0,0.018,0,0
+M010,Claude,A_redacted,S1_bare,2,1,1,"Acquired uterine arteriovenous malformation after D&C, supplied by the left uterine artery",15,0.8,0.689,2,2
+M010,Gemini,A_redacted,S2_stepwise,2,1,1,Acquired uterine arteriovenous malformation (AVM),122,1.0,0.93,2,2
+M010,Gemini,B_original,S1_bare,2,1,1,Acquired uterine arteriovenous malformation (AVM),8,1.0,0.93,2,2
+M010,Claude,A_redacted,S2_stepwise,2,1,1,Acquired uterine arteriovenous malformation (post-D&C),90,0.8,0.741,2,2
+M010,Claude,B_original,S1_bare,2,1,1,"Acquired uterine arteriovenous malformation (after D&C), supplied by the left uterine artery",15,0.8,0.673,2,2
+M010,Gemini,A_redacted,S3_structured,2,1,1,Acquired uterine arteriovenous malformation (AVM),453,1.0,0.93,2,2
+M010,Claude,A_redacted,S3_structured,2,1,1,"Acquired uterine arteriovenous malformation (post-D&C), supplied by the left uterine artery.",281,0.8,0.654,2,2
+M010,Gemini,A_redacted,S1_bare,2,1,1,Acquired uterine arteriovenous malformation (AVM),8,1.0,0.93,2,2
+M011,Claude,B_original,S1_bare,2,1,1,"Intestinal (ileocecal) tuberculosis with cecal perforation and peritonitis, plus concurrent pulmonary tuberculosis, in a patient with newly diagnosed HIV infection",23,0.833,0.649,2,2
+M011,Gemini,B_original,S1_bare,2,1,1,Disseminated tuberculosis with intestinal tuberculosis (cecal perforation) and pulmonary tuberculosis in a newly diagnosed HIV patient,19,0.5,0.592,1,2
+M011,Gemini,A_redacted,S1_bare,1,0,1,Disseminated tuberculosis (pulmonary and intestinal tuberculosis with cecal perforation),12,0.333,0.618,0,2
+M011,Gemini,A_redacted,S2_stepwise,2,1,1,Intestinal tuberculosis with cecal perforation (in the setting of disseminated tuberculosis and newly diagnosed HIV),134,0.5,0.567,1,2
+M011,Claude,A_redacted,S1_bare,2,1,1,"Intestinal (ileocecal) tuberculosis with cecal perforation and peritonitis, with concurrent pulmonary TB, in a patient with newly diagnosed HIV infection",23,0.833,0.613,2,2
+M011,Claude,A_redacted,S2_stepwise,2,1,1,"Perforated ileocecal (intestinal) tuberculosis with peritonitis and concurrent pulmonary tuberculosis, in a patient with newly diagnosed HIV infection",114,0.667,0.649,1,2
+M011,Gemini,A_redacted,S3_structured,2,1,1,Intestinal tuberculosis with cecal perforation (disseminated tuberculosis in newly diagnosed HIV),393,0.5,0.584,1,2
+M011,Claude,A_redacted,S3_structured,2,1,1,"Ileocecal (intestinal) tuberculosis complicated by cecal perforation and peritonitis, with concurrent pulmonary TB, in newly diagnosed HIV infection.",269,0.833,0.64,2,2
+M012,Gemini,A_redacted,S2_stepwise,1,0,1,Spontaneous splenic rupture secondary to a splenic hemangioma,114,0.75,0.818,2,2
+M012,Claude,A_redacted,S3_structured,1,0,1,"Spontaneous (atraumatic) splenic rupture with hemoperitoneum, secondary to a benign subcapsular splenic lesion (most likely a hemangioma or hamartoma).",273,1.0,0.585,2,2
+M012,Gemini,A_redacted,S1_bare,1,0,1,Spontaneous splenic rupture secondary to splenic hemangioma,10,0.75,0.82,2,2
+M012,Gemini,B_original,S1_bare,2,1,1,Spontaneous splenic rupture secondary to splenic hamartoma,10,1.0,0.969,2,2
+M012,Claude,B_original,S1_bare,1,0,1,Atraumatic (spontaneous) splenic rupture with hemoperitoneum due to splenic hamartoma,13,1.0,0.684,2,2
+M012,Gemini,A_redacted,S3_structured,1,0,1,Atraumatic (spontaneous) splenic rupture secondary to a benign subcapsular splenic lesion (splenic hemangioma),422,0.75,0.591,2,2
+M012,Claude,A_redacted,S2_stepwise,1,0,1,Atraumatic (spontaneous) splenic rupture with hemoperitoneum secondary to a small subcapsular splenic hemangioma (benign vascular lesion),88,0.75,0.502,2,2
+M012,Claude,A_redacted,S1_bare,1,0,1,"Atraumatic (spontaneous) splenic rupture with hemoperitoneum, due to a small subcapsular splenic hemangioma",16,0.75,0.498,2,1
+M013,Claude,A_redacted,S3_structured,2,1,1,"Angle Class I malocclusion (Dewey type 2) on a Class I skeletal base, with proclined, spaced maxillary incisors (maxillary dentoalveolar protrusion), lower anterior crowding, increased overjet and overbite, and lip incompetence.",270,0.833,0.316,2,1
+M013,Gemini,A_redacted,S3_structured,2,1,1,Angle's Class I malocclusion with proclined and spaced maxillary anterior teeth (Dewey's modification),452,1.0,0.575,2,2
+M013,Gemini,A_redacted,S1_bare,2,1,1,Angle's Class I malocclusion (Dewey's Type 2) with maxillary anterior proclination,14,0.667,0.506,1,2
+M013,Claude,B_original,S1_bare,2,1,1,"Angle Class I malocclusion with Dewey's type 2 modification (proclined, spaced maxillary incisors) on a Class I skeletal base, associated with a prior thumb-sucking habit",28,0.833,0.431,2,1
+M013,Gemini,B_original,S1_bare,2,1,1,Angle's Class I malocclusion with Dewey's modification type 2,12,0.667,0.609,1,2
+M013,Claude,A_redacted,S2_stepwise,2,1,1,"Angle Class I malocclusion (Dewey Type 2) on a Class I skeletal base with bimaxillary dentoalveolar protrusion, maxillary anterior spacing and mandibular anterior crowding",85,0.833,0.476,2,1
+M013,Claude,A_redacted,S1_bare,2,1,1,"Angle Class I malocclusion (Dewey Type 2) on a Class I skeletal base, with proclined and spaced maxillary incisors, lower anterior crowding, and increased overjet and overbite",30,0.833,0.375,2,1
+M013,Gemini,A_redacted,S2_stepwise,2,1,1,Angle's Class I malocclusion with maxillary anterior proclination and spacing (Dewey's Type 2),123,0.833,0.599,2,2
+M014,Gemini,A_redacted,S2_stepwise,2,1,1,Tethered cord syndrome secondary to a sacral spinal lipoma,119,0.714,0.746,2,2
+M014,Claude,A_redacted,S3_structured,2,1,1,"Adult-presenting tethered cord syndrome secondary to a sacral spinal lipoma (occult spinal dysraphism), with associated L4–L5 isthmic spondylolisthesis.",272,0.714,0.407,2,1
+M014,Claude,A_redacted,S1_bare,2,1,1,"Tethered cord syndrome caused by a sacral spinal lipoma (occult spinal dysraphism), with L4-L5 isthmic spondylolisthesis",19,0.714,0.457,2,1
+M014,Gemini,A_redacted,S1_bare,2,1,1,Tethered cord syndrome secondary to sacral spinal lipoma,11,0.714,0.749,2,2
+M014,Claude,B_original,S1_bare,2,1,1,"Tethered cord syndrome due to a sacral spinal canal lipoma (low-lying conus at S1–S2), with associated L4–L5 isthmic spondylolisthesis",22,0.857,0.462,2,1
+M014,Claude,A_redacted,S2_stepwise,2,1,1,"Adult-onset tethered cord syndrome due to sacral spinal lipoma (occult spinal dysraphism), with associated L4–L5 isthmic spondylolisthesis",78,0.714,0.424,2,1
+M014,Gemini,A_redacted,S3_structured,2,1,1,Adult tethered cord syndrome secondary to a sacral spinal lipoma,463,0.714,0.692,2,2
+M014,Gemini,B_original,S1_bare,2,1,1,Tethered cord syndrome secondary to a sacral spinal lipoma,12,0.714,0.746,2,2
+M015,Gemini,A_redacted,S3_structured,0,0,0,Autosomal recessive hereditary cerebellar ataxia (late-onset / Holmes-type hereditary cerebellar ataxia),445,0.333,0.352,0,1
+M015,Claude,B_original,S1_bare,0,0,0,"Hereditary (familial) progressive cerebellar ataxia, most likely autosomal recessive late-onset cerebellar ataxia",15,0.333,0.348,0,1
+M015,Gemini,B_original,S1_bare,0,0,0,Autosomal recessive cerebellar ataxia,7,0.333,0.413,0,1
+M015,Claude,A_redacted,S1_bare,0,0,0,Autosomal recessive hereditary cerebellar ataxia (pure cerebellar ataxia syndrome),12,0.333,0.442,0,1
+M015,Gemini,A_redacted,S2_stepwise,0,0,0,Autosomal recessive hereditary cerebellar ataxia,117,0.333,0.37,0,1
+M015,Claude,A_redacted,S2_stepwise,0,0,0,"Hereditary cerebellar ataxia, most likely an adult-onset autosomal recessive cerebellar ataxia (pure cerebellar, e.g., ARCA1/SYNE1 type)",107,0.333,0.343,0,1
+M015,Claude,A_redacted,S3_structured,0,0,0,Hereditary (likely autosomal recessive) pure cerebellar ataxia with marked cerebellar atrophy.,260,0.333,0.341,0,1
+M015,Gemini,A_redacted,S1_bare,0,0,0,Autosomal recessive cerebellar ataxia,7,0.333,0.413,0,1
+M016,Gemini,A_redacted,S3_structured,1,0,1,Lymphomatosis cerebri (diffuse primary CNS B-cell lymphoma) with superimposed focal infarction/involvement of the caudate nucleus and hippocampus,519,0.857,0.563,2,2
+M016,Claude,A_redacted,S3_structured,2,1,1,Lymphomatosis cerebri (diffuse infiltrative primary CNS diffuse large B-cell lymphoma) with superimposed focal primary CNS lymphoma in the caudate and hippocampus.,277,0.857,0.679,2,2
+M016,Gemini,A_redacted,S2_stepwise,1,0,1,Lymphomatosis cerebri (diffuse variant of primary central nervous system diffuse large B-cell lymphoma),145,0.571,0.514,1,2
+M016,Claude,A_redacted,S2_stepwise,2,1,1,Lymphomatosis cerebri (diffuse infiltrative primary CNS diffuse large B-cell lymphoma) with superimposed focal lymphomatous lesions in the caudate and hippocampus,105,0.857,0.646,2,2
+M016,Claude,A_redacted,S1_bare,2,1,1,"Lymphomatosis cerebri (diffuse primary CNS diffuse large B-cell lymphoma), with superimposed focal lymphoma in the caudate and hippocampus",21,0.857,0.693,2,2
+M016,Claude,B_original,S1_bare,2,1,1,"Lymphomatosis cerebri (diffuse cerebral lymphomatosis, a CD20-positive B-cell primary CNS lymphoma) with superimposed focal primary CNS lymphoma in the caudate and hippocampus",25,1.0,0.707,2,2
+M016,Gemini,B_original,S1_bare,1,0,1,Lymphomatosis cerebri (diffuse cerebral lymphomatosis / primary CNS B-cell lymphoma),13,0.857,0.719,2,2
+M016,Gemini,A_redacted,S1_bare,1,0,1,Lymphomatosis cerebri (primary central nervous system diffuse large B-cell lymphoma),13,0.571,0.502,1,2
+M017,Gemini,A_redacted,S1_bare,1,0,1,Cecal adenocarcinoma,5,0.2,0.327,0,1
+M017,Claude,A_redacted,S2_stepwise,1,0,1,"Cecal (colonic) adenocarcinoma, moderately differentiated, pT3N0M0 (stage IIA), presenting as acute appendicitis",115,0.4,0.33,1,1
+M017,Claude,B_original,S1_bare,2,1,1,"Moderately differentiated (G2) mucinous adenocarcinoma of the appendix (pT3N0M0), presenting as acute appendicitis",16,0.8,0.513,2,2
+M017,Gemini,A_redacted,S2_stepwise,1,0,1,Cecal adenocarcinoma,97,0.2,0.327,0,1
+M017,Claude,A_redacted,S3_structured,1,0,1,"Cecal adenocarcinoma (moderately differentiated, pT3N0M0) presenting as acute appendicitis",313,0.4,0.374,1,1
+M017,Claude,A_redacted,S1_bare,1,0,1,"Cecal adenocarcinoma (moderately differentiated, pT3N0M0) presenting as acute appendicitis",12,0.4,0.374,1,1
+M017,Gemini,B_original,S1_bare,2,1,1,Mucinous adenocarcinoma of the appendix,8,0.6,0.704,1,2
+M017,Gemini,A_redacted,S3_structured,1,0,1,Moderately differentiated cecal adenocarcinoma (pT3N0M0),484,0.4,0.306,1,1
+M018,Claude,A_redacted,S2_stepwise,1,0,1,Primary hyperparathyroidism due to an ectopic (retroesophageal) parathyroid adenoma,120,0.308,0.514,0,2
+M018,Claude,B_original,S1_bare,1,0,1,"Primary hyperparathyroidism due to an ectopic left paraesophageal (retroesophageal) parathyroid adenoma, with coexisting thyroid nodules (Hürthle cell neoplasm)",21,0.385,0.451,0,1
+M018,Claude,A_redacted,S3_structured,1,0,1,Primary hyperparathyroidism due to an ectopic (left para/retroesophageal) parathyroid adenoma,295,0.308,0.491,0,1
+M018,Claude,A_redacted,S1_bare,1,0,1,Primary hyperparathyroidism due to an ectopic (retroesophageal/paraesophageal) parathyroid adenoma,12,0.308,0.437,0,1
+M018,Gemini,A_redacted,S1_bare,1,0,1,Ectopic parathyroid adenoma,6,0.154,0.468,0,1
+M018,Gemini,A_redacted,S3_structured,1,0,1,Primary hyperparathyroidism secondary to an ectopic parathyroid adenoma,529,0.308,0.58,0,2
+M018,Gemini,B_original,S1_bare,1,0,1,Primary hyperparathyroidism due to an ectopic (extrathyroid) parathyroid adenoma,12,0.385,0.602,0,2
+M018,Gemini,A_redacted,S2_stepwise,1,0,1,Ectopic parathyroid adenoma (causing primary hyperparathyroidism),128,0.308,0.545,0,2
+M019,Gemini,A_redacted,S2_stepwise,2,1,1,Insulinoma (pancreatic insulinoma),105,0.5,0.551,1,2
+M019,Claude,A_redacted,S3_structured,2,1,1,Insulinoma (well-differentiated G1 pancreatic NET of the uncinate process),252,0.5,0.246,1,0
+M019,Claude,A_redacted,S1_bare,2,1,1,Insulinoma (well-differentiated grade 1 pancreatic neuroendocrine tumor of the uncinate process),14,0.5,0.224,1,0
+M019,Claude,A_redacted,S2_stepwise,2,1,1,"Insulinoma (well-differentiated grade 1 pancreatic neuroendocrine tumor), localized by 68Ga-Exendin-4 PET/CT",104,0.5,0.184,1,0
+M019,Claude,B_original,S1_bare,2,1,1,"Insulinoma (well-differentiated grade 1 pancreatic neuroendocrine tumor of the uncinate process), localized by 68Ga-Exendin-4 PET/CT",18,0.5,0.169,1,0
+M019,Gemini,B_original,S1_bare,2,1,1,Insulinoma (well-differentiated grade 1 pancreatic neuroendocrine tumor),10,0.5,0.259,1,0
+M019,Gemini,A_redacted,S3_structured,2,1,1,Insulinoma (well-differentiated grade 1 pancreatic neuroendocrine tumor),448,0.5,0.259,1,0
+M019,Gemini,A_redacted,S1_bare,2,1,1,Insulinoma,4,0.5,0.663,1,2
+M020,Claude,A_redacted,S2_stepwise,2,1,1,Mesenteric desmoid-type fibromatosis (desmoid tumor) mimicking GIST recurrence,76,0.667,0.551,1,2
+M020,Claude,A_redacted,S1_bare,2,1,1,Mesenteric desmoid-type fibromatosis mimicking GIST recurrence,9,0.667,0.545,1,2
+M020,Claude,A_redacted,S3_structured,2,1,1,Mesenteric desmoid-type fibromatosis mimicking GIST recurrence (both patients),207,0.667,0.47,1,1
+M020,Gemini,B_original,S1_bare,2,1,1,Desmoid-type fibromatosis,5,0.667,0.839,1,2
+M020,Claude,B_original,S1_bare,2,1,1,Mesenteric desmoid-type fibromatosis mimicking GIST recurrence after GIST treatment,12,0.667,0.442,1,1
+M020,Gemini,A_redacted,S3_structured,2,1,1,Desmoid fibromatosis (mesenteric desmoid tumor),390,0.667,0.52,1,2
+M020,Gemini,A_redacted,S2_stepwise,2,1,1,Desmoid fibromatosis (mesenteric desmoid tumor),92,0.667,0.52,1,2
+M020,Gemini,A_redacted,S1_bare,2,1,1,Desmoid fibromatosis,5,0.667,0.665,1,2
+M021,Claude,A_redacted,S1_bare,2,1,1,"Infective endocarditis (culture-negative) of the mitral valve on underlying mitral valve prolapse, with cardioembolic ischemic stroke and post-thrombolysis hemorrhage",22,0.778,0.527,2,2
+M021,Claude,A_redacted,S3_structured,2,1,1,"Mitral valve infective endocarditis (likely culture-negative) on underlying MVP, complicated by cardioembolic stroke and post-thrombolysis hemorrhage",286,0.556,0.325,1,1
+M021,Claude,B_original,S1_bare,2,1,1,"Acute cardioembolic ischemic stroke from mitral valve infective endocarditis (with underlying mitral valve prolapse), complicated by post-thrombolysis intracerebral hemorrhage",22,0.889,0.545,2,2
+M021,Claude,A_redacted,S2_stepwise,2,1,1,"Infective endocarditis (likely culture-negative) of the mitral valve on underlying mitral valve prolapse, complicated by cardioembolic stroke and post-thrombolysis intracranial hemorrhage",136,0.667,0.446,1,1
+M021,Gemini,A_redacted,S1_bare,1,0,1,Infective endocarditis,5,0.222,0.475,0,1
+M021,Gemini,B_original,S1_bare,2,1,1,Infective endocarditis complicated by cardioembolic ischemic stroke,10,0.444,0.445,1,1
+M021,Gemini,A_redacted,S2_stepwise,1,0,1,Infective endocarditis (blood culture-negative infective endocarditis),121,0.222,0.364,0,1
+M021,Gemini,A_redacted,S3_structured,2,1,1,Infective endocarditis (blood culture-negative infective endocarditis) complicated by cardioembolic ischemic stroke,502,0.444,0.423,1,1
+M022,Claude,A_redacted,S2_stepwise,1,0,1,"Recurrent virus-triggered rhabdomyolysis, possibly due to an underlying hereditary myopathy (EDMD-associated gene variants of unknown significance)",135,0.571,0.365,1,1
+M022,Gemini,A_redacted,S2_stepwise,1,0,1,Recurrent viral-induced rhabdomyolysis,110,0.429,0.481,1,1
+M022,Gemini,B_original,S1_bare,1,0,1,Recurrent viral-induced rhabdomyolysis,6,0.429,0.481,1,1
+M022,Claude,B_original,S1_bare,2,1,1,"Recurrent virus-triggered rhabdomyolysis, possibly linked to SYNE2 variants (Emery-Dreifuss muscular dystrophy-related)",14,0.571,0.406,1,1
+M022,Claude,A_redacted,S1_bare,1,0,1,Recurrent virus-triggered rhabdomyolysis associated with variants in an Emery-Dreifuss muscular dystrophy gene (possible EDMD-spectrum myopathy),18,0.571,0.392,1,1
+M022,Gemini,A_redacted,S3_structured,1,0,1,Recurrent viral-induced rhabdomyolysis associated with Emery-Dreifuss muscular dystrophy–linked gene variants of unknown significance,518,0.714,0.414,2,1
+M022,Gemini,A_redacted,S1_bare,1,0,1,Recurrent rhabdomyolysis,5,0.286,0.564,0,2
+M022,Claude,A_redacted,S3_structured,1,0,1,"Recurrent virus-triggered rhabdomyolysis, possibly due to an Emery-Dreifuss muscular dystrophy–associated gene variant (VUS, unconfirmed), with incidental biclonal MGUS",318,0.571,0.311,1,1
+M023,Gemini,A_redacted,S1_bare,1,0,1,Gastroduodenal artery aneurysm,6,0.429,0.601,1,2
+M023,Claude,A_redacted,S3_structured,2,1,1,"Gastroduodenal artery (pseudo)aneurysm secondary to peptic ulcer disease, causing recurrent massive upper GI bleeding",234,0.714,0.466,2,1
+M023,Gemini,A_redacted,S2_stepwise,2,1,1,Gastroduodenal artery aneurysm (or pseudoaneurysm) secondary to peptic ulcer disease,77,0.714,0.62,2,2
+M023,Gemini,A_redacted,S3_structured,2,1,1,Gastroduodenal artery aneurysm secondary to peptic ulcer disease,442,0.714,0.72,2,2
+M023,Claude,A_redacted,S1_bare,2,1,1,"Gastroduodenal artery pseudoaneurysm secondary to peptic ulcer disease, causing recurrent upper GI hemorrhage",16,0.571,0.514,1,2
+M023,Claude,A_redacted,S2_stepwise,2,1,1,"Gastroduodenal artery (pseudo)aneurysm secondary to peptic ulcer disease, causing recurrent upper gastrointestinal hemorrhage",84,0.714,0.483,2,1
+M023,Claude,B_original,S1_bare,2,1,1,"Gastroduodenal artery pseudoaneurysm secondary to peptic ulcer disease, causing recurrent massive upper GI bleeding",17,0.571,0.483,1,1
+M023,Gemini,B_original,S1_bare,1,0,1,Gastroduodenal artery aneurysm,6,0.429,0.601,1,2
+M024,Claude,B_original,S1_bare,2,1,1,Breast hamartoma (fibroadenolipoma) of the left breast that mimicked malignancy on imaging (BI-RADS 5),17,1.0,0.403,2,1
+M024,Claude,A_redacted,S3_structured,2,1,1,Breast hamartoma (fibroadenolipoma) with a malignancy-mimicking internal spiculated component,221,1.0,0.334,2,1
+M024,Claude,A_redacted,S1_bare,2,1,1,Breast hamartoma (fibroadenolipoma),6,1.0,0.543,2,2
+M024,Gemini,B_original,S1_bare,2,1,1,Breast hamartoma,5,1.0,0.887,2,2
+M024,Gemini,A_redacted,S3_structured,2,1,1,Breast hamartoma (fibroadenolipoma),457,1.0,0.543,2,2
+M024,Gemini,A_redacted,S2_stepwise,2,1,1,Breast hamartoma (fibroadenolipoma),103,1.0,0.543,2,2
+M024,Gemini,A_redacted,S1_bare,2,1,1,Breast hamartoma,5,1.0,0.887,2,2
+M024,Claude,A_redacted,S2_stepwise,2,1,1,Breast hamartoma (fibroadenolipoma) mimicking malignancy (BI-RADS V),84,1.0,0.383,2,1
+M025,Gemini,A_redacted,S3_structured,2,1,1,Idiopathic intracranial hypertension without papilledema (IIHWOP),509,0.75,0.67,2,2
+M025,Claude,B_original,S1_bare,2,1,1,"Idiopathic intracranial hypertension without papilledema (IIHWOP), with papilledema masked by high myopia",15,0.75,0.499,2,1
+M025,Gemini,B_original,S1_bare,2,1,1,Idiopathic intracranial hypertension without papilledema (IIHWOP),9,0.75,0.67,2,2
+M025,Claude,A_redacted,S2_stepwise,2,1,1,"Idiopathic intracranial hypertension without papilledema (IIHWOP), with papilledema likely masked by high myopia",146,0.75,0.487,2,1
+M025,Claude,A_redacted,S3_structured,2,1,1,"Idiopathic intracranial hypertension without papilledema (papilledema masked by high myopia), with coexisting ocular hypertension.",350,0.75,0.492,2,1
+M025,Gemini,A_redacted,S1_bare,2,1,1,Idiopathic intracranial hypertension without papilledema,8,0.75,0.675,2,2
+M025,Claude,A_redacted,S1_bare,2,1,1,Idiopathic intracranial hypertension without papilledema (IIHWOP) in a patient with high myopia,15,0.75,0.588,2,2
+M025,Gemini,A_redacted,S2_stepwise,2,1,1,Idiopathic intracranial hypertension without papilledema (IIHWOP),122,0.75,0.67,2,2
+M026,Claude,A_redacted,S3_structured,2,1,1,Tubulocystic renal cell carcinoma.,311,0.8,0.746,2,2
+M026,Claude,A_redacted,S1_bare,0,0,0,Multilocular cystic renal neoplasm of low malignant potential (right kidney),13,0.2,0.13,0,0
+M026,Gemini,A_redacted,S1_bare,2,1,1,Tubulocystic renal cell carcinoma,7,0.8,0.8,2,2
+M026,Gemini,A_redacted,S2_stepwise,2,1,1,Tubulocystic renal cell carcinoma,103,0.8,0.8,2,2
+M026,Gemini,A_redacted,S3_structured,2,1,1,Tubulocystic renal cell carcinoma (TC-RCC),457,1.0,0.653,2,2
+M026,Claude,B_original,S1_bare,2,1,1,"Tubulocystic renal cell carcinoma (right kidney, lower pole)",11,0.8,0.525,2,2
+M026,Claude,A_redacted,S2_stepwise,2,1,1,Tubulocystic renal cell carcinoma,109,0.8,0.8,2,2
+M026,Gemini,B_original,S1_bare,2,1,1,Tubulocystic renal cell carcinoma,7,0.8,0.8,2,2
+M027,Gemini,A_redacted,S3_structured,2,1,1,Fibroepithelial polyp of the urethra,436,0.333,0.657,0,2
+M027,Claude,B_original,S1_bare,2,1,1,Fibroepithelial polyp of the bulbar urethra with associated annular bulbar urethral stricture,15,0.5,0.473,1,1
+M027,Gemini,A_redacted,S2_stepwise,2,1,1,Urethral fibroepithelial polyp,100,0.5,0.718,1,2
+M027,Claude,A_redacted,S2_stepwise,2,1,1,Fibroepithelial polyp of the bulbar urethra associated with an annular (congenital-type) bulbar urethral stricture,106,0.5,0.427,1,1
+M027,Claude,A_redacted,S1_bare,2,1,1,Fibroepithelial polyp of the bulbar urethra with an associated annular bulbar urethral stricture,16,0.5,0.471,1,1
+M027,Gemini,B_original,S1_bare,2,1,1,Fibroepithelial polyp of the bulbar urethra with urethral stricture,12,0.5,0.569,1,2
+M027,Gemini,A_redacted,S1_bare,2,1,1,Fibroepithelial polyp of the urethra,8,0.333,0.657,0,2
+M027,Claude,A_redacted,S3_structured,2,1,1,Fibroepithelial polyp of the bulbar urethra associated with congenital annular bulbar urethral stenosis (Cobb's collar).,262,0.5,0.41,1,1
+M028,Claude,B_original,S1_bare,2,1,1,"Primary endometrial endometrioid adenocarcinoma (MSI-H/MMR-deficient, MSH6-mutated, non-Lynch) with metastasis to the ovary and appendix",17,0.556,0.539,1,2
+M028,Gemini,A_redacted,S2_stepwise,2,1,1,Metastatic endometrial endometrioid adenocarcinoma (endometrial endometrioid adenocarcinoma metastatic to the ovary and appendix),104,0.333,0.659,0,2
+M028,Gemini,B_original,S1_bare,2,1,1,Metastatic endometrial endometrioid adenocarcinoma (with ovarian and appendiceal metastases),12,0.444,0.647,1,2
+M028,Claude,A_redacted,S2_stepwise,2,1,1,"Primary MSI-high (somatic MSH6-mutated) endometrial endometrioid adenocarcinoma with metastasis to the ovary and appendix (advanced stage), not synchronous independent primaries",122,0.667,0.459,1,1
+M028,Gemini,A_redacted,S1_bare,2,1,1,Metastatic endometrial endometrioid adenocarcinoma,7,0.333,0.705,0,2
+M028,Gemini,A_redacted,S3_structured,2,1,1,"Metastatic endometrial endometrioid adenocarcinoma (with ovarian and appendiceal metastases, somatic MSI-H / MSH6-mutated)",442,0.556,0.576,1,2
+M028,Claude,A_redacted,S3_structured,2,1,1,"Sporadic MMR-deficient/MSI-H (somatic MSH6) endometrioid endometrial adenocarcinoma with metastases to the ovary and appendix/peritoneum. This is advanced-stage endometrial cancer, not a synchronous ovarian primary.",333,0.667,0.489,1,1
+M028,Claude,A_redacted,S1_bare,2,1,1,"Primary endometrial endometrioid adenocarcinoma (MMR-deficient/MSI-H, MSH6-mutated, non-Lynch) metastatic to the ovary and appendix",16,0.444,0.471,1,1
+M029,Gemini,A_redacted,S1_bare,1,0,1,EBV-positive NK/T-cell post-transplant lymphoproliferative disorder,8,0.545,0.643,1,2
+M029,Gemini,A_redacted,S2_stepwise,1,0,1,EBV-positive NK/T-cell post-transplant lymphoproliferative disorder (PTLD),105,0.545,0.604,1,2
+M029,Claude,A_redacted,S3_structured,2,1,1,"Donor-derived EBV-positive extranodal NK/T-cell lymphoma (T/NK-cell PTLD) after haploidentical HSCT for EBV-HLH, preceded by CNS (spinal cord) EBV-PTLD.",286,0.545,0.316,1,1
+M029,Gemini,B_original,S1_bare,2,1,1,EBV-positive post-transplant lymphoproliferative disorder (PTLD) with sequential B-cell and NK/T-cell lymphoma,14,0.636,0.58,1,2
+M029,Claude,A_redacted,S1_bare,2,1,1,"EBV-positive extranodal NK/T-cell lymphoma (post-transplant), preceded by EBV-associated post-transplant lymphoproliferative disease with CNS involvement, following EBV-associated HLH",20,0.727,0.552,2,2
+M029,Gemini,A_redacted,S3_structured,1,0,1,EBV-positive NK/T-cell post-transplant lymphoproliferative disorder (monomorphic NK/T-cell PTLD / extranodal NK/T-cell lymphoma),448,0.636,0.514,1,2
+M029,Claude,B_original,S1_bare,2,1,1,"EBV-positive NK/T-cell lymphoma arising post-transplantation (EBV-associated post-transplant lymphoproliferative disorder), following EBV-HLH and prior EBV-positive B-cell PTLD with CNS involvement",22,0.818,0.673,2,2
+M029,Claude,A_redacted,S2_stepwise,2,1,1,EBV-associated post-transplant lymphoproliferative disorder: CNS (spinal) EBV-PTLD followed by EBV-positive extranodal NK/T-cell lymphoma (cutaneous/subcutaneous) after haplo-HSCT for EBV-HLH,116,0.727,0.471,2,1
+M030,Claude,B_original,S1_bare,2,1,1,Non-O1/non-O139 Vibrio cholerae bacteremia (sepsis) of gastrointestinal origin in an immunocompromised patient,15,1.0,0.682,2,2
+M030,Gemini,A_redacted,S3_structured,0,0,0,Non-typhoidal Salmonella bacteremia,440,0.2,0.23,0,0
+M030,Claude,A_redacted,S1_bare,0,0,0,"Non-typhoidal Salmonella bacteremia, secondary to Salmonella gastroenteritis, in an immunocompromised patient",14,0.2,0.136,0,0
+M030,Gemini,A_redacted,S2_stepwise,0,0,0,Non-typhoidal Salmonella bacteremia,107,0.2,0.23,0,0
+M030,Claude,A_redacted,S3_structured,0,0,0,"Non-typhoidal Salmonella enterica bacteremia (invasive salmonellosis) from intestinal carriage, in a patient with metastatic lung cancer on alectinib.",263,0.2,0.119,0,0
+M030,Gemini,A_redacted,S1_bare,0,0,0,Non-typhoidal Salmonella bacteremia,6,0.2,0.23,0,0
+M030,Claude,A_redacted,S2_stepwise,0,0,0,Non-typhoidal Salmonella enterica bacteremia secondary to gastrointestinal carriage/infection in an immunocompromised host,111,0.2,0.133,0,0
+M030,Gemini,B_original,S1_bare,2,1,1,Non-O1/non-O139 Vibrio cholerae bacteremia,7,1.0,0.965,2,2
+M031,Claude,B_original,S1_bare,2,1,1,Mesenteric inflammatory pseudotumor (inflammatory myofibroblastic tumor),9,1.0,0.826,2,2
+M031,Claude,A_redacted,S1_bare,0,0,0,Intra-abdominal (mesenteric) desmoid tumor (aggressive fibromatosis),9,0.333,0.18,0,0
+M031,Gemini,B_original,S1_bare,2,1,1,Mesenteric inflammatory pseudotumor,6,1.0,1.0,2,2
+M031,Gemini,A_redacted,S3_structured,2,1,1,Inflammatory myofibroblastic tumor (IMT),403,0.333,0.432,0,1
+M031,Gemini,A_redacted,S1_bare,2,1,1,Inflammatory myofibroblastic tumor,6,0.333,0.483,0,1
+M031,Claude,A_redacted,S3_structured,0,0,0,Intra-abdominal (mesenteric) desmoid-type fibromatosis.,232,0.333,0.147,0,0
+M031,Gemini,A_redacted,S2_stepwise,2,1,1,Inflammatory myofibroblastic tumor (IMT),95,0.333,0.432,0,1
+M031,Claude,A_redacted,S2_stepwise,0,0,0,Intra-abdominal (mesenteric/omental) desmoid-type fibromatosis (aggressive fibromatosis),89,0.333,0.117,0,0
+M032,Gemini,B_original,S1_bare,2,1,1,Cognard type 1 dural arteriovenous fistula (DAVF) following venous sinus stenting for idiopathic intracranial hypertension,18,1.0,0.647,2,2
+M032,Claude,A_redacted,S1_bare,2,1,1,Dural arteriovenous fistula after venous sinus stenting for idiopathic intracranial hypertension,14,0.6,0.423,1,1
+M032,Gemini,A_redacted,S2_stepwise,2,1,1,Dural arteriovenous fistula (dAVF),103,0.8,0.769,2,2
+M032,Claude,A_redacted,S2_stepwise,2,1,1,Dural arteriovenous fistula of the transverse–sigmoid sinus arising after venous sinus stenting (de novo post-VSS dAVF),85,0.8,0.384,2,1
+M032,Gemini,A_redacted,S3_structured,2,1,1,Dural arteriovenous fistula (dAVF),415,0.8,0.769,2,2
+M032,Claude,B_original,S1_bare,2,1,1,Cognard type I dural arteriovenous fistula developing after venous sinus stenting for idiopathic intracranial hypertension,18,0.8,0.535,2,2
+M032,Claude,A_redacted,S3_structured,2,1,1,"De novo dural arteriovenous fistula at the transverse-sigmoid sinus after venous sinus stenting (both cases), treated with Onyx embolization.",278,0.6,0.301,1,1
+M032,Gemini,A_redacted,S1_bare,2,1,1,Dural arteriovenous fistula,6,0.6,0.688,1,2
+M033,Claude,A_redacted,S1_bare,2,1,1,Parsonage-Turner syndrome (neuralgic amyotrophy / acute brachial plexus neuritis) of the right upper limb following dengue virus infection,21,0.6,0.398,1,1
+M033,Claude,A_redacted,S2_stepwise,2,1,1,Parsonage-Turner syndrome (neuralgic amyotrophy / acute brachial plexus neuritis) following dengue virus infection,114,0.6,0.423,1,1
+M033,Claude,A_redacted,S3_structured,2,1,1,Parsonage-Turner syndrome (neuralgic amyotrophy / acute brachial plexus neuritis) of the right upper and middle trunks after dengue infection.,320,0.6,0.394,1,1
+M033,Gemini,B_original,S1_bare,2,1,1,Neuralgic amyotrophy (Parsonage-Turner syndrome) secondary to dengue virus infection,12,0.6,0.495,1,1
+M033,Gemini,A_redacted,S1_bare,2,1,1,Parsonage-Turner syndrome (post-dengue neuralgic amyotrophy),8,0.8,0.68,2,2
+M033,Gemini,A_redacted,S2_stepwise,2,1,1,Post-dengue Parsonage-Turner syndrome (neuralgic amyotrophy / brachial plexitis),139,0.8,0.606,2,2
+M033,Gemini,A_redacted,S3_structured,2,1,1,Dengue-associated Parsonage-Turner syndrome (post-infectious neuralgic amyotrophy / brachial plexitis),565,0.8,0.431,2,1
+M033,Claude,B_original,S1_bare,2,1,1,"Post-dengue neuralgic amyotrophy (Parsonage-Turner syndrome), right brachial plexus, upper and middle trunks",15,0.8,0.506,2,2
+M034,Claude,A_redacted,S1_bare,2,1,1,Case 1: Right cerebellopontine angle arachnoid cyst causing facial nerve palsy; Case 2: Facial nerve palsy from neurovascular compression by an AICA vascular loop; Case 3: Lyme neuroborreliosis with bilateral facial and multiple cranial nerve palsies,39,0.833,0.459,2,1
+M034,Gemini,A_redacted,S3_structured,2,1,1,Secondary facial nerve palsies — Case 1: Right cerebellopontine angle (CPA) arachnoid cyst; Case 2: Neurovascular compression of cranial nerves VII and VIII by an anterior inferior cerebellar artery (AICA) vascular loop; Case 3: Lyme neuroborreliosis (Lyme disease),683,0.833,0.438,2,1
+M034,Claude,A_redacted,S3_structured,1,0,1,Case 1: right CP angle arachnoid cyst causing facial palsy.,426,0.333,0.357,0,1
+M034,Claude,A_redacted,S2_stepwise,2,1,1,Secondary (non-Bell's) facial nerve palsy. Case 1: right cerebellopontine angle arachnoid cyst. Case 2: AICA vascular loop compressing CN VII/VIII (neurovascular conflict). Case 3: Lyme neuroborreliosis with bilateral facial palsy and multiple cranial neuropathies.,138,0.667,0.41,1,1
+M034,Claude,B_original,S1_bare,2,1,1,Facial nerve palsy from uncommon causes: (1) right cerebellopontine angle arachnoid cyst; (2) AICA vascular loop compressing right CN VII/VIII; (3) Lyme neuroborreliosis with bilateral facial palsy and multiple cranial neuropathies,34,0.5,0.282,1,0
+M034,Gemini,A_redacted,S1_bare,2,1,1,Secondary facial nerve palsy (Case 1: Cerebellopontine angle arachnoid cyst; Case 2: Anterior inferior cerebellar artery vascular loop compression; Case 3: Lyme neuroborreliosis),26,0.667,0.388,1,1
+M034,Gemini,B_original,S1_bare,2,1,1,Secondary facial nerve palsy (Case 1: right cerebellopontine angle arachnoid cyst; Case 2: neurovascular compression of CN VII and VIII by an anterior inferior cerebellar artery vascular loop; Case 3: Lyme neuroborreliosis),35,0.833,0.453,2,1
+M034,Gemini,A_redacted,S2_stepwise,2,1,1,Secondary facial nerve palsy due to: Case 1 — Right cerebellopontine angle arachnoid cyst; Case 2 — Neurovascular compression of cranial nerves VII and VIII by an AICA vascular loop; Case 3 — Lyme disease (Lyme neuroborreliosis),230,0.833,0.473,2,1
+M035,Gemini,A_redacted,S2_stepwise,2,1,1,Chlamydia trachomatis-induced reactive arthritis,120,0.8,0.739,2,2
+M035,Claude,A_redacted,S3_structured,2,1,1,Reactive arthritis/enthesitis (HLA-B27-negative) after Chlamydia trachomatis urogenital infection.,243,0.8,0.485,2,1
+M035,Gemini,A_redacted,S1_bare,2,1,1,Chlamydia trachomatis-induced reactive arthritis,7,0.8,0.739,2,2
+M035,Gemini,B_original,S1_bare,2,1,1,Reactive arthritis secondary to Chlamydia trachomatis infection,10,0.8,0.709,2,2
+M035,Claude,B_original,S1_bare,2,1,1,"Chlamydia trachomatis–induced reactive arthritis (HLA-B27–negative), presenting as enthesitis of the pelvis, spine and right shoulder",18,0.8,0.425,2,1
+M035,Claude,A_redacted,S1_bare,2,1,1,"Chlamydia trachomatis–associated reactive arthritis presenting as HLA-B27-negative enthesitis, without sacroiliitis",13,0.8,0.514,2,2
+M035,Gemini,A_redacted,S3_structured,2,1,1,Chlamydia trachomatis-induced reactive arthritis (HLA-B27 negative),438,0.8,0.619,2,2
+M035,Claude,A_redacted,S2_stepwise,2,1,1,Chlamydia trachomatis–associated reactive arthritis (reactive enthesitis/peripheral spondyloarthritis),71,0.8,0.619,2,2
+M036,Gemini,A_redacted,S2_stepwise,2,1,1,"Ovarian yolk sac tumor (endodermal sinus tumor), FIGO stage Ia",95,0.75,0.5,2,1
+M036,Gemini,A_redacted,S1_bare,2,1,1,Ovarian yolk sac tumor (endodermal sinus tumor),10,0.5,0.45,1,1
+M036,Gemini,B_original,S1_bare,2,1,1,"Ovarian yolk sac tumor (endodermal sinus tumor), FIGO stage Ia",13,0.75,0.5,2,1
+M036,Claude,A_redacted,S2_stepwise,2,1,1,"Ovarian yolk sac tumor (endodermal sinus tumor), left ovary, FIGO stage IA",90,0.75,0.482,2,1
+M036,Claude,A_redacted,S1_bare,2,1,1,"Left ovarian yolk sac tumor (endodermal sinus tumor), FIGO stage IA",14,0.75,0.49,2,1
+M036,Claude,A_redacted,S3_structured,2,1,1,"Ovarian yolk sac tumor (endodermal sinus tumor) of the left ovary, FIGO stage IA.",226,0.75,0.533,2,2
+M036,Gemini,A_redacted,S3_structured,2,1,1,"Ovarian yolk sac tumor (endodermal sinus tumor), FIGO stage Ia",424,0.75,0.5,2,1
+M036,Claude,B_original,S1_bare,2,1,1,"Yolk sac tumor (endodermal sinus tumor) of the left ovary, FIGO stage IA",16,0.625,0.399,1,1
+M037,Gemini,B_original,S1_bare,2,1,1,Disseminated paracoccidioidomycosis,5,0.5,0.721,1,2
+M037,Claude,A_redacted,S3_structured,2,1,1,"Disseminated paracoccidioidomycosis (Paracoccidioides brasiliensis) with appendiceal, lymph node, biliary and adrenal involvement, presenting as appendicitis.",246,0.5,0.473,1,1
+M037,Claude,A_redacted,S2_stepwise,2,1,1,"Disseminated paracoccidioidomycosis (Paracoccidioides brasiliensis), lymph-abdominal form with appendiceal, hepatobiliary and adrenal involvement",88,0.5,0.482,1,1
+M037,Gemini,A_redacted,S2_stepwise,2,1,1,Disseminated paracoccidioidomycosis (Paracoccidioides brasiliensis infection) presenting with acute appendicitis and obstructive jaundice,120,0.5,0.522,1,2
+M037,Gemini,A_redacted,S1_bare,2,1,1,Paracoccidioidomycosis (Paracoccidioides brasiliensis infection),7,0.5,0.678,1,2
+M037,Claude,A_redacted,S1_bare,2,1,1,"Disseminated paracoccidioidomycosis (Paracoccidioides brasiliensis) with appendiceal, lymph node, hepatobiliary and adrenal involvement, complicated by E. coli bacteremia",20,0.5,0.463,1,1
+M037,Claude,B_original,S1_bare,2,1,1,"Disseminated paracoccidioidomycosis (acute/subacute form) with appendiceal involvement causing acute appendicitis, plus hepatobiliary, lymph node and adrenal involvement",20,0.5,0.34,1,1
+M037,Gemini,A_redacted,S3_structured,2,1,1,Disseminated paracoccidioidomycosis (Paracoccidioides brasiliensis) presenting with acute fungal appendicitis and obstructive jaundice,463,0.5,0.51,1,2
+M038,Claude,B_original,S1_bare,2,1,1,"IDH-mutant astrocytoma, WHO grade 3, left frontal lobe, in a patient with HRAS-mutated Schimmelpenning syndrome",18,1.0,0.771,2,2
+M038,Claude,A_redacted,S2_stepwise,1,0,1,High-grade glioma (glioblastoma) of the left frontal lobe arising in Schimmelpenning syndrome with mosaic HRAS c.37G>C p.(G13R) mutation,85,0.333,0.323,0,1
+M038,Claude,A_redacted,S3_structured,1,0,1,"Glioblastoma (high-grade glioma) of the left frontal lobe, HRAS G13R-mutated, associated with Schimmelpenning syndrome.",211,0.333,0.358,0,1
+M038,Gemini,A_redacted,S2_stepwise,1,0,1,Glioblastoma (associated with Schimmelpenning syndrome and somatic HRAS mutation),122,0.167,0.412,0,1
+M038,Claude,A_redacted,S1_bare,1,0,1,Left frontal glioma (diffuse astrocytoma) with a mosaic HRAS G13R mutation in a patient with Schimmelpenning syndrome,20,0.333,0.477,0,1
+M038,Gemini,B_original,S1_bare,2,1,1,"IDH-mutant astrocytoma, WHO grade 3, associated with Schimmelpenning syndrome",12,1.0,0.925,2,2
+M038,Gemini,A_redacted,S3_structured,1,0,1,"Pilocytic astrocytoma (HRAS-mutant, associated with Schimmelpenning syndrome)",473,0.5,0.572,1,2
+M038,Gemini,A_redacted,S1_bare,1,0,1,Glioblastoma (associated with Schimmelpenning syndrome),8,0.167,0.447,0,1
+M039,Claude,A_redacted,S1_bare,0,0,0,Pulmonary sarcomatoid (spindle cell) carcinoma of the left lung with pulmonary and bone metastases,17,0.2,0.185,0,0
+M039,Claude,B_original,S1_bare,2,1,1,Classic biphasic pulmonary blastoma of the left lung with metastases to the right lung and bone,19,0.8,0.6,2,2
+M039,Gemini,A_redacted,S1_bare,0,0,0,Pulmonary sarcomatoid carcinoma (spindle cell carcinoma of the lung),12,0.2,0.134,0,0
+M039,Claude,A_redacted,S3_structured,2,1,1,"Pulmonary blastoma (pulmonary sarcomatoid carcinoma), metastatic to the right lung, vertebrae and pelvis.",220,0.4,0.256,1,0
+M039,Gemini,A_redacted,S3_structured,0,0,0,Pulmonary sarcomatoid carcinoma (spindle cell carcinoma of the lung),479,0.2,0.134,0,0
+M039,Gemini,A_redacted,S2_stepwise,0,0,0,Pulmonary spindle cell carcinoma (pulmonary sarcomatoid carcinoma),104,0.2,0.195,0,0
+M039,Claude,A_redacted,S2_stepwise,0,0,0,"Primary pulmonary sarcomatoid (spindle cell) carcinoma of the left lung, stage IV, with pulmonary and bone metastases",92,0.2,0.167,0,0
+M039,Gemini,B_original,S1_bare,2,1,1,Metastatic classic biphasic pulmonary blastoma,8,0.8,0.765,2,2
+M040,Claude,A_redacted,S1_bare,2,1,1,Left middle cerebral artery ischemic stroke caused by congenital hypoplasia of the left internal carotid artery,19,1.0,0.799,2,2
+M040,Gemini,A_redacted,S2_stepwise,2,1,1,Left middle cerebral artery ischemic stroke secondary to congenital hypoplasia of the left internal carotid artery,137,1.0,0.8,2,2
+M040,Claude,A_redacted,S3_structured,2,1,1,Congenital hypoplasia of the left internal carotid artery with ischemic stroke in the left MCA territory.,245,1.0,0.788,2,2
+M040,Gemini,B_original,S1_bare,2,1,1,Left middle cerebral artery territory ischemic stroke secondary to congenital hypoplasia of the left internal carotid artery,20,1.0,0.742,2,2
+M040,Claude,B_original,S1_bare,2,1,1,Left MCA territory ischemic stroke due to congenital hypoplasia of the left internal carotid artery,18,1.0,0.789,2,2
+M040,Claude,A_redacted,S2_stepwise,2,1,1,Ischemic stroke in the left middle cerebral (sylvian) artery territory due to congenital hypoplasia of the left internal carotid artery,99,1.0,0.686,2,2
+M040,Gemini,A_redacted,S1_bare,2,1,1,Ischemic stroke secondary to congenital hypoplasia of the left internal carotid artery,15,1.0,0.891,2,2
+M040,Gemini,A_redacted,S3_structured,2,1,1,Congenital hypoplasia of the left internal carotid artery complicated by left middle cerebral artery (sylvian) territory ischemic stroke,493,1.0,0.665,2,2
+M041,Claude,B_original,S1_bare,2,1,1,"Abiotrophia defectiva infective endocarditis of the prosthetic mitral valve and native aortic valve, complicated by septic cerebral emboli with ischemic infarcts and intracranial hemorrhage (left hemispheric stroke causing right hemiparesis)",33,0.625,0.408,1,1
+M041,Gemini,A_redacted,S2_stepwise,1,0,1,Infective endocarditis (involving the native aortic and prosthetic mitral valves) complicated by septic cerebral emboli and intracranial hemorrhage,161,0.25,0.284,0,0
+M041,Gemini,B_original,S1_bare,2,1,1,Abiotrophia defectiva infective endocarditis,7,0.5,0.628,1,2
+M041,Gemini,A_redacted,S1_bare,1,0,1,Infective endocarditis (aortic and prosthetic mitral valve) complicated by septic cerebral emboli and intracranial hemorrhage,18,0.25,0.304,0,1
+M041,Claude,A_redacted,S2_stepwise,1,0,1,"Prosthetic mitral valve and native aortic valve infective endocarditis (likely streptococcal/enterococcal) complicated by septic cerebral emboli with hemorrhagic stroke (intracerebral and subarachnoid hemorrhage, infarcts) causing right hemiparesis.",174,0.375,0.217,0,0
+M041,Gemini,A_redacted,S3_structured,1,0,1,Infective endocarditis (aortic and prosthetic mitral valves) complicated by septic cerebral emboli and intracranial hemorrhage,494,0.25,0.301,0,1
+M041,Claude,A_redacted,S3_structured,1,0,1,"Definite infective endocarditis of the prosthetic mitral valve and native aortic valve (streptococcal or enterococcal, judging by the regimen), complicated by septic cerebral embolism with hemorrhagic stroke (intraparenchymal and subarachnoid hemorrhage) causing right hemiparesis.",424,0.375,0.212,0,0
+M041,Claude,A_redacted,S1_bare,1,0,1,"Infective endocarditis of the prosthetic mitral valve and native aortic valve, complicated by septic cerebral emboli with hemorrhagic and ischemic stroke (right hemiparesis)",26,0.25,0.277,0,0
+M042,Claude,A_redacted,S2_stepwise,2,1,1,"Intraventricular (right lateral ventricle trigone) meningioma, fibroblastic type.",79,0.75,0.552,2,2
+M042,Gemini,A_redacted,S3_structured,2,1,1,Intraventricular fibroblastic meningioma,398,0.5,0.569,1,2
+M042,Gemini,A_redacted,S2_stepwise,2,1,1,Intraventricular fibroblastic meningioma (right lateral ventricle trigone),80,0.75,0.595,2,2
+M042,Gemini,B_original,S1_bare,2,1,1,Intraventricular fibroblastic meningioma,6,0.5,0.569,1,2
+M042,Claude,A_redacted,S3_structured,2,1,1,"Intraventricular meningioma of the right lateral ventricular trigone (fibroblastic subtype, WHO grade 1) with peritumoral edema and midline shift.",303,0.75,0.479,2,1
+M042,Claude,B_original,S1_bare,2,1,1,Intraventricular fibroblastic meningioma of the right lateral ventricle trigone,12,0.75,0.65,2,2
+M042,Claude,A_redacted,S1_bare,2,1,1,Intraventricular fibroblastic meningioma of the right lateral ventricle trigone,12,0.75,0.65,2,2
+M042,Gemini,A_redacted,S1_bare,2,1,1,Intraventricular fibroblastic meningioma of the right lateral ventricle,11,0.5,0.537,1,2
+M043,Gemini,B_original,S1_bare,2,1,1,Atypical proximal tibial fracture (associated with long-term bisphosphonate/denosumab therapy),12,0.6,0.379,1,1
+M043,Gemini,A_redacted,S2_stepwise,2,1,1,Atypical proximal tibial fracture (antiresorptive therapy-associated insufficiency fracture),123,0.8,0.647,2,2
+M043,Gemini,A_redacted,S3_structured,2,1,1,Atypical proximal tibial fracture secondary to long-term antiresorptive therapy (bisphosphonates and denosumab),434,0.6,0.359,1,1
+M043,Claude,A_redacted,S2_stepwise,2,1,1,Atypical (insufficiency) fracture of the proximal right tibia associated with long-term antiresorptive therapy (bisphosphonates/denosumab) and severely suppressed bone turnover.,104,1.0,0.447,2,1
+M043,Gemini,A_redacted,S1_bare,2,1,1,Atypical proximal tibial fracture secondary to long-term antiresorptive therapy,12,0.6,0.448,1,1
+M043,Claude,B_original,S1_bare,2,1,1,"Atypical insufficiency fracture of the proximal right tibia associated with long-term antiresorptive therapy (bisphosphonates followed by denosumab), with suppressed bone turnover",24,1.0,0.483,2,1
+M043,Claude,A_redacted,S3_structured,2,1,1,Atypical (antiresorptive-associated) fracture of the proximal right tibia due to severely suppressed bone turnover after long-term bisphosphonate and denosumab therapy.,303,0.8,0.333,2,1
+M043,Claude,A_redacted,S1_bare,2,1,1,Atypical insufficiency fracture of the proximal right tibia from severely suppressed bone turnover after long-term bisphosphonate and denosumab therapy,22,1.0,0.533,2,2
+M044,Claude,A_redacted,S2_stepwise,2,1,1,Atypical hemolytic uremic syndrome (complement-mediated thrombotic microangiopathy) triggered by surgery/sepsis.,82,0.75,0.401,2,1
+M044,Claude,A_redacted,S1_bare,2,1,1,Atypical (complement-mediated) hemolytic uremic syndrome / thrombotic microangiopathy triggered by surgery and sepsis,16,0.75,0.419,2,1
+M044,Gemini,A_redacted,S1_bare,2,1,1,Atypical hemolytic uremic syndrome (aHUS),8,1.0,1.0,2,2
+M044,Gemini,B_original,S1_bare,2,1,1,Atypical hemolytic uremic syndrome (aHUS),8,1.0,1.0,2,2
+M044,Claude,A_redacted,S3_structured,2,1,1,Atypical hemolytic uremic syndrome (complement-mediated thrombotic microangiopathy) triggered by surgery and sepsis after excision of myositis ossificans.,244,0.75,0.355,2,1
+M044,Claude,B_original,S1_bare,2,1,1,Atypical hemolytic uremic syndrome (complement-mediated thrombotic microangiopathy) triggered by surgery and sepsis,15,0.75,0.419,2,1
+M044,Gemini,A_redacted,S2_stepwise,2,1,1,Atypical hemolytic uremic syndrome (aHUS),112,1.0,1.0,2,2
+M044,Gemini,A_redacted,S3_structured,2,1,1,Atypical hemolytic uremic syndrome (aHUS) / secondary thrombotic microangiopathy (triggered by surgery and sepsis),440,1.0,0.589,2,2
+M045,Claude,A_redacted,S3_structured,2,1,1,Very early-onset pediatric Crohn disease (ileocolonic with upper GI and perianal involvement; Paris L3 L4a p).,322,0.8,0.301,2,1
+M045,Gemini,B_original,S1_bare,2,1,1,Very early-onset Crohn's disease,7,0.8,0.55,2,2
+M045,Gemini,A_redacted,S1_bare,2,1,1,Crohn's disease (very early-onset),7,0.8,0.433,2,1
+M045,Claude,A_redacted,S2_stepwise,1,0,1,"Pediatric (early-onset) Crohn's disease with ileocolonic, upper GI (gastric) and perianal involvement.",107,0.6,0.201,1,0
+M045,Claude,B_original,S1_bare,1,0,1,"Pediatric Crohn's disease with upper gastrointestinal (gastric), ileocolonic and perianal involvement, with granulomas containing Schaumann bodies",19,0.2,0.105,0,0
+M045,Gemini,A_redacted,S2_stepwise,2,1,1,Very early-onset Crohn's disease,131,0.8,0.55,2,2
+M045,Gemini,A_redacted,S3_structured,2,1,1,Very early-onset Crohn’s disease (pediatric Crohn’s disease),528,0.8,0.678,2,2
+M045,Claude,A_redacted,S1_bare,1,0,1,Early-onset pediatric Crohn's disease with upper GI (gastric) granulomatous involvement,13,0.6,0.276,1,0
+M046,Claude,A_redacted,S3_structured,2,1,1,"Pseudoachalasia (secondary achalasia) due to malignant infiltration of the distal esophagus and GEJ by a mediastinal mass, most consistent with metastatic osteosarcoma. A primary signet-ring adenocarcinoma should be excluded by immunohistochemistry.",334,1.0,0.465,2,1
+M046,Claude,A_redacted,S2_stepwise,2,1,1,"Pseudoachalasia (secondary achalasia) due to malignant mediastinal/esophageal infiltration, most likely metastatic osteosarcoma.",108,1.0,0.648,2,2
+M046,Gemini,A_redacted,S3_structured,1,0,1,Pseudoachalasia (secondary achalasia) due to malignant mediastinal/esophageal tumor,490,0.333,0.46,0,1
+M046,Gemini,A_redacted,S1_bare,1,0,1,Pseudoachalasia secondary to malignant mediastinal tumor,9,0.333,0.538,0,2
+M046,Gemini,A_redacted,S2_stepwise,1,0,1,Pseudoachalasia (secondary achalasia) due to malignant mediastinal/esophageal tumor,112,0.333,0.46,0,1
+M046,Claude,B_original,S1_bare,1,0,1,Pseudoachalasia (secondary achalasia) caused by a malignant signet-ring cell tumor in the mediastinum infiltrating the distal esophagus and gastroesophageal junction,23,0.333,0.327,0,1
+M046,Claude,A_redacted,S1_bare,2,1,1,Pseudoachalasia secondary to mediastinal and esophageal metastasis of osteosarcoma,12,0.667,0.724,1,2
+M046,Gemini,B_original,S1_bare,2,1,1,Pseudoachalasia secondary to metastatic osteosarcoma,8,1.0,0.961,2,2
+M047,Claude,B_original,S1_bare,2,1,1,"Dermatomyositis that is positive for both anti-MDA5 and anti-SAE1 antibodies, with oropharyngeal dysphagia and no interstitial lung disease",21,1.0,0.301,2,1
+M047,Claude,A_redacted,S3_structured,2,1,1,"Dermatomyositis, positive for anti-MDA5 and anti-SAE1, with proximal and oropharyngeal myopathy and no current interstitial lung disease.",284,1.0,0.319,2,1
+M047,Gemini,A_redacted,S3_structured,2,1,1,Dermatomyositis (anti-SAE1 and anti-MDA5 positive),457,1.0,0.487,2,1
+M047,Claude,A_redacted,S1_bare,2,1,1,Dermatomyositis with dual anti-MDA5 and anti-SAE1 antibody positivity,11,1.0,0.405,2,1
+M047,Gemini,A_redacted,S2_stepwise,2,1,1,Dermatomyositis (anti-SAE1 and anti-MDA5 positive),101,1.0,0.487,2,1
+M047,Gemini,A_redacted,S1_bare,2,1,1,Dermatomyositis,4,1.0,0.876,2,2
+M047,Claude,A_redacted,S2_stepwise,2,1,1,Dermatomyositis with dual anti-SAE1/anti-MDA5 antibody positivity (without interstitial lung disease).,93,1.0,0.332,2,1
+M047,Gemini,B_original,S1_bare,2,1,1,Dermatomyositis (anti-SAE1 and anti-MDA5 positive),8,1.0,0.487,2,1
+M048,Claude,A_redacted,S1_bare,2,1,1,Right ventricular cardiac metastasis from p16-negative squamous cell carcinoma of the oral tongue (cT4aN2c),17,0.857,0.538,2,2
+M048,Gemini,A_redacted,S2_stepwise,2,1,1,Cardiac metastasis (right ventricular metastasis) from oral squamous cell carcinoma,90,0.857,0.7,2,2
+M048,Claude,A_redacted,S2_stepwise,2,1,1,"Right ventricular cardiac metastasis from p16-negative squamous cell carcinoma of the oral tongue (stage IVC, progressive disease).",74,0.857,0.497,2,1
+M048,Claude,A_redacted,S3_structured,2,1,1,"Right ventricular cardiac metastasis of p16-negative, PD-L1-high squamous cell carcinoma of the oral tongue (restaged as cT4aN2cM1, stage IVC).",238,0.857,0.395,2,1
+M048,Claude,B_original,S1_bare,2,1,1,"Right ventricular cardiac metastasis from p16-negative squamous cell carcinoma of the oral tongue (cT4aN2c), initially mistaken for a thrombus",22,0.857,0.444,2,1
+M048,Gemini,A_redacted,S3_structured,2,1,1,Cardiac metastasis (right ventricular metastasis) from oral squamous cell carcinoma,435,0.857,0.7,2,2
+M048,Gemini,B_original,S1_bare,2,1,1,Cardiac (right ventricular) metastasis from oral squamous cell carcinoma,12,0.857,0.679,2,2
+M048,Gemini,A_redacted,S1_bare,2,1,1,Cardiac (right ventricular) metastasis from oral squamous cell carcinoma,12,0.857,0.679,2,2
+M049,Gemini,A_redacted,S3_structured,1,0,1,Synovial spindle cell haemangioma of the right knee,471,0.5,0.507,1,2
+M049,Gemini,A_redacted,S2_stepwise,1,0,1,Synovial spindle cell haemangioma of the right knee,125,0.5,0.507,1,2
+M049,Claude,A_redacted,S3_structured,1,0,1,Intra-articular (synovial) spindle cell haemangioma of the right knee with secondary haemophilic-like arthropathy and muscle atrophy,305,0.5,0.27,1,0
+M049,Claude,A_redacted,S1_bare,1,0,1,Intra-articular (synovial) spindle cell haemangioma of the right knee with secondary haemophilia-like arthropathy,16,0.5,0.288,1,0
+M049,Gemini,B_original,S1_bare,1,0,1,Synovial spindle cell hemangioma of the right knee,11,0.75,0.579,2,2
+M049,Gemini,A_redacted,S1_bare,1,0,1,Spindle cell hemangioma of the right knee,10,0.5,0.421,1,1
+M049,Claude,B_original,S1_bare,1,0,1,Recurrent intra-articular synovial (spindle cell) haemangioma of the right knee with secondary haemophilic-like degenerative arthropathy,18,0.5,0.287,1,0
+M049,Claude,A_redacted,S2_stepwise,1,0,1,Synovial (spindle cell) haemangioma of the right knee with secondary haemophilic-like arthropathy.,167,0.5,0.334,1,1
+M050,Claude,A_redacted,S3_structured,0,0,0,"Acute pulmonary embolism in a patient with severe HFrEF, pulmonary hypertension and acute-on-chronic kidney disease",341,0.0,0.002,0,0
+M050,Gemini,A_redacted,S1_bare,0,0,0,Pulmonary embolism,5,0.0,0.0,0,0
+M050,Gemini,B_original,S1_bare,2,1,1,Double superior vena cava (DSVC),8,1.0,0.919,2,2
+M050,Gemini,A_redacted,S2_stepwise,0,0,0,Pulmonary embolism,128,0.0,0.0,0,0
+M050,Claude,A_redacted,S2_stepwise,0,0,0,"Acute pulmonary embolism, in the setting of decompensated heart failure with atrial fibrillation and CKD. This carries low-to-moderate confidence.",152,0.0,0.001,0,0
+M050,Gemini,A_redacted,S3_structured,0,0,0,Acute pulmonary embolism,513,0.0,0.0,0,0
+M050,Claude,B_original,S1_bare,2,1,1,"Double superior vena cava (persistent left superior vena cava), found incidentally in a patient with uremic encephalopathy from acute-on-chronic kidney disease and decompensated heart failure",28,0.8,0.423,2,1
+M050,Claude,A_redacted,S1_bare,0,0,0,Pulmonary embolism,5,0.0,0.0,0,0
+M051,Gemini,A_redacted,S3_structured,2,1,1,Small cell neuroendocrine carcinoma of the pancreas (high-grade pancreatic neuroendocrine carcinoma),490,0.667,0.415,1,1
+M051,Claude,A_redacted,S1_bare,1,0,1,"Metastatic small cell carcinoma (high-grade neuroendocrine carcinoma, Ki-67 95%) involving the pancreas, with obstructive jaundice and widespread metastases",21,0.667,0.257,1,0
+M051,Gemini,A_redacted,S1_bare,2,1,1,Small cell neuroendocrine carcinoma of the pancreas with widespread metastases,13,0.667,0.4,1,1
+M051,Claude,B_original,S1_bare,2,1,1,Metastatic poorly differentiated small cell neuroendocrine carcinoma of the pancreas (extrapulmonary small cell carcinoma) with biliary obstruction,20,0.667,0.396,1,1
+M051,Gemini,B_original,S1_bare,2,1,1,Metastatic poorly differentiated pancreatic neuroendocrine carcinoma (small cell type),12,0.5,0.286,1,0
+M051,Claude,A_redacted,S2_stepwise,1,0,1,Metastatic poorly differentiated small cell neuroendocrine carcinoma (most likely extrapulmonary/pancreatic primary).,109,0.667,0.281,1,0
+M051,Gemini,A_redacted,S2_stepwise,2,1,1,Metastatic pancreatic small cell neuroendocrine carcinoma (poorly differentiated neuroendocrine carcinoma),122,0.5,0.297,1,0
+M051,Claude,A_redacted,S3_structured,2,1,1,"Small cell (poorly differentiated, high-grade neuroendocrine) carcinoma of the pancreas with widespread metastases",281,0.667,0.309,1,1
+M052,Claude,A_redacted,S3_structured,2,1,1,"Choledochal cyst, Todani type IVA, with obstructive jaundice and possible secondary portal hypertension",263,1.0,0.384,2,1
+M052,Claude,A_redacted,S2_stepwise,2,1,1,"Choledochal cyst, Todani type IVA.",89,1.0,0.643,2,2
+M052,Claude,B_original,S1_bare,2,1,1,"Choledochal cyst, Todani type IVA",8,1.0,0.752,2,2
+M052,Gemini,A_redacted,S2_stepwise,2,1,1,Choledochal cyst (Todani type IVA),89,1.0,0.697,2,2
+M052,Gemini,A_redacted,S3_structured,2,1,1,Choledochal cyst (Todani type IVA),412,1.0,0.697,2,2
+M052,Claude,A_redacted,S1_bare,2,1,1,"Choledochal cyst, Todani type IVA",8,1.0,0.752,2,2
+M052,Gemini,A_redacted,S1_bare,2,1,1,Choledochal cyst (Todani type IVA),8,1.0,0.697,2,2
+M052,Gemini,B_original,S1_bare,2,1,1,Type IVA choledochal cyst,7,1.0,1.0,2,2
+M053,Claude,B_original,S1_bare,2,1,1,"Isochromosome mosaic Turner syndrome (46,X,i(X)(q10)/45,X) with suprasellar and cerebellopontine angle meningiomas causing hypopituitarism",16,0.571,0.369,1,1
+M053,Gemini,A_redacted,S1_bare,2,1,1,Mosaic Turner syndrome with multiple intracranial meningiomas and hypopituitarism,12,0.429,0.423,1,1
+M053,Gemini,A_redacted,S3_structured,2,1,1,"Mosaic Turner syndrome (46,X,i(X)(q10)/45,X) with multiple intracranial meningiomas causing hypopituitarism",433,0.429,0.316,1,1
+M053,Claude,A_redacted,S3_structured,2,1,1,"Mosaic Turner syndrome (45,X/46,X,i(Xq)) complicated by a suprasellar meningioma causing hypopituitarism (secondary adrenal insufficiency), with a cerebellopontine angle meningioma",321,0.429,0.23,1,0
+M053,Gemini,A_redacted,S2_stepwise,2,1,1,Mosaic Turner syndrome (complicated by hypopituitarism secondary to suprasellar and cerebellopontine angle meningiomas),147,0.429,0.273,1,0
+M053,Claude,A_redacted,S1_bare,2,1,1,"Mosaic Turner syndrome (46,X,i(X)(q10)/45,X) with suprasellar and cerebellopontine angle meningiomas causing hypopituitarism",15,0.429,0.245,1,0
+M053,Claude,A_redacted,S2_stepwise,2,1,1,"Mosaic Turner syndrome (46,X,i(Xq)/45,X), complicated by suprasellar meningioma causing hypopituitarism with secondary adrenal insufficiency.",126,0.429,0.221,1,0
+M053,Gemini,B_original,S1_bare,2,1,1,Isochromosome mosaic Turner syndrome (IMTS) with multiple intracranial meningiomas and hypopituitarism,14,0.714,0.621,2,2
+M054,Gemini,B_original,S1_bare,2,1,1,Isolated posterior malleolus fracture,7,1.0,0.924,2,2
+M054,Gemini,A_redacted,S1_bare,2,1,1,Isolated posterior malleolus fracture of the right ankle,11,1.0,0.802,2,2
+M054,Gemini,A_redacted,S2_stepwise,2,1,1,Isolated posterior malleolus fracture of the right ankle,112,1.0,0.802,2,2
+M054,Claude,A_redacted,S3_structured,2,1,1,Isolated posterior malleolus fracture of the right ankle (about 40% of the articular surface),221,1.0,0.557,2,2
+M054,Gemini,A_redacted,S3_structured,2,1,1,Isolated posterior malleolus fracture,419,1.0,0.924,2,2
+M054,Claude,A_redacted,S2_stepwise,2,1,1,Isolated posterior malleolus fracture of the right ankle.,85,1.0,0.782,2,2
+M054,Claude,A_redacted,S1_bare,2,1,1,Isolated posterior malleolus fracture of the right ankle,11,1.0,0.802,2,2
+M054,Claude,B_original,S1_bare,2,1,1,Isolated posterior malleolus fracture of the right ankle,11,1.0,0.802,2,2
+M055,Claude,A_redacted,S3_structured,1,0,1,"Type IC choledochal cyst with anomalous pancreaticobiliary junction, complicated by cholangiocarcinoma (adenosquamous carcinoma arising from an intraductal tubular papillary neoplasm)",272,0.571,0.54,1,2
+M055,Gemini,A_redacted,S3_structured,2,1,1,Poorly differentiated adenosquamous carcinoma of the extrahepatic bile duct (arising from an intraductal tubular papillary neoplasm) associated with a choledochal cyst and pancreaticobiliary maljunction,526,0.714,0.544,2,2
+M055,Claude,A_redacted,S1_bare,2,1,1,Pancreaticobiliary maljunction with type I choledochal cyst complicated by cholangiocarcinoma (poorly differentiated adenosquamous carcinoma arising from an intraductal tubulopapillary neoplasm),23,0.714,0.575,2,2
+M055,Gemini,A_redacted,S2_stepwise,2,1,1,"Adenosquamous carcinoma of the common hepatic duct (cholangiocarcinoma) arising from an intraductal tubular papillary neoplasm, associated with a choledochal cyst and anomalous pancreaticobiliary junction",131,0.571,0.541,1,2
+M055,Claude,B_original,S1_bare,2,1,1,"Poorly differentiated adenosquamous carcinoma of the extrahepatic bile duct arising from an intraductal tubulopapillary neoplasm, in a Todani type IA choledochal cyst with pancreaticobiliary maljunction",28,0.714,0.547,2,2
+M055,Gemini,B_original,S1_bare,2,1,1,Extrahepatic cholangiocarcinoma (poorly differentiated adenosquamous carcinoma) associated with Type 1A choledochal cyst and pancreaticobiliary maljunction,18,1.0,0.795,2,2
+M055,Claude,A_redacted,S2_stepwise,2,1,1,Cholangiocarcinoma (adenosquamous type) of the extrahepatic bile duct arising in a type I choledochal cyst with pancreaticobiliary maljunction.,113,0.857,0.783,2,2
+M055,Gemini,A_redacted,S1_bare,2,1,1,Adenosquamous carcinoma of the common hepatic duct (cholangiocarcinoma) associated with a choledochal cyst and pancreaticobiliary maljunction,19,0.714,0.713,2,2
+M056,Claude,A_redacted,S3_structured,2,1,1,"Umbilical cord ulcer associated with congenital upper small bowel (jejunal) atresia, causing fetal haemorrhage and intrauterine fetal death",263,0.75,0.59,2,2
+M056,Gemini,A_redacted,S1_bare,2,1,1,Umbilical cord ulceration associated with congenital jejunal (small bowel) atresia leading to intrauterine fetal demise,18,0.75,0.671,2,2
+M056,Claude,A_redacted,S1_bare,2,1,1,"Umbilical cord ulcer associated with congenital small bowel (jejunal) atresia, causing fetal hemorrhage and intrauterine fetal death",20,0.75,0.614,2,2
+M056,Claude,A_redacted,S2_stepwise,2,1,1,"Umbilical cord ulcer associated with congenital intestinal (jejunal) atresia, causing fetal haemorrhage and intrauterine fetal death.",113,0.75,0.585,2,2
+M056,Gemini,A_redacted,S3_structured,2,1,1,Umbilical cord ulceration associated with congenital jejunal (small bowel) atresia causing fetal hemorrhage and intrauterine fetal demise,507,0.667,0.569,1,2
+M056,Claude,B_original,S1_bare,2,1,1,"Umbilical cord ulcer associated with congenital jejunal atresia, causing fetal hemorrhage and intrauterine fetal death",18,0.75,0.686,2,2
+M056,Gemini,B_original,S1_bare,2,1,1,Intrauterine fetal death due to umbilical cord ulceration (UCU) hemorrhage associated with congenital jejunal atresia,18,0.833,0.754,2,2
+M056,Gemini,A_redacted,S2_stepwise,2,1,1,Umbilical cord ulceration associated with congenital small bowel (jejunal) atresia causing intrauterine fetal demise,131,0.667,0.564,1,2
+M057,Gemini,A_redacted,S2_stepwise,2,1,1,Testicular Sertoli cell tumor,115,0.75,0.614,2,2
+M057,Claude,A_redacted,S1_bare,2,1,1,Sertoli cell tumor of the right testis,10,0.75,0.609,2,2
+M057,Claude,A_redacted,S2_stepwise,2,1,1,Sertoli cell tumor of the right testis (with an incidental benign left epididymal spermatocele).,113,1.0,0.495,2,1
+M057,Claude,A_redacted,S3_structured,2,1,1,"Sertoli cell tumor of the right testis, with an incidental left epididymal spermatocele.",391,0.75,0.338,2,1
+M057,Gemini,A_redacted,S3_structured,2,1,1,Testicular Sertoli cell tumor,466,0.75,0.614,2,2
+M057,Gemini,A_redacted,S1_bare,2,1,1,Testicular Sertoli cell tumor,7,0.75,0.614,2,2
+M057,Gemini,B_original,S1_bare,2,1,1,Benign Sertoli cell tumor of the right testis (with incidental left epididymal spermatocele),16,1.0,0.505,2,2
+M057,Claude,B_original,S1_bare,2,1,1,"Benign Sertoli cell tumor of the right testis, with testicular microlithiasis; the left epididymal mass is a spermatocele",21,1.0,0.437,2,1
+M058,Gemini,A_redacted,S2_stepwise,2,1,1,Large pericardial effusion (causing esophageal compression and dysphagia),116,0.571,0.479,1,1
+M058,Gemini,B_original,S1_bare,2,1,1,Large pericardial effusion (causing compressive dysphagia),9,0.571,0.505,1,2
+M058,Gemini,A_redacted,S3_structured,2,1,1,Large pericardial effusion causing compressive dysphagia,470,0.571,0.568,1,2
+M058,Claude,A_redacted,S3_structured,1,0,1,Large pericardial effusion (with polyserositis) secondary to Waldenström macroglobulinemia.,282,0.286,0.218,0,0
+M058,Claude,A_redacted,S1_bare,1,0,1,Large pericardial effusion secondary to Waldenström macroglobulinemia,10,0.286,0.255,0,0
+M058,Claude,A_redacted,S2_stepwise,1,0,1,"Large pericardial effusion secondary to Waldenström macroglobulinemia, with polyserositis and heart failure.",115,0.286,0.211,0,0
+M058,Claude,B_original,S1_bare,2,1,1,"Large pericardial effusion with negative cytology, compressing the esophagus and causing dysphagia, in a patient with Waldenström macroglobulinemia",21,0.571,0.339,1,1
+M058,Gemini,A_redacted,S1_bare,1,0,1,Cardiac tamponade secondary to large pericardial effusion,10,0.571,0.63,1,2
+M059,Gemini,B_original,S1_bare,2,1,1,Orbital leiomyoma,5,0.4,0.558,1,2
+M059,Gemini,A_redacted,S1_bare,2,1,1,Orbital leiomyoma,5,0.4,0.558,1,2
+M059,Gemini,A_redacted,S3_structured,2,1,1,Orbital leiomyoma,364,0.4,0.558,1,2
+M059,Claude,A_redacted,S2_stepwise,2,1,1,Orbital leiomyoma.,88,0.4,0.497,1,1
+M059,Gemini,A_redacted,S2_stepwise,2,1,1,Orbital leiomyoma,104,0.4,0.558,1,2
+M059,Claude,B_original,S1_bare,2,1,1,"Orbital leiomyoma in the right medial orbit, extraconal extending to intraconal",14,0.4,0.316,1,1
+M059,Claude,A_redacted,S1_bare,2,1,1,Orbital leiomyoma,5,0.4,0.558,1,2
+M059,Claude,A_redacted,S3_structured,2,1,1,Orbital leiomyoma (right medial orbit).,230,0.4,0.418,1,1
+M060,Claude,A_redacted,S1_bare,0,0,0,Hemorrhagic brain abscess caused by Clostridium perfringens,10,0.5,0.454,1,1
+M060,Claude,B_original,S1_bare,2,1,1,"Brain abscess caused by Paraclostridium tenue, with hemorrhage into the abscess, in a patient on warfarin",19,0.833,0.538,2,2
+M060,Gemini,B_original,S1_bare,2,1,1,Brain abscess caused by Paraclostridium tenue,9,0.833,0.73,2,2
+M060,Claude,A_redacted,S2_stepwise,0,0,0,Gas-forming hemorrhagic brain abscess caused by Clostridium species (most likely Clostridium perfringens).,94,0.5,0.397,1,1
+M060,Gemini,A_redacted,S3_structured,0,0,0,Clostridial brain abscess (brain abscess due to Clostridium species),384,0.333,0.475,0,1
+M060,Claude,A_redacted,S3_structured,1,0,1,Gas-forming hemorrhagic brain abscess caused by a Clostridium species (cryptogenic source; species per sequencing).,267,0.5,0.288,1,0
+M060,Gemini,A_redacted,S1_bare,1,0,1,Clostridium brain abscess,6,0.333,0.566,0,2
+M060,Gemini,A_redacted,S2_stepwise,1,0,1,Clostridium brain abscess (gas-forming hemorrhagic brain abscess),100,0.333,0.426,0,1
+M061,Gemini,B_original,S1_bare,2,1,1,Bilateral radial head subluxation (bilateral nursemaid's elbow),10,0.75,0.64,2,2
+M061,Claude,A_redacted,S1_bare,2,1,1,Bilateral radial head subluxation (nursemaid's elbow),9,0.75,0.617,2,2
+M061,Claude,A_redacted,S3_structured,2,1,1,Bilateral radial head subluxation (bilateral nursemaid's elbow).,243,0.75,0.629,2,2
+M061,Gemini,A_redacted,S1_bare,2,1,1,Bilateral radial head subluxation (nursemaid's elbow),9,0.75,0.617,2,2
+M061,Claude,B_original,S1_bare,2,1,1,Bilateral nursemaid's elbow (radial head subluxation in both elbows),12,0.75,0.505,2,2
+M061,Gemini,A_redacted,S2_stepwise,2,1,1,Bilateral radial head subluxation (bilateral nursemaid's elbow),91,0.75,0.64,2,2
+M061,Claude,A_redacted,S2_stepwise,2,1,1,Bilateral radial head subluxation (bilateral nursemaid's elbow).,66,0.75,0.629,2,2
+M061,Gemini,A_redacted,S3_structured,2,1,1,Bilateral radial head subluxation (bilateral nursemaid's elbow),396,0.75,0.64,2,2
+M062,Claude,A_redacted,S3_structured,2,1,1,"Occult (initially missed) left femoral neck fracture concurrent with a left pubic symphysis fracture, treated with hemiarthroplasty.",243,1.0,0.655,2,2
+M062,Claude,A_redacted,S2_stepwise,2,1,1,"Initially occult (missed) left femoral neck fracture with a concomitant left pubic fracture after a ground-level fall, treated with hemiarthroplasty.",97,0.667,0.415,1,1
+M062,Claude,B_original,S1_bare,2,1,1,"Left femoral neck fracture missed on first imaging and found alongside the left pubic symphysis fracture, treated with left hemiarthroplasty",23,0.833,0.547,2,2
+M062,Gemini,A_redacted,S2_stepwise,2,1,1,Concurrent (occult) left femoral neck fracture with left pubic symphysis fracture,75,1.0,0.861,2,2
+M062,Claude,A_redacted,S1_bare,2,1,1,Occult (initially missed) left femoral neck fracture concurrent with left pubic fracture,15,0.833,0.685,2,2
+M062,Gemini,A_redacted,S1_bare,2,1,1,Left femoral neck fracture (concurrent with left pubic symphysis fracture),13,1.0,0.889,2,2
+M062,Gemini,A_redacted,S3_structured,2,1,1,Concurrent left femoral neck fracture and left pubic symphysis fracture,375,1.0,0.963,2,2
+M062,Gemini,B_original,S1_bare,2,1,1,Concurrent left femoral neck fracture and left pubic symphysis fracture,13,1.0,0.963,2,2
+M063,Gemini,A_redacted,S2_stepwise,0,0,0,Fetal meconium ileus (associated with cystic fibrosis),121,0.0,0.002,0,0
+M063,Gemini,A_redacted,S3_structured,0,0,0,Fetal meconium ileus secondary to cystic fibrosis,421,0.0,0.002,0,0
+M063,Claude,B_original,S1_bare,0,0,0,"Cystic fibrosis with meconium ileus, suggested by echogenic fetal bowel and progressive bowel dilation (TORCH and aneuploidy screens negative)",22,0.0,0.005,0,0
+M063,Claude,A_redacted,S1_bare,0,0,0,Cystic fibrosis presenting as meconium ileus,9,0.0,0.009,0,0
+M063,Gemini,A_redacted,S1_bare,0,0,0,Cystic fibrosis (meconium ileus),7,0.0,0.0,0,0
+M063,Claude,A_redacted,S2_stepwise,0,0,0,Cystic fibrosis with meconium ileus (fetal bowel obstruction).,70,0.0,0.002,0,0
+M063,Claude,A_redacted,S3_structured,0,0,0,Cystic fibrosis presenting prenatally as echogenic bowel with meconium ileus.,250,0.0,0.006,0,0
+M063,Gemini,B_original,S1_bare,1,0,1,Fetal intestinal atresia (bowel obstruction),8,0.5,0.308,1,1
+M064,Claude,A_redacted,S3_structured,2,1,1,"Classic (Mediterranean-type) Kaposi sarcoma of the left forearm, localized cutaneous disease.",251,0.5,0.195,1,0
+M064,Gemini,A_redacted,S1_bare,2,1,1,Classic Kaposi sarcoma,6,0.5,0.459,1,1
+M064,Claude,A_redacted,S1_bare,2,1,1,Classic Kaposi sarcoma,6,0.5,0.459,1,1
+M064,Claude,A_redacted,S2_stepwise,2,1,1,"Classic (HIV-negative) Kaposi sarcoma, nodular cutaneous type.",82,0.75,0.378,2,1
+M064,Gemini,A_redacted,S2_stepwise,2,1,1,Classic Kaposi sarcoma,100,0.5,0.459,1,1
+M064,Claude,B_original,S1_bare,2,1,1,"Classic (HIV-negative) Kaposi sarcoma, nodular stage, on the left forearm (HHV-8 positive)",15,1.0,0.353,2,1
+M064,Gemini,A_redacted,S3_structured,2,1,1,Classic Kaposi sarcoma,375,0.5,0.459,1,1
+M064,Gemini,B_original,S1_bare,2,1,1,Classic Kaposi sarcoma (nodular stage),8,1.0,0.523,2,2
+M065,Gemini,A_redacted,S3_structured,2,1,1,Infected urachal cyst (urachal abscess),537,1.0,0.605,2,2
+M065,Claude,A_redacted,S2_stepwise,2,1,1,Infected urachal cyst (urachal abscess) with extension into the abdominal wall.,128,1.0,0.444,2,1
+M065,Claude,A_redacted,S1_bare,2,1,1,Infected urachal cyst (urachal abscess) extending to the abdominal wall and draining at the umbilicus,18,1.0,0.385,2,1
+M065,Claude,B_original,S1_bare,2,1,1,Infected urachal cyst (urachal remnant abscess) extending into the lower abdominal wall,15,1.0,0.408,2,1
+M065,Gemini,A_redacted,S2_stepwise,2,1,1,Infected urachal cyst (urachal abscess),133,1.0,0.605,2,2
+M065,Gemini,A_redacted,S1_bare,2,1,1,Infected urachal cyst (urachal abscess),8,1.0,0.605,2,2
+M065,Gemini,B_original,S1_bare,2,1,1,Infected urachal cyst (urachal abscess),8,1.0,0.605,2,2
+M065,Claude,A_redacted,S3_structured,2,1,1,Infected urachal cyst (urachal abscess) extending into the lower abdominal wall,336,1.0,0.441,2,1
+M066,Claude,B_original,S1_bare,2,1,1,Acute cholecystitis with a hepatic hydatid cyst (Echinococcus granulosus) of segment IV that communicates with the biliary tree (cysto-biliary fistula),23,0.6,0.361,1,1
+M066,Gemini,B_original,S1_bare,2,1,1,Acute emphysematous cholecystitis associated with hepatic hydatid cysts,11,0.8,0.608,2,2
+M066,Gemini,A_redacted,S2_stepwise,2,1,1,Acute cholecystitis secondary to hepatic hydatid cyst with cysto-biliary communication,126,0.6,0.543,1,2
+M066,Gemini,A_redacted,S1_bare,2,1,1,Acute emphysematous cholecystitis secondary to hepatic hydatid cyst,11,0.6,0.573,1,2
+M066,Claude,A_redacted,S3_structured,2,1,1,"Hepatic hydatid cysts (Echinococcus granulosus, segments IVb and VII), with the segment IV cyst having a cysto-biliary communication, complicated by acute (emphysematous) cholecystitis",293,0.8,0.342,2,1
+M066,Claude,A_redacted,S1_bare,2,1,1,Acute (emphysematous) cholecystitis caused by hepatic hydatid cysts (cystic echinococcosis) with a cysto-biliary communication,17,0.8,0.447,2,1
+M066,Claude,A_redacted,S2_stepwise,2,1,1,Acute emphysematous cholecystitis associated with hepatic hydatid cysts (cystic echinococcosis) with cysto-biliary communication.,94,0.8,0.458,2,1
+M066,Gemini,A_redacted,S3_structured,2,1,1,Acute emphysematous cholecystitis secondary to hepatic hydatid disease (echinococcosis) with cysto-biliary communication,452,0.6,0.417,1,1
+M067,Claude,B_original,S1_bare,2,1,1,"Congenital myotonia (myotonia congenita), autosomal recessive, caused by a CLCN1 chloride channel mutation",16,0.667,0.495,1,1
+M067,Gemini,A_redacted,S2_stepwise,2,1,1,Autosomal recessive myotonia congenita,96,0.167,0.252,0,0
+M067,Gemini,A_redacted,S1_bare,2,1,1,Myotonia congenita,5,0.167,0.361,0,1
+M067,Claude,A_redacted,S2_stepwise,2,1,1,"Myotonia congenita (CLCN1-related chloride channelopathy, autosomal recessive).",72,0.333,0.215,0,0
+M067,Claude,A_redacted,S3_structured,2,1,1,"Myotonia congenita (autosomal recessive, Becker-type) due to a truncating CLCN1 mutation",226,0.5,0.391,1,1
+M067,Claude,A_redacted,S1_bare,2,1,1,"Congenital myotonia (autosomal recessive, Becker-type) due to a CLCN1 chloride channel mutation",15,0.5,0.366,1,1
+M067,Gemini,B_original,S1_bare,2,1,1,Myotonia congenita,5,0.167,0.361,0,1
+M067,Gemini,A_redacted,S3_structured,2,1,1,Autosomal recessive myotonia congenita (CLCN1-related),393,0.333,0.278,0,0
+M068,Claude,A_redacted,S3_structured,0,0,0,Hereditary spherocytosis (heterozygous red cell membrane gene variant) presenting as severe early-onset hemolytic hyperbilirubinemia requiring exchange transfusion,314,0.25,0.157,0,0
+M068,Gemini,B_original,S1_bare,2,1,1,Hereditary elliptocytosis,5,0.5,0.756,1,2
+M068,Gemini,A_redacted,S3_structured,0,0,0,Hereditary spherocytosis,450,0.25,0.424,0,1
+M068,Claude,A_redacted,S2_stepwise,0,0,0,"Hereditary spherocytosis (red-cell membrane defect from a heterozygous mutation, e.g., in SPTB or ANK1) causing severe neonatal hemolytic jaundice.",100,0.5,0.252,1,0
+M068,Claude,A_redacted,S1_bare,0,0,0,Hereditary spherocytosis (likely ANK1 or SPTB mutation) presenting as severe neonatal hemolytic hyperbilirubinemia,16,0.5,0.296,1,0
+M068,Claude,B_original,S1_bare,2,1,1,Hereditary elliptocytosis (SPTA1-related α-spectrin defect) presenting as severe neonatal hemolytic hyperbilirubinemia,14,0.75,0.397,2,1
+M068,Gemini,A_redacted,S2_stepwise,0,0,0,Hereditary spherocytosis,123,0.25,0.424,0,1
+M068,Gemini,A_redacted,S1_bare,0,0,0,Hereditary spherocytosis,5,0.25,0.424,0,1
+M069,Claude,A_redacted,S2_stepwise,0,0,0,Classical Hodgkin lymphoma (mediastinal/hilar) with pleural effusion and paraneoplastic skin changes.,86,0.125,0.094,0,0
+M069,Claude,A_redacted,S1_bare,0,0,0,Classical Hodgkin lymphoma with a right hilar/mediastinal mass and pleural effusion,14,0.125,0.113,0,0
+M069,Gemini,A_redacted,S3_structured,0,0,0,Hodgkin lymphoma (presenting with paraneoplastic acanthosis nigricans),461,0.125,0.103,0,0
+M069,Gemini,A_redacted,S1_bare,0,0,0,Hodgkin lymphoma (with paraneoplastic acanthosis nigricans),9,0.125,0.104,0,0
+M069,Gemini,B_original,S1_bare,1,0,1,Diffuse large B-cell lymphoma (DLBCL) with malignant acanthosis nigricans,12,0.625,0.511,1,2
+M069,Gemini,A_redacted,S2_stepwise,0,0,0,Hodgkin lymphoma (with paraneoplastic acanthosis nigricans),134,0.125,0.104,0,0
+M069,Claude,B_original,S1_bare,2,1,1,Diffuse large B-cell lymphoma (right hilar mass with pleural effusion) with paraneoplastic malignant acanthosis nigricans,18,0.5,0.313,1,1
+M069,Claude,A_redacted,S3_structured,2,1,1,High-grade B-cell non-Hodgkin lymphoma (diffuse large B-cell type) of the right hilum with malignant-type pleural effusion and paraneoplastic acanthosis nigricans,299,0.5,0.285,1,0
+M070,Gemini,B_original,S1_bare,1,0,1,Secondary chondrosarcoma,5,0.2,0.402,0,1
+M070,Gemini,A_redacted,S3_structured,1,0,1,Secondary chondrosarcoma (arising from a prior enchondroma of the proximal phalanx),413,0.2,0.241,0,0
+M070,Claude,A_redacted,S2_stepwise,1,0,1,Secondary chondrosarcoma of the proximal phalanx arising from a previous enchondroma.,69,0.2,0.234,0,0
+M070,Gemini,A_redacted,S1_bare,1,0,1,Secondary chondrosarcoma,5,0.2,0.402,0,1
+M070,Claude,A_redacted,S3_structured,1,0,1,Secondary (intermediate-grade) chondrosarcoma of the left fourth proximal phalanx arising from a previous enchondroma,207,0.4,0.245,1,0
+M070,Gemini,A_redacted,S2_stepwise,1,0,1,Secondary chondrosarcoma,97,0.2,0.402,0,1
+M070,Claude,B_original,S1_bare,1,0,1,Secondary chondrosarcoma of the proximal phalanx arising from a recurrent enchondroma,14,0.2,0.259,0,0
+M070,Claude,A_redacted,S1_bare,1,0,1,Secondary chondrosarcoma arising from an enchondroma of the proximal phalanx of the fourth finger,17,0.2,0.225,0,0
+M071,Gemini,A_redacted,S3_structured,2,1,1,Vanishing white matter disease (childhood ataxia with central nervous system hypomyelination),514,0.6,0.347,1,1
+M071,Claude,A_redacted,S1_bare,2,1,1,"Vanishing white matter disease (leukoencephalopathy with vanishing white matter, juvenile onset)",14,0.8,0.726,2,2
+M071,Gemini,B_original,S1_bare,2,1,1,Vanishing white matter disease (leukoencephalopathy with vanishing white matter),12,0.8,0.81,2,2
+M071,Claude,A_redacted,S3_structured,2,1,1,"Vanishing white matter disease (childhood ataxia with central hypomyelination, juvenile-onset, EIF2B-related)",281,0.6,0.299,1,0
+M071,Claude,B_original,S1_bare,2,1,1,"Vanishing white matter disease (childhood ataxia with central hypomyelination, an eIF2B-related leukoencephalopathy)",15,0.8,0.546,2,2
+M071,Gemini,A_redacted,S1_bare,2,1,1,Vanishing white matter disease (leukoencephalopathy with vanishing white matter),12,0.8,0.81,2,2
+M071,Claude,A_redacted,S2_stepwise,2,1,1,"Vanishing white matter disease (childhood ataxia with central hypomyelination, an EIF2B-related leukoencephalopathy).",93,0.8,0.54,2,2
+M071,Gemini,A_redacted,S2_stepwise,2,1,1,Vanishing white matter disease (leukoencephalopathy with vanishing white matter),115,0.8,0.81,2,2
+M072,Claude,A_redacted,S3_structured,2,1,1,"Extramedullary plasmacytoma (soft-tissue extramedullary myeloma) at the totally implantable venous access port site, indicating progression of multiple myeloma",179,0.4,0.181,1,0
+M072,Gemini,A_redacted,S1_bare,2,1,1,Extramedullary plasmacytoma (port-site metastatic plasmacytoma secondary to multiple myeloma),12,0.6,0.394,1,1
+M072,Claude,A_redacted,S1_bare,2,1,1,Extramedullary plasmacytoma at the chest port site from progressing multiple myeloma,14,0.4,0.276,1,0
+M072,Claude,B_original,S1_bare,2,1,1,Extramedullary plasmacytoma at the chest port site (TIVAP) from progressing multiple myeloma,15,0.6,0.305,1,1
+M072,Gemini,A_redacted,S2_stepwise,2,1,1,Extramedullary plasmacytoma (metastatic plasmacytoma) at the venous access port site secondary to multiple myeloma,99,0.6,0.422,1,1
+M072,Claude,A_redacted,S2_stepwise,2,1,1,Extramedullary plasmacytoma at the implanted venous port site (soft-tissue extramedullary spread of progressive multiple myeloma).,76,0.4,0.201,1,0
+M072,Gemini,B_original,S1_bare,2,1,1,Extramedullary plasmacytoma at the venous access port site,11,0.4,0.34,1,1
+M072,Gemini,A_redacted,S3_structured,2,1,1,Secondary extramedullary plasmacytoma (metastatic plasmacytoma) at the totally implantable venous access port (TIVAP) site secondary to multiple myeloma,392,0.8,0.384,2,1
+M073,Gemini,B_original,S1_bare,2,1,1,Marchiafava-Bignami disease,5,0.5,0.787,1,2
+M073,Claude,A_redacted,S1_bare,2,1,1,"Marchiafava-Bignami disease (alcohol and malnutrition-related corpus callosum demyelination/necrosis, with frontal cortical involvement)",15,0.5,0.364,1,1
+M073,Gemini,A_redacted,S2_stepwise,2,1,1,Marchiafava-Bignami disease,114,0.5,0.787,1,2
+M073,Claude,A_redacted,S2_stepwise,2,1,1,"Marchiafava-Bignami disease (acute form, with frontal cortical involvement)",129,0.75,0.552,2,2
+M073,Claude,B_original,S1_bare,2,1,1,"Marchiafava-Bignami disease (alcohol- and malnutrition-related corpus callosum demyelination/necrosis, with frontal cortical involvement)",15,0.5,0.361,1,1
+M073,Gemini,A_redacted,S3_structured,2,1,1,Marchiafava-Bignami disease,473,0.5,0.787,1,2
+M073,Gemini,A_redacted,S1_bare,2,1,1,Marchiafava-Bignami disease,5,0.5,0.787,1,2
+M073,Claude,A_redacted,S3_structured,2,1,1,"Marchiafava-Bignami disease (acute form, whole corpus callosum, with frontal cortical/Morel-type involvement) in chronic alcoholism with malnutrition and folate deficiency.",374,0.75,0.367,2,1
+M074,Gemini,A_redacted,S3_structured,0,0,0,Xp11.2 translocation renal cell carcinoma (TFE3-rearranged renal cell carcinoma),519,0.0,0.1,0,0
+M074,Claude,A_redacted,S1_bare,0,0,0,"Late recurrence of Xp11.2 translocation (TFE3-rearranged) renal cell carcinoma, originally misclassified as papillary renal cell carcinoma",19,0.0,0.076,0,0
+M074,Gemini,B_original,S1_bare,2,1,1,Primary renal atypical carcinoid tumor,8,0.75,0.631,2,2
+M074,Claude,B_original,S1_bare,2,1,1,"Recurrent metastatic primary renal atypical carcinoid tumor (well-differentiated neuroendocrine tumor) of the kidney, initially misdiagnosed as papillary renal cell carcinoma",23,1.0,0.406,2,1
+M074,Claude,A_redacted,S3_structured,0,0,0,"Xp11.2 (TFE3) translocation renal cell carcinoma, originally misdiagnosed as papillary RCC, with late retroperitoneal recurrence/metastasis.",290,0.0,0.093,0,0
+M074,Gemini,A_redacted,S2_stepwise,0,0,0,Xp11.2 translocation renal cell carcinoma,105,0.0,0.095,0,0
+M074,Claude,A_redacted,S2_stepwise,0,0,0,"Xp11.2 (TFE3) translocation renal cell carcinoma with late retroperitoneal recurrence/metastasis, originally misdiagnosed as papillary RCC",97,0.0,0.095,0,0
+M074,Gemini,A_redacted,S1_bare,0,0,0,Xp11.2 translocation renal cell carcinoma,8,0.0,0.095,0,0
+M075,Gemini,B_original,S1_bare,0,0,0,Rituximab-induced cough,5,0.25,0.13,0,0
+M075,Gemini,A_redacted,S2_stepwise,2,1,1,Cough-variant asthma,117,0.75,0.814,2,2
+M075,Claude,A_redacted,S3_structured,2,1,1,"Cough-variant asthma (likely atopic, possibly occupational wood-dust related), pending confirmation by bronchial provocation testing.",297,0.75,0.309,2,1
+M075,Claude,A_redacted,S2_stepwise,2,1,1,"Cough-variant asthma (likely allergic/occupational, wood dust–related)",140,0.75,0.391,2,1
+M075,Gemini,A_redacted,S1_bare,2,1,1,Cough-variant asthma,5,0.75,0.814,2,2
+M075,Gemini,A_redacted,S3_structured,2,1,1,Cough-variant asthma,499,0.75,0.814,2,2
+M075,Claude,A_redacted,S1_bare,2,1,1,Cough-variant asthma,5,0.75,0.814,2,2
+M075,Claude,B_original,S1_bare,2,1,1,Cough-variant asthma,5,0.75,0.814,2,2
+M076,Claude,A_redacted,S3_structured,2,1,1,"Non-alcoholic Wernicke encephalopathy due to thiamine deficiency during prolonged parenteral nutrition, with atypical features (miosis, intractable hiccups).",271,1.0,0.267,2,0
+M076,Gemini,A_redacted,S1_bare,2,1,1,Wernicke encephalopathy,5,1.0,0.756,2,2
+M076,Gemini,A_redacted,S2_stepwise,2,1,1,Wernicke encephalopathy,105,1.0,0.756,2,2
+M076,Gemini,B_original,S1_bare,2,1,1,Wernicke encephalopathy,5,1.0,0.756,2,2
+M076,Claude,B_original,S1_bare,2,1,1,Wernicke encephalopathy due to thiamine deficiency during parenteral nutrition,12,1.0,0.414,2,1
+M076,Claude,A_redacted,S2_stepwise,2,1,1,Wernicke encephalopathy due to thiamine deficiency during parenteral nutrition,106,1.0,0.414,2,1
+M076,Gemini,A_redacted,S3_structured,2,1,1,Wernicke encephalopathy,425,1.0,0.756,2,2
+M076,Claude,A_redacted,S1_bare,2,1,1,Wernicke encephalopathy (thiamine deficiency associated with parenteral nutrition),11,1.0,0.411,2,1
+M077,Gemini,B_original,S1_bare,2,1,1,Wernicke encephalopathy,5,1.0,0.906,2,2
+M077,Gemini,A_redacted,S3_structured,2,1,1,Wernicke encephalopathy,441,1.0,0.906,2,2
+M077,Claude,A_redacted,S2_stepwise,2,1,1,Non-alcoholic Wernicke encephalopathy (thiamine deficiency) secondary to prolonged vomiting and malnutrition,105,1.0,0.4,2,1
+M077,Gemini,A_redacted,S1_bare,2,1,1,Wernicke encephalopathy,5,1.0,0.906,2,2
+M077,Claude,B_original,S1_bare,2,1,1,Non-alcoholic Wernicke encephalopathy due to severe malnutrition and thiamine deficiency,13,1.0,0.459,2,1
+M077,Gemini,A_redacted,S2_stepwise,2,1,1,Wernicke encephalopathy,92,1.0,0.906,2,2
+M077,Claude,A_redacted,S1_bare,2,1,1,"Wernicke encephalopathy (non-alcoholic, due to malnutrition and recurrent vomiting) with optic neuropathy and hearing loss",18,1.0,0.407,2,1
+M077,Claude,A_redacted,S3_structured,2,1,1,"Non-alcoholic Wernicke encephalopathy (severe thiamine deficiency from recurrent vomiting/malnutrition) with optic neuropathy, hearing loss and polyneuropathy.",291,1.0,0.401,2,1
+M078,Gemini,A_redacted,S2_stepwise,1,0,1,Secondary chondrosarcoma,102,0.2,0.32,0,1
+M078,Claude,A_redacted,S1_bare,2,1,1,Secondary peripheral chondrosarcoma arising from an osteochondroma (right fibula) in hereditary multiple exostoses,16,0.6,0.496,1,1
+M078,Claude,A_redacted,S3_structured,2,1,1,Malignant transformation of an osteochondroma in multiple hereditary exostoses: secondary peripheral chondrosarcoma of the fibula.,294,1.0,0.693,2,2
+M078,Claude,A_redacted,S2_stepwise,2,1,1,Secondary peripheral chondrosarcoma arising from an osteochondroma (malignant transformation) in hereditary multiple exostoses,115,1.0,0.703,2,2
+M078,Claude,B_original,S1_bare,2,1,1,Secondary peripheral chondrosarcoma (malignant transformation of an osteochondroma) in hereditary multiple exostoses,15,1.0,0.745,2,2
+M078,Gemini,B_original,S1_bare,1,0,1,Secondary chondrosarcoma,5,0.2,0.32,0,1
+M078,Gemini,A_redacted,S1_bare,1,0,1,Secondary chondrosarcoma,5,0.2,0.32,0,1
+M078,Gemini,A_redacted,S3_structured,1,0,1,Secondary chondrosarcoma,474,0.2,0.32,0,1
+M079,Gemini,A_redacted,S3_structured,2,1,1,Caroli disease,474,1.0,1.0,2,2
+M079,Claude,A_redacted,S3_structured,2,1,1,"Caroli disease (Todani type V, congenital intrahepatic bile duct ectasia) with hepatolithiasis.",250,1.0,0.335,2,1
+M079,Claude,B_original,S1_bare,2,1,1,Caroli disease with intrahepatic lithiasis,8,1.0,0.537,2,2
+M079,Gemini,A_redacted,S2_stepwise,2,1,1,Caroli disease,77,1.0,1.0,2,2
+M079,Claude,A_redacted,S1_bare,2,1,1,Caroli disease with intrahepatic lithiasis (hepatolithiasis),9,1.0,0.381,2,1
+M079,Gemini,A_redacted,S1_bare,2,1,1,Caroli disease,5,1.0,1.0,2,2
+M079,Claude,A_redacted,S2_stepwise,2,1,1,Caroli disease with intrahepatic lithiasis (hepatolithiasis),90,1.0,0.381,2,1
+M079,Gemini,B_original,S1_bare,2,1,1,Caroli disease,5,1.0,1.0,2,2
+M080,Claude,A_redacted,S3_structured,2,1,1,"Acute rheumatic fever with carditis (aortic and mitral valvulitis, Mobitz II AV block), presenting with pseudo-appendicular abdominal pain.",297,0.6,0.292,1,0
+M080,Claude,B_original,S1_bare,2,1,1,"Acute rheumatic fever with carditis (valvulitis and Mobitz type II heart block), with abdominal pain mimicking appendicitis",20,0.6,0.318,1,1
+M080,Gemini,A_redacted,S3_structured,1,0,1,Acute rheumatic fever,492,0.6,0.674,1,2
+M080,Claude,A_redacted,S2_stepwise,2,1,1,"Acute rheumatic fever with rheumatic carditis (valvulitis and AV conduction block), with abdominal pain mimicking appendicitis",126,0.6,0.404,1,1
+M080,Claude,A_redacted,S1_bare,2,1,1,Acute rheumatic fever with carditis (valvulitis and Mobitz type II atrioventricular block),15,0.6,0.358,1,1
+M080,Gemini,A_redacted,S1_bare,1,0,1,Acute rheumatic fever,6,0.6,0.674,1,2
+M080,Gemini,A_redacted,S2_stepwise,1,0,1,Acute rheumatic fever,110,0.6,0.674,1,2
+M080,Gemini,B_original,S1_bare,1,0,1,Acute rheumatic fever,6,0.6,0.674,1,2
+M081,Claude,A_redacted,S2_stepwise,2,1,1,Fahr's disease (primary/idiopathic bilateral basal ganglia calcification),101,0.429,0.463,1,1
+M081,Gemini,A_redacted,S2_stepwise,2,1,1,Fahr's disease (Idiopathic basal ganglia calcification),116,0.286,0.442,0,1
+M081,Claude,B_original,S1_bare,2,1,1,"Fahr's disease (idiopathic bilateral striatopallidodentate calcinosis, or primary familial brain calcification)",14,0.714,0.531,2,2
+M081,Claude,A_redacted,S1_bare,2,1,1,"Fahr's disease (primary familial brain calcification) with bilateral basal ganglia, thalamic and subcortical calcifications",17,0.714,0.618,2,2
+M081,Gemini,B_original,S1_bare,2,1,1,Fahr's disease (Primary Familial Brain Calcification),9,0.714,0.845,2,2
+M081,Claude,A_redacted,S3_structured,2,1,1,Fahr disease (primary/idiopathic bilateral basal ganglia calcification),350,0.429,0.393,1,1
+M081,Gemini,A_redacted,S3_structured,2,1,1,Fahr's disease (Idiopathic basal ganglia calcification),547,0.286,0.442,0,1
+M081,Gemini,A_redacted,S1_bare,2,1,1,Fahr's disease,5,0.143,0.443,0,1
+M082,Claude,A_redacted,S1_bare,0,0,0,Cocaine-induced midline destructive lesion (mimicking granulomatosis with polyangiitis) with associated pyoderma gangrenosum,15,0.4,0.46,1,1
+M082,Gemini,A_redacted,S3_structured,1,0,1,ANCA-negative Granulomatosis with polyangiitis (GPA),505,0.5,0.706,1,2
+M082,Gemini,A_redacted,S2_stepwise,1,0,1,ANCA-negative granulomatosis with polyangiitis (GPA),130,0.5,0.706,1,2
+M082,Claude,A_redacted,S3_structured,0,0,0,"Pyoderma gangrenosum with extracutaneous (pulmonary and sinonasal/orbital) involvement, associated with cocaine-induced midline destructive lesions; GPA mimic",340,0.3,0.19,0,0
+M082,Claude,B_original,S1_bare,0,0,0,"Cocaine-induced midline destructive lesion (CIMDL) with associated pyoderma gangrenosum, mimicking ANCA-negative granulomatosis with polyangiitis",17,0.6,0.525,1,2
+M082,Gemini,B_original,S1_bare,0,0,0,Cocaine-induced midline destructive lesions (CIMDL),8,0.0,0.026,0,0
+M082,Gemini,A_redacted,S1_bare,1,0,1,Granulomatosis with polyangiitis (GPA),7,0.3,0.598,0,2
+M082,Claude,A_redacted,S2_stepwise,0,0,0,Cocaine-induced midline destructive lesion with pyoderma gangrenosum (cocaine-induced GPA-mimicking pseudovasculitis),108,0.3,0.185,0,0
+M083,Gemini,A_redacted,S2_stepwise,0,0,0,Acute bronchiolitis due to SARS-CoV-2 (COVID-19) infection,97,0.25,0.094,0,0
+M083,Gemini,B_original,S1_bare,2,1,1,Human bocavirus (HBoV) bronchiolitis,7,0.75,0.722,2,2
+M083,Gemini,A_redacted,S1_bare,0,0,0,Human metapneumovirus (hMPV) bronchiolitis,7,0.25,0.197,0,0
+M083,Claude,B_original,S1_bare,2,1,1,Acute bronchiolitis (wheezing lower respiratory tract infection) caused by human bocavirus,14,0.75,0.383,2,1
+M083,Gemini,A_redacted,S3_structured,1,0,1,"Acute viral bronchiolitis (non-RSV; e.g., SARS-CoV-2 or Human metapneumovirus bronchiolitis)",425,0.25,0.116,0,0
+M083,Claude,A_redacted,S2_stepwise,0,0,0,Human metapneumovirus (hMPV) bronchiolitis / acute lower respiratory tract infection,89,0.5,0.234,1,0
+M083,Claude,A_redacted,S3_structured,0,0,0,Human metapneumovirus (hMPV) acute bronchiolitis,256,0.25,0.192,0,0
+M083,Claude,A_redacted,S1_bare,0,0,0,Human metapneumovirus acute bronchiolitis,7,0.25,0.195,0,0
+M084,Gemini,B_original,S1_bare,2,1,1,Partial agenesis of the septum pellucidum,9,0.6,0.674,1,2
+M084,Gemini,A_redacted,S1_bare,2,1,1,Partial agenesis of the septum pellucidum,9,0.6,0.674,1,2
+M084,Gemini,A_redacted,S3_structured,2,1,1,Isolated partial agenesis of the septum pellucidum,362,0.8,0.77,2,2
+M084,Claude,A_redacted,S2_stepwise,2,1,1,"Isolated partial (posterior) agenesis of the septum pellucidum with fornix anomaly, presenting with epilepsy",87,0.8,0.531,2,2
+M084,Gemini,A_redacted,S2_stepwise,2,1,1,Isolated partial agenesis of the septum pellucidum,98,0.8,0.77,2,2
+M084,Claude,A_redacted,S3_structured,2,1,1,"Isolated partial (posterior) agenesis of the septum pellucidum with fornix anomaly, presenting with epilepsy",270,0.8,0.531,2,2
+M084,Claude,B_original,S1_bare,2,1,1,"Partial (posterior) agenesis of the septum pellucidum with abnormal fornices, presenting with generalized tonic-clonic seizures (epilepsy)",19,0.6,0.335,1,1
+M084,Claude,A_redacted,S1_bare,2,1,1,"Partial (posterior) agenesis of the septum pellucidum with fornix anomaly, presenting with epilepsy",16,0.6,0.445,1,1
+M085,Gemini,A_redacted,S2_stepwise,2,1,1,Primary hepatic dedifferentiated leiomyosarcoma,86,0.75,0.62,2,2
+M085,Claude,A_redacted,S1_bare,2,1,1,Primary dedifferentiated leiomyosarcoma of the liver,9,0.5,0.463,1,1
+M085,Claude,B_original,S1_bare,2,1,1,Primary hepatic leiomyosarcoma with dedifferentiation,8,0.75,0.595,2,2
+M085,Claude,A_redacted,S2_stepwise,2,1,1,Primary hepatic dedifferentiated leiomyosarcoma,85,0.75,0.62,2,2
+M085,Gemini,A_redacted,S3_structured,2,1,1,Primary hepatic dedifferentiated leiomyosarcoma,392,0.75,0.62,2,2
+M085,Gemini,B_original,S1_bare,2,1,1,Primary hepatic leiomyosarcoma (PHLS),7,1.0,1.0,2,2
+M085,Gemini,A_redacted,S1_bare,2,1,1,Primary hepatic dedifferentiated leiomyosarcoma,7,0.75,0.62,2,2
+M085,Claude,A_redacted,S3_structured,2,1,1,Primary dedifferentiated leiomyosarcoma of the liver,238,0.5,0.463,1,1
+M086,Claude,A_redacted,S1_bare,2,1,1,Leiomyosarcoma arising from malignant transformation of a mature cystic teratoma of the ovary (FIGO stage IIIC),19,0.25,0.279,0,0
+M086,Gemini,B_original,S1_bare,2,1,1,Primary ovarian leiomyosarcoma arising from a teratoma,10,0.75,0.627,2,2
+M086,Gemini,A_redacted,S1_bare,2,1,1,Primary ovarian leiomyosarcoma arising from a mature cystic teratoma,12,0.75,0.561,2,2
+M086,Gemini,A_redacted,S3_structured,2,1,1,Ovarian leiomyosarcoma arising from a mature cystic teratoma (teratoma with malignant transformation),445,0.5,0.353,1,1
+M086,Claude,A_redacted,S2_stepwise,2,1,1,Leiomyosarcoma arising from malignant transformation of an ovarian mature cystic teratoma,71,0.5,0.398,1,1
+M086,Claude,A_redacted,S3_structured,2,1,1,"Ovarian leiomyosarcoma arising from malignant transformation of a mature cystic teratoma, FIGO stage IIIC",244,0.5,0.351,1,1
+M086,Gemini,A_redacted,S2_stepwise,2,1,1,Ovarian leiomyosarcoma arising from a mature cystic teratoma,95,0.5,0.487,1,1
+M086,Claude,B_original,S1_bare,2,1,1,"Leiomyosarcoma arising from malignant transformation of an ovarian mature cystic teratoma, FIGO stage IIIC",17,0.5,0.353,1,1
+M087,Claude,A_redacted,S1_bare,2,1,1,Gastric hamartomatous inverted polyp,7,0.8,0.861,2,2
+M087,Claude,B_original,S1_bare,2,1,1,Gastric hamartomatous inverted polyp (GHIP),8,1.0,1.0,2,2
+M087,Claude,A_redacted,S2_stepwise,2,1,1,Gastric inverted hyperplastic polyp,88,0.6,0.518,1,2
+M087,Gemini,A_redacted,S2_stepwise,2,1,1,Gastric inverted hyperplastic polyp,98,0.6,0.518,1,2
+M087,Gemini,A_redacted,S3_structured,2,1,1,Gastric inverted hyperplastic polyp,421,0.6,0.518,1,2
+M087,Gemini,A_redacted,S1_bare,2,1,1,Gastric inverted hyperplastic polyp,7,0.6,0.518,1,2
+M087,Claude,A_redacted,S3_structured,2,1,1,Gastric hamartomatous inverted polyp (inverted hyperplastic polyp),278,0.8,0.717,2,2
+M087,Gemini,B_original,S1_bare,2,1,1,Gastric hamartomatous inverted polyp (GHIP),8,1.0,1.0,2,2
+M088,Gemini,B_original,S1_bare,0,0,0,Dysembryoplastic neuroepithelial tumor (DNET),7,0.0,0.008,0,0
+M088,Gemini,A_redacted,S3_structured,0,0,0,Dysembryoplastic neuroepithelial tumor (DNET) (presenting with occipital lobe epilepsy / epileptic nystagmus),499,0.25,0.114,0,0
+M088,Gemini,A_redacted,S2_stepwise,0,0,0,Dysembryoplastic neuroepithelial tumor (DNET),98,0.0,0.008,0,0
+M088,Claude,A_redacted,S3_structured,1,0,1,Low-grade diffuse glioma of the right parieto-occipital cortex (pediatric-type) presenting with focal occipital-lobe epilepsy,286,0.5,0.309,1,1
+M088,Claude,A_redacted,S2_stepwise,0,0,0,Angiocentric glioma (pediatric-type diffuse low-grade glioma) of the right parieto-occipital lobe,128,0.5,0.324,1,1
+M088,Claude,A_redacted,S1_bare,0,0,0,Dysembryoplastic neuroepithelial tumor (DNET) of the right parieto-occipital lobe,12,0.25,0.193,0,0
+M088,Claude,B_original,S1_bare,0,0,0,Dysembryoplastic neuroepithelial tumor (DNET) of the right parieto-occipital lobe causing focal epilepsy,15,0.25,0.173,0,0
+M088,Gemini,A_redacted,S1_bare,0,0,0,Dysembryoplastic neuroepithelial tumor (DNET),7,0.0,0.008,0,0
+M089,Claude,A_redacted,S1_bare,2,1,1,"Heterotopic pregnancy (a live intrauterine pregnancy plus a live right adnexal/tubal ectopic pregnancy), with a right paratubal cyst and subchorionic hemorrhage",24,0.667,0.398,1,1
+M089,Claude,B_original,S1_bare,2,1,1,"Heterotopic pregnancy (live intrauterine pregnancy with a coexisting live right adnexal/tubal ectopic pregnancy), with subchorionic hemorrhage and a right paratubal cyst",24,0.667,0.389,1,1
+M089,Gemini,A_redacted,S3_structured,2,1,1,Heterotopic pregnancy,379,0.667,0.726,1,2
+M089,Gemini,A_redacted,S1_bare,2,1,1,Heterotopic pregnancy,5,0.667,0.726,1,2
+M089,Gemini,A_redacted,S2_stepwise,2,1,1,Heterotopic pregnancy (with a right paratubal cyst),97,0.667,0.513,1,2
+M089,Claude,A_redacted,S2_stepwise,2,1,1,"Heterotopic pregnancy (viable intrauterine pregnancy plus right tubal/adnexal ectopic pregnancy), with subchorionic hemorrhage and a right paratubal cyst.",100,0.667,0.391,1,1
+M089,Claude,A_redacted,S3_structured,2,1,1,"Heterotopic pregnancy (live intrauterine pregnancy plus right adnexal/tubal ectopic pregnancy), with subchorionic hemorrhage and a right paratubal cyst",284,0.667,0.406,1,1
+M089,Gemini,B_original,S1_bare,2,1,1,Heterotopic pregnancy (with right paratubal cyst),9,0.667,0.515,1,2
+M090,Claude,A_redacted,S3_structured,2,1,1,Spinal muscular atrophy type 2 (homozygous SMN1 exon 7–8 deletion) in a child with mosaic trisomy 21,241,0.8,0.455,2,1
+M090,Claude,A_redacted,S2_stepwise,2,1,1,"Spinal muscular atrophy Type 2 (homozygous SMN1 exon 7–8 deletion) coexisting with mosaic Down syndrome (47,XY,+21/46,XY).",107,1.0,0.505,2,2
+M090,Gemini,A_redacted,S3_structured,2,1,1,Spinal muscular atrophy (SMA) Type 2 (coexisting with mosaic trisomy 21),422,0.8,0.557,2,2
+M090,Gemini,A_redacted,S1_bare,2,1,1,Spinal muscular atrophy type 2 with mosaic trisomy 21 (Down syndrome mosaicism),15,1.0,0.732,2,2
+M090,Gemini,A_redacted,S2_stepwise,2,1,1,Spinal muscular atrophy (SMA) type 2 (coexisting with mosaic Down syndrome / mosaic trisomy 21),114,1.0,0.736,2,2
+M090,Gemini,B_original,S1_bare,2,1,1,Spinal muscular atrophy type 2 (coexisting with mosaic trisomy 21),13,0.8,0.592,2,2
+M090,Claude,A_redacted,S1_bare,2,1,1,Spinal muscular atrophy type 2 (homozygous SMN1 exon 7–8 deletion) in a child with mosaic trisomy 21 (mosaic Down syndrome),23,1.0,0.598,2,2
+M090,Claude,B_original,S1_bare,2,1,1,Spinal muscular atrophy type 2 (homozygous SMN1 exon 7–8 deletion) in a child with mosaic trisomy 21 (mosaic Down syndrome),23,1.0,0.598,2,2
+M091,Claude,B_original,S1_bare,2,1,1,"Metastatic urachal adenocarcinoma, with liver metastases and pancreatic infiltration",12,0.75,0.623,2,2
+M091,Claude,A_redacted,S3_structured,0,0,0,Metastatic poorly differentiated primary bladder (urothelial) carcinoma with liver and pancreatic metastases,272,0.25,0.326,0,1
+M091,Gemini,A_redacted,S1_bare,0,0,0,Metastatic urothelial carcinoma of the urinary bladder,10,0.0,0.221,0,0
+M091,Gemini,A_redacted,S2_stepwise,0,0,0,Metastatic poorly differentiated bladder carcinoma (urothelial carcinoma of the urinary bladder),100,0.0,0.194,0,0
+M091,Claude,A_redacted,S1_bare,0,0,0,"Metastatic poorly differentiated carcinoma of the urinary bladder (urothelial or bladder primary), with liver and pancreatic metastases",20,0.25,0.283,0,0
+M091,Claude,A_redacted,S2_stepwise,0,0,0,"Poorly differentiated urothelial carcinoma of the bladder, metastatic to the liver with pancreatic involvement.",102,0.25,0.264,0,0
+M091,Gemini,B_original,S1_bare,2,1,1,Metastatic urachal adenocarcinoma,6,0.5,0.733,1,2
+M091,Gemini,A_redacted,S3_structured,0,0,0,Metastatic urothelial carcinoma (poorly differentiated primary bladder carcinoma),389,0.0,0.224,0,0
+M092,Claude,A_redacted,S3_structured,1,0,1,Pancreatic ductal adenocarcinoma arising in long-standing chronic calcific pancreatitis,219,0.364,0.37,0,1
+M092,Gemini,B_original,S1_bare,2,1,1,Invasive pancreatic ductal adenocarcinoma arising from an intraductal papillary mucinous neoplasm (IPMN),15,0.545,0.456,1,1
+M092,Gemini,A_redacted,S3_structured,1,0,1,Pancreatic ductal adenocarcinoma,409,0.273,0.476,0,1
+M092,Gemini,A_redacted,S1_bare,1,0,1,Pancreatic ductal adenocarcinoma,6,0.273,0.476,0,1
+M092,Claude,B_original,S1_bare,2,1,1,"Invasive pancreatic ductal adenocarcinoma arising from an intraductal papillary mucinous neoplasm (IPMN) with high-grade dysplasia, in the setting of long-standing chronic calcific pancreatitis",26,0.818,0.548,2,2
+M092,Gemini,A_redacted,S2_stepwise,1,0,1,Pancreatic ductal adenocarcinoma,78,0.273,0.476,0,1
+M092,Claude,A_redacted,S1_bare,1,0,1,Pancreatic ductal adenocarcinoma arising in long-standing chronic calcific pancreatitis,12,0.364,0.37,0,1
+M092,Claude,A_redacted,S2_stepwise,1,0,1,Pancreatic ductal adenocarcinoma arising in the setting of chronic calcific pancreatitis.,90,0.364,0.387,0,1
+M093,Gemini,A_redacted,S2_stepwise,2,1,1,Malignant non-neural (S100-negative) granular cell tumor of the floor of the mouth,106,0.667,0.528,1,2
+M093,Claude,B_original,S1_bare,2,1,1,Malignant non-neural (S100-negative) granular cell tumor of the floor of the mouth,15,0.667,0.528,1,2
+M093,Gemini,A_redacted,S3_structured,2,1,1,Malignant non-neural granular cell tumor (S100-negative malignant granular cell tumor),429,0.667,0.671,1,2
+M093,Claude,A_redacted,S3_structured,2,1,1,Malignant (atypical) non-neural granular cell tumor of the floor of the mouth,253,0.667,0.545,1,2
+M093,Claude,A_redacted,S1_bare,2,1,1,Malignant/atypical non-neural (S100-negative) granular cell tumor of the floor of the mouth (primitive polypoid granular cell tumor),20,0.667,0.474,1,1
+M093,Gemini,A_redacted,S1_bare,2,1,1,Malignant non-neural granular cell tumor (S100-negative malignant granular cell tumor),13,0.667,0.671,1,2
+M093,Gemini,B_original,S1_bare,2,1,1,Malignant non-neural (S100-negative) granular cell tumor,9,0.667,0.599,1,2
+M093,Claude,A_redacted,S2_stepwise,2,1,1,"Malignant non-neural (S100-negative, primitive polypoid) granular cell tumor of the floor of the mouth.",107,0.667,0.439,1,1
+M094,Gemini,A_redacted,S1_bare,2,1,1,Delayed traumatic diaphragmatic hernia,7,0.667,0.871,1,2
+M094,Gemini,B_original,S1_bare,2,1,1,Delayed traumatic diaphragmatic hernia,7,0.667,0.871,1,2
+M094,Claude,A_redacted,S2_stepwise,2,1,1,Delayed post-traumatic left diaphragmatic hernia with herniated bowel causing small bowel obstruction.,90,0.833,0.799,2,2
+M094,Claude,A_redacted,S3_structured,2,1,1,Delayed post-traumatic left diaphragmatic hernia with herniated small bowel causing intestinal obstruction,219,0.833,0.735,2,2
+M094,Claude,B_original,S1_bare,2,1,1,Delayed post-traumatic left diaphragmatic hernia with herniated bowel causing intestinal obstruction and left lower lung collapse,19,0.833,0.657,2,2
+M094,Gemini,A_redacted,S2_stepwise,2,1,1,Delayed traumatic diaphragmatic hernia (with small bowel obstruction),103,0.833,0.781,2,2
+M094,Claude,A_redacted,S1_bare,2,1,1,Delayed post-traumatic left diaphragmatic hernia with herniated bowel causing intestinal obstruction,14,0.833,0.751,2,2
+M094,Gemini,A_redacted,S3_structured,2,1,1,Delayed traumatic diaphragmatic hernia,402,0.667,0.871,1,2
+M095,Gemini,A_redacted,S3_structured,2,1,1,Abemaciclib-induced interstitial lung disease (drug-induced fibrosing organizing pneumonia),456,0.8,0.637,2,2
+M095,Gemini,A_redacted,S1_bare,2,1,1,Abemaciclib-induced interstitial lung disease (fibrosing organizing pneumonia),10,0.8,0.659,2,2
+M095,Claude,A_redacted,S1_bare,2,1,1,Abemaciclib-induced interstitial lung disease (drug-induced fibrosing organizing pneumonia),11,0.8,0.637,2,2
+M095,Gemini,A_redacted,S2_stepwise,2,1,1,Abemaciclib-induced interstitial lung disease (drug-induced fibrosing organizing pneumonia),122,0.8,0.637,2,2
+M095,Claude,A_redacted,S3_structured,2,1,1,Abemaciclib-induced interstitial lung disease presenting as fibrosing organizing pneumonia,233,0.8,0.646,2,2
+M095,Claude,B_original,S1_bare,2,1,1,Abemaciclib-induced interstitial lung disease (fibrosing organizing pneumonia),10,0.8,0.659,2,2
+M095,Claude,A_redacted,S2_stepwise,2,1,1,Abemaciclib-induced interstitial lung disease (fibrosing organizing pneumonia pattern).,101,0.8,0.615,2,2
+M095,Gemini,B_original,S1_bare,2,1,1,Abemaciclib-induced interstitial lung disease (fibrosing organizing pneumonia),10,0.8,0.659,2,2
+M096,Gemini,A_redacted,S3_structured,2,1,1,Postoperative pyoderma gangrenosum,375,0.5,0.508,1,2
+M096,Gemini,A_redacted,S2_stepwise,2,1,1,Postoperative pyoderma gangrenosum,88,0.5,0.508,1,2
+M096,Claude,A_redacted,S1_bare,2,1,1,Postsurgical pyoderma gangrenosum after bilateral mastectomies,9,0.75,0.601,2,2
+M096,Gemini,A_redacted,S1_bare,2,1,1,Postsurgical pyoderma gangrenosum,6,0.75,0.834,2,2
+M096,Claude,B_original,S1_bare,2,1,1,Postsurgical pyoderma gangrenosum following bilateral skin-sparing mastectomies,10,0.75,0.5,2,2
+M096,Gemini,B_original,S1_bare,2,1,1,Postsurgical pyoderma gangrenosum,6,0.75,0.834,2,2
+M096,Claude,A_redacted,S3_structured,2,1,1,Postsurgical pyoderma gangrenosum after bilateral mastectomy,213,0.75,0.622,2,2
+M096,Claude,A_redacted,S2_stepwise,2,1,1,Postsurgical pyoderma gangrenosum.,68,0.75,0.761,2,2
+M097,Claude,A_redacted,S1_bare,2,1,1,"Dementia associated with oral Treponema (spirochetal) infection, a neurosyphilis-like chronic spirochetosis mimicking Lewy body dementia",18,0.25,0.274,0,0
+M097,Claude,A_redacted,S3_structured,2,1,1,"Spirochetal (oral Treponema-associated) dementia with late-onset dyskinesia and parkinsonism, mimicking Lewy body dementia.",317,0.25,0.222,0,0
+M097,Gemini,A_redacted,S3_structured,2,1,1,Neurospirochetosis (spirochete-associated dementia caused by non-syphilitic Treponema species),498,0.25,0.328,0,1
+M097,Gemini,B_original,S1_bare,1,0,1,Neurospirochetosis,4,0.0,0.153,0,0
+M097,Gemini,A_redacted,S2_stepwise,2,1,1,Neurospirochetosis (Treponema-associated dementia),122,0.167,0.281,0,0
+M097,Gemini,A_redacted,S1_bare,1,0,1,Neurospirochetosis,4,0.0,0.153,0,0
+M097,Claude,A_redacted,S2_stepwise,2,1,1,Neurodegenerative dementia associated with chronic oral Treponema (spirochetal) infection (spirochetosis-related Alzheimer-type dementia with parkinsonism and late-onset dyskinesia),128,0.25,0.33,0,1
+M097,Claude,B_original,S1_bare,2,1,1,"Neurodegenerative dementia (Alzheimer-type) with late-onset dyskinesia, associated with chronic oral Treponema spirochetal infection (spirochetal dementia)",18,0.25,0.348,0,1
+M098,Gemini,A_redacted,S2_stepwise,1,0,1,Hidradenitis suppurativa (Hurley stage III),112,0.5,0.695,1,2
+M098,Gemini,B_original,S1_bare,2,1,1,Hidradenitis suppurativa (Hurley stage III) with reactive hypergammaglobulinemia and chronic sialadenitis,14,0.6,0.55,1,2
+M098,Claude,A_redacted,S1_bare,2,1,1,Severe (Hurley III) hidradenitis suppurativa flare with systemic inflammation and polyclonal hypergammaglobulinemia (raised IgG/IgG4) mimicking IgG4-related disease,20,0.7,0.507,2,2
+M098,Claude,B_original,S1_bare,2,1,1,"Severe Hurley stage III hidradenitis suppurativa with systemic inflammation and polyclonal hypergammaglobulinemia/elevated IgG4, mimicking IgG4-related disease",19,0.8,0.541,2,2
+M098,Gemini,A_redacted,S1_bare,1,0,1,Hidradenitis suppurativa,5,0.2,0.528,0,2
+M098,Claude,A_redacted,S2_stepwise,2,1,1,"Severe (Hurley III) hidradenitis suppurativa flare with systemic inflammation and secondary IgG4 elevation, mimicking IgG4-related disease",126,0.8,0.752,2,2
+M098,Claude,A_redacted,S3_structured,2,1,1,"Severe (Hurley III) hidradenitis suppurativa flare with systemic inflammation: polyclonal hypergammaglobulinemia with elevated IgG4 mimicking IgG4-related disease, sialadenitis, hypercalcemia and leukocytosis.",258,0.7,0.539,2,2
+M098,Gemini,A_redacted,S3_structured,1,0,1,Hidradenitis suppurativa (Hurley stage III),547,0.5,0.695,1,2
+M099,Claude,A_redacted,S1_bare,2,1,1,Statin-associated anti-HMGCR immune-mediated necrotizing myopathy,8,0.5,0.454,1,1
+M099,Gemini,A_redacted,S1_bare,2,1,1,Statin-induced immune-mediated necrotizing myopathy (anti-HMGCR myopathy),9,0.667,0.61,1,2
+M099,Claude,B_original,S1_bare,2,1,1,Statin-associated anti-HMGCR immune-mediated necrotizing myopathy,8,0.5,0.454,1,1
+M099,Gemini,A_redacted,S3_structured,2,1,1,Anti-HMGCR immune-mediated necrotizing myopathy (statin-induced IMNM),438,0.667,0.555,1,2
+M099,Gemini,A_redacted,S2_stepwise,2,1,1,Statin-induced immune-mediated necrotizing myopathy (anti-HMGCR myopathy),94,0.667,0.61,1,2
+M099,Claude,A_redacted,S3_structured,2,1,1,Statin-associated anti-HMGCR immune-mediated necrotizing myopathy.,190,0.5,0.432,1,1
+M099,Gemini,B_original,S1_bare,2,1,1,Statin-induced anti-HMGCR immune-mediated necrotizing myopathy,8,0.667,0.62,1,2
+M099,Claude,A_redacted,S2_stepwise,2,1,1,Statin-associated anti-HMGCR immune-mediated necrotizing myopathy,95,0.5,0.454,1,1
+M100,Claude,A_redacted,S1_bare,1,0,1,Hemiconvulsion-hemiplegia (HH) syndrome,6,0.4,0.661,1,2
+M100,Claude,A_redacted,S3_structured,2,1,1,Hemiconvulsion–hemiplegia(–epilepsy) syndrome with right cerebral hemiatrophy.,205,0.6,0.481,1,1
+M100,Claude,B_original,S1_bare,2,1,1,"Hemiconvulsion-hemiplegia-epilepsy (HHE) syndrome, chronic phase",8,1.0,0.885,2,2
+M100,Gemini,A_redacted,S2_stepwise,2,1,1,Hemiconvulsion-hemiplegia-epilepsy (HHE) syndrome,84,0.6,0.826,1,2
+M100,Gemini,B_original,S1_bare,2,1,1,Hemiconvulsion-Hemiplegia-Epilepsy (HHE) syndrome,6,0.6,0.826,1,2
+M100,Claude,A_redacted,S2_stepwise,1,0,1,"Hemiconvulsion-hemiplegia syndrome (HH syndrome, with Dyke-Davidoff-Masson-type cerebral hemiatrophy)",71,0.4,0.43,1,1
+M100,Gemini,A_redacted,S1_bare,2,1,1,Hemiconvulsion-hemiplegia-epilepsy (HHE) syndrome,6,0.6,0.826,1,2
+M100,Gemini,A_redacted,S3_structured,2,1,1,Hemiconvulsion-Hemiplegia-Epilepsy (HHE) syndrome,480,0.6,0.826,1,2
+M101,Gemini,A_redacted,S2_stepwise,2,1,1,Medulloblastoma,124,1.0,1.0,2,2
+M101,Claude,B_original,S1_bare,2,1,1,"Medulloblastoma of the cerebellar vermis/fourth ventricle with obstructive hydrocephalus, with associated craniovertebral junction anomalies (basilar invagination, atlanto-occipital assimilation)",21,1.0,0.277,2,0
+M101,Claude,A_redacted,S3_structured,2,1,1,"Medulloblastoma of the vermis / fourth ventricle roof with obstructive hydrocephalus, plus coincident craniovertebral junction anomalies (basilar invagination, atlanto-occipital assimilation).",241,1.0,0.271,2,0
+M101,Gemini,B_original,S1_bare,2,1,1,Medulloblastoma,4,1.0,1.0,2,2
+M101,Claude,A_redacted,S1_bare,2,1,1,"Medulloblastoma of the cerebellar vermis with obstructive hydrocephalus, with associated basilar invagination and atlanto-occipital assimilation",18,1.0,0.337,2,1
+M101,Claude,A_redacted,S2_stepwise,2,1,1,Medulloblastoma of the cerebellar vermis/fourth ventricle roof with obstructive hydrocephalus (with incidental craniovertebral junction anomalies),118,1.0,0.324,2,1
+M101,Gemini,A_redacted,S3_structured,2,1,1,Medulloblastoma (with coexisting craniovertebral junction anomalies including basilar invagination and atlantoaxial assimilation),530,1.0,0.332,2,1
+M101,Gemini,A_redacted,S1_bare,2,1,1,Medulloblastoma,4,1.0,1.0,2,2
+M102,Claude,A_redacted,S1_bare,2,1,1,"Fulminant viral myocarditis caused by human rhinovirus A66 (HRV-A66), with cardiogenic shock",15,0.833,0.604,2,2
+M102,Claude,A_redacted,S2_stepwise,2,1,1,Acute fulminant viral myocarditis due to human rhinovirus A66 with cardiogenic shock,86,0.833,0.68,2,2
+M102,Claude,B_original,S1_bare,2,1,1,Fulminant myocarditis with cardiogenic shock caused by human rhinovirus A66 (HRV-A66),14,0.833,0.627,2,2
+M102,Gemini,A_redacted,S2_stepwise,2,1,1,Fulminant viral myocarditis (caused by human rhinovirus A66),122,0.833,0.707,2,2
+M102,Claude,A_redacted,S3_structured,2,1,1,"Fulminant myocarditis caused by human rhinovirus A66, with cardiogenic shock.",205,0.833,0.636,2,2
+M102,Gemini,A_redacted,S3_structured,2,1,1,Fulminant viral myocarditis (Human Rhinovirus A66-associated),544,0.833,0.712,2,2
+M102,Gemini,B_original,S1_bare,2,1,1,Fulminant myocarditis caused by human rhinovirus A66,10,0.833,0.82,2,2
+M102,Gemini,A_redacted,S1_bare,2,1,1,Fulminant viral myocarditis (caused by human rhinovirus A66),11,0.833,0.707,2,2
+M103,Gemini,A_redacted,S3_structured,0,0,0,Post-traumatic peritoneal/mesenteric pseudocyst (non-pancreatic abdominal pseudocyst),506,0.0,0.14,0,0
+M103,Gemini,B_original,S1_bare,0,0,0,Post-traumatic peritoneal pseudocyst,6,0.0,0.252,0,0
+M103,Claude,B_original,S1_bare,0,0,0,Post-traumatic peritoneal (non-pancreatic) pseudocyst,7,0.0,0.204,0,0
+M103,Claude,A_redacted,S3_structured,2,1,1,"Post-traumatic chronic encapsulated (expanding) peritoneal hematoma, i.e. a hemorrhagic pseudocyst.",214,0.75,0.466,2,1
+M103,Claude,A_redacted,S2_stepwise,2,1,1,"Post-traumatic peritoneal pseudocyst, i.e. a chronic expanding (encapsulated) hematoma",99,0.75,0.546,2,2
+M103,Gemini,A_redacted,S2_stepwise,0,0,0,Post-traumatic peritoneal pseudocyst,113,0.0,0.252,0,0
+M103,Claude,A_redacted,S1_bare,2,1,1,Post-traumatic peritoneal pseudocyst (organized chronic hematoma),9,0.5,0.389,1,1
+M103,Gemini,A_redacted,S1_bare,0,0,0,Post-traumatic peritoneal pseudocyst,6,0.0,0.252,0,0
+M104,Claude,A_redacted,S2_stepwise,2,1,1,Childhood cerebral X-linked adrenoleukodystrophy with primary adrenal insufficiency (Addison disease),76,1.0,0.589,2,2
+M104,Claude,B_original,S1_bare,2,1,1,Childhood cerebral X-linked adrenoleukodystrophy with primary adrenal insufficiency,11,1.0,0.654,2,2
+M104,Gemini,A_redacted,S2_stepwise,2,1,1,Childhood cerebral X-linked adrenoleukodystrophy (X-ALD) with primary adrenal insufficiency,116,1.0,0.646,2,2
+M104,Claude,A_redacted,S1_bare,2,1,1,Childhood cerebral X-linked adrenoleukodystrophy with primary adrenal insufficiency (Addison disease),13,1.0,0.589,2,2
+M104,Gemini,B_original,S1_bare,2,1,1,Childhood cerebral X-linked adrenoleukodystrophy (X-ALD) with adrenal insufficiency,11,1.0,0.66,2,2
+M104,Gemini,A_redacted,S1_bare,2,1,1,Childhood cerebral X-linked adrenoleukodystrophy (X-ALD) with adrenal insufficiency,11,1.0,0.66,2,2
+M104,Claude,A_redacted,S3_structured,2,1,1,Childhood cerebral X-linked adrenoleukodystrophy with primary adrenal insufficiency (Addison disease),199,1.0,0.589,2,2
+M104,Gemini,A_redacted,S3_structured,2,1,1,Childhood cerebral X-linked adrenoleukodystrophy (X-ALD) with primary adrenal insufficiency (Addison's disease),462,1.0,0.575,2,2
+M105,Gemini,B_original,S1_bare,2,1,1,Adult-onset neuronal ceroid lipofuscinosis type 5 (CLN5 disease),11,0.667,0.651,1,2
+M105,Claude,B_original,S1_bare,2,1,1,Adult-onset neuronal ceroid lipofuscinosis type 5 (CLN5 disease) presenting as progressive focal lower-limb dystonia with cerebellar ataxia,20,0.667,0.45,1,1
+M105,Gemini,A_redacted,S3_structured,1,0,1,Adult-onset neuronal ceroid lipofuscinosis (Kufs disease),534,0.556,0.597,1,2
+M105,Gemini,A_redacted,S1_bare,1,0,1,Adult-onset neuronal ceroid lipofuscinosis (Kufs disease),9,0.556,0.597,1,2
+M105,Gemini,A_redacted,S2_stepwise,1,0,1,Adult-onset neuronal ceroid lipofuscinosis (Kufs disease),131,0.556,0.597,1,2
+M105,Claude,A_redacted,S2_stepwise,1,0,1,Adult-onset neuronal ceroid lipofuscinosis (likely CLN1/PPT1-related) presenting with progressive focal dystonia and cerebellar ataxia,158,0.556,0.418,1,1
+M105,Claude,A_redacted,S1_bare,1,0,1,Adult-onset neuronal ceroid lipofuscinosis (likely CLN1/PPT1-related) presenting as progressive focal lower-limb dystonia with cerebellar ataxia,18,0.556,0.391,1,1
+M105,Claude,A_redacted,S3_structured,1,0,1,"Adult-onset neuronal ceroid lipofuscinosis type 1 (CLN1, homozygous PPT1-related) presenting as progressive focal lower limb dystonia with cerebellar ataxia",444,0.667,0.513,1,2
+M106,Gemini,A_redacted,S1_bare,2,1,1,Thrombosed left common femoral vein aneurysm,9,0.8,0.662,2,2
+M106,Gemini,B_original,S1_bare,2,1,1,Thrombosed saccular aneurysm of the left common femoral vein,12,1.0,0.794,2,2
+M106,Claude,A_redacted,S3_structured,2,1,1,Thrombosed saccular common femoral vein aneurysm causing chronic venous outflow obstruction (initially misdiagnosed as DVT),356,1.0,0.471,2,1
+M106,Gemini,A_redacted,S3_structured,2,1,1,Thrombosed left common femoral vein aneurysm,496,0.8,0.662,2,2
+M106,Claude,A_redacted,S2_stepwise,2,1,1,"Thrombosed common femoral vein aneurysm (primary venous aneurysm) causing venous outflow obstruction, mimicking DVT",116,0.8,0.422,2,1
+M106,Claude,B_original,S1_bare,2,1,1,"Thrombosed saccular aneurysm of the left common femoral vein presenting as an inguinal mass, causing venous compression and leg swelling (DVT mimic)",25,1.0,0.495,2,1
+M106,Gemini,A_redacted,S2_stepwise,2,1,1,Thrombosed left common femoral vein aneurysm,125,0.8,0.662,2,2
+M106,Claude,A_redacted,S1_bare,0,0,0,Cystic adventitial disease of the left common femoral vein (venous adventitial cyst) with secondary venous thrombosis,19,0.6,0.282,1,0
+M107,Gemini,A_redacted,S1_bare,2,1,1,Type I truncus arteriosus with anomalous origin of the left coronary artery from the pulmonary artery (ALCAPA),20,0.875,0.904,2,2
+M107,Claude,A_redacted,S2_stepwise,2,1,1,"Persistent truncus arteriosus type I (Collett-Edwards) with anomalous origin of the left coronary artery from the pulmonary trunk (ALCAPA) and pulmonary hypertension, previously misdiagnosed as pulmonary atresia with VSD",145,0.875,0.592,2,2
+M107,Claude,A_redacted,S1_bare,2,1,1,"Truncus arteriosus type I with anomalous origin of the left coronary artery from the pulmonary trunk (ALCAPA-type anomaly), with pulmonary hypertension",24,0.875,0.736,2,2
+M107,Gemini,A_redacted,S2_stepwise,2,1,1,Type I truncus arteriosus with anomalous origin of the left coronary artery from the pulmonary artery (ALCAPA),129,0.875,0.904,2,2
+M107,Claude,A_redacted,S3_structured,2,1,1,"Persistent truncus arteriosus Type I with anomalous origin of the left coronary artery from the pulmonary trunk (ALCAPA), truncal valve regurgitation and pulmonary vascular disease",375,0.875,0.675,2,2
+M107,Gemini,A_redacted,S3_structured,2,1,1,Type I truncus arteriosus with anomalous origin of the left coronary artery from the pulmonary artery (ALCAPA),571,0.875,0.904,2,2
+M107,Gemini,B_original,S1_bare,2,1,1,Truncus arteriosus type I with anomalous origin of the left coronary artery from the pulmonary artery (ALCAPA),20,0.875,0.904,2,2
+M107,Claude,B_original,S1_bare,2,1,1,"Persistent truncus arteriosus type I with anomalous origin of the left coronary artery from the pulmonary trunk (ALCAPA), with VSD and pulmonary hypertension",26,0.875,0.735,2,2
+M108,Gemini,B_original,S1_bare,2,1,1,Chronic myeloid leukemia (chronic phase) presenting with digital gangrene,12,0.625,0.602,1,2
+M108,Claude,B_original,S1_bare,2,1,1,Chronic-phase chronic myeloid leukemia (BCR-ABL positive) presenting with digital gangrene due to leukocytosis- and thrombocytosis-related microvascular occlusion,20,0.625,0.38,1,1
+M108,Gemini,A_redacted,S2_stepwise,2,1,1,Chronic myeloid leukemia (chronic phase) presenting with digital gangrene,123,0.625,0.602,1,2
+M108,Claude,A_redacted,S3_structured,2,1,1,"Chronic myeloid leukemia (BCR-ABL positive, chronic phase) presenting with digital gangrene due to hyperleukocytosis and thrombocytosis",291,0.625,0.435,1,1
+M108,Claude,A_redacted,S2_stepwise,2,1,1,"Chronic myeloid leukemia (BCR-ABL positive, chronic phase) presenting with digital gangrene due to hyperleukocytosis/thrombocytosis-related microvascular occlusion",84,0.625,0.366,1,1
+M108,Claude,A_redacted,S1_bare,2,1,1,"Chronic myeloid leukemia (BCR-ABL positive, chronic phase) presenting with digital gangrene",14,0.625,0.523,1,2
+M108,Gemini,A_redacted,S3_structured,2,1,1,"Chronic myeloid leukemia (CML), chronic phase, presenting with digital gangrene",453,0.75,0.66,2,2
+M108,Gemini,A_redacted,S1_bare,2,1,1,Chronic myeloid leukemia (chronic phase) presenting with digital gangrene,12,0.625,0.602,1,2
+M109,Gemini,A_redacted,S2_stepwise,2,1,1,Herpes simplex virus type 2 (HSV-2)-associated nodular scleritis (preceded by conjunctival phlyctenule),140,1.0,0.65,2,2
+M109,Claude,A_redacted,S2_stepwise,1,0,1,Herpes simplex virus-associated anterior nodular scleritis (preceded by HSV follicular conjunctivitis/phlyctenule),101,1.0,0.516,2,2
+M109,Gemini,A_redacted,S3_structured,2,1,1,Herpes simplex virus type 2 (HSV-2)-associated nodular scleritis (preceded by follicular conjunctivitis and conjunctival phlyctenule),476,1.0,0.641,2,2
+M109,Gemini,B_original,S1_bare,2,1,1,Herpes simplex virus type 2 (HSV-2)-associated conjunctival phlyctenule and nodular scleritis,14,1.0,0.729,2,2
+M109,Claude,A_redacted,S3_structured,2,1,1,Herpes simplex virus (HSV-2)-associated nodular anterior scleritis preceded by conjunctival phlyctenule,306,1.0,0.674,2,2
+M109,Claude,A_redacted,S1_bare,1,0,1,"Herpes simplex virus-associated (herpetic) nodular scleritis, preceded by a conjunctival phlyctenule",14,0.8,0.603,2,2
+M109,Gemini,A_redacted,S1_bare,2,1,1,Herpes simplex virus type 2 (HSV-2)-associated conjunctival phlyctenule and nodular scleritis,14,1.0,0.729,2,2
+M109,Claude,B_original,S1_bare,2,1,1,"HSV-2–associated nodular anterior scleritis, preceded by conjunctival phlyctenule",11,1.0,0.741,2,2
+M110,Claude,A_redacted,S2_stepwise,2,1,1,"Sinus node dysfunction (sick sinus syndrome) with symptomatic prolonged sinus pauses causing recurrent syncope, likely aggravated by chronic cannabis use",104,0.429,0.247,1,0
+M110,Gemini,B_original,S1_bare,2,1,1,Sick sinus syndrome (sinus node dysfunction with sinus pauses) secondary to chronic marijuana use,17,0.357,0.319,0,1
+M110,Claude,A_redacted,S3_structured,2,1,1,"Sick sinus syndrome (sinus node dysfunction with prolonged sinus pauses) causing recurrent cardiac syncope, with cannabis use and sleep deprivation as contributors",331,0.429,0.26,1,0
+M110,Gemini,A_redacted,S2_stepwise,2,1,1,Cannabis-induced sick sinus syndrome (sinus arrest) causing cardiogenic syncope,142,0.143,0.151,0,0
+M110,Claude,A_redacted,S1_bare,2,1,1,"Symptomatic sinus node dysfunction (sinus arrest/pauses) causing syncope, associated with chronic cannabis use and sleep deprivation",19,0.429,0.245,1,0
+M110,Gemini,A_redacted,S1_bare,2,1,1,Cannabis-induced sick sinus syndrome (sinus node dysfunction with sinus arrest),13,0.071,0.089,0,0
+M110,Claude,B_original,S1_bare,2,1,1,"Sick sinus syndrome (sinus node dysfunction) with prolonged sinus pauses causing syncope, likely aggravated by chronic cannabis use and sleep deprivation",24,0.429,0.255,1,0
+M110,Gemini,A_redacted,S3_structured,2,1,1,"Sinus node dysfunction (sick sinus syndrome / symptomatic sinus arrest), likely marijuana-induced",521,0.143,0.177,0,0
+M111,Gemini,B_original,S1_bare,2,1,1,Cryptococcoid Sweet syndrome (cryptococcoid neutrophilic dermatosis),9,0.667,0.706,1,2
+M111,Gemini,A_redacted,S2_stepwise,2,1,1,Cryptococcoid Sweet syndrome,124,0.667,0.87,1,2
+M111,Claude,B_original,S1_bare,2,1,1,Cryptococcoid Sweet syndrome (neutrophilic dermatosis) in a patient with MPO-ANCA–associated vasculitis,14,0.667,0.47,1,1
+M111,Gemini,A_redacted,S1_bare,2,1,1,Cryptococcoid Sweet syndrome (cryptococcoid neutrophilic dermatosis),9,0.667,0.706,1,2
+M111,Claude,A_redacted,S3_structured,2,1,1,"Cryptococcoid Sweet syndrome (hemorrhagic-necrotic bullous variant) with mucosal and pulmonary involvement, in a patient with MPO-ANCA vasculitis",358,0.667,0.389,1,1
+M111,Claude,A_redacted,S1_bare,2,1,1,"Cryptococcoid Sweet syndrome (neutrophilic dermatosis, hemorrhagic-bullous/necrotic variant) with likely pulmonary involvement, in a patient with MPO-ANCA vasculitis",20,0.667,0.361,1,1
+M111,Gemini,A_redacted,S3_structured,2,1,1,"Cryptococcoid Sweet syndrome (acute febrile neutrophilic dermatosis, cryptococcoid variant)",489,0.667,0.628,1,2
+M111,Claude,A_redacted,S2_stepwise,2,1,1,"Cryptococcoid (bullous/necrotizing) Sweet syndrome (acute febrile neutrophilic dermatosis) with extracutaneous involvement, in a patient with MPO-ANCA vasculitis",125,0.667,0.36,1,1
+M112,Gemini,A_redacted,S1_bare,2,1,1,Acute ischemic stroke (hemodynamic cerebral infarction) secondary to severe right internal carotid artery stenosis,17,0.556,0.415,1,1
+M112,Gemini,A_redacted,S2_stepwise,2,1,1,Acute right hemispheric ischemic stroke secondary to severe right internal carotid artery stenosis,149,0.556,0.486,1,1
+M112,Claude,A_redacted,S2_stepwise,2,1,1,"Acute progressive ischemic stroke in the right hemisphere due to severe (95%) atherosclerotic stenosis of the right internal carotid artery origin (large-artery atherosclerosis, embolic plus hypoperfusion mechanism), preceded by crescendo TIAs",136,0.556,0.255,1,0
+M112,Claude,B_original,S1_bare,2,1,1,Acute right hemispheric ischemic stroke (hypoperfusion/artery-to-artery embolism) due to 95% stenosis of the right internal carotid artery origin,21,0.444,0.287,1,0
+M112,Claude,A_redacted,S1_bare,2,1,1,Acute ischemic stroke in the right hemisphere due to severe (95%) right internal carotid artery stenosis with hemodynamic hypoperfusion,22,0.556,0.355,1,1
+M112,Claude,A_redacted,S3_structured,2,1,1,"Acute progressive ischemic stroke of the right hemisphere due to severe (95%) atherosclerotic right internal carotid artery stenosis, with crescendo TIAs, artery-to-artery embolic/hypoperfusion infarcts and APCV indicating misery perfusion",390,0.556,0.264,1,0
+M112,Gemini,A_redacted,S3_structured,2,1,1,Acute right-hemispheric ischemic stroke secondary to severe (95%) right internal carotid artery stenosis with hemodynamic compromise,610,0.556,0.369,1,1
+M112,Gemini,B_original,S1_bare,2,1,1,Acute ischemic stroke secondary to severe right internal carotid artery stenosis,14,0.556,0.538,1,2
+M113,Gemini,A_redacted,S3_structured,1,0,1,Autoimmune pulmonary alveolar proteinosis (complicated by superimposed bacterial infection),546,0.571,0.423,1,1
+M113,Claude,A_redacted,S1_bare,1,0,1,"Pulmonary alveolar proteinosis (likely autoimmune) complicated by a secondary bacterial infection, most likely Nocardia",17,0.571,0.427,1,1
+M113,Claude,A_redacted,S3_structured,1,0,1,"Pulmonary alveolar proteinosis (autoimmune, GM-CSF antibody positive) with superimposed bacterial infection (likely an opportunist such as Nocardia).",347,0.571,0.301,1,1
+M113,Claude,A_redacted,S2_stepwise,1,0,1,"Pulmonary alveolar proteinosis (likely autoimmune, GM-CSF antibody–associated) complicated by opportunistic pulmonary infection, most likely Nocardia.",123,0.571,0.319,1,1
+M113,Gemini,A_redacted,S1_bare,1,0,1,Autoimmune pulmonary alveolar proteinosis,7,0.429,0.492,1,1
+M113,Gemini,A_redacted,S2_stepwise,1,0,1,Autoimmune pulmonary alveolar proteinosis (complicated by secondary bacterial pneumonia),135,0.429,0.43,1,1
+M113,Claude,B_original,S1_bare,2,1,1,"Pulmonary alveolar proteinosis (borderline autoimmune, with Bacillus megaterium infection)",12,0.857,0.702,2,2
+M113,Gemini,B_original,S1_bare,1,0,1,Pulmonary alveolar proteinosis,6,0.429,0.586,1,2
+M114,Gemini,B_original,S1_bare,2,1,1,Scimitar syndrome,5,1.0,0.849,2,2
+M114,Claude,A_redacted,S3_structured,2,1,1,Scimitar syndrome (hypogenetic right lung / congenital pulmonary venolobar syndrome).,256,1.0,0.44,2,1
+M114,Claude,B_original,S1_bare,2,1,1,Scimitar syndrome (hypogenetic lung / congenital pulmonary venolobar syndrome) with right lower lobe sequestration,17,1.0,0.378,2,1
+M114,Claude,A_redacted,S1_bare,2,1,1,Scimitar syndrome (congenital pulmonary venolobar syndrome) with right lung hypoplasia and systemic arterial supply to the right lower lobe,22,1.0,0.367,2,1
+M114,Gemini,A_redacted,S2_stepwise,2,1,1,Scimitar syndrome (congenital pulmonary venolobar syndrome),105,1.0,0.537,2,2
+M114,Gemini,A_redacted,S1_bare,2,1,1,Scimitar syndrome,5,1.0,0.849,2,2
+M114,Gemini,A_redacted,S3_structured,2,1,1,Scimitar syndrome (congenital pulmonary venolobar syndrome),467,1.0,0.537,2,2
+M114,Claude,A_redacted,S2_stepwise,2,1,1,Scimitar syndrome (hypogenetic lung / congenital pulmonary venolobar syndrome) with partial anomalous pulmonary venous return to the IVC.,78,1.0,0.346,2,1
+M115,Claude,A_redacted,S1_bare,2,1,1,Peripartum cardiomyopathy (with pre-eclampsia),7,0.667,0.538,1,2
+M115,Gemini,A_redacted,S1_bare,2,1,1,Peripartum cardiomyopathy,5,0.667,0.79,1,2
+M115,Claude,B_original,S1_bare,2,1,1,"Peripartum cardiomyopathy, with pre-eclampsia",7,0.667,0.522,1,2
+M115,Gemini,B_original,S1_bare,2,1,1,Peripartum cardiomyopathy,5,0.667,0.79,1,2
+M115,Claude,A_redacted,S2_stepwise,2,1,1,"Peripartum cardiomyopathy (with acute pulmonary edema), in the setting of pre-eclampsia and twin pregnancy.",94,0.667,0.385,1,1
+M115,Claude,A_redacted,S3_structured,2,1,1,Peripartum cardiomyopathy (associated with pre-eclampsia and twin pregnancy).,222,0.667,0.444,1,1
+M115,Gemini,A_redacted,S2_stepwise,2,1,1,Peripartum cardiomyopathy,112,0.667,0.79,1,2
+M115,Gemini,A_redacted,S3_structured,2,1,1,Peripartum cardiomyopathy (PPCM),471,1.0,0.904,2,2
+M116,Claude,A_redacted,S2_stepwise,2,1,1,Non-insulin-mediated (reactive and fasting) hypoglycemia associated with hypermobile Ehlers-Danlos syndrome and dysautonomia.,99,0.833,0.652,2,2
+M116,Gemini,A_redacted,S3_structured,1,0,1,Idiopathic hypoglycemia (associated with dysautonomia and hypermobile Ehlers-Danlos syndrome),449,0.667,0.677,1,2
+M116,Gemini,A_redacted,S2_stepwise,1,0,1,Dysautonomia-associated idiopathic hypoglycemia (secondary to hypermobile Ehlers-Danlos syndrome),111,0.667,0.633,1,2
+M116,Gemini,B_original,S1_bare,2,1,1,Dysautonomia-associated hypoglycemia (reactive and fasting hypoglycemia associated with hypermobile Ehlers-Danlos syndrome and dysautonomia/POTS),16,0.833,0.646,2,2
+M116,Claude,A_redacted,S3_structured,2,1,1,Recurrent non-insulin-mediated (reactive and fasting) hypoglycemia associated with hypermobile Ehlers-Danlos syndrome and dysautonomia; episodes are non-epileptic.,256,0.833,0.549,2,2
+M116,Claude,B_original,S1_bare,2,1,1,Non-insulin-mediated (reactive postprandial and fasting) hypoglycemia associated with hypermobile Ehlers-Danlos syndrome and dysautonomia,16,0.833,0.617,2,2
+M116,Gemini,A_redacted,S1_bare,1,0,1,Idiopathic hypoglycemia (associated with dysautonomia and hypermobile Ehlers-Danlos syndrome),12,0.667,0.677,1,2
+M116,Claude,A_redacted,S1_bare,2,1,1,Non-insulin-mediated (fasting and postprandial) hypoglycemia associated with hypermobile Ehlers-Danlos syndrome and dysautonomia,15,0.667,0.576,1,2
+M117,Claude,A_redacted,S3_structured,2,1,1,Non-paraneoplastic autoimmune retinopathy.,250,0.75,0.797,2,2
+M117,Claude,A_redacted,S2_stepwise,2,1,1,Non-paraneoplastic autoimmune retinopathy.,90,0.75,0.797,2,2
+M117,Gemini,A_redacted,S1_bare,2,1,1,Non-paraneoplastic autoimmune retinopathy,6,0.75,0.839,2,2
+M117,Gemini,A_redacted,S3_structured,2,1,1,Non-paraneoplastic autoimmune retinopathy (npAIR),515,1.0,0.937,2,2
+M117,Gemini,B_original,S1_bare,0,0,0,Retinitis pigmentosa,5,0.0,0.095,0,0
+M117,Gemini,A_redacted,S2_stepwise,2,1,1,Non-paraneoplastic autoimmune retinopathy,113,0.75,0.839,2,2
+M117,Claude,A_redacted,S1_bare,2,1,1,Non-paraneoplastic (seronegative) autoimmune retinopathy,7,0.75,0.691,2,2
+M117,Claude,B_original,S1_bare,2,1,1,Non-paraneoplastic autoimmune retinopathy,6,0.75,0.839,2,2
+M118,Gemini,A_redacted,S2_stepwise,2,1,1,Coexisting multiple myeloma (with extramedullary skull base plasmacytoma) and chronic lymphocytic leukemia,111,0.714,0.64,2,2
+M118,Claude,A_redacted,S1_bare,2,1,1,"Multiple myeloma with extramedullary skull base plasmacytoma, coexisting with chronic lymphocytic leukemia/small lymphocytic lymphoma (CLL/SLL)",18,0.857,0.632,2,2
+M118,Claude,B_original,S1_bare,2,1,1,"IgG-kappa plasma cell myeloma with extramedullary skull-base plasmacytoma, coexisting with CLL/SLL (two clonally distinct neoplasms)",18,0.429,0.288,1,0
+M118,Claude,A_redacted,S2_stepwise,2,1,1,"Multiple myeloma with extramedullary skull base plasmacytoma, coexisting with chronic lymphocytic leukemia/small lymphocytic lymphoma (synchronous composite neoplasms).",105,0.714,0.558,2,2
+M118,Gemini,A_redacted,S3_structured,2,1,1,Coexisting multiple myeloma (with extramedullary skull base plasmacytoma) and chronic lymphocytic leukemia (CLL),500,0.857,0.707,2,2
+M118,Gemini,B_original,S1_bare,2,1,1,Extramedullary plasmacytoma of the skull base coexisting with chronic lymphocytic leukemia / small lymphocytic lymphoma (CLL/SLL),19,0.857,0.697,2,2
+M118,Claude,A_redacted,S3_structured,2,1,1,"IgG-κ multiple myeloma with extramedullary skull-base plasmacytoma, coexisting with CLL/SLL (two clonally distinct neoplasms).",297,0.429,0.277,1,0
+M118,Gemini,A_redacted,S1_bare,2,1,1,Multiple myeloma (with extramedullary plasmacytoma) and concurrent chronic lymphocytic leukemia,13,0.857,0.804,2,2
+M119,Claude,A_redacted,S2_stepwise,2,1,1,Early congenital syphilis with skeletal involvement (syphilitic metaphysitis/osteochondritis).,72,1.0,0.58,2,2
+M119,Claude,A_redacted,S1_bare,2,1,1,Early congenital syphilis with bone involvement (metaphysitis/osteochondritis),10,1.0,0.575,2,2
+M119,Claude,B_original,S1_bare,2,1,1,Early congenital syphilis with bone involvement (osteochondritis/metaphysitis),10,1.0,0.573,2,2
+M119,Claude,A_redacted,S3_structured,2,1,1,Early congenital syphilis with skeletal involvement (osteochondritis/metaphysitis).,235,1.0,0.548,2,2
+M119,Gemini,B_original,S1_bare,2,1,1,Congenital syphilis (syphilitic osteochondritis / syphilitic bone disease),11,0.667,0.447,1,1
+M119,Gemini,A_redacted,S3_structured,2,1,1,Early congenital syphilis (with syphilitic osteochondritis),401,0.667,0.482,1,1
+M119,Gemini,A_redacted,S1_bare,1,0,1,Congenital syphilis,5,0.667,0.696,1,2
+M119,Gemini,A_redacted,S2_stepwise,1,0,1,Congenital syphilis,77,0.667,0.696,1,2
+M120,Gemini,B_original,S1_bare,2,1,1,Torsion and infarction of a wandering (ectopic) spleen,11,1.0,0.821,2,2
+M120,Gemini,A_redacted,S2_stepwise,2,1,1,Torsion and infarction of a wandering spleen,79,1.0,0.942,2,2
+M120,Claude,A_redacted,S2_stepwise,2,1,1,Wandering (ectopic) spleen with torsion of the vascular pedicle and splenic infarction.,68,1.0,0.738,2,2
+M120,Claude,A_redacted,S3_structured,2,1,1,Wandering (ectopic) spleen with 720° pedicle torsion and splenic infarction.,237,1.0,0.742,2,2
+M120,Claude,A_redacted,S1_bare,2,1,1,Wandering (ectopic) spleen with 720° torsion of the vascular pedicle and splenic infarction,16,1.0,0.669,2,2
+M120,Claude,B_original,S1_bare,2,1,1,Wandering (ectopic) spleen with 720° torsion of the pedicle and splenic infarction,15,1.0,0.7,2,2
+M120,Gemini,A_redacted,S3_structured,2,1,1,Wandering spleen with torsion (and splenic infarction),421,1.0,0.838,2,2
+M120,Gemini,A_redacted,S1_bare,2,1,1,Torsion of a wandering spleen (with splenic infarction),11,1.0,0.84,2,2
